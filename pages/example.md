@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Example Page
-permalink: examplepage
+title: Example
+permalink: example
 ---
 
 [Link to another page](./another-page.html).
