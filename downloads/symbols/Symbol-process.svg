@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1049"
+   height="472"
+   id="svg2"
+   style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Dialog">
+  <metadata
+     id="metadata76">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="genericDefs" />
+  <g
+     transform="translate(-138.79077,-164.61231)"
+     id="g5">
+    <defs
+       id="defs1">
+      <clipPath
+         id="clipPath1">
+        <path
+           d="m 0,0 1149,0 0,1049 L 0,1049 0,0 z"
+           id="path9" />
+      </clipPath>
+      <clipPath
+         id="clipPath2">
+        <path
+           d="m 0,0 0,65 113,0 0,-65 z"
+           id="path12" />
+      </clipPath>
+      <clipPath
+         id="clipPath3">
+        <path
+           d="M 0,0 0,20 38,20 38,0 z"
+           id="path15" />
+      </clipPath>
+      <clipPath
+         id="clipPath4">
+        <path
+           d="M 0,0 0,19 37,19 37,0 z"
+           id="path18" />
+      </clipPath>
+      <clipPath
+         id="clipPath5">
+        <path
+           d="m 0,0 0,65 113,0 0,-65 z"
+           id="path21" />
+      </clipPath>
+      <clipPath
+         id="clipPath6">
+        <path
+           d="M 0,0 0,20 39,20 39,0 z"
+           id="path24" />
+      </clipPath>
+      <clipPath
+         id="clipPath7">
+        <path
+           d="M 0,0 0,19 38,19 38,0 z"
+           id="path27" />
+      </clipPath>
+      <clipPath
+         id="clipPath8">
+        <path
+           d="M 0,0 0,29 29,29 29,0 z"
+           id="path30" />
+      </clipPath>
+      <clipPath
+         id="clipPath9">
+        <path
+           d="M 0,0 0,19 75,19 75,0 z"
+           id="path33" />
+      </clipPath>
+      <clipPath
+         id="clipPath10">
+        <path
+           d="M 0,0 0,4 75,4 75,0 z"
+           id="path36" />
+      </clipPath>
+    </defs>
+    <g
+       transform="matrix(2.029,0,0,2.029,819.716,340.872)"
+       id="g38"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="M 109,31 C 109,47.5685 84.8234,61 55,61 25.1766,61 1,47.5685 1,31 1,14.4315 25.1766,1 55,1 c 29.8234,0 54,13.4315 54,30 z"
+         clip-path="url(#clipPath2)"
+         id="path40"
+         style="stroke:none" />
+      <path
+         d="M 109,31 C 109,47.5685 84.8234,61 55,61 25.1766,61 1,47.5685 1,31 1,14.4315 25.1766,1 55,1 c 29.8234,0 54,13.4315 54,30 z"
+         clip-path="url(#clipPath2)"
+         id="path42"
+         style="fill:none;stroke:#999999" />
+    </g>
+    <g
+       transform="matrix(2.029,0,0,2.029,894.789,385.51)"
+       id="g44"
+       style="font-size:14px;fill:#999999;stroke:#999999;font-family:Arial">
+      <text
+         x="5"
+         y="14"
+         clip-path="url(#clipPath4)"
+         id="text46"
+         xml:space="preserve"
+         style="stroke:none">EPN</text>
+    </g>
+    <g
+       transform="matrix(2.029,0,0,2.029,251.596,340.872)"
+       id="g48"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="M 109,31 C 109,47.5685 84.8234,61 55,61 25.1766,61 1,47.5685 1,31 1,14.4315 25.1766,1 55,1 c 29.8234,0 54,13.4315 54,30 z"
+         clip-path="url(#clipPath5)"
+         id="path50"
+         style="stroke:none" />
+      <path
+         d="M 109,31 C 109,47.5685 84.8234,61 55,61 25.1766,61 1,47.5685 1,31 1,14.4315 25.1766,1 55,1 c 29.8234,0 54,13.4315 54,30 z"
+         clip-path="url(#clipPath5)"
+         id="path52"
+         style="fill:none;stroke:#999999" />
+    </g>
+    <g
+       transform="matrix(2.029,0,0,2.029,324.64,385.51)"
+       id="g54"
+       style="font-size:14px;font-weight:bold;fill:#999999;stroke:#999999;font-family:Arial">
+      <text
+         x="5"
+         y="14"
+         clip-path="url(#clipPath7)"
+         id="text56"
+         xml:space="preserve"
+         style="stroke:none">EPN</text>
+    </g>
+    <g
+       transform="matrix(2.029,0,0,2.029,620.874,377.394)"
+       id="g58"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="M 1,1 25,1 25,25 1,25 1,1 z"
+         clip-path="url(#clipPath8)"
+         id="path60"
+         style="stroke:none" />
+      <path
+         d="M 1,1 25,1 25,25 1,25 1,1 z"
+         clip-path="url(#clipPath8)"
+         id="path62"
+         style="fill:none;stroke:#ff4040" />
+    </g>
+    <g
+       transform="matrix(2.029,0,0,2.029,671.599,385.51)"
+       id="g64"
+       style="fill:#999999;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="m 0.75,8.25 10.5,0 45.5,0"
+         clip-path="url(#clipPath9)"
+         id="path66"
+         style="fill:none" />
+      <path
+         d="m 56.75,0.75 0,15 15,-7.5 z"
+         clip-path="url(#clipPath9)"
+         id="path68"
+         style="stroke:none" />
+    </g>
+    <g
+       transform="matrix(2.029,0,0,2.029,472.757,401.742)"
+       id="g70"
+       style="fill:#999999;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="m 0.75,0.75 60.5,0 10.5,0"
+         clip-path="url(#clipPath10)"
+         id="path72"
+         style="fill:none" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="217"
+   height="323"
+   id="svg2"
+   style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Dialog">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="genericDefs" />
+  <g
+     transform="translate(-52.008475,-136.86441)"
+     id="g5">
+    <defs
+       id="defs1">
+      <clipPath
+         id="clipPath1">
+        <path
+           d="M 0,0 480,0 480,649 0,649 0,0 z"
+           id="path9" />
+      </clipPath>
+      <clipPath
+         id="clipPath2">
+        <path
+           d="m 0,0 0,65 113,0 0,-65 z"
+           id="path12" />
+      </clipPath>
+      <clipPath
+         id="clipPath3">
+        <path
+           d="M 0,0 0,20 38,20 38,0 z"
+           id="path15" />
+      </clipPath>
+      <clipPath
+         id="clipPath4">
+        <path
+           d="M 0,0 0,19 37,19 37,0 z"
+           id="path18" />
+      </clipPath>
+    </defs>
+    <g
+       transform="translate(104,258)"
+       id="g20"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="m 1,8.5 0,45 C 1,57.6421 4.3579,61 8.5,61 l 93,0 c 4.1421,0 7.5,-3.3579 7.5,-7.5 l 0,-45 C 109,4.3579 105.6421,1 101.5,1 L 8.5,1 C 4.3579,1 1,4.3579 1,8.5 z"
+         clip-path="url(#clipPath2)"
+         id="path22"
+         style="stroke:none" />
+      <path
+         d="m 1,8.5 0,45 C 1,57.6421 4.3579,61 8.5,61 l 93,0 c 4.1421,0 7.5,-3.3579 7.5,-7.5 l 0,-45 C 109,4.3579 105.6421,1 101.5,1 L 8.5,1 C 4.3579,1 1,4.3579 1,8.5 z"
+         clip-path="url(#clipPath2)"
+         id="path24"
+         style="fill:none;stroke:#ff4040" />
+    </g>
+    <g
+       transform="translate(141,280)"
+       id="g26"
+       style="font-size:14px;fill:#ff4040;stroke:#ff4040;font-family:Arial">
+      <text
+         x="5"
+         y="14"
+         clip-path="url(#clipPath4)"
+         id="text28"
+         xml:space="preserve"
+         style="stroke:none">EPN</text>
+    </g>
+  </g>
+</svg>

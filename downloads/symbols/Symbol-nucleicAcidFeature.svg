@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="217"
+   height="323"
+   id="svg2"
+   style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Dialog">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="genericDefs">
+    <defs
+       id="defs1">
+      <clipPath
+         id="clipPath1">
+        <path
+           d="M 0,0 480,0 480,649 0,649 0,0 z"
+           id="path9" />
+      </clipPath>
+      <clipPath
+         id="clipPath2">
+        <path
+           d="m 0,0 0,65 113,0 0,-65 z"
+           id="path12" />
+      </clipPath>
+      <clipPath
+         id="clipPath3">
+        <path
+           d="M 0,0 0,20 38,20 38,0 z"
+           id="path15" />
+      </clipPath>
+      <clipPath
+         id="clipPath4">
+        <path
+           d="M 0,0 0,19 37,19 37,0 z"
+           id="path18" />
+      </clipPath>
+    </defs>
+    <clipPath
+       id="clipPath4-1">
+      <path
+         d="M 0,0 0,19 37,19 37,0 z"
+         id="path18-0" />
+    </clipPath>
+  </defs>
+  <path
+     d="m 52.27414,113.4735 0,32.03689 0.04455,0 0,17.85867 c 0,5.64229 4.543588,10.18586 10.185863,10.18586 l 88.402207,0 c 5.64226,0 10.18589,-4.54357 10.18587,-10.18586 l 0,-39.51363 c 0,-0.47947 -0.0345,-0.95547 -0.098,-1.41692 l 0,-8.96501 -108.720451,0 z"
+     id="path3079"
+     style="fill:#ffffff;stroke:none" />
+  <path
+     d="m 52.27414,113.4735 0,32.03689 0.04455,0 0,17.85867 c 0,5.64229 4.543588,10.18586 10.185863,10.18586 l 88.402207,0 c 5.64226,0 10.18589,-4.54357 10.18587,-10.18586 l 0,-39.51363 c 0,-0.47947 -0.0345,-0.95547 -0.098,-1.41692 l 0,-8.96501 -108.720451,0 z"
+     id="path3081"
+     style="fill:none;stroke:#ff4040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" />
+  <g
+     transform="translate(88.394488,133.24379)"
+     id="g26-9"
+     style="font-size:14px;font-style:normal;font-weight:normal;fill:#ff4040;fill-opacity:1;stroke:#ff4040;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial">
+    <text
+       x="5"
+       y="14"
+       clip-path="url(#clipPath4-1)"
+       id="text28-0"
+       xml:space="preserve"
+       style="stroke:none">EPN</text>
+  </g>
+</svg>

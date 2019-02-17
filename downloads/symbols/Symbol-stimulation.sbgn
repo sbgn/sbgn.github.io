@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph id="glyph0" class="unspecified entity">
+            <label text="EPN"/>
+            <bbox y="20.0" x="106.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph id="glyph1" class="process">
+            <bbox y="158.0" x="148.0" h="24.0" w="24.0"/>
+        </glyph>
+        <arc target="glyph1" source="glyph0" id="arc0" class="stimulation">
+            <start y="80.0" x="160.0"/>
+            <end y="158.0" x="160.0"/>
+        </arc>
+    </map>
+</sbgn>

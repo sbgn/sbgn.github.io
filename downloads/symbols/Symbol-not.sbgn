@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph id="glyph1" class="not">
+            <bbox y="7.0" x="5.333" h="42.0" w="42.0"/>
+        </glyph>
+    </map>
+</sbgn>
