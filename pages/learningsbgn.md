@@ -148,7 +148,7 @@ The [Reference Cards](referencecards) page offers reference cards in various for
 
 ## Additional materials
 
-For more advanced questions please use <a href="faqs">FAQ</a>, in particular <a href="faq/pd">FAQ Process Description</a>.
+For more advanced questions please use <a href="faq">FAQ</a>, in particular <a href="faq/pd">FAQ Process Description</a>.
 
 -----
 
