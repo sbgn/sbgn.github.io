@@ -6,7 +6,7 @@ permalink: about
 
 # About
 
-*  [Get involved](#get-involved)
+*  [Get involved](#get-involved
 *  [SBGN Editors](#sbgn-editors)
 *  [SBGN Acting Editors](#sbgn-acting-editors)
 *  [SBGN Delegate at COMBINE](#sbgn-delegate-at-combine)
