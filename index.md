@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="font-size:110%;">Welcome to the global portal for documentation, news, and other information about the <strong>Systems Biology Graphical Notation</strong> (SBGN) project, an effort to standardize the graphical notation used in maps of biological processes.</p>
+<p style="font-size:110%;">Welcome to the global portal for documentation, news, and other information about the <strong>Systems Biology Graphical Notation</strong> (SBGN) project, an effort to standardise the graphical notation used in maps of biological processes.</p>
 
 ## Upcoming events 
 
