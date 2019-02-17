@@ -11,3 +11,11 @@ layout: default
 [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) will take place 15-19 July 2019 in Heidelberg, Germany, hosted by the Heidelberg Institute for Theoretical Studies.
 
 <br />
+
+## Published map highlight
+
+#### AF map of interactions in a tumor microenvironment
+
+Significance of stroma in biology of oral squamous cell carcinoma. Boras et al., 2017, [doi:10.5301/tj.5000673](https://dx.doi.org/10.5301/tj.5000673)
+
+![boras_activitynetwork](images/published_maps/boras_activitynetwork.png)
