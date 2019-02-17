@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="217"
+   height="323"
+   id="svg2"
+   style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Dialog"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="symbol-complex.eps"
+   inkscape:export-filename="/home/lenov/SBGN/symbolMonth/PDComplex/symbol-complex.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1059"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="2.0665907"
+     inkscape:cx="114.75667"
+     inkscape:cy="161.5"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g26" />
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="genericDefs">
+    <defs
+       id="defs1">
+      <clipPath
+         id="clipPath1">
+        <path
+           id="path9"
+           d="M 0,0 480,0 480,649 0,649 0,0 z" />
+      </clipPath>
+      <clipPath
+         id="clipPath2">
+        <path
+           id="path12"
+           d="m 0,0 0,65 113,0 0,-65 z" />
+      </clipPath>
+      <clipPath
+         id="clipPath3">
+        <path
+           id="path15"
+           d="M 0,0 0,20 38,20 38,0 z" />
+      </clipPath>
+      <clipPath
+         id="clipPath4">
+        <path
+           id="path18"
+           d="M 0,0 0,19 37,19 37,0 z" />
+      </clipPath>
+    </defs>
+    <clipPath
+       id="clipPath4-0">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18-1"
+         d="M 0,0 0,19 37,19 37,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4-9">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18-5"
+         d="M 0,0 0,19 37,19 37,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4-9-5">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18-5-5"
+         d="M 0,0 0,19 37,19 37,0 z" />
+    </clipPath>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4566"
+     d="m 53.449445,110.19037 -13.42896,12.50365 0,68.34418 12.70836,12.11552 108.858425,0 12.06003,-12.01024 0,-68.73292 -12.84255,-12.22355 -107.355305,0.003 z"
+     style="fill:none;stroke:#ff4040;stroke-width:2;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     sodipodi:nodetypes="cccccccccc" />
+  <g
+     style="font-size:14px;fill:#ff4040;stroke:#ff4040;font-family:Arial"
+     id="g26"
+     transform="translate(49.985169,147.4126)">
+    <text
+       style="stroke:none"
+       xml:space="preserve"
+       id="text28"
+       clip-path="url(#clipPath4)"
+       y="14"
+       x="5"
+       transform="translate(-0.85540254,9.5805085)"><tspan
+         style="font-size:16px"
+         id="tspan4014">EPN</tspan></text>
+  </g>
+  <g
+     style="font-size:14px;font-style:normal;font-weight:normal;fill:#ff4040;fill-opacity:1;stroke:#ff4040;stroke-width:2.16972767;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial"
+     id="g26-7"
+     transform="matrix(1.0011075,0,0,0.84872857,109.58596,132.50909)"
+     inkscape:transform-center-x="17.983346"
+     inkscape:transform-center-y="7.6956501">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.16972756;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3954"
+       width="69.629768"
+       height="48.244705"
+       x="-16.485491"
+       y="-19.595499"
+       rx="8.6856413"
+       ry="9.5805092" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.65605879;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path3956"
+       sodipodi:cx="126.77066"
+       sodipodi:cy="184.08263"
+       sodipodi:rx="16.081568"
+       sodipodi:ry="16.081568"
+       d="m 142.85223,184.08263 c 0,8.8816 -7.19996,16.08156 -16.08157,16.08156 -8.8816,0 -16.08157,-7.19996 -16.08157,-16.08156 0,-8.88161 7.19997,-16.08157 16.08157,-16.08157 8.88161,0 16.08157,7.19996 16.08157,16.08157 z"
+       transform="matrix(1.1878975,0,0,1.4450405,-132.2937,-209.37344)" />
+  </g>
+  <g
+     style="font-size:14px;font-style:normal;font-weight:normal;fill:#ff4040;fill-opacity:1;stroke:#ff4040;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial"
+     id="g26-4"
+     transform="translate(108.06875,128.90163)">
+    <text
+       style="stroke:none"
+       xml:space="preserve"
+       id="text28-5"
+       clip-path="url(#clipPath4-9)"
+       y="14"
+       x="5"
+       transform="translate(11.120233,-1.8818856)"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan3985">X</tspan></text>
+    <text
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#ff4040;fill-opacity:1;stroke:none;font-family:Arial"
+       xml:space="preserve"
+       id="text28-5-5"
+       clip-path="url(#clipPath4-9-5)"
+       y="14"
+       x="5"
+       transform="translate(10.244197,42.941209)"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan3985-5">Y</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph id="glyph0" class="complex">
+            <label text="EPN"/>
+            <bbox y="100.0" x="135.0" h="120.0" w="130.0"/>
+            <glyph id="glyph2" class="macromolecule">
+                <label text="X"/>
+                <bbox y="120.0" x="190.0" h="40.0" w="60.0"/>
+            </glyph>
+            <glyph id="glyph1" class="simple chemical">
+                <label text="Y"/>
+                <bbox y="170.0" x="200.0" h="40.0" w="40.0"/>
+            </glyph>
+        </glyph>
+    </map>
+</sbgn>

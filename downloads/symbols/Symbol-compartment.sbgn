@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph compartmentOrder="-1.0" id="glyph1" class="compartment">
+            <label text="Compartment">
+                <bbox y="27.0" x="168.0" h="18.0" w="104.0"/>
+            </label>
+            <bbox y="20.0" x="45.0" h="180.0" w="350.0"/>
+        </glyph>
+    </map>
+</sbgn>

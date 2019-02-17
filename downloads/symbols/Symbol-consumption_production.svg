@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="617"
+   height="442"
+   id="svg2"
+   style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Dialog">
+  <metadata
+     id="metadata73">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="genericDefs" />
+  <g
+     transform="translate(-105.04321,-200.53704)"
+     id="g5">
+    <defs
+       id="defs1">
+      <clipPath
+         id="clipPath1">
+        <path
+           d="M 0,0 717,0 717,556 0,556 0,0 z"
+           id="path9" />
+      </clipPath>
+      <clipPath
+         id="clipPath2">
+        <path
+           d="m 0,0 0,65 113,0 0,-65 z"
+           id="path12" />
+      </clipPath>
+      <clipPath
+         id="clipPath3">
+        <path
+           d="M 0,0 0,20 46,20 46,0 z"
+           id="path15" />
+      </clipPath>
+      <clipPath
+         id="clipPath4">
+        <path
+           d="M 0,0 0,19 45,19 45,0 z"
+           id="path18" />
+      </clipPath>
+      <clipPath
+         id="clipPath5">
+        <path
+           d="M 0,0 0,29 29,29 29,0 z"
+           id="path21" />
+      </clipPath>
+      <clipPath
+         id="clipPath6">
+        <path
+           d="M 0,0 0,3 11,3 11,0 z"
+           id="path24" />
+      </clipPath>
+      <clipPath
+         id="clipPath7">
+        <path
+           d="M 0,0 0,2 10,2 10,0 z"
+           id="path27" />
+      </clipPath>
+      <clipPath
+         id="clipPath8">
+        <path
+           d="M 0,0 0,19 85,19 85,0 z"
+           id="path30" />
+      </clipPath>
+      <clipPath
+         id="clipPath9">
+        <path
+           d="M 0,0 0,4 85,4 85,0 z"
+           id="path33" />
+      </clipPath>
+    </defs>
+    <g
+       transform="translate(204,377)"
+       id="g35"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="M 109,31 C 109,47.5685 84.8234,61 55,61 25.1766,61 1,47.5685 1,31 1,14.4315 25.1766,1 55,1 c 29.8234,0 54,13.4315 54,30 z"
+         clip-path="url(#clipPath2)"
+         id="path37"
+         style="stroke:none" />
+      <path
+         d="M 109,31 C 109,47.5685 84.8234,61 55,61 25.1766,61 1,47.5685 1,31 1,14.4315 25.1766,1 55,1 c 29.8234,0 54,13.4315 54,30 z"
+         clip-path="url(#clipPath2)"
+         id="path39"
+         style="fill:none;stroke:#999999" />
+    </g>
+    <g
+       transform="translate(237,399)"
+       id="g41"
+       style="font-size:14px;fill:#999999;stroke:#999999;font-family:Arial">
+      <text
+         x="5"
+         y="14"
+         clip-path="url(#clipPath4)"
+         id="text43"
+         xml:space="preserve"
+         style="stroke:none">EPN1</text>
+    </g>
+    <g
+       transform="translate(504,377)"
+       id="g45"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="M 109,31 C 109,47.5685 84.8234,61 55,61 25.1766,61 1,47.5685 1,31 1,14.4315 25.1766,1 55,1 c 29.8234,0 54,13.4315 54,30 z"
+         clip-path="url(#clipPath2)"
+         id="path47"
+         style="stroke:none" />
+      <path
+         d="M 109,31 C 109,47.5685 84.8234,61 55,61 25.1766,61 1,47.5685 1,31 1,14.4315 25.1766,1 55,1 c 29.8234,0 54,13.4315 54,30 z"
+         clip-path="url(#clipPath2)"
+         id="path49"
+         style="fill:none;stroke:#999999" />
+    </g>
+    <g
+       transform="translate(537,399)"
+       id="g51"
+       style="font-size:14px;fill:#999999;stroke:#999999;font-family:Arial">
+      <text
+         x="5"
+         y="14"
+         clip-path="url(#clipPath4)"
+         id="text53"
+         xml:space="preserve"
+         style="stroke:none">EPN2</text>
+    </g>
+    <g
+       transform="translate(396,395)"
+       id="g55"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="M 1,1 25,1 25,25 1,25 1,1 z"
+         clip-path="url(#clipPath5)"
+         id="path57"
+         style="stroke:none" />
+      <path
+         d="M 1,1 25,1 25,25 1,25 1,1 z"
+         clip-path="url(#clipPath5)"
+         id="path59"
+         style="fill:none;stroke:#999999" />
+    </g>
+    <g
+       transform="translate(421,399)"
+       id="g61"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="m 1,8.5 10.5,0 55.5,0"
+         clip-path="url(#clipPath8)"
+         id="path63"
+         style="fill:none" />
+      <path
+         d="M 67,1 67,16 82,8.5 z"
+         clip-path="url(#clipPath8)"
+         id="path65"
+         style="stroke:none" />
+    </g>
+    <g
+       transform="translate(313,407)"
+       id="g67"
+       style="fill:#ff4040;stroke:#ff4040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;font-family:sans-serif">
+      <path
+         d="M 1,1 71.5,1 82,1"
+         clip-path="url(#clipPath9)"
+         id="path69"
+         style="fill:none" />
+    </g>
+  </g>
+</svg>

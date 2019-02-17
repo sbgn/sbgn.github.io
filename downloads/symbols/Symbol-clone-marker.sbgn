@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph id="glyph3" class="simple chemical">
+            <label text="ATP"/>
+            <clone/>
+            <bbox y="10.0" x="10.0" h="60.0" w="60.0"/>
+        </glyph>
+    </map>
+</sbgn>
