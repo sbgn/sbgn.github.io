@@ -40,8 +40,8 @@ This page provides access to meeting pages, agendas, and other information about
 The 'COmputational Modeling in BIology' NEtwork ([COMBINE](http://co.mbine.org/)) is an initiative to coordinate the development of the various community standards and formats for computational models, initially in Systems Biology and related fields.
 
 | - | - |
-| ![COMBINE 2018](images/events/COMBINE2018-100x100.jpg) | **[COMBINE 2018](http://co.mbine.org/events/COMBINE_2018)**<br>8 - 12 October 2018<br>*Boston, USA*<br><br>SBGN will be part of the ninth [COMBINE forum](http://co.mbine.org/events/COMBINE_2018). |
-| ![HARMONY 2018](images/events/HARMONY2018-100x100.jpg) | **[HARMONY 2018](http://co.mbine.org/events/HARMONY_2018)**<br>18 - 22 June 2018<br>*Oxford, UK*<br><br>SBGN will be part of the eight [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2018). |
+| ![COMBINE 2018](images/events/COMBINE2018-100x100.jpg) | **[COMBINE 2018](http://co.mbine.org/events/COMBINE_2018)**<br>8 - 12 October 2018<br>*Boston, USA*<br><br>SBGN was part of the ninth [COMBINE forum](http://co.mbine.org/events/COMBINE_2018). |
+| ![HARMONY 2018](images/events/HARMONY2018-100x100.jpg) | **[HARMONY 2018](http://co.mbine.org/events/HARMONY_2018)**<br>18 - 22 June 2018<br>*Oxford, UK*<br><br>SBGN was part of the eight [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2018). |
 | ![COMBINE 2017](images/events/COMBINE2017-100x100.jpg) | **[COMBINE 2017](http://co.mbine.org/events/COMBINE_2017)**<br>9 - 13 October 2017<br>*Milan, Italy*<br><br>SBGN was part of the eight [COMBINE forum](http://co.mbine.org/events/COMBINE_2017). |
 |![HARMONY 2017](images/events/HARMONY2017-100x100.jpg)  | **[HARMONY 2017](http://co.mbine.org/events/HARMONY_2017)**<br>26 - 30 June 2017<br>*Seattle, USA*<br><br>SBGN was part of the seventh [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2017). |
 | ![COMBINE 2016](images/events/COMBINE2016-100x100.jpg) | **[COMBINE 2016](http://co.mbine.org/events/COMBINE_2016)**<br>19 - 23 September 2016<br>*Newcastle upon Tyne, UK*<br><br>SBGN was part of the seventh [COMBINE forum](http://co.mbine.org/events/COMBINE_2016). |
