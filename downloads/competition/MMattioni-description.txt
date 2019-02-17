@@ -1,0 +1,18 @@
+The object of the diagram is to show the interactions between the
+ionic channels and the biochemical signalling in the spine of the
+Medium Spiny Neuron of the Striatum. Constitutively, DARPP-32 forms a
+complex with PP1 after been phosphorylated by PKA (grey line).
+According to the concentration of Calcium two possible pathways can be
+selected: when Calcium concentration is low the orange pathway is
+selected, with the activation of Calcineurin and release of PP1 from
+the DARPP-32 complex, with consequent dephosphorylation of AMPARs;
+when the Calcium concentration is high, the yellow pathway is selected
+with the complex CaMKII/Calmodulin able to phosphorylates the AMPARs.
+In light blue is represented the Calcium flux incoming from the ionic
+channels, AMPARs, NMDARs and Voltage Gated Calcium Channel (VGCC)s.
+
+Michele Mattioni and Nicolas Le Novère
+Computational Systems Neurobiology group
+EMBL-EBI, Hinxton, UK.
+
+

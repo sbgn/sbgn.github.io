@@ -1,0 +1,31 @@
+On behalf of the authors cc'ed above, I am pleased to submit the attached SBGN-ER map (in PNG and SVG formats) to the Annual SBGN Competition.
+
+This map was built in collaboration with clinical and pathology experts in ophthalomology, as well as mathematical modellers in metabolism. It outlines the key steps in the development of diabetic retinopathy (a condition that, left untreated, often leads to severe visual impairment), and spans a number of biological compartments that vary both in size and location specificity. In summary, the scheme follows the effect of excess glucose in blood to influence capillary wall permeability and blood flow, leading to the formation of hypoxia, hard exudates and oedema in the macula.
+
+A number of useful insights into SBGN-ER requirements for physiology representation have emerged in during the knowledge review, graph preparation and design stages of our procedure. In particular, we have identified the need to:
+
+1) utilize four different entity nodes to represent molecular and tissue entities (in blue), biological compartments (pink), processes (orange) and observables (white) respectively (knowing full well that colour schemes are not part of the SBGN-ER spec, as such);
+2) allow assignments to state variables of observable entities to stimulate (i.e. trigger) other assignments (e.g. to other observables);
+3) address the [compartment location (pink)] / [biological entity (blue)] duality, in view of the marked redundancy in location assignment required currently - as things stand, significant constraints are imposed on the design of multi-compartment graph;
+4) introduce sub-map re-use (e.g. process nodes are seen as placeholders for more elaborate sub-maps) in SBGN-ER.
+
+We very much look forward to discussing our map-building experience further during the up-coming COMBINE meeting, as well as to the SBGN-ER work ahead.
+
+Finally, I would also like to thank the authors for their generous and enthusiastic contributions to this effort.
+
+All the best,
+
+Bernard de Bono
+
+--
+Dr Bernard de Bono MD PhD
+European Bioinformatics Institute
+Wellcome Trust Genome Campus
+Hinxton
+Cambridge
+CB10 1SD
+UK
+
+Tel: +44 (0)1223 492 596
+Fax: +44 (0)1223 494 468
+Mobile: +44 (0) 77439 49508 
