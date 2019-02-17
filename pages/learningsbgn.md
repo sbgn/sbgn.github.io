@@ -1,7 +1,7 @@
 ---
 title: Learning SBGN
 layout: default
-permalink: /learningsbgn
+permalink: learningsbgn
 ---
 
 # Learning SBGN
@@ -22,7 +22,9 @@ This page offers a brief introduction to the SBGN, and, in particular, to the Pr
 
 <p>The process glyph is the key element for understanding of the SBGN PD language: </p>
 
-&emsp;<img src="/images/learning/processglyph150.png" alt="Process" style="width:50px;height:50px;">
+<!--<p style="text-align:center;"><img src="images/learning/processglyph150.png" alt="Process" style="width:30px;height:30px;"></p>-->
+
+&emsp;<img src="images/learning/processglyph150.png" alt="Process" style="width:50px;height:50px;">
 
 <p>Reading a PD diagram is much simpler if it is seen as a collection of interconnected processes. Represented in PD, a biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
 
@@ -30,8 +32,8 @@ This page offers a brief introduction to the SBGN, and, in particular, to the Pr
 <table style="font-size:100%;">
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="images/learning/glucose.png"/> <br /> 
-          <a href="/images/learning/glucose.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http:/.github.io/images/learning/glucose.sbgn" target="_blank">Newt</a></td>
+          <a href="images/learning/glucose.sbgn">SBGN-ML</a> &ensp; 
+          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/images/learning/glucose.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"> </td>
     </tr>
 </table>
@@ -40,21 +42,21 @@ This page offers a brief introduction to the SBGN, and, in particular, to the Pr
 
 ## SBGN PD Bricks
 
-<p>The <a href="https:/bricks.org/pd/">SBGN Bricks</a> project presents a tamplate-based approach that makes it simpler to learn and start applying the standard without necesserily being familiar with all the specifications. Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>).</p>
+<p>The <a href="https://sbgnbricks.org/pd/">SBGN Bricks</a> project presents a tamplate-based approach that makes it simpler to learn and start applying the standard without necesserily being familiar with all the specifications. Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>).</p>
 
-The example bricks are developed using the <a href="https://immersive-analytics.infotech.monash.edu/vanted/addons-ed/">SBGN-ED</a> add-on of <a href="https://www.cls.uni-konstanz.de/software/vanted/">VANTED</a> editor (desktop application). All the bricks are available for downloading in SBGN-ML format and can be opened online in <a href="http://newteditor.org/">Newt</a> (online editor). The <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon</a> editor (desktop application) supports the SBGN Bricks and the available templates can be used to design a diagram by adding one brick after another. To download Krayon please use the <a href="https://github.com/wiese42/krayon4sbgn/releases" target="_blank">Releases</a> page.
+The example bricks are developed using the <a href="https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/">SBGN-ED</a> add-on of <a href="https://www.cls.uni-konstanz.de/software/vanted/">VANTED</a> editor (desktop application). All the bricks are available for downloading in SBGN-ML format and can be opened online in <a href="http://newteditor.org/">Newt</a> (online editor). The <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon</a> editor (desktop application) supports the SBGN Bricks and the available templates can be used to design a diagram by adding one brick after another. To download Krayon please use the <a href="https://github.com/wiese42/krayon4sbgn/releases" target="_blank">Releases</a> page.
 
 ### Metabolic processes
 
 <table style="font-size:100%;">
     <tr>
-    <td style="width:200px; text-align:center; font-size:90%;"><img src="downloads/bricks/PD_catalysis_irr_1_1.png"/> <br /> 
-          <a href="/downloads/bricks/PD_catalysis_irr_1_1.sbgn">SBGN-ML</a> &ensp; 
+    <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_catalysis_irr_1_1.png"/> <br /> 
+          <a href="downloads/bricks/PD_catalysis_irr_1_1.sbgn">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Catalysis: irreversible reacton.</strong> The enzyme catalyses an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a represented as a <i>macromolecule</i> connected to the <i>process</i> glyph by a <i>catalysis</i> arc. The substrate and the product of the biochemical reaction are represented by <i>simple chemical</i> glyphs.</td>
     </tr>
     <tr>
-      <td style="width:200px; text-align:center; font-size:90%;"><img src="downloads/bricks/PD_catalysis_irr_2_2.png"/> <br /> 
+      <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_catalysis_irr_2_2.png"/> <br /> 
           <a href="downloads/bricks/PD_catalysis_irr_2_2.sbgn">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/downloads/bricks/PD_catalysis_irr_2_2.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses an irreversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
@@ -71,20 +73,20 @@ The example bricks are developed using the <a href="https://immersive-analytics.
 
 <table style="font-size:100%;">
     <tr>
-      <td style="width:200px; text-align:center; font-size:90%;"><img src="downloads/bricks/PD_phosphorylation_simple.png"/> <br /> 
+      <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_phosphorylation_simple.png"/> <br /> 
           <a href="downloads/bricks/PD_phosphorylation_simple.sbgn">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecules</i>.</td>
     </tr>
     <tr>
-      <td style="width:200px; text-align:center; font-size:90%;"><img src="downloads/bricks/PD_phosphorylation.png"/> <br /> 
-          <a href="/downloads/bricks/PD_phosphorylation.sbgn">SBGN-ML</a> &ensp; 
+      <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_phosphorylation.png"/> <br /> 
+          <a href="downloads/bricks/PD_phosphorylation.sbgn">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/downloads/bricks/PD_phosphorylation.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Protein phosphorylation (with more details captured).</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecule</i> glyphs. <i>State variable</i> auxiliary glyphs are used to indicate the phosphorylation state: "P@Y701" means "phosphorylated at tyrosine 701" (one-letter amino acid code). Instead of empty state, "@Y701" without "P" can be used to indicate the position. ATP and ADP are represented as <i>simple chemicals</i>.</td>
     </tr>
 </table>
 
-<p>An extended collection of the PD patterns is available at the <a href="https:/bricks.org/pd/">SBGN Bricks</a> website.</p>
+<p>An extended collection of the PD patterns is available at the <a href="https://sbgnbricks.org/pd/">SBGN Bricks</a> website.</p>
 
 ## iNOS pathway example
 
@@ -120,7 +122,7 @@ The example bricks are developed using the <a href="https://immersive-analytics.
 
 **Tip 9. Link the original data to your SBGN map.** When publishing your work, link the SBGN visualisation to your original data (i.e. model, data set).  
 
-**Tip 10. Seek help from the SBGN community.** Request feedback and ask questions using the [sbgn-discuss](http:/.github.io/contact "SBGN contact") mailing list. Don't be shy!  
+**Tip 10. Seek help from the SBGN community.** Request feedback and ask questions using the [sbgn-discuss](contact "SBGN contact") mailing list. Don't be shy!  
 
 ## SBGN PD Reference Card
 
@@ -134,7 +136,7 @@ The example bricks are developed using the <a href="https://immersive-analytics.
 
 ## Tutorials
 
-Tutorial materials can be found at our [Education Resource](https://github.com/educational-resources) repository.
+Tutorial materials can be found at our [Education Resource](https://github.com/sbgn/educational-resources) repository.
 
 ## Examples
 
