@@ -189,22 +189,22 @@ Below are all the submissions to the SBGN annual competition 2010, grouped by se
 #### Tutorial by Yukiko Matsuoka
 
 * Contact: Yukiko Matsuoka <myukiko@sbi.jp>
-* [Outreach material](downloads/competition/outreach/SBGN_Tutorial-Matsuoka.pdf) (tutorial)
-* [Outreach material](downloads/competition/outreach/Supplementary_EGFR.zip) (supplementary)
+* [Outreach material](downloads/competition/SBGN_Tutorial-Matsuoka.pdf) (tutorial)
+* [Outreach material](downloads/competition/Supplementary_EGFR.zip) (supplementary)
 
 #### Article by Falk Schreiber
 
 * Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de>
-* [Document describing the submission](downloads/competition/outreach/SBGN_outreach.pdf)
-* [Outreach material](downloads/competition/outreach/JunkerHSB10.pdf) (article)
+* [Document describing the submission](downloads/competition/SBGN_outreach.pdf)
+* [Outreach material](downloads/competition/JunkerHSB10.pdf) (article)
 
 #### Tutorial by Anatoly Sorokin - WINNER
 
 * Contact: Anatoly Sorokin <asorokin@inf.ed.ac.uk>
-* [Outreach material](downloads/competition/outreach/SBGN_Tutorial-Sorokin.pdf) (tutorial)
+* [Outreach material](downloads/competition/SBGN_Tutorial-Sorokin.pdf) (tutorial)
 
 #### Tutorial by Richard Adams
 
 * Contact: Richard Adams <richard.adams@ed.ac.uk>
-* [Outreach material](downloads/competition/outreach/SBGN.zip) (tutorial)
-* [Covering Letter](downloads/competition/outreach/CoveringLetter.pdf) for the submission
+* [Outreach material](downloads/competition/SBGN.zip) (tutorial)
+* [Covering Letter](downloads/competition/CoveringLetter.pdf) for the submission
