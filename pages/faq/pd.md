@@ -54,7 +54,7 @@ A reversible interaction must therefore be represented by separate association a
 
 If there are no modulations on the association or dissociation, a reversible interaction can be represented by a regular process node, as follows:
 
-![Correct reversible process](images/faq/pd/Process-revers.png)
+![Correct reversible process](../images/faq/pd/Process-revers.png)
 
 ---
 
