@@ -14,8 +14,9 @@ layout: default
 
 ## Published map highlight
 
-#### AF map of interactions in a tumor microenvironment
+#### AF map of interactions in a tumor microenvironment  
 
-Significance of stroma in biology of oral squamous cell carcinoma. Boras et al., 2017, [doi:10.5301/tj.5000673](https://dx.doi.org/10.5301/tj.5000673)
+Significance of stroma in biology of oral squamous cell carcinoma  
+Boras et al., 2017, [doi:10.5301/tj.5000673](https://dx.doi.org/10.5301/tj.5000673)  
 
 ![boras_activitynetwork](images/published_maps/boras_activitynetwork.png)
