@@ -23,22 +23,40 @@ Formats used:
 
 ### Process Description L1 V1.3
 
-|-|-|-|-|-|
-| [SVG](templates/PD_L1V1.3.svg) | [EPS](templates/PD_L1V1.3.eps) | [PDF](templates/PD_L1V1.3.pdf) | [PNG](templates/PD_L1V1.3.png) | [Inkscape](templates/PD_L1V1.3-Inkscape.svg) | 
+[SVG](templates/PD_L1V1.3.svg) &emsp;
+[EPS](templates/PD_L1V1.3.eps) &emsp;
+[PDF](templates/PD_L1V1.3.pdf) &emsp;
+[PNG](templates/PD_L1V1.3.png) &emsp;
+[Inkscape](templates/PD_L1V1.3-Inkscape.svg)
+
+<!--|-|-|-|-|-|
+| [SVG](templates/PD_L1V1.3.svg) | [EPS](templates/PD_L1V1.3.eps) | [PDF](templates/PD_L1V1.3.pdf) | [PNG](templates/PD_L1V1.3.png) | [Inkscape](templates/PD_L1V1.3-Inkscape.svg) | -->
 
 <img src="templates/PD_L1V1.3_web.png" width="600">
 
 ### Activity Flow L1 V1.2
 
-|-|-|-|-|-|
-| [SVG](templates/AF_L1V1.2.svg) | [EPS](templates/AF_L1V1.2.eps) | [PDF](templates/AF_L1V1.2.pdf) | [PNG](templates/AF_L1V1.2.png) | [Inkscape](templates/AF_L1V1.2-Inkscape.svg) |
+[SVG](templates/AF_L1V1.2.svg) &emsp;
+[EPS](templates/AF_L1V1.2.eps) &emsp;
+[PDF](templates/AF_L1V1.2.pdf) &emsp;
+[PNG](templates/AF_L1V1.2.png) &emsp;
+[Inkscape](templates/AF_L1V1.2-Inkscape.svg)
+
+<!--|-|-|-|-|-|
+| [SVG](templates/AF_L1V1.2.svg) | [EPS](templates/AF_L1V1.2.eps) | [PDF](templates/AF_L1V1.2.pdf) | [PNG](templates/AF_L1V1.2.png) | [Inkscape](templates/AF_L1V1.2-Inkscape.svg) | -->
 
 <img src="templates/AF_L1V1.2_web.png" width="600">
 
 ### Entity Relationships L1 V2.0
 
-|-|-|-|-|-|
-| [SVG](templates/ER_L1V2.0.svg) | [EPS](templates/ER_L1V2.0.eps) | [PDF](templates/ER_L1V2.0.pdf) | [PNG](templates/ER_L1V2.0.png) | [Inkscape](templates/ER_L1V2.0-Inkscape.svg) | 
+[SVG](templates/ER_L1V2.0.svg) &emsp;
+[EPS](templates/ER_L1V2.0.eps) &emsp;
+[PDF](templates/ER_L1V2.0.pdf) &emsp;
+[PNG](templates/ER_L1V2.0.png) &emsp;
+[Inkscape](templates/ER_L1V2.0-Inkscape.svg)
+
+<!--|-|-|-|-|-|
+| [SVG](templates/ER_L1V2.0.svg) | [EPS](templates/ER_L1V2.0.eps) | [PDF](templates/ER_L1V2.0.pdf) | [PNG](templates/ER_L1V2.0.png) | [Inkscape](templates/ER_L1V2.0-Inkscape.svg) | -->
 
 <img src="templates/ER_L1V2.0_web.png" width="600">
 
