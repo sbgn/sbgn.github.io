@@ -11,9 +11,10 @@ The SBGN mailing lists are where questions are asked and the latest developments
 ## For end users
 
 #### sbgn-discuss 
+
 An open mailing list for discussing the Systems Biology Graphical Notation.  
 
-[sbgn-discuss archive](https://groups.google.com/forum/#!forum/sbgn-discuss) &emsp;
+[sbgn-discuss forum](https://groups.google.com/forum/#!forum/sbgn-discuss) &emsp;
 [subscription page](https://groups.google.com/forum/#!forum/sbgn-discuss)  
 
 ## For developers
@@ -22,7 +23,7 @@ An open mailing list for discussing the Systems Biology Graphical Notation.
 
 An open mailing list for discussing the development of an API library for SBGN.  
 
-[sbgn-libsbgn archive](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-libsbgn) &emsp;
+[sbgn-libsbgn forum](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-libsbgn) &emsp;
 [subscription page](https://lists.sourceforge.net/lists/listinfo/sbgn-libsbgn)  
 
 ## Lists that are not longer in use (archives)
