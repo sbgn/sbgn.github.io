@@ -17,4 +17,4 @@ layout: default
 Significance of stroma in biology of oral squamous cell carcinoma  
 Boras et al., 2017, [doi:10.5301/tj.5000673](https://dx.doi.org/10.5301/tj.5000673)  
 
-![boras_activitynetwork](images/published_maps/boras_activitynetwork.png)
+![boras_activitynetwork](images/published_maps/boras_activitynetwork.png){: .left-image width="700px"}
