@@ -12,9 +12,9 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 <table style="width:100%">
   <tr>
-    <th style="width:400px">List</th>
+    <th style="width:450px">List</th>
     <th style="width:200px">Forum / E-mail</th> 
-    <th style="width:200px">Subscription</th>
+    <th style="width:150px">Subscription</th>
   </tr>
   <tr>
     <td><strong>sbgn-discuss:</strong> an open mailing list for discussing the Systems Biology Graphical Notation</td>
@@ -32,9 +32,9 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 <table style="width:100%">
   <tr>
-    <th style="width:400px">List</th>
+    <th style="width:450px">List</th>
     <th style="width:200px">Forum / E-mail</th> 
-    <th style="width:200px">Subscription</th>
+    <th style="width:150px">Subscription</th>
   </tr>
   <tr>
     <td><strong>sbgn-libsbgn:</strong> an open mailing list and forum for discussing the development of an API library for SBGN</td>
