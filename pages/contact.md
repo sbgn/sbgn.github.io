@@ -10,12 +10,6 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 ## For end users
 
- List | Forum / E-mail | Subscription
---|--|--
-**sbgn-discuss:** an open mailing list for discussing the Systems Biology Graphical Notation. | [sbgn-discus](https://groups.google.com/forum/#!forum/sbgn-discuss) | [Subscribe](https://groups.google.com/forum/#!forum/sbgn-discuss) <br />
-
-**sbgn-discuss archive:** an old sbgn-discuss archive | [sbgn-discuss archive](https://lists.caltech.edu/pipermail/sbgn-discuss/) | Not active
-
 <table style="width:100%">
   <tr>
     <th style="width:400px">List</th>
@@ -23,12 +17,12 @@ The SBGN mailing lists are where questions are asked and the latest developments
     <th style="width:150px">Subscription</th>
   </tr>
   <tr>
-    <td>**sbgn-discuss:** an open mailing list for discussing the Systems Biology Graphical Notation</td>
+    <td><strong>sbgn-discuss:</strong> an open mailing list for discussing the Systems Biology Graphical Notation</td>
     <td><a href="https://groups.google.com/forum/#!forum/sbgn-discuss">sbgn-discuss</a></td> 
     <td><a href="https://groups.google.com/forum/#!forum/sbgn-discuss">Subscribe</a></td>
    </tr>
    <tr>
-    <td>**sbgn-discuss archive:** an old sbgn-discuss archive</td>
+    <td><strong>sbgn-discuss archive:</strong> an old sbgn-discuss archive</td>
     <td><a href="https://lists.caltech.edu/pipermail/sbgn-discuss/">sbgn-discuss</a></td> 
     <td>Not active</td>
    </tr>
