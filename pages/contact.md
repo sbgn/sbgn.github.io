@@ -12,7 +12,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 <table style="width:100%">
   <tr>
-    <th style="width:400px">List</th>
+    <th style="width:500px">List</th>
     <th style="width:150px">Forum / E-mail</th> 
     <th style="width:150px">Subscription</th>
   </tr>
@@ -28,12 +28,27 @@ The SBGN mailing lists are where questions are asked and the latest developments
    </tr>
 </table>
 
-<br />
-
 ## For developers
 
- List | Forum / E-mail | Subscription
---|--|--
-**sbgn-libsbgn:** an open mailing list and forum for discussing the development of an API library for SBGN. | [sbgn-libsbgn](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-libsbgn) | [Subscribe](https://lists.sourceforge.net/lists/listinfo/sbgn-libsbgn)
-**sbgn-team:** a mailing list for contacting the SBGN Team. | [sbgn-team](https://groups.google.com/forum/#!forum/sbgn-team) | Members are invited or volunteer
-**sbgn-editors:** a maling list for contacting elected SBGN Editors. | [sbgn-editors](mailto:sbgn-editors@gouglegroups.co) | Members are elected
+<table style="width:100%">
+  <tr>
+    <th style="width:500px">List</th>
+    <th style="width:150px">Forum / E-mail</th> 
+    <th style="width:150px">Subscription</th>
+  </tr>
+  <tr>
+    <td><strong>sbgn-libsbgn:</strong> an open mailing list and forum for discussing the development of an API library for SBGN</td>
+    <td><a href="http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-libsbgn">sbgn-discuss</a></td> 
+    <td><a href="https://lists.sourceforge.net/lists/listinfo/sbgn-libsbgn">Subscribe</a></td>
+   </tr>
+   <tr>
+    <td><strong>sbgn-editors:</strong> a maling list for contacting elected SBGN Editors</td>
+    <td><a href="mailto:sbgn-editors@googlegroups">sbgn-editors</a></td> 
+    <td>Members are elected</td>
+   </tr>
+   <tr>
+    <td><strong>sbgn-team:</strong> a mailing list for contacting the SBGN Team</td>
+    <td><a href="mailto:sbgn-team@googlegroups">sbgn-team</a></td> 
+    <td>Members are invited or volunteer</td>
+   </tr>
+</table>
