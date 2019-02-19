@@ -38,7 +38,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
   </tr>
   <tr>
     <td><strong>sbgn-libsbgn:</strong> an open mailing list for discussing the development of an API library for SBGN</td>
-    <td><a href="http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-libsbgn">sbgn-discuss</a></td> 
+    <td><a href="http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-libsbgn">sbgn-libsbgn</a></td> 
     <td><a href="https://lists.sourceforge.net/lists/listinfo/sbgn-libsbgn">Subscribe</a></td>
    </tr>
    <tr>
