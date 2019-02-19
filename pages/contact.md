@@ -43,12 +43,12 @@ The SBGN mailing lists are where questions are asked and the latest developments
    </tr>
    <tr>
     <td><strong>sbgn-editors:</strong> a maling list for contacting elected SBGN Editors</td>
-    <td><a href="mailto:sbgn-editors@googlegroups">sbgn-editors</a></td> 
+    <td><a href="mailto:sbgn-editors@googlegroups.com">sbgn-editors</a></td> 
     <td>Members are elected</td>
    </tr>
    <tr>
     <td><strong>sbgn-team:</strong> a mailing list for contacting the SBGN Team</td>
-    <td><a href="mailto:sbgn-team@googlegroups">sbgn-team</a></td> 
+    <td><a href="mailto:sbgn-team@googlegroups.com">sbgn-team</a></td> 
     <td>Members are invited or volunteer</td>
    </tr>
 </table>
