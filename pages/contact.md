@@ -13,8 +13,8 @@ The SBGN mailing lists are where questions are asked and the latest developments
 <table>
   <tr>
     <th style="width:300px;">Mailing list</th>
-    <th style="width:320px;">Forum / E-mail</th> 
-    <th">Subscription</th>
+    <th style="width:300px;">Forum / E-mail</th> 
+    <th>Subscription</th>
   </tr>
   <tr>
     <td><strong>sbgn-discuss:</strong> an open mailing list for discussing SBGN</td>
@@ -33,7 +33,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 <table>
   <tr>
     <th style="width:300px;">Maling list</th>
-    <th style="width:320px;">Forum / E-mail</th> 
+    <th style="width:300px;">Forum / E-mail</th> 
     <th">Subscription</th>
   </tr>
   <tr>
