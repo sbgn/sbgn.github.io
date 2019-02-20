@@ -14,7 +14,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
   <tr>
     <th style="width:300px;">Mailing list</th>
     <th style="width:300px;">Forum / E-mail</th> 
-    <th style="width:150px;">Subscription</th>
+    <th">Subscription</th>
   </tr>
   <tr>
     <td><strong>sbgn-discuss:</strong> an open mailing list for discussing SBGN</td>
@@ -34,7 +34,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
   <tr>
     <th style="width:300px;">Maling list</th>
     <th style="width:300px;">Forum / E-mail</th> 
-    <th style="width:150px;">Subscription</th>
+    <th">Subscription</th>
   </tr>
   <tr>
     <td><strong>sbgn-libsbgn:</strong> an open mailing list for discussing the development of an API library for SBGN</td>
