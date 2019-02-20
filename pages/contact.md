@@ -17,7 +17,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
     <th style="width:150px">Subscription</th>
   </tr>
   <tr>
-    <td><strong>sbgn-discuss:</strong> an open mailing list for discussing the Systems Biology Graphical Notation</td>
+    <td><strong>sbgn-discuss:</strong> an open mailing list for discussing the SBGN</td>
     <td><a href="https://groups.google.com/forum/#!forum/sbgn-discuss">sbgn-discuss forum</a></td> 
     <td><a href="https://groups.google.com/forum/#!forum/sbgn-discuss">Subscribe</a></td>
    </tr>
