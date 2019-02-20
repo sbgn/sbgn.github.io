@@ -12,8 +12,8 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 <table>
   <tr>
-    <th style="width:350px">Mailing list</th>
-    <th style="width:250px">Forum / E-mail</th> 
+    <th style="width:300px">Mailing list</th>
+    <th style="width:300px">Forum / E-mail</th> 
     <th style="width:150px">Subscription</th>
   </tr>
   <tr>
@@ -32,8 +32,8 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 <table>
   <tr>
-    <th style="width:350px">Maling list</th>
-    <th style="width:250px">Forum / E-mail</th> 
+    <th style="width:300px">Maling list</th>
+    <th style="width:300px">Forum / E-mail</th> 
     <th style="width:150px">Subscription</th>
   </tr>
   <tr>
