@@ -10,7 +10,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 ## For end users
 
-<table style="width:100%">
+<table>
   <tr>
     <th style="width:350px">Mailing list</th>
     <th style="width:250px">Forum / E-mail</th> 
@@ -30,7 +30,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 ## For developers
 
-<table style="width:100%">
+<table>
   <tr>
     <th style="width:380px">Maling list</th>
     <th style="width:270px">Forum / E-mail</th> 
