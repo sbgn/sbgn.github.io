@@ -12,7 +12,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 <table>
   <tr>
-    <th style="width:300px;">Mailing list</th>
+    <th style="width:280px;">Mailing list</th>
     <th style="width:280px;">Forum / E-mail</th> 
     <th>Subscription</th>
   </tr>
@@ -32,7 +32,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 <table>
   <tr>
-    <th style="width:300px;">Maling list</th>
+    <th style="width:280px;">Maling list</th>
     <th style="width:280px;">Forum / E-mail</th> 
     <th>Subscription</th>
   </tr>
