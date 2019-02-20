@@ -16,4 +16,4 @@ The following questions are general and not specific to a particular SBGN langua
 
 ### Which software supports SBGN?
 
-It is difficult to keep track of SBGN support in the various relevant software tools. However we try to gather the information we have on a [single page](software).
+We try to keep track of the software that supports the SBGN standard. Information on various relevant software tools is gathered on the [Software support](software) page.
