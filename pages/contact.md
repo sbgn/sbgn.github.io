@@ -12,8 +12,8 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 <table style="width:100%">
   <tr>
-    <th style="width:380px">Mailing list</th>
-    <th style="width:270px">Forum / E-mail</th> 
+    <th style="width:350px">Mailing list</th>
+    <th style="width:250px">Forum / E-mail</th> 
     <th style="width:150px">Subscription</th>
   </tr>
   <tr>
