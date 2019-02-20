@@ -11,15 +11,15 @@ The SBGN mailing lists are where questions are asked and the latest developments
 ## For end users
 
 <table style="width:100%">
-  <!--<tr>
+  <tr>
     <th style="width:350px">Mailing list</th>
     <th style="width:300px">Forum / E-mail</th> 
     <th style="width:150px">Subscription</th>
-  </tr>-->
+  </tr>
   <tr>
-    <td style="width:350px><strong>sbgn-discuss:</strong> an open mailing list for discussing the Systems Biology Graphical Notation</td>
-    <td style="width:300px><a href="https://groups.google.com/forum/#!forum/sbgn-discuss">sbgn-discuss forum</a></td> 
-    <td style="width:150px><a href="https://groups.google.com/forum/#!forum/sbgn-discuss">Subscribe</a></td>
+    <td><strong>sbgn-discuss:</strong> an open mailing list for discussing the Systems Biology Graphical Notation</td>
+    <td><a href="https://groups.google.com/forum/#!forum/sbgn-discuss">sbgn-discuss forum</a></td> 
+    <td><a href="https://groups.google.com/forum/#!forum/sbgn-discuss">Subscribe</a></td>
    </tr>
    <tr>
     <td><strong>sbgn-discuss archive:</strong> an old sbgn-discuss archive</td>
@@ -31,15 +31,15 @@ The SBGN mailing lists are where questions are asked and the latest developments
 ## For developers
 
 <table style="width:100%">
-  <!--<tr>
+  <tr>
     <th style="width:350px">Maling list</th>
     <th style="width:300px">Forum / E-mail</th> 
     <th style="width:150px">Subscription</th>
-  </tr>-->
+  </tr>
   <tr>
-    <td style="width:350px><strong>sbgn-libsbgn:</strong> an open mailing list for discussing the development of an API library for SBGN</td>
-    <td style="width:300px><a href="http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-libsbgn">sbgn-libsbgn forum</a></td> 
-    <td style="width:150px><a href="https://lists.sourceforge.net/lists/listinfo/sbgn-libsbgn">Subscribe</a></td>
+    <td><strong>sbgn-libsbgn:</strong> an open mailing list for discussing the development of an API library for SBGN</td>
+    <td><a href="http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-libsbgn">sbgn-libsbgn forum</a></td> 
+    <td><a href="https://lists.sourceforge.net/lists/listinfo/sbgn-libsbgn">Subscribe</a></td>
    </tr>
    <tr>
     <td><strong>sbgn-editors:</strong> a maling list for contacting elected SBGN Editors</td>
