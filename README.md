@@ -1,7 +1,7 @@
 # SBGN website
 
 This repository contains the code for the SBGN website available at  
-http://sbgn.github.io or http://www.sbgn.org
+http://sbgn.github.io
 
 and provides access to the developer Wiki at  
 https://github.com/sbgn/sbgn/wiki
