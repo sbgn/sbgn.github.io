@@ -11,11 +11,6 @@ https://github.com/sbgn/sbgn
 
 ### Remaining issues
 
-#### Examples page:
-- folder /images/examples is to be deleted (the current folder is located in /downloads)
-- folder /examples in the root is to be deleted
-
-#### Refence cards page:
 - folder /templates in the root is to be deleted (the current folder is located in /downloads)
 
 ### Website development and structure
