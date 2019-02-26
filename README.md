@@ -1,4 +1,4 @@
-## SBGN Website
+# SBGN Website
 
 This repository contains the code for the SBGN homepage available at  
 http://sbgn.github.io or http://www.sbgn.org
@@ -30,12 +30,12 @@ Contributions and changes can be made in several ways:
 
 #### Menu Items 
 
-Menu items
+Menu items can be modified here:
 https://github.com/sbgn/sbgn.github.io/blob/master/_layouts/default.html
 
 #### Pages
 
-All pages are stored in  
+All the pages are stored in  
 https://github.com/sbgn/sbgn.github.io/tree/master/pages
 
 and rendered by the template  
@@ -44,7 +44,6 @@ https://github.com/sbgn/sbgn.github.io/blob/master/_layouts/default.html
 #### Homepage 
 
 The main landing homepage (index.html) is rendered by this Markdown file:  
-
 https://github.com/sbgn/sbgn.github.io/blob/master/index.md
 
 #### Conflicts
@@ -56,8 +55,7 @@ To avoid data loss, copy your changes to an editor, updated the page you were ab
 
 #### Redirects 
 
-Redirects are located here
-
+Redirects are located here  
 https://github.com/sbgn/sbgn.github.io/tree/master/pages/redirect
 
 #### Template Documentation
