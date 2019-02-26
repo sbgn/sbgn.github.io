@@ -6,6 +6,9 @@ http://sbgn.github.io or http://www.sbgn.org
 and provides access to the developer Wiki at  
 https://github.com/sbgn/sbgn/wiki
 
+This new website was recreated from scratch 02/2019 using the updated [Minimal](https://pages-themes.github.io/minimal/) theme for GitHub Pages. The older version of the website is located here:
+https://github.com/sbgn/sbgn
+
 ### Remaining issues
 
 #### Examples page:
@@ -80,7 +83,7 @@ The website should be regularly checked for broken links. There are many online 
 https://www.drlinkcheck.com/
 
 
-#### Template Documentation
+#### Template documentation
 
 [https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)  
 [https://pages-themes.github.io/minimal/](https://pages-themes.github.io/minimal/)
