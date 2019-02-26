@@ -1,7 +1,7 @@
 ---
 title: Examples
 layout: default
-permalink: examples_backup
+permalink: examples
 ---
 
 # Examples
