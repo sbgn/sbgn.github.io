@@ -15,7 +15,7 @@ https://github.com/sbgn/sbgn/wiki
 
 #### Refence cards page:
 - all the locations for reference cards are to be changed to /downloads/referencecards
-- all the locations for tamplates are to be changed to /downloads/templates
+- all the locations for templates are to be changed to /downloads/templates
 - folder /templates in the root is to be deleted
 
 ### Website Development
