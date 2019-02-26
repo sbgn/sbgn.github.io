@@ -11,7 +11,10 @@ https://github.com/sbgn/sbgn
 
 ### Remaining issues
 
-- folder /templates in the root is to be deleted (the current folder is located in /downloads)
+There is examples folder in the root with some sbgn files which are not possible to open in SBGN-ED.
+There is images/examples folder for the Examples page.
+There is downloads/examples folder with the content copied from examples folder in the root.
+All the examples shoudl be placed to downloads/examples and the links on the Examples page are to be updated.
 
 ### Website development and structure
 
