@@ -1,6 +1,6 @@
-# SBGN Website
+# SBGN website
 
-This repository contains the code for the SBGN homepage available at  
+This repository contains the code for the SBGN website available at  
 http://sbgn.github.io or http://www.sbgn.org
 
 and provides access to the developer Wiki at  
@@ -9,7 +9,7 @@ https://github.com/sbgn/sbgn/wiki
 ### Remaining issues
 
 #### Examples page:
-- all the locations are to be changed ot /downloads/examples
+- all the locations are to be changed to /downloads/examples
 - folder /images/examples is to be deleted
 - folder /examples in the root is to be deleted
 
@@ -24,7 +24,7 @@ This website is a [GitHub Pages Jekyll-based website](https://jekyllrb.com/docs/
 
 Contributions and changes can be made in several ways:
 
-1. Downloading files using Git and pushed back to this repository directly or via pull requests. Please get in contact with one of the SBGN editors if you need commit permissions.
+1. Downloading files using Git and pushed back to this repository directly or via pull requests. Please get in contact with one of the [SBGN editors](mailto:sbgn-editors@googlegroups.com) if you need commit permissions.
 1. Through the online GitHub Editor by clicking the Edit menu on any .md file.
 1. Submitting an issue on our [issue tracker](https://github.com/sbgn/sbgn.github.io/issues).
 
