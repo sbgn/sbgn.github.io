@@ -12,14 +12,11 @@ https://github.com/sbgn/sbgn
 ### Remaining issues
 
 #### Examples page:
-- all the locations are to be changed to /downloads/examples
-- folder /images/examples is to be deleted
+- folder /images/examples is to be deleted (the current folder is located in /downloads)
 - folder /examples in the root is to be deleted
 
 #### Refence cards page:
-- all the locations for reference cards are to be changed to /downloads/referencecards
-- all the locations for templates are to be changed to /downloads/templates
-- folder /templates in the root is to be deleted
+- folder /templates in the root is to be deleted (the current folder is located in /downloads)
 
 ### Website development and structure
 
