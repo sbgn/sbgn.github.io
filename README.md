@@ -60,5 +60,6 @@ https://github.com/sbgn/sbgn.github.io/tree/master/pages/redirect
 
 #### Template Documentation
 
-[https://github.com/orderedlist/minimal](https://github.com/orderedlist/minimal)
+[https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)  
+[https://pages-themes.github.io/minimal/](https://pages-themes.github.io/minimal/)
 
