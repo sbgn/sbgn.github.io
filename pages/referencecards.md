@@ -32,7 +32,7 @@ Formats used:
 <!--|-|-|-|-|-|
 | [SVG](downloads/referencecards/PD_L1V1.3.svg) | [EPS](downloads/referencecards/PD_L1V1.3.eps) | [PDF](downloads/referencecards/PD_L1V1.3.pdf) | [PNG](downloads/referencecards/PD_L1V1.3.png) | [Inkscape](downloads/referencecards/PD_L1V1.3-Inkscape.svg) | -->
 
-<img src="templates/PD_L1V1.3_web.png" width="600">
+<img src="downloads/referencecards/PD_L1V1.3_web.png" width="600">
 
 ### Activity Flow L1 V1.2
 
@@ -45,7 +45,7 @@ Formats used:
 <!--|-|-|-|-|-|
 | [SVG](downloads/referencecards/AF_L1V1.2.svg) | [EPS](downloads/referencecards/AF_L1V1.2.eps) | [PDF](downloads/referencecards/AF_L1V1.2.pdf) | [PNG](downloads/referencecards/AF_L1V1.2.png) | [Inkscape](downloads/referencecards/AF_L1V1.2-Inkscape.svg) | -->
 
-<img src="templates/AF_L1V1.2_web.png" width="600">
+<img src="downloads/referencecards/AF_L1V1.2_web.png" width="600">
 
 ### Entity Relationships L1 V2.0
 
@@ -58,7 +58,7 @@ Formats used:
 <!--|-|-|-|-|-|
 | [SVG](downloads/referencecards/ER_L1V2.0.svg) | [EPS](downloads/referencecards/ER_L1V2.0.eps) | [PDF](downloads/referencecards/ER_L1V2.0.pdf) | [PNG](downloads/referencecards/ER_L1V2.0.png) | [Inkscape](downloads/referencecards/ER_L1V2.0-Inkscape.svg) | -->
 
-<img src="templates/ER_L1V2.0_web.png" width="600">
+<img src="downloads/referencecards/ER_L1V2.0_web.png" width="600">
 
 ### Earlier versions
 
