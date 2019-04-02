@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Something
-permalink: /something
+permalink: something
 ---
 
 # Something
