@@ -1,3 +1,5 @@
 ---
-layout: redirected
+layout: default
 ---
+
+This is a test
