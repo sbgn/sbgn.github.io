@@ -15,7 +15,7 @@ layout: default
 
 Touré V, Le Novère N, Waltemath D, Wolkenhauer O. Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. PLoS Comput Biol. 2018 Feb 15;14(2):e1005740. [doi:10.1371/journal.pcbi.1005740](https://doi.org/10.1371/journal.pcbi.1005740).
 
-![](images/published_maps/toure_drosophila.png){: width="600px"}
+![](images/published_maps/toure_drosophila.png){: width="500px"}
 
 <br />
 
