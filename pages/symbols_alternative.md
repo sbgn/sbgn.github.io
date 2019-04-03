@@ -1,7 +1,7 @@
 ---
 title: Symbols
 layout: default
-permalink: symbols
+permalink: symbols_alternative
 ---
 
 # Symbols
