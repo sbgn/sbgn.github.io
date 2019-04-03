@@ -11,7 +11,7 @@ layout: default
 
 ## Published map highlight
 
-![](images/published_maps/toure_drosophila.png)
+![](images/published_maps/toure_drosophila.png){: width="600px"}
 -----
 
 SBGN is the work of many people. It would not have been possible without the generous [support of multiple organizations](/sbgn/about#funding) over the years, for which we are very thankful.
