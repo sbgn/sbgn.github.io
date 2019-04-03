@@ -34,7 +34,7 @@ layout: default
 
 <script>
   $(document).ready(function() {
-    $.getJSON("/random_content.json", function(data) {
+    $.getJSON("random_content.json", function(data) {
       console.log("JSON loaded.");
 
       var symbol = data.symbols[Math.floor(Math.random() * data.symbols.length)];
