@@ -9,10 +9,6 @@ https://github.com/sbgn/sbgn/wiki
 This new website was recreated from scratch 02/2019 using the updated [Minimal](https://pages-themes.github.io/minimal/) theme for GitHub Pages. The older version of the website is located here:
 https://github.com/sbgn/sbgn
 
-### Remaining issues
-
-There is "examples" folder in the root with some sbgn files which are not possible to open in SBGN-ED - to be removed after all dependant pages are checked. There is "images/examples" folder for the Examples page - to be removed after all dependant pages are checked. All the examples shoudl be kept in "downloads/examples" and the links on the Examples page are to be updated. Each example should be available in .sbgn and other formats.  
-
 ### Website development and structure
 
 This website is a [GitHub Pages Jekyll-based website](https://jekyllrb.com/docs/github-pages/). GitHub Pages are public web pages for users, organizations, and repositories, that are freely hosted by GitHub. When commits are made to this repository files are automatically built into a static website by Jekyll and changes appear on the live website quickly. The main syntax of the website is Markdown (a Wikipedia MediaWiki-like syntax) that is described better in links below. 
