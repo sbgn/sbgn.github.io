@@ -11,11 +11,9 @@ layout: default
 
 ## Published map highlight
 
-#### PD map of the Drosophila cell cycle
+### PD map of the Drosophila cell cycle
 
-Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation.  
-Touré V, Le Novère N, Waltemath D, Wolkenhauer O.  
-PLoS Comput Biol. 2018 Feb 15;14(2):e1005740. [doi:10.1371/journal.pcbi.1005740](https://doi.org/10.1371/journal.pcbi.1005740). PMID: [29447151](https://www.ncbi.nlm.nih.gov/pubmed/29447151)
+Touré V, Le Novère N, Waltemath D, Wolkenhauer O. <strong>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation</strong>. PLoS Comput Biol. 2018 Feb 15;14(2):e1005740. [doi:10.1371/journal.pcbi.1005740](https://doi.org/10.1371/journal.pcbi.1005740). PMID: [29447151](https://www.ncbi.nlm.nih.gov/pubmed/29447151)
 
 ![](images/published_maps/toure_drosophila.png){: width="600px"}
 
