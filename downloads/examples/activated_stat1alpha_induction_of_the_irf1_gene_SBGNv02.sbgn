@@ -1,0 +1,200 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+  <map language="process description">
+    <glyph id="glyph8" class="source and sink">
+      <bbox x="310" y="600" w="60" h="60"/>
+    </glyph>
+    <glyph id="glyph6" class="process">
+      <bbox x="420" y="620" w="20" h="20"/>
+      <port id="glyph6.1" x="410" y="630"/>
+      <port id="glyph6.2" x="450" y="630"/>
+    </glyph>
+    <glyph id="glyph3" class="nucleic acid feature">
+      <label text="IRF1"/>
+      <bbox x="500" y="600" w="120" h="60"/>
+      <glyph id="glyph3_0" class="unit of information">
+        <label text="ct:mRNA"/>
+        <bbox x="572.3" y="591" w="63" h="18"/>
+      </glyph>
+    </glyph>
+    <glyph id="glyph7" class="source and sink">
+      <bbox x="440" y="720" w="60" h="60"/>
+    </glyph>
+    <glyph id="glyph5" class="process">
+      <bbox x="550" y="740" w="20" h="20"/>
+      <port id="glyph5.1" x="540" y="750"/>
+      <port id="glyph5.2" x="580" y="750"/>
+    </glyph>
+    <glyph id="glyph15" class="macromolecule">
+      <label text="IRF1"/>
+      <bbox x="620" y="720" w="120" h="60"/>
+      <glyph id="glyph15_0" class="unit of information">
+        <label text="mt:prot"/>
+        <bbox x="691.3" y="711" w="53" h="18"/>
+      </glyph>
+    </glyph>
+    <glyph id="glyph14" class="nucleic acid feature">
+      <label text="IRF1"/>
+      <bbox x="490" y="410" w="120" h="60"/>
+      <glyph id="glyph14_0" class="unit of information">
+        <label text="ct:gene"/>
+        <bbox x="561.5" y="401" w="55" h="18"/>
+      </glyph>
+    </glyph>
+    <glyph id="glyph13" class="complex">
+      <bbox x="131.75" y="347.125" w="156.5" h="204.5"/>
+      <glyph id="glyph11" class="complex">
+        <bbox x="138.375" y="353.75" w="143.25" h="87.5"/>
+        <glyph id="glyph10" class="macromolecule">
+          <label text="STAT1α"/>
+          <bbox x="140" y="365" w="140" h="60"/>
+          <glyph id="glyph10_0" class="unit of information">
+            <label text="mt:prot"/>
+            <bbox x="227.6" y="356" w="53" h="18"/>
+          </glyph>
+          <glyph id="glyph10_1" class="state variable">
+            <state value="P" variable="Y701"/>
+            <bbox x="224.73333333333332" y="411" w="69" h="28"/>
+          </glyph>
+          <glyph id="glyph10_2" class="state variable">
+            <state value="P" variable="Y727"/>
+            <bbox x="322.26666666666665" y="411" w="69" h="28"/>
+          </glyph>
+        </glyph>
+      </glyph>
+      <glyph id="glyph12" class="nucleic acid feature">
+        <label text="IRF1-GAS"/>
+        <bbox x="150" y="490" w="120" h="60"/>
+        <glyph id="glyph12_0" class="unit of information">
+          <label text="ct:grr"/>
+          <bbox x="220.2" y="481" w="42" h="18"/>
+        </glyph>
+      </glyph>
+    </glyph>
+    <glyph id="glyph4" class="and">
+      <bbox x="410" y="500" w="40" h="40"/>
+      <port id="glyph4.2" x="430" y="560"/>
+      <port id="glyph4.1" x="430" y="480"/>
+    </glyph>
+    <glyph id="glyph0" class="complex">
+      <bbox x="58.375" y="68.75" w="143.25" h="87.5"/>
+      <glyph id="glyph1" class="macromolecule">
+        <label text="STAT1α"/>
+        <bbox x="60" y="80" w="140" h="60"/>
+        <glyph id="glyph1_0" class="unit of information">
+          <label text="mt:prot"/>
+          <bbox x="147.6" y="71" w="53" h="18"/>
+        </glyph>
+        <glyph id="glyph1_1" class="state variable">
+          <state value="P" variable="Y701"/>
+          <bbox x="144.73333333333332" y="126" w="69" h="28"/>
+        </glyph>
+        <glyph id="glyph1_2" class="state variable">
+          <state value="P" variable="Y727"/>
+          <bbox x="242.26666666666668" y="126" w="69" h="28"/>
+        </glyph>
+      </glyph>
+    </glyph>
+    <glyph id="glyph2" class="nucleic acid feature">
+      <label text="IRF1-GAS"/>
+      <bbox x="270" y="80" w="120" h="60"/>
+      <glyph id="glyph2_0" class="unit of information">
+        <label text="ct:grr"/>
+        <bbox x="340.2" y="71" w="42" h="18"/>
+      </glyph>
+    </glyph>
+    <glyph id="glyph9" class="association">
+      <bbox x="200" y="220" w="20" h="20"/>
+      <port id="glyph9.2" x="210" y="250"/>
+      <port id="glyph9.1" x="210" y="210"/>
+    </glyph>
+    <arc id="arc0" class="necessary stimulation" source="glyph4.2" target="glyph6">
+      <glyph id="arc0_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="430" y="560.625"/>
+      <end x="430" y="616.5625"/>
+    </arc>
+    <arc id="arc1" class="necessary stimulation" source="glyph3" target="glyph5">
+      <glyph id="arc1_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="560" y="660.5"/>
+      <end x="560" y="736.5625"/>
+    </arc>
+    <arc id="arc2" class="consumption" source="glyph8" target="glyph6.1">
+      <glyph id="arc2_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="370.625" y="630"/>
+      <end x="409.375" y="630"/>
+    </arc>
+    <arc id="arc3" class="production" source="glyph6.2" target="glyph3">
+      <glyph id="arc3_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="450.625" y="630"/>
+      <end x="496.375" y="630"/>
+    </arc>
+    <arc id="arc4" class="consumption" source="glyph7" target="glyph5.1">
+      <glyph id="arc4_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="500.625" y="750"/>
+      <end x="539.375" y="750"/>
+    </arc>
+    <arc id="arc5" class="production" source="glyph5.2" target="glyph15">
+      <glyph id="arc5_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="580.625" y="750"/>
+      <end x="616.375" y="750"/>
+    </arc>
+    <arc id="arc6" class="production" source="glyph9.2" target="glyph13">
+      <glyph id="arc6_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="210" y="250.625"/>
+      <end x="210" y="338.5"/>
+    </arc>
+    <arc id="arc7" class="logic arc" source="glyph14" target="glyph4.1">
+      <glyph id="arc7_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="504.25" y="470.5"/>
+      <end x="430" y="479.375"/>
+    </arc>
+    <arc id="arc8" class="logic arc" source="glyph13" target="glyph4.1">
+      <glyph id="arc8_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="293.75" y="476.26065340909093"/>
+      <end x="430" y="479.375"/>
+    </arc>
+    <arc id="arc9" class="consumption" source="glyph0" target="glyph9.1">
+      <glyph id="arc9_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="163.53191489361703" y="161.75"/>
+      <end x="210" y="209.375"/>
+    </arc>
+    <arc id="arc10" class="consumption" source="glyph2" target="glyph9.1">
+      <glyph id="arc10_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="299.5" y="140.5"/>
+      <end x="210" y="209.375"/>
+    </arc>
+  </map>
+</sbgn>
