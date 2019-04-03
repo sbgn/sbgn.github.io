@@ -34,14 +34,14 @@ layout: default
 
 <script>
   $(document).ready(function() {
-    $.getJSON("/sbgn.github.io/random_content.json", function(data) {
+    $.getJSON("/random_content.json", function(data) {
       console.log("JSON loaded.");
 
       var symbol = data.symbols[Math.floor(Math.random() * data.symbols.length)];
       var pathway = data.pathways[Math.floor(Math.random() * data.pathways.length)];
 
-      symbol_href = "/sbgn.github.io/symbols#" + symbol.href;
-      pathway_href = "/sbgn.github.io/published\_maps#" + pathway.href;
+      symbol_href = "/symbols#" + symbol.href;
+      pathway_href = "/published\_maps#" + pathway.href;
 
       // From: http://stackoverflow.com/questions/10300765/jquery-html-callback-function
       $("#random_symbol_href").html('<a href="' + symbol_href + '">' + symbol.title + '</a>').promise().done(function(){
