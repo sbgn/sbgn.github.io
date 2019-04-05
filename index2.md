@@ -21,7 +21,6 @@ layout: default
 </table>
 <div id="random_pathway_href"></div><br />
 
-<!---
 ## Symbol highlight
 
 <table class="random-highlight">
