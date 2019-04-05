@@ -21,6 +21,7 @@ layout: default
 </table>
 <div id="random_pathway_href"></div><br />
 
+<!---
 ## Symbol highlight
 
 <table class="random-highlight">
@@ -32,7 +33,7 @@ layout: default
   </tbody>
 </table>
 
-<script>
+```javascript
   $(document).ready(function() {
     $.getJSON("random_content.json", function(data) {
       console.log("JSON loaded.");
@@ -69,8 +70,7 @@ layout: default
       });
     });
   });
-</script>
-
+```
 
 -----
 
