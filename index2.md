@@ -32,7 +32,7 @@ layout: default
   </tbody>
 </table>
 
-```javascript
+<script>
   $(document).ready(function() {
     $.getJSON("random_content.json", function(data) {
       console.log("JSON loaded.");
@@ -69,7 +69,7 @@ layout: default
       });
     });
   });
-```
+</script>
 
 -----
 
