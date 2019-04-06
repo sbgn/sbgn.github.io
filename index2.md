@@ -9,7 +9,7 @@ layout: default
 [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) will take place 15-19 July 2019 in Heidelberg, Germany, hosted by the Heidelberg Institute for Theoretical Studies.
 
 
-## Published map highlight 6
+## Published map highlight 7
 
 <table class="random-highlight">
   <tbody>
@@ -34,14 +34,14 @@ layout: default
 
 <script>
   $(document).ready(function() {
-    $.getJSON("/sbgn\.github\.io/random\_content\.json", function(data) {
+    $.getJSON("/sbgn.github.io/random\_content.json", function(data) {
       console.log("JSON loaded.");
 
       var symbol = data.symbols[Math.floor(Math.random() * data.symbols.length)];
       var pathway = data.pathways[Math.floor(Math.random() * data.pathways.length)];
 
-      symbol_href = "/sbgn\.github\.io/symbols#" + symbol.href;
-      pathway_href = "/sbgn\.github\.io/pages/published\_maps#" + pathway.href;
+      symbol_href = "/sbgn.github.io/symbols#" + symbol.href;
+      pathway_href = "/sbgn.github.io/pages/published\_maps#" + pathway.href;
 
       // From: http://stackoverflow.com/questions/10300765/jquery-html-callback-function
       $("#random_symbol_href").html('<a href="' + symbol_href + '">' + symbol.title + '</a>').promise().done(function(){
