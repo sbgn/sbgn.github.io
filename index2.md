@@ -9,7 +9,7 @@ layout: default
 [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) will take place 15-19 July 2019 in Heidelberg, Germany, hosted by the Heidelberg Institute for Theoretical Studies.
 
 
-## Published map highlight 1
+## Published map highlight 2
 
 <table class="random-highlight">
   <tbody>
@@ -34,7 +34,7 @@ layout: default
 
 <script>
   $(document).ready(function() {
-    $.getJSON("/sbgn.github.io/random_content.json", function(data) {
+    $.getJSON("random_content.json", function(data) {
       console.log("JSON loaded.");
 
       var symbol = data.symbols[Math.floor(Math.random() * data.symbols.length)];
