@@ -9,7 +9,7 @@ layout: default
 [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) will take place 15-19 July 2019 in Heidelberg, Germany, hosted by the Heidelberg Institute for Theoretical Studies.
 
 
-## Published map highlight 4
+## Published map highlight
 
 <table class="random-highlight">
   <tbody>
