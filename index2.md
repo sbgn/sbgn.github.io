@@ -32,6 +32,7 @@ layout: default
   </tbody>
 </table>
 
+<link href="assets/css/lightbox.min.css" rel="stylesheet">
 <script language="JavaScript" type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
 
 <script>
