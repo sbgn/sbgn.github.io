@@ -8,6 +8,8 @@ permalink: published_maps
 
 This page collects examples of SBGN-compliant diagrams from various publications.
 
+<link href="assets/css/lightbox.min.css" rel="stylesheet">
+
 <div id="published_maps_gallery">
   <table class="gallery_table">
     <tr>
