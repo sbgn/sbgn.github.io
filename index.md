@@ -11,11 +11,67 @@ layout: default
 
 ## Published map highlight
 
-#### PD map of the Drosophila cell cycle
+<table class="random-highlight">
+  <tbody>
+    <tr>
+      <td id="random_pathway_href" style="width: 300px; text-align: left"></td>
+      <td id="random_pathway_img" style="text-align: left"></td>
+    </tr>
+  </tbody>
+</table>
+<div id="random_pathway_href"></div><br />
 
-Touré V, Le Novère N, Waltemath D, Wolkenhauer O. Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. PLoS Comput Biol. 2018 Feb 15;14(2):e1005740. [doi:10.1371/journal.pcbi.1005740](https://doi.org/10.1371/journal.pcbi.1005740).
+## Symbol highlight
 
-![](images/published_maps/toure_drosophila.png){: width="550px"}
+<table class="random-highlight">
+  <tbody>
+    <tr>
+      <td id="random_symbol_href" style="width: 300px; text-align: left"></td>
+      <td id="random_symbol_img" style="text-align: left"></td>
+    </tr>
+  </tbody>
+</table>
+
+<script language="JavaScript" type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
+
+<script>
+  $(document).ready(function() {
+    $.getJSON("random_content.json", function(data) {
+      console.log("JSON loaded.");
+
+      var symbol = data.symbols[Math.floor(Math.random() * data.symbols.length)];
+      var pathway = data.pathways[Math.floor(Math.random() * data.pathways.length)];
+
+      symbol_href = "/sbgn.github.io/symbols#" + symbol.href;
+      pathway_href = "/sbgn.github.io/published\_maps#" + pathway.href;
+
+      // From: http://stackoverflow.com/questions/10300765/jquery-html-callback-function
+      $("#random_symbol_href").html('<a href="' + symbol_href + '">' + symbol.title + '</a>').promise().done(function(){
+        console.log("Symbol href loaded.");
+      });
+
+      $("#random_symbol_img").html('<img src="' + symbol.img + '" alt="' + symbol.href + '" width="200px"/>').promise().done(function(){
+        console.log("Symbol img loaded.");
+      });
+
+      $("#random_symbol").load(symbol_href, function() {
+        console.log("Symbol loaded.");
+      });
+
+      $("#random_pathway_href").html('<a href="' + pathway_href + '">' + pathway.title + '</a>').promise().done(function(){
+        console.log("Symbol href loaded.");
+      });
+
+      $("#random_pathway_img").html('<img src="' + pathway.img + '" alt="'+ pathway.href +'" width="360px"/>').promise().done(function(){
+        console.log("Pathway href loaded.");
+      });
+
+      $("#random_pathway").load(pathway_href, function() {
+        console.log("Pathway loaded.");
+      });
+    });
+  });
+</script>
 
 -----
 
