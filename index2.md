@@ -32,6 +32,8 @@ layout: default
   </tbody>
 </table>
 
+<script language="JavaScript" type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
+
 <script>
   $(document).ready(function() {
     $.getJSON("random_content.json", function(data) {
