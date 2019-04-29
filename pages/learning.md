@@ -33,7 +33,7 @@ This page offers a brief introduction to the SBGN, and, in particular, to the Pr
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="images/learning/glucose.png"/> <br /> 
           <a href="images/learning/glucose.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/images/learning/glucose.sbgn" target="_blank">Newt</a></td>
+          <a href="http://web.newteditor.org/?URL=https://sbgn.github.io/images/learning/glucose.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"> </td>
     </tr>
 </table>
@@ -52,19 +52,19 @@ The example bricks are developed using the <a href="https://immersive-analytics.
     <tr>
     <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_catalysis_irr_1_1.png"/> <br /> 
           <a href="downloads/bricks/PD_catalysis_irr_1_1.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">Newt</a></td>
+          <a href="http://web.newteditor.org/?URL=https://sbgn.github.io/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Catalysis: irreversible reacton.</strong> The enzyme catalyses an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a represented as a <i>macromolecule</i> connected to the <i>process</i> glyph by a <i>catalysis</i> arc. The substrate and the product of the biochemical reaction are represented by <i>simple chemical</i> glyphs.</td>
     </tr>
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_catalysis_irr_2_2.png"/> <br /> 
           <a href="downloads/bricks/PD_catalysis_irr_2_2.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/downloads/bricks/PD_catalysis_irr_2_2.sbgn" target="_blank">Newt</a></td>
+          <a href="http://web.newteditor.org/?URL=https://sbgn.github.io/downloads/bricks/PD_catalysis_irr_2_2.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses an irreversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
     </tr>
     <tr>
     <td style="width:200px; text-align:center; font-size:90%;"><img src="downloads/bricks/PD_inhibition.png"/> <br /> 
           <a href="downloads/bricks/PD_inhibition.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/downloads/bricks/PD_inhibition.sbgn" target="_blank">Newt</a></td>
+          <a href="http://web.newteditor.org/?URL=https://sbgn.github.io/downloads/bricks/PD_inhibition.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.</td>
     </tr>
 </table>
@@ -75,13 +75,13 @@ The example bricks are developed using the <a href="https://immersive-analytics.
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_phosphorylation_simple.png"/> <br /> 
           <a href="downloads/bricks/PD_phosphorylation_simple.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">Newt</a></td>
+          <a href="http://web.newteditor.org/?URL=https://sbgn.github.io/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecules</i>.</td>
     </tr>
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_phosphorylation.png"/> <br /> 
           <a href="downloads/bricks/PD_phosphorylation.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/downloads/bricks/PD_phosphorylation.sbgn" target="_blank">Newt</a></td>
+          <a href="http://web.newteditor.org/?URL=https://sbgn.github.io/downloads/bricks/PD_phosphorylation.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Protein phosphorylation (with more details captured).</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecule</i> glyphs. <i>State variable</i> auxiliary glyphs are used to indicate the phosphorylation state: "P@Y701" means "phosphorylated at tyrosine 701" (one-letter amino acid code). Instead of empty state, "@Y701" without "P" can be used to indicate the position. ATP and ADP are represented as <i>simple chemicals</i>.</td>
     </tr>
 </table>
