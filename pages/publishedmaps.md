@@ -1,7 +1,7 @@
 ---
 title: Published maps
 layout: default
-permalink: published_maps
+permalink: publishedmaps
 ---
 
 # Published maps
