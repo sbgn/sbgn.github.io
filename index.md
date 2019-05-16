@@ -8,6 +8,7 @@ layout: default
 
 [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) will take place 15-19 July 2019 in Heidelberg, Germany, hosted by the Heidelberg Institute for Theoretical Studies.
 
+<b>SBGN 12 workshop</b> will be colocated with [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) and take place on Wednesday, July 17. <b><font color="red">More info to follow!!!</font></b>
 
 ## Published map highlight
 
