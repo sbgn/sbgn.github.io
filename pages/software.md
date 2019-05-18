@@ -20,14 +20,14 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ### Editors with SBGN-ML support
 
-<table style="width:520px">
+<table style="width:560px">
 <thead>
 <tr>
 <th style="width:200px; text-align:left">Software Package</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
-<th style="width:80px; text-align:center">Availability</th>
+<th style="width:120px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
@@ -92,14 +92,14 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ### Editors without SBGN-ML support
 
-<table style="width:520px">
+<table style="width:560px">
 <thead>
 <tr>
 <th style="width:200px; text-align:left">Software Package</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
-<th style="width:80px; text-align:center">Availability</th>
+<th style="width:120px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
