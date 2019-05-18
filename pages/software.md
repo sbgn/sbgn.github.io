@@ -323,17 +323,12 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ## Software (software cards version)
 
-<br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
-<br />  <font size="5">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.3
-<br />  <font size="5">&#9744;</font> ER
-
-
+### Editors with SBGN-ML support
 
 <table>
 <tr style="height:120px;">
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-        <p style="margin:10px;">
-        <strong><a href="http://sbgn-ed.org" target="_blank">SBGN-ED</a></strong></p>
+        <strong><a href="http://sbgn-ed.org" target="_blank">SBGN-ED</a></strong>
         <br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
         <br />  <font size="5">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.3
         <br />  <font size="5">&#9744;</font> ER
