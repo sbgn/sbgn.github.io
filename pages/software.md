@@ -321,7 +321,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 
 
-## Software (software cards version)
+## Software (software cards version - to be used together with a list of all tools at the end of the page)
 
 ### Editors with SBGN-ML support
 
