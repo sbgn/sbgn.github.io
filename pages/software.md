@@ -35,119 +35,119 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://bioinformatics.cs.vt.edu/beacon/">Beacon Pathway Editor</a></td>
+<td style="text-align:left"><a href="http://bioinformatics.cs.vt.edu/beacon/">Beacon Pathway Editor</a></td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
+<td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
+<td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="http://www.celldesigner.org/">CellDesigner</a></td>
+<td style="text-align:left"><a href="http://www.celldesigner.org/">CellDesigner</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
+<td style="text-align:left"><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://www.dunnart.org/">Dunnart</a></td>
+<td style="text-align:left"><a href="http://www.dunnart.org/">Dunnart</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://epe.sourceforge.net/">Edinburgh Pathway Editor</a></td>
+<td style="text-align:left"><a href="http://epe.sourceforge.net/">Edinburgh Pathway Editor</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
+<td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="https://github.com/wiese42/krayon4sbgn">Krayon for SBGN</a></td>
+<td style="text-align:left"><a href="https://github.com/wiese42/krayon4sbgn">Krayon for SBGN</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
+<td style="text-align:left"><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://newteditor.org/">Newt Editor</a></td>
+<td style="text-align:left"><a href="http://newteditor.org/">Newt Editor</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="http://www.omix-visualization.com/">Omix</a></td>
+<td style="text-align:left"><a href="http://www.omix-visualization.com/">Omix</a></td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a></td>
+<td style="text-align:left"><a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="http://www.innetics.com/">PathwayLab</a></td>
+<td style="text-align:left"><a href="http://www.innetics.com/">PathwayLab</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://www.sbgn-ed.org/">SBGN-ED</a></td>
+<td style="text-align:left"><a href="http://www.sbgn-ed.org/">SBGN-ED</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
+<td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="https://www.yworks.com/products/yed">yEd Graph Editor</a></td>
+<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd Graph Editor</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
