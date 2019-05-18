@@ -27,7 +27,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
-<th style="width:80px; text-align:center">SBGN-ML</th>
+<th style="width:80px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
@@ -81,11 +81,11 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd Graph Editor</a> plus <a href="https://github.com/sbgn/ySBGN/releases">ySBGN</a></td>
+<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a> plus <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center">Free</td>
 </tr>
 </tbody>
 </table>
@@ -99,7 +99,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
-<th style="width:80px; text-align:center">SBGN-ML</th>
+<th style="width:80px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
@@ -174,11 +174,11 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd Graph Editor</a></td>
+<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center">Free</td>
 </tr>
 </tbody>
 </table>
