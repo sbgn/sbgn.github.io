@@ -339,18 +339,18 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#E0EBF5;">
         <a href="http://sbgn-ed.org" target="_blank">CellDesigner</a>
         <font size="2">
-        <br />  <font size="4">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> SBGN-ML 0.2
-        <br />  <font size="4">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> SBGN-ML 0.3
-        <br />  <font size="4">&#9744;</font> ER
+        <br />  <font size="4">&#9745;</font> PD &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> AF &nbsp; &nbsp; &nbsp; <font size="4">&#9744;</font> ER
+        <br />  <font size="4">&#9745;</font> SBGN-ML 0.2
+        <br />  <font size="4">&#9745;</font> SBGN-ML 0.3
         </font>
 </td>
 <td style="width: 0px;"> </td>
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#E0EBF5;">
         <strong><a href="http://sbgn-ed.org" target="_blank">SBGN-ED</a></strong>
         <font size="2">
-        <br />  <font size="4">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> SBGN-ML 0.2
-        <br />  <font size="4">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> SBGN-ML 0.3
-        <br />  <font size="4">&#9744;</font> ER
+        <br />  <font size="4">&#9745;</font> PD &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> AF &nbsp; &nbsp; &nbsp; <font size="4">&#9744;</font> ER
+        <br />  <font size="4">&#9745;</font> SBGN-ML 0.2
+        <br />  <font size="4">&#9745;</font> SBGN-ML 0.3
         </font>
 </td>
 <tr style="height: 20px;">
