@@ -313,10 +313,18 @@ This page summarizes what we know about software support for SBGN languages. Thi
 </tbody>
 </table>
 
+
+
+
+
+
+
+
+
 ## Software (software cards version)
 
 <br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
-<br />  <font size="5">&#9745;</font> AF &emsp; &emsp; <font size="5">&#9745;</font> SBGN-ML 0.3
+<br />  <font size="5">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.3
 <br />  <font size="5">&#9744;</font> ER
 
 
@@ -324,34 +332,28 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <table>
 <tr style="height:120px;">
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:10px; font-size:16px;">
-        <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
-        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
-        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27441714" target="_blank">PubMed</a>
-        </p></td>
+        <p style="margin:10px;">
+        <strong><a href="http://sbgn-ed.org" target="_blank">SBGN-ED</a></strong></p>
+        <br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
+        <br />  <font size="5">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.3
+        <br />  <font size="5">&#9744;</font> ER
+</td>
 <td style="width: 0px;"> </td>
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:10px; font-size:16px;">
-        <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
-        Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29688383+23832570" target="_blank">PubMed</a><br />
-        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
-        </p></td>
+        <p style="margin:10px;">
+        <strong><a href="http://sbgn-ed.org" target="_blank">SBGN-ED</a></strong></p>
+        <br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
+        <br />  <font size="5">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.3
+        <br />  <font size="5">&#9744;</font> ER
+</td>
 <td style="width: 0px;"> </td>
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:10px; font-size:16px;">
-        <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
-        Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29688383+23832570" target="_blank">PubMed</a><br />
-        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
-        </p></td>
+        <p style="margin:10px;">
+        <strong><a href="http://sbgn-ed.org" target="_blank">SBGN-ED</a></strong></p>
+        <br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
+        <br />  <font size="5">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.3
+        <br />  <font size="5">&#9744;</font> ER
+</td>
 <tr style="height: 20px;">
 <td style="width: 200px;"> </td>
 <td style="width: 0px;"> </td>
