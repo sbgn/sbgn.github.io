@@ -16,14 +16,14 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ### Editors
 
-<table style="width:400px">
+<table style="width:600px">
 <thead>
 <tr>
-<th style="width:150px; text-align:left">Software Package</th>
-<th style="width:50px; text-align:center">PD</th>
-<th style="width:50px; text-align:center">ER</th>
-<th style="width:50px; text-align:center">AF</th>
-<th style="width:50px; text-align:center">SBGN-ML</th>
+<th style="width:200px; text-align:left">Software Package</th>
+<th style="width:100px; text-align:center">PD</th>
+<th style="width:100px; text-align:center">ER</th>
+<th style="width:100px; text-align:center">AF</th>
+<th style="width:100px; text-align:center">SBGN-ML</th>
 </tr>
 </thead>
 <tbody>
