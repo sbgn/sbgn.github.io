@@ -326,7 +326,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 ### Editors with SBGN-ML support
 
 <table>
-<tr style="height:100px;">
+<tr style="height:80px;">
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#E0EBF5;">
         <strong><a href="http://sbgn-ed.org" target="_blank">SBGN-ED</a></strong>
         <font size="2">
@@ -337,17 +337,19 @@ This page summarizes what we know about software support for SBGN languages. Thi
 </td>
 <td style="width: 0px;"> </td>
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#E0EBF5;">
-        <strong><a href="http://sbgn-ed.org" target="_blank">CellDesigner</a></strong>
-        <br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
-        <br />  <font size="5">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.3
-        <br />  <font size="5">&#9744;</font> ER
+        <font size="2">
+        <br />  <font size="4">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> SBGN-ML 0.2
+        <br />  <font size="4">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> SBGN-ML 0.3
+        <br />  <font size="4">&#9744;</font> ER
+        </font>
 </td>
 <td style="width: 0px;"> </td>
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#E0EBF5;">
-        <strong><a href="http://sbgn-ed.org" target="_blank">Krayon for SBGN</a></strong>
-        <br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
-        <br />  <font size="5">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.3
-        <br />  <font size="5">&#9744;</font> ER
+        <font size="2">
+        <br />  <font size="4">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> SBGN-ML 0.2
+        <br />  <font size="4">&#9745;</font> AF &nbsp; &nbsp; &nbsp; &nbsp; <font size="4">&#9745;</font> SBGN-ML 0.3
+        <br />  <font size="4">&#9744;</font> ER
+        </font>
 </td>
 <tr style="height: 20px;">
 <td style="width: 200px;"> </td>
