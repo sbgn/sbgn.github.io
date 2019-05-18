@@ -18,10 +18,10 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ## Software (alternative version)
 
-<font size="6">&#9745;</font> &ensp; PD <br />
-<font size="6">&#9745;</font> &ensp; AF <br />
-<font size="6">&#9744;</font> &ensp; ER <br />
-<font size="6">&#9745;</font> &ensp; SBGN-ML 0.2 <br />
+<font size="2">&#9745;</font> &ensp; PD <br />
+<font size="3">&#9745;</font> &ensp; AF <br />
+<font size="4">&#9744;</font> &ensp; ER <br />
+<font size="5">&#9745;</font> &ensp; SBGN-ML 0.2 <br />
 <font size="6">&#9744;</font> &ensp; SBGN-ML 0.3  
 
 ### Editors with SBGN-ML support
