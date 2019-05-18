@@ -19,7 +19,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <table>
 <thead>
 <tr style="text-align:left">
-<th>Software Package</th>
+<th style="text-align:left">Software Package</th>
 <th style="text-align:center">PD</th>
 <th style="text-align:center">ER</th>
 <th style="text-align:center">AF</th>
@@ -28,7 +28,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 </thead>
 <tbody>
 <tr>
-<td><a href="http://www.codeplex.com/athena/">Athena</a></td>
+<td style="text-align:left"><a href="http://www.codeplex.com/athena/">Athena</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
