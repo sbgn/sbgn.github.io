@@ -19,7 +19,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <table>
 <thead>
 <tr>
-<th style="text-align:left">Software Package</th>
+<th style="width:300px; text-align:left">Software Package</th>
 <th style="text-align:center">PD</th>
 <th style="text-align:center">ER</th>
 <th style="text-align:center">AF</th>
