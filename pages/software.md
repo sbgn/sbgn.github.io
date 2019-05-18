@@ -324,8 +324,8 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <font size="5">&#9745;</font> &ensp; <font size="5">PD</font>  
 
 Text <font size="5">text</font> text  
- <font size="5">&#9744;</font> text  
-<br /> <font size="5">text</font> text  
+<br />  <font size="5">&#9744;</font> text  
+<br />  <font size="5">text</font> text  
 
 
 ## Software (older version)
