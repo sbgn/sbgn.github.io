@@ -326,7 +326,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 ### Editors with SBGN-ML support
 
 <table>
-<tr style="height:120px;">
+<tr style="height:100px;">
 <td style="width:200px; text-align:left; vertical-align:top; background-color:#D4AA6A;">
         <strong><a href="http://sbgn-ed.org" target="_blank">SBGN-ED</a></strong>
         <br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
