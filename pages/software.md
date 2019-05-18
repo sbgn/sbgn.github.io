@@ -321,7 +321,10 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <font size="5">&#9745;</font> &ensp; SBGN-ML 0.2 
 <font size="5">&#9744;</font> &ensp; SBGN-ML 0.3  
 
-<font size="5">&#9745;</font> &ensp; <font size="5">PD</font>
+<font size="5">&#9745;</font> &ensp; <font size="5">PD</font>  
+
+Text <font size="5">text</font> text  
+
 
 ## Software (older version)
 
