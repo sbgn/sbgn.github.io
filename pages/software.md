@@ -81,7 +81,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd Graph Editor</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a></td>
+<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
