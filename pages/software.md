@@ -7,12 +7,296 @@ permalink: software
 # Software support
 
 *  [Software](#software)
+  *  [Editors with SBGN-ML support](#editors-with-sbgn-ml-support)
+  *  [Editors without SBGN-ML support](#editors-without-sbgn-ml-support)
+  *  [Visualisers with SBGN-ML support](#visualisers-with-sbgn-ml-support)
+  *  [Visualisers without SBGN-ML support](#visualisers-without-sbgn-ml-support)
 *  [Databases](#databases)
 *  [File Formats](#file-formats)
 
 This page summarizes what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to [sbgn-discuss](mailto:sbgn-discuss@googlegroups.com).
 
-## Software
+## Software (alternative version)
+
+### Editors with SBGN-ML support
+
+<table style="width:520px">
+<thead>
+<tr>
+<th style="width:200px; text-align:left">Software Package</th>
+<th style="width:80px; text-align:center">PD</th>
+<th style="width:80px; text-align:center">ER</th>
+<th style="width:80px; text-align:center">AF</th>
+<th style="width:80px; text-align:center">SBGN-ML</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.celldesigner.org/">CellDesigner</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://github.com/wiese42/krayon4sbgn">Krayon for SBGN</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://newteditor.org/">Newt Editor</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.omix-visualization.com/">Omix</a></td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.sbgn-ed.org/">SBGN-ED</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd Graph Editor</a> plus <a href="https://github.com/sbgn/ySBGN/releases">ySBGN</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+</tr>
+</tbody>
+</table>
+
+### Editors without SBGN-ML support
+
+<table style="width:520px">
+<thead>
+<tr>
+<th style="width:200px; text-align:left">Software Package</th>
+<th style="width:80px; text-align:center">PD</th>
+<th style="width:80px; text-align:center">ER</th>
+<th style="width:80px; text-align:center">AF</th>
+<th style="width:80px; text-align:center">SBGN-ML</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="http://www.codeplex.com/athena/">Athena</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://bioinformatics.cs.vt.edu/beacon/">Beacon Pathway Editor</a></td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.dunnart.org/">Dunnart</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://epe.sourceforge.net/">Edinburgh Pathway Editor</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.innetics.com/">PathwayLab</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd Graph Editor</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+</tbody>
+</table>
+
+### Visualisers
+
+<table style="width:520px">
+<thead>
+<tr>
+<th style="width:200px; text-align:left">Software Package</th>
+<th style="width:80px; text-align:center">PD</th>
+<th style="width:80px; text-align:center">ER</th>
+<th style="width:80px; text-align:center">AF</th>
+<th style="width:80px; text-align:center">SBGN-ML</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="http://arcadiapathways.sourceforge.net/">Arcadia</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.biouml.org/">BioUML</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://copasi.org/">COPASI</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.ipathways.org/">iPathways</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://it.inf.uni-tuebingen.de/?page_id=248">Mayday MGV</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://mimoza.bordeaux.inria.fr/">Mimoza</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://sysbioapps.dyndns.org/Layout/">SBML Layout Viewer</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.sbmm.uma.es/SPA/">SBMM assistant</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+</tbody>
+</table>
+
 
 ### Editors
 
