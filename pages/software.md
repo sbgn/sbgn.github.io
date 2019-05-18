@@ -157,134 +157,112 @@ This page summarizes what we know about software support for SBGN languages. Thi
 </table>
 
 
-
-| Software Package                                                                 | PD  | ER  | AF  | SBGN-ML |
-| -------------------------------------------------------------------------------- | :-: | :-: | :-: | :-----: |
-| [Athena](http://www.codeplex.com/athena/)                                        | +   | -   | -   | -       |
-| [Beacon Pathway Editor](http://bioinformatics.cs.vt.edu/beacon/)                 | -   | -   | +   | -       |
-| [BIOCHAM](http://contraintes.inria.fr/BIOCHAM/)                                  | +   | -   | -   | -       |
-| [Biographer](http://biographer.biologie.hu-berlin.de/)                           | +   | +   | +   | +       |
-| [CellDesigner](http://www.celldesigner.org/)                                     | +   | -   | -   | +       |
-| [ChiBE](https://code.google.com/archive/p/chibe/)                                | +   | -   | -   | -       |
-| [Dunnart](http://www.dunnart.org/)                                               | +   | -   | -   | -       |
-| [Edinburgh Pathway Editor](http://epe.sourceforge.net/)                          | +   | +   | +   | -       |
-| [geneXplain platform](http://genexplain.com/genexplain-platform-1)               | +   | -   | -   | -       |
-| [Krayon for SBGN](https://github.com/wiese42/krayon4sbgn)                        | +   | -   | -   | +       |
-| [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | +   | -   | -   | -       |
-| [Newt Editor](http://newteditor.org/)                                            | +   | -   | +   | +       |
-| [Omix](http://www.omix-visualization.com/)                                       | -   | -   | -   | +       |
-| [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | +   | +   | +   | +       |
-| [PathwayLab](http://www.innetics.com/)                                           | +   | -   | -   | -       |
-| [SBGN-ED](http://www.sbgn-ed.org/)                                               | +   | +   | +   | +       |
-| [SBGNTikZ](https://github.com/Adrienrougny/sbgntikz)                             | +   | +   | +   | -       |
-| [yEd Graph Editor](https://www.yworks.com/products/yed)                          | +   | -   | +   | -       |
-
 ### Visualisers
 
-<table>
+<table style="width:520px">
 <thead>
 <tr>
-<th>Software Package</th>
-<th style="text-align:center">PD</th>
-<th style="text-align:center">ER</th>
-<th style="text-align:center">AF</th>
-<th style="text-align:center">SBGN-ML</th>
+<th style="width:200px; text-align:left">Software Package</th>
+<th style="width:80px; text-align:center">PD</th>
+<th style="width:80px; text-align:center">ER</th>
+<th style="width:80px; text-align:center">AF</th>
+<th style="width:80px; text-align:center">SBGN-ML</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="http://arcadiapathways.sourceforge.net/">Arcadia</a></td>
+<td style="text-align:left"><a href="http://arcadiapathways.sourceforge.net/">Arcadia</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://www.biouml.org/">BioUML</a></td>
+<td style="text-align:left"><a href="http://www.biouml.org/">BioUML</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://copasi.org/">COPASI</a></td>
+<td style="text-align:left"><a href="http://copasi.org/">COPASI</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
+<td style="text-align:left"><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
+<td style="text-align:left"><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="http://www.ipathways.org/">iPathways</a></td>
+<td style="text-align:left"><a href="http://www.ipathways.org/">iPathways</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
+<td style="text-align:left"><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
+<td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="http://it.inf.uni-tuebingen.de/?page_id=248">Mayday MGV</a></td>
+<td style="text-align:left"><a href="http://it.inf.uni-tuebingen.de/?page_id=248">Mayday MGV</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://mimoza.bordeaux.inria.fr/">Mimoza</a></td>
+<td style="text-align:left"><a href="http://mimoza.bordeaux.inria.fr/">Mimoza</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
+<td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="http://sysbioapps.dyndns.org/Layout/">SBML Layout Viewer</a></td>
+<td style="text-align:left"><a href="http://sysbioapps.dyndns.org/Layout/">SBML Layout Viewer</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">+</td>
 </tr>
 <tr>
-<td><a href="http://www.sbmm.uma.es/SPA/">SBMM assistant</a></td>
+<td style="text-align:left"><a href="http://www.sbmm.uma.es/SPA/">SBMM assistant</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
+<td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
@@ -292,28 +270,6 @@ This page summarizes what we know about software support for SBGN languages. Thi
 </tr>
 </tbody>
 </table>
-
-
-
-| Software Package                                                                 | PD  | ER  | AF  | SBGN-ML |
-| -------------------------------------------------------------------------------- | :-: | :-: | :-: | :-----: |
-| [Arcadia](http://arcadiapathways.sourceforge.net/)                               | +   | -   | -   | -       |
-| [BioUML](http://www.biouml.org/)                                                 | +   | -   | -   | -       |
-| [COPASI](http://copasi.org/)                                                     | +   | -   | -   | -       |
-| [CySBGN](http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/)                         | +   | +   | +   | +       |
-| [EscherConverter](https://escher.readthedocs.org/en/latest/escherconverter.html) | +   | -   | -   | +       |
-| [iPathways](http://www.ipathways.org/)                                           | +   | -   | -   | -       |
-| [JWS Online](http://jjj.bio.vu.nl/)                                              | +   | -   | -   | -       |
-| [KEGGtranslator](http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/) | +   | -   | -   | +       |
-| [Mayday MGV](http://it.inf.uni-tuebingen.de/?page_id=248)                        | +   | -   | -   | -       |
-| [Mimoza](http://mimoza.bordeaux.inria.fr/)                                       | +   | -   | -   | -       |
-| [SBGNViz](http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/)                        | +   | -   | -   | +       |
-| [SBML Layout Viewer](http://sysbioapps.dyndns.org/Layout/)                       | +   | +   | +   | +       |
-| [SBMM assistant](http://www.sbmm.uma.es/SPA/)                                    | +   | -   | -   | -       |
-| [VISIBIOweb](http://bcbi.bilkent.edu.tr/pvs.html)                                | +   | -   | -   | +       |
-
-
-
 
 ## Software
 
@@ -639,3 +595,44 @@ One can compare the rendering of SBGN-ML by different software packages on the [
 ### Biological Connection Markup Language (BCML)
 
 The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordjournals.org/content/27/15/2127) is a format to describe, annotate and visualize pathways. BCML can be automatically converted into a SBGN-compliant graphical representation. More information regarding BCML software can be found [here](https://github.com/dc-atlas/bcml).
+
+
+
+| Software Package                                                                 | PD  | ER  | AF  | SBGN-ML |
+| -------------------------------------------------------------------------------- | :-: | :-: | :-: | :-----: |
+| [Athena](http://www.codeplex.com/athena/)                                        | +   | -   | -   | -       |
+| [Beacon Pathway Editor](http://bioinformatics.cs.vt.edu/beacon/)                 | -   | -   | +   | -       |
+| [BIOCHAM](http://contraintes.inria.fr/BIOCHAM/)                                  | +   | -   | -   | -       |
+| [Biographer](http://biographer.biologie.hu-berlin.de/)                           | +   | +   | +   | +       |
+| [CellDesigner](http://www.celldesigner.org/)                                     | +   | -   | -   | +       |
+| [ChiBE](https://code.google.com/archive/p/chibe/)                                | +   | -   | -   | -       |
+| [Dunnart](http://www.dunnart.org/)                                               | +   | -   | -   | -       |
+| [Edinburgh Pathway Editor](http://epe.sourceforge.net/)                          | +   | +   | +   | -       |
+| [geneXplain platform](http://genexplain.com/genexplain-platform-1)               | +   | -   | -   | -       |
+| [Krayon for SBGN](https://github.com/wiese42/krayon4sbgn)                        | +   | -   | -   | +       |
+| [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | +   | -   | -   | -       |
+| [Newt Editor](http://newteditor.org/)                                            | +   | -   | +   | +       |
+| [Omix](http://www.omix-visualization.com/)                                       | -   | -   | -   | +       |
+| [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | +   | +   | +   | +       |
+| [PathwayLab](http://www.innetics.com/)                                           | +   | -   | -   | -       |
+| [SBGN-ED](http://www.sbgn-ed.org/)                                               | +   | +   | +   | +       |
+| [SBGNTikZ](https://github.com/Adrienrougny/sbgntikz)                             | +   | +   | +   | -       |
+| [yEd Graph Editor](https://www.yworks.com/products/yed)                          | +   | -   | +   | -       |
+
+
+| Software Package                                                                 | PD  | ER  | AF  | SBGN-ML |
+| -------------------------------------------------------------------------------- | :-: | :-: | :-: | :-----: |
+| [Arcadia](http://arcadiapathways.sourceforge.net/)                               | +   | -   | -   | -       |
+| [BioUML](http://www.biouml.org/)                                                 | +   | -   | -   | -       |
+| [COPASI](http://copasi.org/)                                                     | +   | -   | -   | -       |
+| [CySBGN](http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/)                         | +   | +   | +   | +       |
+| [EscherConverter](https://escher.readthedocs.org/en/latest/escherconverter.html) | +   | -   | -   | +       |
+| [iPathways](http://www.ipathways.org/)                                           | +   | -   | -   | -       |
+| [JWS Online](http://jjj.bio.vu.nl/)                                              | +   | -   | -   | -       |
+| [KEGGtranslator](http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/) | +   | -   | -   | +       |
+| [Mayday MGV](http://it.inf.uni-tuebingen.de/?page_id=248)                        | +   | -   | -   | -       |
+| [Mimoza](http://mimoza.bordeaux.inria.fr/)                                       | +   | -   | -   | -       |
+| [SBGNViz](http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/)                        | +   | -   | -   | +       |
+| [SBML Layout Viewer](http://sysbioapps.dyndns.org/Layout/)                       | +   | +   | +   | +       |
+| [SBMM assistant](http://www.sbmm.uma.es/SPA/)                                    | +   | -   | -   | -       |
+| [VISIBIOweb](http://bcbi.bilkent.edu.tr/pvs.html)                                | +   | -   | -   | +       |
