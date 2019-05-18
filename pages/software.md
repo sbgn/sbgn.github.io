@@ -315,8 +315,8 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ## Software (software cards version)
 
-<br />  <font size="5">&#9745;</font> PD &mbsp; &mbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
-<br />  <font size="5">&#9745;</font> AF &mbsp; &mbsp; <font size="5">&#9745;</font> SBGN-ML 0.3
+<br />  <font size="5">&#9745;</font> PD &nbsp; &nbsp; &nbsp; &nbsp; <font size="5">&#9745;</font> SBGN-ML 0.2
+<br />  <font size="5">&#9745;</font> AF &emsp; &emsp; <font size="5">&#9745;</font> SBGN-ML 0.3
 <br />  <font size="5">&#9744;</font> ER
 
 
