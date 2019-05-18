@@ -12,7 +12,7 @@ permalink: software
     -  [Visualisers with SBGN-ML support](#visualisers-with-sbgn-ml-support)
     -  [Visualisers without SBGN-ML support](#visualisers-without-sbgn-ml-support)
 *  [Databases](#databases)
-*  [File Formats](#file-formats)
+*  [File formats](#file-formats)
 
 This page summarizes what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to [sbgn-discuss](mailto:sbgn-discuss@googlegroups.com).
 
@@ -183,16 +183,74 @@ This page summarizes what we know about software support for SBGN languages. Thi
 </tbody>
 </table>
 
-### Visualisers
+### Visualisers with SBGN-ML support
 
-<table style="width:520px">
+<table style="width:560px">
 <thead>
 <tr>
 <th style="width:200px; text-align:left">Software Package</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
-<th style="width:80px; text-align:center">SBGN-ML</th>
+<th style="width:120px; text-align:center">Availability</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://sysbioapps.dyndns.org/Layout/">SBML Layout Viewer</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">+</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">+</td>
+</tr>
+</tbody>
+</table>
+
+### Visualisers without SBGN-ML support
+
+<table style="width:560px">
+<thead>
+<tr>
+<th style="width:200px; text-align:left">Software Package</th>
+<th style="width:80px; text-align:center">PD</th>
+<th style="width:80px; text-align:center">ER</th>
+<th style="width:80px; text-align:center">AF</th>
+<th style="width:120px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
@@ -218,20 +276,6 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="http://www.ipathways.org/">iPathways</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
@@ -244,13 +288,6 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://it.inf.uni-tuebingen.de/?page_id=248">Mayday MGV</a></td>
@@ -267,32 +304,11 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <td style="text-align:center">-</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://sysbioapps.dyndns.org/Layout/">SBML Layout Viewer</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="http://www.sbmm.uma.es/SPA/">SBMM assistant</a></td>
 <td style="text-align:center">+</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
 <td style="text-align:center">-</td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
 </tr>
 </tbody>
 </table>
@@ -863,7 +879,7 @@ PD – Process Description, ER – Entity Relationship, AF – Activity Flow
 SBGN-ML - Download of SBGN maps in SBGN-ML format (see also [File Formats](#file-formats))  
 "+" supported, "-" not supported
 
-## File Formats
+## File formats
 
 ### SBGN-ML
 
