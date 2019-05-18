@@ -319,41 +319,6 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 The following is a list of software packages known to provide support for SBGN. The links to the software packages were correct at the time of recording.
 
-| Software Package                                                                 | V / E | PD  | ER  | AF  | SBGN-ML |
-| -------------------------------------------------------------------------------- | :---: | :-: | :-: | :-: | :-----: |
-| [Arcadia](http://arcadiapathways.sourceforge.net/)                               | V     | +   | -   | -   | -       |
-| [Athena](http://www.codeplex.com/athena/)                                        | E     | +   | -   | -   | -       |
-| [Beacon Pathway Editor](http://bioinformatics.cs.vt.edu/beacon/)                 | E     | -   | -   | +   | -       |
-| [BIOCHAM](http://contraintes.inria.fr/BIOCHAM/)                                  | E     | +   | -   | -   | -       |
-| [Biographer](http://biographer.biologie.hu-berlin.de/)                           | E     | +   | +   | +   | +       |
-| [BioUML](http://www.biouml.org/)                                                 | V     | +   | -   | -   | -       |
-| [CellDesigner](http://www.celldesigner.org/)                                     | E     | +   | -   | -   | +       |
-| [ChiBE](https://code.google.com/archive/p/chibe/)                                | E     | +   | -   | -   | -       |
-| [COPASI](http://copasi.org/)                                                     | V     | +   | -   | -   | -       |
-| [CySBGN](http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/)                         | V     | +   | +   | +   | +       |
-| [Dunnart](http://www.dunnart.org/)                                               | E     | +   | -   | -   | -       |
-| [Edinburgh Pathway Editor](http://epe.sourceforge.net/)                          | E     | +   | +   | +   | -       |
-| [EscherConverter](https://escher.readthedocs.org/en/latest/escherconverter.html) | V     | +   | -   | -   | +       |
-| [geneXplain platform](http://genexplain.com/genexplain-platform-1)               | E     | +   | -   | -   | -       |
-| [iPathways](http://www.ipathways.org/)                                           | V     | +   | -   | -   | -       |
-| [JWS Online](http://jjj.bio.vu.nl/)                                              | V     | +   | -   | -   | -       |
-| [KEGGtranslator](http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/) | V     | +   | -   | -   | +       |
-| [Krayon for SBGN](https://github.com/wiese42/krayon4sbgn)                        | E     | +   | -   | -   | +       |
-| [Mayday MGV](http://it.inf.uni-tuebingen.de/?page_id=248)                        | V     | +   | -   | -   | -       |
-| [Mimoza](http://mimoza.bordeaux.inria.fr/)                                       | V     | +   | -   | -   | -       |
-| [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | E     | +   | -   | -   | -       |
-| [Newt Editor](http://newteditor.org/)                                            | E     | +   | -   | +   | +       |
-| [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       |
-| [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | E     | +   | +   | +   | +       |
-| [PathwayLab](http://www.innetics.com/)                                           | E     | +   | -   | -   | -       |
-| [SBGN-ED](http://www.sbgn-ed.org/)                                               | E     | +   | +   | +   | +       |
-| [SBGNTikZ](https://github.com/Adrienrougny/sbgntikz)                             | E     | +   | +   | +   | -       |
-| [SBGNViz](http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/)                        | V     | +   | -   | -   | +       |
-| [SBML Layout Viewer](http://sysbioapps.dyndns.org/Layout/)                       | V     | +   | +   | +   | +       |
-| [SBMM assistant](http://www.sbmm.uma.es/SPA/)                                    | V     | +   | -   | -   | -       |
-| [VISIBIOweb](http://bcbi.bilkent.edu.tr/pvs.html)                                | V     | +   | -   | -   | +       |
-| [yEd Graph Editor](https://www.yworks.com/products/yed)                          | E     | +   | -   | +   | -       |
-
 
 <table>
 <thead>
