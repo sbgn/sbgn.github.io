@@ -33,58 +33,58 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <tbody>
 <tr>
 <td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.celldesigner.org/">CellDesigner</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="4">&#9744;</font></td>
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/wiese42/krayon4sbgn">Krayon for SBGN</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="4">&#9744;</font></td>
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://newteditor.org/">Newt Editor</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
 <td style="text-align:center">Open source</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.omix-visualization.com/">Omix</a></td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.sbgn-ed.org/">SBGN-ED</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="4">&#9745;</font></td>
 <td style="text-align:center">Free</td>
 </tr>
 </tbody>
