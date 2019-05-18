@@ -16,7 +16,7 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ### Editors
 
-<table>
+<table width="350">
 <thead>
 <tr>
 <th style="width:150px; text-align:left">Software Package</th>
