@@ -19,11 +19,11 @@ This page summarizes what we know about software support for SBGN languages. Thi
 <table>
 <thead>
 <tr>
-<th style="width:300px; text-align:left">Software Package</th>
-<th style="text-align:center">PD</th>
-<th style="text-align:center">ER</th>
-<th style="text-align:center">AF</th>
-<th style="text-align:center">SBGN-ML</th>
+<th style="width:200px; text-align:left">Software Package</th>
+<th style="width:100px; text-align:center">PD</th>
+<th style="width:100px; text-align:center">ER</th>
+<th style="width:100px; text-align:center">AF</th>
+<th style="width:100px; text-align:center">SBGN-ML</th>
 </tr>
 </thead>
 <tbody>
