@@ -7,10 +7,10 @@ permalink: software
 # Software support
 
 *  [Software](#software)
-  *  [Editors with SBGN-ML support](#editors-with-sbgn-ml-support)
-  *  [Editors without SBGN-ML support](#editors-without-sbgn-ml-support)
-  *  [Visualisers with SBGN-ML support](#visualisers-with-sbgn-ml-support)
-  *  [Visualisers without SBGN-ML support](#visualisers-without-sbgn-ml-support)
+    *  [Editors with SBGN-ML support](#editors-with-sbgn-ml-support)
+    *  [Editors without SBGN-ML support](#editors-without-sbgn-ml-support)
+    *  [Visualisers with SBGN-ML support](#visualisers-with-sbgn-ml-support)
+    *  [Visualisers without SBGN-ML support](#visualisers-without-sbgn-ml-support)
 *  [Databases](#databases)
 *  [File Formats](#file-formats)
 
