@@ -18,6 +18,12 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ## Software (alternative version)
 
+&#9745; PD
+&#9745; AF
+&#9744; ER
+&#9745; SBGN-ML 0.2
+&#9744; SBGN-ML 0.3
+
 ### Editors with SBGN-ML support
 
 <table style="width:560px">
