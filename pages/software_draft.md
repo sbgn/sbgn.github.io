@@ -16,15 +16,15 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 The following is a list of software packages known to provide support for SBGN. The links to the software packages were correct at the time of recording.
 
-<table>
+<table style="width:580px">
 <thead>
-<tr>
-<th>Software Package</th>
-<th style="text-align:center">V / E</th>
-<th style="text-align:center">PD</th>
-<th style="text-align:center">ER</th>
-<th style="text-align:center">AF</th>
-<th style="text-align:center">SBGN-ML</th>
+<tr style="height:40px">
+<th style="width:200px; text-align:left">Software</th>
+<th style="width:70px; text-align:center">V / E</th>
+<th style="width:70px; text-align:center">PD</th>
+<th style="width:70px; text-align:center">ER</th>
+<th style="width:70px; text-align:center">AF</th>
+<th style="width:120px; text-align:center">SBGN-ML</th>
 </tr>
 </thead>
 <tbody>
