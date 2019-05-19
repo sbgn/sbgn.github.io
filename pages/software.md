@@ -313,15 +313,6 @@ This page summarizes what we know about software support for SBGN languages. Thi
 </tbody>
 </table>
 
-## Software
-
-The following is a list of software packages known to provide support for SBGN. The links to the software packages were correct at the time of recording.
-
-V / E - Viewer or Editor  
-PD – Process Description, ER – Entity Relationship, AF – Activity Flow  
-SBGN-ML - Load SBGN maps from SBGN-ML format and/or save SBGN maps to SBGN-ML format (see also [File Formats](#file-formats))  
-"+" supported, "-" not supported
-
 ## Databases
 
 The following is a list of databases known to provide SBGN maps. The links to the databases were correct at the time of recording.
