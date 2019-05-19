@@ -22,7 +22,7 @@ The following are lists of software packages known to provide support for editin
 
 ### Editors with SBGN-ML support
 
-The following ditors allow drawing in SBGN and can import and/or export files in SBGN-ML format.
+The following editors allow import and/or export files in SBGN-ML format.
 
 <table style="width:560px">
 <thead>
