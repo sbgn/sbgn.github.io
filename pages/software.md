@@ -251,7 +251,7 @@ The following visualisers can import and/or export files in SBGN-ML format.
 
 ### Visualisers without SBGN-ML support
 
-The visualisers that enable view in SBGN but do not support SBGN-ML file format.
+The visualisers that enable representation of diagrams in SBGN but do not support SBGN-ML file format.
 
 <table style="width:560px">
 <thead>
