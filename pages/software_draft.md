@@ -29,7 +29,7 @@ The following is a list of software packages known to provide support for SBGN. 
 </thead>
 <tbody>
 <tr>
-<td><a href="http://arcadiapathways.sourceforge.net/">Arcadia</a></td>
+<td style="text-align:left"><a href="http://arcadiapathways.sourceforge.net/">Arcadia</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -37,7 +37,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.codeplex.com/athena/">Athena</a></td>
+<td style="text-align:left"><a href="http://www.codeplex.com/athena/">Athena</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -45,7 +45,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://bioinformatics.cs.vt.edu/beacon/">Beacon Pathway Editor</a></td>
+<td style="text-align:left"><a href="http://bioinformatics.cs.vt.edu/beacon/">Beacon Pathway Editor</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -53,7 +53,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
+<td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -61,7 +61,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
+<td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -69,7 +69,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.biouml.org/">BioUML</a></td>
+<td style="text-align:left"><a href="http://www.biouml.org/">BioUML</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -77,7 +77,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.celldesigner.org/">CellDesigner</a></td>
+<td style="text-align:left"><a href="http://www.celldesigner.org/">CellDesigner</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -85,7 +85,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
+<td style="text-align:left"><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -93,7 +93,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://copasi.org/">COPASI</a></td>
+<td style="text-align:left"><a href="http://copasi.org/">COPASI</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -101,7 +101,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
+<td style="text-align:left"><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -109,7 +109,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.dunnart.org/">Dunnart</a></td>
+<td style="text-align:left"><a href="http://www.dunnart.org/">Dunnart</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -117,7 +117,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://epe.sourceforge.net/">Edinburgh Pathway Editor</a></td>
+<td style="text-align:left"><a href="http://epe.sourceforge.net/">Edinburgh Pathway Editor</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -125,7 +125,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
+<td style="text-align:left"><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -133,7 +133,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
+<td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -141,7 +141,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.ipathways.org/">iPathways</a></td>
+<td style="text-align:left"><a href="http://www.ipathways.org/">iPathways</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -149,7 +149,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
+<td style="text-align:left"><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -157,7 +157,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
+<td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -165,7 +165,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="https://github.com/wiese42/krayon4sbgn">Krayon for SBGN</a></td>
+<td style="text-align:left"><a href="https://github.com/wiese42/krayon4sbgn">Krayon for SBGN</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -173,7 +173,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="http://it.inf.uni-tuebingen.de/?page_id=248">Mayday MGV</a></td>
+<td style="text-align:left"><a href="http://it.inf.uni-tuebingen.de/?page_id=248">Mayday MGV</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -181,7 +181,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://mimoza.bordeaux.inria.fr/">Mimoza</a></td>
+<td style="text-align:left"><a href="http://mimoza.bordeaux.inria.fr/">Mimoza</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -189,7 +189,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
+<td style="text-align:left"><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -197,7 +197,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://newteditor.org/">Newt Editor</a></td>
+<td style="text-align:left"><a href="http://newteditor.org/">Newt Editor</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -205,7 +205,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.omix-visualization.com/">Omix</a></td>
+<td style="text-align:left"><a href="http://www.omix-visualization.com/">Omix</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -213,7 +213,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a></td>
+<td style="text-align:left"><a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -221,7 +221,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.innetics.com/">PathwayLab</a></td>
+<td style="text-align:left"><a href="http://www.innetics.com/">PathwayLab</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -229,7 +229,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.sbgn-ed.org/">SBGN-ED</a></td>
+<td style="text-align:left"><a href="http://www.sbgn-ed.org/">SBGN-ED</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -237,7 +237,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
+<td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -245,7 +245,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
+<td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -253,7 +253,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="http://sysbioapps.dyndns.org/Layout/">SBML Layout Viewer</a></td>
+<td style="text-align:left"><a href="http://sysbioapps.dyndns.org/Layout/">SBML Layout Viewer</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -261,7 +261,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="http://www.sbmm.uma.es/SPA/">SBMM assistant</a></td>
+<td style="text-align:left"><a href="http://www.sbmm.uma.es/SPA/">SBMM assistant</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -269,7 +269,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
+<td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
 <td style="text-align:center">V</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -277,7 +277,7 @@ The following is a list of software packages known to provide support for SBGN. 
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
-<td><a href="https://www.yworks.com/products/yed">yEd Graph Editor</a></td>
+<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd Graph Editor</a></td>
 <td style="text-align:center">E</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
