@@ -19,16 +19,15 @@ The following is a list of software packages known to provide support for SBGN. 
 | Software Package                                                                 | V / E | PD  | ER  | AF  | SBGN-ML |
 | -------------------------------------------------------------------------------- | :---: | :-: | :-: | :-: | :-----: |
 | [Arcadia](http://arcadiapathways.sourceforge.net/)                               | V     | +   | -   | -   | -       |
-| [Athena](http://www.codeplex.com/athena/)                                        | E     | +   | -   | -   | -       |
+| [Athena](https://archive.codeplex.com/?p=athena)                                 | E     | +   | -   | -   | -       |
 | [Beacon Pathway Editor](http://bioinformatics.cs.vt.edu/beacon/)                 | E     | -   | -   | +   | -       |
 | [BIOCHAM](http://contraintes.inria.fr/BIOCHAM/)                                  | E     | +   | -   | -   | -       |
 | [Biographer](http://biographer.biologie.hu-berlin.de/)                           | E     | +   | +   | +   | +       |
 | [BioUML](http://www.biouml.org/)                                                 | V     | +   | -   | -   | -       |
 | [CellDesigner](http://www.celldesigner.org/)                                     | E     | +   | -   | -   | +       |
-| [ChiBE](https://code.google.com/archive/p/chibe/)                                | E     | +   | -   | -   | -       |
+| [ChiBE](https://github.com/PathwayCommons/chibe)                                 | E     | +   | -   | -   | -       |
 | [COPASI](http://copasi.org/)                                                     | V     | +   | -   | -   | -       |
-| [CySBGN](http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/)                         | V     | +   | +   | +   | +       |
-| [Dunnart](http://www.dunnart.org/)                                               | E     | +   | -   | -   | -       |
+| [CySBGN](https://saezlab.github.io/cysbgn/             )                         | V     | +   | +   | +   | +       |
 | [Edinburgh Pathway Editor](http://epe.sourceforge.net/)                          | E     | +   | +   | +   | -       |
 | [EscherConverter](https://escher.readthedocs.org/en/latest/escherconverter.html) | V     | +   | -   | -   | +       |
 | [geneXplain platform](http://genexplain.com/genexplain-platform-1)               | E     | +   | -   | -   | -       |
@@ -42,11 +41,10 @@ The following is a list of software packages known to provide support for SBGN. 
 | [Newt Editor](http://newteditor.org/)                                            | E     | +   | -   | +   | +       |
 | [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       |
 | [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | E     | +   | +   | +   | +       |
-| [PathwayLab](http://www.innetics.com/)                                           | E     | +   | -   | -   | -       |
-| [SBGN-ED](http://www.sbgn-ed.org/)                                               | E     | +   | +   | +   | +       |
+| [SBGN-ED/VANTED](http://www.sbgn-ed.org/)                                        | E     | +   | +   | +   | +       |
 | [SBGNTikZ](https://github.com/Adrienrougny/sbgntikz)                             | E     | +   | +   | +   | -       |
 | [SBGNViz](http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/)                        | V     | +   | -   | -   | +       |
-| [SBML Layout Viewer](http://sysbioapps.dyndns.org/Layout/)                       | V     | +   | +   | +   | +       |
+| [SBML Layout Viewer](http://sysbioapps.spdns.org/Layout)                         | V     | +   | +   | +   | +       |
 | [SBMM assistant](http://www.sbmm.uma.es/SPA/)                                    | V     | +   | -   | -   | -       |
 | [VISIBIOweb](http://bcbi.bilkent.edu.tr/pvs.html)                                | V     | +   | -   | -   | +       |
 | [yEd Graph Editor](https://www.yworks.com/products/yed)                          | E     | +   | -   | +   | -       |
