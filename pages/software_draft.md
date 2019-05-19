@@ -290,7 +290,6 @@ The following is a list of software packages known to provide support for SBGN. 
 V / E - Viewer or Editor  
 PD – Process Description, ER – Entity Relationship, AF – Activity Flow  
 SBGN-ML - Load SBGN maps from SBGN-ML format and/or save SBGN maps to SBGN-ML format (see also [File Formats](#file-formats))  
-"+" supported, "-" not supported
 
 ## Databases
 
