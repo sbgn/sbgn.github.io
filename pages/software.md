@@ -332,87 +332,87 @@ The following is a list of databases known to provide SBGN maps. The links to th
 <tbody>
 <tr>
 <td style="text-align:left"><a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.alzpathway.org/">AlzPathway</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.ebi.ac.uk/biomodels/">BioModels Database</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://ipavs.cidms.org/">iPAVS</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://metacrop.ipk-gatersleben.de/">MetaCrop</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.pantherdb.org/pathway/">PANTHER Pathway</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models</a>*</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.reactome.org">Reactome</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">+</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://rimas.ipk-gatersleben.de">RIMAS</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://subtiwiki.uni-goettingen.de/apps/pathway.php?pathway=11">SubtiPathways</a></td>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">-</td>
+<td style="text-align:center"<font size="5">&#9745;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
+<td style="text-align:center"<font size="5">&#9744;</font>/td>
 </tr>
 </tbody>
 </table>
