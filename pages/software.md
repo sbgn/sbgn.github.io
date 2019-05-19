@@ -35,7 +35,7 @@ The following are lists of software packages known to provide support for editin
 </tr>
 </thead>
 <tbody>
-<tr style="height:20px">
+<tr style="height:100px">
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
