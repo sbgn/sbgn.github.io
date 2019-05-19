@@ -17,13 +17,11 @@ permalink: software
 
 This page summarizes what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to [sbgn-discuss](mailto:sbgn-discuss@googlegroups.com).
 
-## Software
-
 The following are lists of software packages known to provide support for editing and visualising in SBGN Process Description (PD), Entity Relationships (ER) and Activity Flow (AF) with and without SBGN-ML file format support. 
 
-### Editors
+## Editors
 
-#### Editors with SBGN-ML support
+### Editors with SBGN-ML support
 
 The following editors allow import and/or export files in SBGN-ML format.
 
@@ -97,7 +95,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tbody>
 </table>
 
-#### Editors without SBGN-ML support
+### Editors without SBGN-ML support
 
 The editors that enable drawing in SBGN but do not support SBGN-ML file format.
 
@@ -192,9 +190,9 @@ The editors that enable drawing in SBGN but do not support SBGN-ML file format.
 </tbody>
 </table>
 
-### Visualisers
+## Visualisers
 
-#### Visualisers with SBGN-ML support
+### Visualisers with SBGN-ML support
 
 The following visualisers enable viewing in SBGN and can import and/or export files in SBGN-ML format.
 
@@ -254,7 +252,7 @@ The following visualisers enable viewing in SBGN and can import and/or export fi
 </tbody>
 </table>
 
-#### Visualisers without SBGN-ML support
+### Visualisers without SBGN-ML support
 
 The visualisers that enable viewing in SBGN but do not support SBGN-ML file format.
 
