@@ -327,6 +327,8 @@ The visualisers that enable representation of diagrams in SBGN but do not suppor
 
 The following is a list of databases known to provide SBGN maps. The links to the databases were correct at the time of recording.
 
+### Databases with SBGN-ML support
+
 <table style="width:560px">
 <thead>
 <tr style="height:40px">
@@ -426,6 +428,70 @@ The following is a list of databases known to provide SBGN maps. The links to th
 </table>
 
 &#42;Path2Models is part of the BioModels Database  
+
+### Databases without SBGN-ML support
+
+<table style="width:440px">
+<thead>
+<tr style="height:40px">
+<th style="width:200px; text-align:left">Database</th>
+<th style="width:80px; text-align:center">PD</th>
+<th style="width:80px; text-align:center">ER</th>
+<th style="width:80px; text-align:center">AF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.alzpathway.org/">AlzPathway</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.ebi.ac.uk/biomodels/">BioModels Database</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://ipavs.cidms.org/">iPAVS</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://rimas.ipk-gatersleben.de">RIMAS</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://subtiwiki.uni-goettingen.de/apps/pathway.php?pathway=11">SubtiPathways</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+</tbody>
+</table>
+
 
 ## File formats
 
