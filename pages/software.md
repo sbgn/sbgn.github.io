@@ -24,7 +24,7 @@ The following are lists of software packages known to provide support for editin
 
 <table style="width:560px">
 <thead>
-<tr>
+<tr style="height:32px">
 <th style="width:200px; text-align:left">Software</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
