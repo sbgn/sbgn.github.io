@@ -107,79 +107,79 @@ The following are lists of software packages known to provide support for editin
 <tbody>
 <tr>
 <td style="text-align:left"><a href="http://www.codeplex.com/athena/">Athena</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://bioinformatics.cs.vt.edu/beacon/">Beacon Pathway Editor</a></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.dunnart.org/">Dunnart</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://epe.sourceforge.net/">Edinburgh Pathway Editor</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.innetics.com/">PathwayLab</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a></td>
-<td style="text-align:center"><font size="4">&#9745;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
-<td style="text-align:center"><font size="4">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">Free</td>
 </tr>
 </tbody>
