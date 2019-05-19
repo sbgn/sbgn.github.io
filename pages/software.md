@@ -15,7 +15,7 @@ permalink: software
 *  [Databases](#databases)
 *  [File formats](#file-formats)
 
-This page summarizes what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to [sbgn-discuss](mailto:sbgn-discuss@googlegroups.com).
+This page summarises what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to [sbgn-discuss](mailto:sbgn-discuss@googlegroups.com).
 
 The following are lists of software packages known to provide support for editing and visualising in SBGN Process Description (PD), Entity Relationships (ER) and Activity Flow (AF) with and without SBGN-ML file format support. 
 
