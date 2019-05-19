@@ -322,7 +322,7 @@ The following is a list of databases known to provide SBGN maps. The links to th
 <table style="width:560px">
 <thead>
 <tr>
-<th style="width:200px; text-align:left">Software</th>
+<th style="width:200px; text-align:left">Database</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
