@@ -33,7 +33,7 @@ The following are lists of software packages known to provide support for editin
 </tr>
 </thead>
 <tbody>
-<tr style="height:40px">
+<tr>
 <td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -96,7 +96,7 @@ The following are lists of software packages known to provide support for editin
 
 <table style="width:560px">
 <thead>
-<tr>
+<tr style="height:40px">
 <th style="width:200px; text-align:left">Software</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
@@ -189,7 +189,7 @@ The following are lists of software packages known to provide support for editin
 
 <table style="width:560px">
 <thead>
-<tr>
+<tr style="height:40px">
 <th style="width:200px; text-align:left">Software </th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
@@ -247,7 +247,7 @@ The following are lists of software packages known to provide support for editin
 
 <table style="width:560px">
 <thead>
-<tr>
+<tr style="height:40px">
 <th style="width:200px; text-align:left">Software</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
@@ -321,7 +321,7 @@ The following is a list of databases known to provide SBGN maps. The links to th
 
 <table style="width:560px">
 <thead>
-<tr>
+<tr style="height:40px">
 <th style="width:200px; text-align:left">Database</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
