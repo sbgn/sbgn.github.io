@@ -387,7 +387,7 @@ The following is a list of databases known to provide SBGN maps. The links to th
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models</a>*</td>
+<td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
