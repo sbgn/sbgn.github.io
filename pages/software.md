@@ -18,11 +18,11 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ## Software
 
-The following are lists of software packages known to provide support for editing and visualising in SBGN Process Description (PD), Entity Relationships (ER) and Activity Flow (AF) with and without SBGN-ML support. 
+The following are lists of software packages known to provide support for editing and visualising in SBGN Process Description (PD), Entity Relationships (ER) and Activity Flow (AF) with and without SBGN-ML file format support. 
 
 ### Editors with SBGN-ML support
 
-The following ditors can import and/or export files in SBGN-ML format.
+The following ditors allow drawing in SBGN and can import and/or export files in SBGN-ML format.
 
 <table style="width:560px">
 <thead>
@@ -96,7 +96,7 @@ The following ditors can import and/or export files in SBGN-ML format.
 
 ### Editors without SBGN-ML support
 
-The editors that enable drawing in SBGN but do not support SBGN-ML format.
+The editors that enable drawing in SBGN but do not support SBGN-ML file format.
 
 <table style="width:560px">
 <thead>
@@ -191,7 +191,7 @@ The editors that enable drawing in SBGN but do not support SBGN-ML format.
 
 ### Visualisers with SBGN-ML support
 
-The following visualisers can import and/or export files in SBGN-ML format.
+The following visualisers enable viewing in SBGN and can import and/or export files in SBGN-ML format.
 
 <table style="width:560px">
 <thead>
@@ -251,7 +251,7 @@ The following visualisers can import and/or export files in SBGN-ML format.
 
 ### Visualisers without SBGN-ML support
 
-The visualisers that enable representation of diagrams in SBGN but do not support SBGN-ML file format.
+The visualisers that enable viewing in SBGN but do not support SBGN-ML file format.
 
 <table style="width:560px">
 <thead>
@@ -329,14 +329,13 @@ The following is a list of databases known to provide SBGN maps. The links to th
 
 ### Databases with SBGN-ML support
 
-<table style="width:560px">
+<table style="width:440px">
 <thead>
 <tr style="height:40px">
 <th style="width:200px; text-align:left">Database</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
-<th style="width:120px; text-align:center">SBGN-ML</th>
 </tr>
 </thead>
 <tbody>
@@ -345,40 +344,10 @@ The following is a list of databases known to provide SBGN maps. The links to th
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://www.alzpathway.org/">AlzPathway</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://www.ebi.ac.uk/biomodels/">BioModels Database</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://ipavs.cidms.org/">iPAVS</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://metacrop.ipk-gatersleben.de/">MetaCrop</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
@@ -387,40 +356,16 @@ The following is a list of databases known to provide SBGN maps. The links to th
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.reactome.org">Reactome</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://rimas.ipk-gatersleben.de">RIMAS</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://subtiwiki.uni-goettingen.de/apps/pathway.php?pathway=11">SubtiPathways</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
@@ -441,12 +386,6 @@ The following is a list of databases known to provide SBGN maps. The links to th
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:left"><a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
 <tr>
 <td style="text-align:left"><a href="http://www.alzpathway.org/">AlzPathway</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
