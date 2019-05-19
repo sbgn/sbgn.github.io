@@ -22,8 +22,6 @@ The following are lists of software packages known to provide support for editin
 
 ### Editors with SBGN-ML support
 
-<td style="height:100px">
-
 <table style="width:560px">
 <thead>
 <tr>
