@@ -325,7 +325,7 @@ The visualisers that enable viewing in SBGN but do not support SBGN-ML file form
 
 ## Databases
 
-The following is a list of databases known to provide SBGN maps. The links to the databases were correct at the time of recording.
+The following is a list of databases known to provide SBGN maps.
 
 ### Databases with SBGN-ML support
 
