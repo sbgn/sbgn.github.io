@@ -38,7 +38,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"> </td>
+<td style="text-align:center">Open source</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.celldesigner.org/">CellDesigner</a></td>
@@ -66,14 +66,14 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
+<td style="text-align:center">Free</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">Open source</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.sbgn-ed.org/">SBGN-ED</a></td>
