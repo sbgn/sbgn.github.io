@@ -1,7 +1,7 @@
 ---
 title: Software support
 layout: default
-permalink: software
+permalink: softwar
 ---
 
 # Software support
