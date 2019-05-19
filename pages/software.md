@@ -33,7 +33,7 @@ The following are lists of software packages known to provide support for editin
 </tr>
 </thead>
 <tbody>
-<tr style="height:100px">
+<tr style="height:20px">
 <td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
