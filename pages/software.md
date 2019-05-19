@@ -417,7 +417,7 @@ The following is a list of databases known to provide SBGN maps. The links to th
 </tbody>
 </table>
 
-* Path2Models is part of the BioModels Database  
+&#9733;Path2Models is part of the BioModels Database  
 
 ## File formats
 
