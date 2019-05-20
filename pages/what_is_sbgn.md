@@ -44,14 +44,14 @@ One can compare the rendering of SBGN-ML by different software packages on
 the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison/) site.
 
 ### Databases visualizing pathways as SBGN and exporting SBGN-ML
-<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a>  (...), <br>
-<a href="http://www.pantherdb.org/pathway/">PANTHER Pathway</a> (...), <br>
-<a href="http://www.reactome.org">Reactome</a> (...), <br>
-<a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a> (...), <br>
+<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a>  (...), 
+<a href="http://www.pantherdb.org/pathway/">PANTHER Pathway</a> (...), 
+<a href="http://www.reactome.org">Reactome</a> (...), 
+<a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a> (...).
 
 ### Modeling software that draw PD diagrams and export/import SBGN 
-<a href="http://www.celldesigner.org/">CellDesigner</a>   (...), <br>
-<a href="http://www.biouml.org/">BioUML</a>
+<a href="http://www.celldesigner.org/">CellDesigner</a>   (...), 
+<a href="http://www.biouml.org/">BioUML</a>.
 
 ### Editors that draw PD diagrams and export/import SBGN 
 <a href="https://github.com/wiese42/krayon4sbgn">KrayonForSbgn</a> (...), <br>
@@ -72,21 +72,21 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 
 ### Tools that visualize PD diagrams 
 
-<a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a> (visualization of BioCHAM models as <b>PD</b>),  <br>
-<a href="https://github.com/PathwayCommons/chibe">ChiBE</a> (visualization of <a href="http://biopax.org">BioPAX</a> files as <b>PD</b>),  <br>
-<a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a> (...), <br>
-<a href="https://www.yworks.com/products/yed">yEd</a>  (...), <br>
-<a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a> (...), <br>
-<a href="http://copasi.org/">COPASI</a> (...), <br>
-<a href="http://jjj.bio.vu.nl/">JWS Online</a>< (...), <br>
+<a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a> (visualization of BioCHAM models as <b>PD</b>), 
+<a href="https://github.com/PathwayCommons/chibe">ChiBE</a> (visualization of <a href="http://biopax.org">BioPAX</a> files as <b>PD</b>), 
+<a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a> (...), 
+<a href="https://www.yworks.com/products/yed">yEd</a>  (...), 
+<a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a> (...), 
+<a href="http://copasi.org/">COPASI</a> (...), 
+<a href="http://jjj.bio.vu.nl/">JWS Online</a>< (...).
 
 ## Other sources of SBGN maps
-<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a> (...), <br>
-<a href="http://www.alzpathway.org/">AlzPathway</a> (...), <br>
-<a href="http://www.ebi.ac.uk/biomodels/">BioModels Database</a> (...), <br>
-<a href="https://navicell.curie.fr/">NaviCell</a> (...), <br>
-<a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a> (...), <br>
-<a href="http://rimas.ipk-gatersleben.de">RIMAS</a> (...), <br>
+<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a> (...),
+<a href="http://www.alzpathway.org/">AlzPathway</a> (...), 
+<a href="http://www.ebi.ac.uk/biomodels/">BioModels Database</a> (...), 
+<a href="https://navicell.curie.fr/">NaviCell</a> (...), 
+<a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a> (...), 
+<a href="http://rimas.ipk-gatersleben.de">RIMAS</a> (...), 
 <a href="http://subtiwiki.uni-goettingen.de/">SubtiPathways</a> (...).
 
 
