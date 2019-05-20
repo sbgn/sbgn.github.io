@@ -44,17 +44,18 @@ One can compare the rendering of SBGN-ML by different software packages on
 the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison/) site.
 
 ### Databases visualizing pathways as SBGN and exporting SBGN-ML
-<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a>< (...), <br>
+<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a>  (...), <br>
 <a href="http://www.pantherdb.org/pathway/">PANTHER Pathway</a> (...), <br>
 <a href="http://www.reactome.org">Reactome</a> (...), <br>
 <a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a> (...), <br>
 
 ### Modeling software tools that draw PD diagrams and export/import SBGN 
-<a href="http://www.celldesigner.org/">CellDesigner</a></td> 
+<a href="http://www.celldesigner.org/">CellDesigner</a>   (...), <br>
 <a href="http://www.biouml.org/">BioUML</a>
 
 ### Editors that draw PD diagrams and export/import SBGN 
-<a href="https://github.com/wiese42/krayon4sbgn>KrayonForSbgn</a>, <a href="http://newteditor.org/">Newt Editor</a> (...), <br>
+<a href="https://github.com/wiese42/krayon4sbgn">KrayonForSbgn</a> (...), <br>
+<a href="http://newteditor.org/">Newt Editor</a> (...), <br>
 <a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a> (...), <br>
                                             
 ### Tools that convert different formats to SBGN and export SBGN                                              
@@ -62,10 +63,10 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a>  (...), <br>
 <a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a> (...), <br>
 
-## Editors that draw AF and ER diagrams and export/import SBGN 
-<a href="http://newteditor.org/">Newt Editor</a> (<b>PD, AF</b>), <br>
-<a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a> (<b>PD, AF, ER</b>), <br>
-<a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a>(<b>PD, AF, ER</b>), <br>
+### Editors that draw AF and ER diagrams and export/import SBGN 
+<a href="http://newteditor.org/">Newt Editor</a> (<b>PD, AF</b>), 
+<a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a> (<b>PD, AF, ER</b>), 
+<a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a>(<b>PD, AF, ER</b>), 
 <a href="https://www.yworks.com/products/yed">yEd</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a> (<b>PD, AF</b>).
 
 
@@ -82,9 +83,9 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a> (...), <br>
 <a href="http://www.alzpathway.org/">AlzPathway</a> (...), <br>
 <a href="http://www.ebi.ac.uk/biomodels/">BioModels Database</a> (...), <br>
-<td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a> (...), <br>
+<a href="https://navicell.curie.fr/">NaviCell</a> (...), <br>
 <a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a> (...), <br>
-<a href="http://rimas.ipk-gatersleben.de">RIMAS</a>< (...), <br>
-<a href="http://subtiwiki.uni-goettingen.de/">SubtiPathways</a>< (...).
+<a href="http://rimas.ipk-gatersleben.de">RIMAS</a> (...), <br>
+<a href="http://subtiwiki.uni-goettingen.de/">SubtiPathways</a> (...).
 
 
