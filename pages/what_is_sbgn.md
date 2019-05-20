@@ -49,7 +49,7 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="http://www.reactome.org">Reactome</a> (...), <br>
 <a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a> (...), <br>
 
-### Modeling software tools that draw PD diagrams and export/import SBGN 
+### Modeling software that draw PD diagrams and export/import SBGN 
 <a href="http://www.celldesigner.org/">CellDesigner</a>   (...), <br>
 <a href="http://www.biouml.org/">BioUML</a>
 
@@ -59,20 +59,21 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a> (...), <br>
                                             
 ### Tools that convert different formats to SBGN and export SBGN                                              
-<a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a> (...), <br>
-<a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a>  (...), <br>
-<a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a> (...), <br>
+<a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a> (...), 
+<a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a>  (...), 
+<a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a> (...).
 
 ### Editors that draw AF and ER diagrams and export/import SBGN 
-<a href="http://newteditor.org/">Newt Editor</a> (<b>PD, AF</b>), 
-<a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a> (<b>PD, AF, ER</b>), 
-<a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a>(<b>PD, AF, ER</b>), 
-<a href="https://www.yworks.com/products/yed">yEd</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a> (<b>PD, AF</b>).
+<a href="http://newteditor.org/">Newt Editor</a> (PD, AF), 
+<a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a> (PD, AF, ER), 
+<a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a>(PD, AF, ER), 
+<a href="https://www.yworks.com/products/yed">yEd</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a> (PD, AF).
 
 
 ### Tools that visualize PD diagrams 
-<a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td> (visualization of BioCHAM models as <b>PD</b>),  <br>
-<a href="https://github.com/PathwayCommons/chibe">ChiBE</a></td> (visualization of <a href="http://biopax.org">BioPAX</a> files as <b>PD</b>),  <br>
+
+<a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a> (visualization of BioCHAM models as <b>PD</b>),  <br>
+<a href="https://github.com/PathwayCommons/chibe">ChiBE</a> (visualization of <a href="http://biopax.org">BioPAX</a> files as <b>PD</b>),  <br>
 <a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a> (...), <br>
 <a href="https://www.yworks.com/products/yed">yEd</a>  (...), <br>
 <a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a> (...), <br>
