@@ -54,9 +54,9 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="http://www.biouml.org/">BioUML</a>.
 
 ### Editors that draw PD diagrams and export/import SBGN 
-<a href="https://github.com/wiese42/krayon4sbgn">KrayonForSbgn</a> (...), <br>
-<a href="http://newteditor.org/">Newt Editor</a> (...), <br>
-<a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a> (...), <br>
+<a href="https://github.com/wiese42/krayon4sbgn">KrayonForSbgn</a> (...), 
+<a href="http://newteditor.org/">Newt Editor</a> (...),
+<a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a> (...),.
                                             
 ### Tools that convert different formats to SBGN and export SBGN                                              
 <a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a> (...), 
