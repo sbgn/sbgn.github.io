@@ -51,28 +51,28 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="http://www.reactome.org">Reactome</a> (...), 
 <a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a> (...).
 
-<p><b>Modeling software that draw PD diagrams and export/import SBGN</b>: 
+<p><b>Modeling software that draw PD diagrams and export/import SBGN-ML</b>: 
 <a href="http://www.celldesigner.org/">CellDesigner</a>   (...), 
 <a href="http://www.biouml.org/">BioUML</a>.
 
-### Editors that draw PD diagrams and export/import SBGN 
+<p><b>Editors that draw PD diagrams and export/import SBGN-ML</b>: 
 <a href="https://github.com/wiese42/krayon4sbgn">KrayonForSbgn</a> (...), 
 <a href="http://newteditor.org/">Newt Editor</a> (...),
 <a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a> (...),.
                                             
-### Tools that convert different formats to SBGN and export SBGN                                              
+<p><b>Tools that convert different formats to SBGN and export SBGN-ML</b>:                                              
 <a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a> (...), 
 <a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a>  (...), 
 <a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a> (...).
 
-### Editors that draw AF and ER diagrams and export/import SBGN 
+<p><b>Editors that draw AF and ER diagrams and export/import SBGN-ML</b>: 
 <a href="http://newteditor.org/">Newt Editor</a> (PD, AF), 
 <a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a> (PD, AF, ER), 
 <a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a>(PD, AF, ER), 
 <a href="https://www.yworks.com/products/yed">yEd</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a> (PD, AF).
 
 
-### Tools that visualize PD diagrams 
+<p><b>Tools that visualize PD diagrams</b>: 
 
 <a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a> (visualization of BioCHAM models as <b>PD</b>), 
 <a href="https://github.com/PathwayCommons/chibe">ChiBE</a> (visualization of <a href="http://biopax.org">BioPAX</a> files as <b>PD</b>), 
@@ -82,7 +82,7 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="http://copasi.org/">COPASI</a> (...), 
 <a href="http://jjj.bio.vu.nl/">JWS Online</a>< (...).
 
-## Other sources of SBGN maps
+<p><b>Other sources of SBGN maps</b>:
 <a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a> (...),
 <a href="http://www.alzpathway.org/">AlzPathway</a> (...), 
 <a href="http://www.ebi.ac.uk/biomodels/">BioModels Database</a> (...), 
