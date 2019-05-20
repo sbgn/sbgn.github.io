@@ -80,7 +80,7 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="https://www.yworks.com/products/yed">yEd</a>  (...), 
 <a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a> (...), 
 <a href="http://copasi.org/">COPASI</a> (...), 
-<a href="http://jjj.bio.vu.nl/">JWS Online</a>< (...).
+<a href="http://jjj.bio.vu.nl/">JWS Online</a> (...).
 
 <p><b>Other sources of SBGN maps</b>:
 <a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a> (...),
