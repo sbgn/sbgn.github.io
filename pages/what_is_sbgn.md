@@ -8,9 +8,6 @@ permalink: what_is_sbgn
 
 ## Cool visualization  
 
-<link href="assets/css/lightbox.min.css" rel="stylesheet">
-<script language="JavaScript" type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
-
 <div id="published_maps_gallery">
   <table class="gallery_table">
     <tr>
