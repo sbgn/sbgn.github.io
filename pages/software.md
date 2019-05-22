@@ -15,7 +15,7 @@ permalink: software
 
 This page summarises what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to [sbgn-discuss](mailto:sbgn-discuss@googlegroups.com).
 
-The following are lists of software packages known to provide support for editing and visualising in SBGN Process Description (PD), Entity Relationships (ER) and Activity Flow (AF) with and without SBGN-ML file format support. 
+The following are lists of software packages known to provide support for editing and visualising in SBGN Process Description (PD), Entity Relationship (ER) and Activity Flow (AF) with and without SBGN-ML file format support. 
 
 ## Editors
 
@@ -156,12 +156,16 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
@@ -170,6 +174,8 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
@@ -177,9 +183,121 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://github.com/sbgn/ySBGN/releases">ySBGN</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
 </tr>
 </tbody>
 </table>
+
+<br />
+
+<table style="width:680px">
+<thead>
+<tr style="height:40px">
+<th style="width:170px; text-align:left">Software </th>
+<th style="width:70px; text-align:center">PD</th>
+<th style="width:70px; text-align:center">ER</th>
+<th style="width:70px; text-align:center">AF</th>
+<th style="width:70px; text-align:center">SBGN-ML import</th>
+<th style="width:70px; text-align:center">SBGN-ML export</th>
+<th style="width:80px; text-align:center">Formats visualised</th>
+<th style="width:80px; text-align:center">Availability</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">SBML</td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">Esher JSON</td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">KEGG-ML</td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://sysbioapps.dyndns.org/Layout/">SBML Layout Viewer</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://github.com/sbgn/ySBGN/releases">ySBGN</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">None</td>
+<td style="text-align:center">Open source</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Tools using SBGN
 
