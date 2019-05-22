@@ -19,8 +19,6 @@ The following are lists of software packages known to provide support for editin
 
 ## Editors
 
-The following editors allow import and/or export files in SBGN-ML format.
-
 <table style="width:560px">
 <thead>
 <tr style="height:40px">
