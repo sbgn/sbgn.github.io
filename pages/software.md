@@ -187,16 +187,17 @@ The following editors allow import and/or export files in SBGN-ML format.
 <thead>
 <tr style="height:40px">
 <th style="width:200px; text-align:left">Software</th>
+<th style="width:200px; text-align:left">Type</th>    
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
-<th style="width:80px; text-align:center">AF</th>
-    
+<th style="width:80px; text-align:center">AF</th> 
 <th style="width:120px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
+<td style="text-align:center"><font size="5">Modeling</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -204,6 +205,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.biouml.org/">BioUML</a></td>
+<td style="text-align:center"><font size="5">Modeling & Bioinformatics</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -211,6 +213,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://copasi.org/">COPASI</a></td>
+<td style="text-align:center"><font size="5">Modeling</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -218,6 +221,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
+<td style="text-align:center"><font size="5">Modeling</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -225,6 +229,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
+<td style="text-align:center"><font size="5">Modeling & Bioinformatics</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
