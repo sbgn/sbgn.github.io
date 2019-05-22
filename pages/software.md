@@ -21,15 +21,15 @@ The following are lists of software packages known to provide support for editin
 
 <!-- Max table width is 680px -->
 
-<table style="width:580px">
+<table style="width:530px">
 <thead>
 <tr style="height:40px">
 <th style="width:160px; text-align:left">Software</th>
-<th style="width:80px; text-align:center">PD</th>
-<th style="width:80px; text-align:center">ER</th>
-<th style="width:80px; text-align:center">AF</th>
-<th style="width:80px; text-align:center">SBGN-ML support</th>    
-<th style="width:100px; text-align:center">Availability</th>
+<th style="width:70px; text-align:center">PD</th>
+<th style="width:70px; text-align:center">ER</th>
+<th style="width:70px; text-align:center">AF</th>
+<th style="width:70px; text-align:center">SBGN-ML support</th>    
+<th style="width:90px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
@@ -117,7 +117,7 @@ The following are lists of software packages known to provide support for editin
 <th style="width:70px; text-align:center">PD</th>
 <th style="width:70px; text-align:center">ER</th>
 <th style="width:70px; text-align:center">AF</th>
-<th style="width:90px; text-align:center">Formats visualized</th>
+<th style="width:90px; text-align:center">Formats visualised</th>
 <th style="width:70px; text-align:center">SBGN-ML support</th>  
 <th style="width:90px; text-align:center">Availability</th>
 </tr>
@@ -186,7 +186,7 @@ The following are lists of software packages known to provide support for editin
 <table style="width:600px">
 <thead>
 <tr style="height:40px">
-<th style="width:180px; text-align:left">Software</th>
+<th style="width:160px; text-align:left">Software</th>
 <th style="width:120px; text-align:center">Type</th>    
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
