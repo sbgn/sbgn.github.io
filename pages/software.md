@@ -244,13 +244,13 @@ The following is a list of databases known to provide SBGN maps.
 
 ### Databases with SBGN-ML support
 
-<table style="width:440px">
+<table style="width:370px">
 <thead>
 <tr style="height:40px">
-<th style="width:200px; text-align:left">Database</th>
-<th style="width:80px; text-align:center">PD</th>
-<th style="width:80px; text-align:center">ER</th>
-<th style="width:80px; text-align:center">AF</th>
+<th style="width:160px; text-align:left">Database</th>
+<th style="width:70px; text-align:center">PD</th>
+<th style="width:70px; text-align:center">ER</th>
+<th style="width:70px; text-align:center">AF</th>
 </tr>
 </thead>
 <tbody>
@@ -291,13 +291,13 @@ The following is a list of databases known to provide SBGN maps.
 
 ### Databases without SBGN-ML support
 
-<table style="width:440px">
+<table style="width:370px">
 <thead>
 <tr style="height:40px">
-<th style="width:200px; text-align:left">Database</th>
-<th style="width:80px; text-align:center">PD</th>
-<th style="width:80px; text-align:center">ER</th>
-<th style="width:80px; text-align:center">AF</th>
+<th style="width:160px; text-align:left">Database</th>
+<th style="width:70px; text-align:center">PD</th>
+<th style="width:70px; text-align:center">ER</th>
+<th style="width:70px; text-align:center">AF</th>
 </tr>
 </thead>
 <tbody>
