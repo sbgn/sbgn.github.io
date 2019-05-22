@@ -117,8 +117,8 @@ The following are lists of software packages known to provide support for editin
 <th style="width:70px; text-align:center">PD</th>
 <th style="width:70px; text-align:center">ER</th>
 <th style="width:70px; text-align:center">AF</th>
+<th style="width:70px; text-align:center">SBGN-ML support</th>
 <th style="width:90px; text-align:center">Formats visualised</th>
-<th style="width:70px; text-align:center">SBGN-ML support</th>  
 <th style="width:90px; text-align:center">Availability</th>
 </tr>
 </thead>
@@ -128,8 +128,8 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">SBML</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">SBML</td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
@@ -137,8 +137,8 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">Esher JSON</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">Esher JSON</td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
@@ -146,8 +146,8 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">KEGG-ML</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">KEGG-ML</td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
