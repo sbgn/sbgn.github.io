@@ -357,7 +357,7 @@ One can compare the rendering of SBGN-ML by different software packages on the [
 
 The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordjournals.org/content/27/15/2127) is a format to describe, annotate and visualize pathways. BCML can be automatically converted into a SBGN-compliant graphical representation. More information regarding BCML software can be found [here](https://github.com/dc-atlas/bcml).
 
-### Archive of old tools
+## Archive of old tools
 
 <table style="width:560px">
 <thead>
