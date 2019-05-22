@@ -100,7 +100,7 @@ The following are lists of software packages known to provide support for editin
 </tbody>
 </table>
 
-&#42;In combination with ySBGN converter (the next section) yEd can be seen as an editor with SBGN-ML import and export enabled. ySBGN converts between yEd GraphML and SBGN-ML 0.2/0.3.
+&#42;In combination with ySBGN converter yEd can be seen as an editor with SBGN-ML import and export enabled.
 
 ## Format Converters
 
