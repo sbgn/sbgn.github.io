@@ -90,23 +90,17 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a></td>
+<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd*</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">Free</td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>    
 <td style="text-align:center">Free</td>
 </tr>
 </tbody>
 </table>
+
+&#42;In combination with ySBGN converter (the next section) yEd can be seen as an editor with SBGN-ML import and export enabled. ySBGN converts between yEd GraphML and SBGN-ML 0.2/0.3.
 
 ## Format Converters
 
@@ -391,7 +385,7 @@ The following is a list of databases known to provide SBGN maps.
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a></td>
+<td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models**</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -405,7 +399,7 @@ The following is a list of databases known to provide SBGN maps.
 </tbody>
 </table>
 
-&#42;Path2Models is part of the BioModels Database  
+&#42;&#42;Path2Models is part of the BioModels Database  
 
 ### Databases without SBGN-ML support
 
