@@ -38,13 +38,6 @@ The following editors allow import and/or export files in SBGN-ML format.
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Open source</td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="http://www.celldesigner.org/">CellDesigner</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -112,13 +105,6 @@ The editors that enable drawing in SBGN but do not support SBGN-ML file format.
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><a href="http://www.codeplex.com/athena/">Athena</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="http://bioinformatics.cs.vt.edu/beacon/">Beacon Pathway Editor</a></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -140,35 +126,7 @@ The editors that enable drawing in SBGN but do not support SBGN-ML file format.
 <td style="text-align:center"> </td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://www.dunnart.org/">Dunnart</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://epe.sourceforge.net/">Edinburgh Pathway Editor</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://www.innetics.com/">PathwayLab</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -269,13 +227,6 @@ The visualisers that enable viewing in SBGN but do not support SBGN-ML file form
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><a href="http://arcadiapathways.sourceforge.net/">Arcadia</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="http://www.biouml.org/">BioUML</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -290,41 +241,12 @@ The visualisers that enable viewing in SBGN but do not support SBGN-ML file form
 <td style="text-align:center"> </td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://www.ipathways.org/">iPathways</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
-<tr>
-<td style="text-align:left"><a href="http://it.inf.uni-tuebingen.de/?page_id=248">Mayday MGV</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://mimoza.bordeaux.inria.fr/">Mimoza</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://www.sbmm.uma.es/SPA/">SBMM assistant</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-</tbody>
 </table>
 
 ## Databases
@@ -403,12 +325,6 @@ The following is a list of databases known to provide SBGN maps.
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://ipavs.cidms.org/">iPAVS</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -468,18 +384,18 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="http://www.codeplex.com/athena/">Athena</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"></td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.dunnart.org/">Dunnart</a></td>
@@ -525,6 +441,13 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://mimoza.bordeaux.inria.fr/">Mimoza</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.innetics.com/">PathwayLab</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
