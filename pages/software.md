@@ -7,12 +7,9 @@ permalink: software
 # Software support
 
 *  [Editors](#editors)
-    -  [Editors with SBGN-ML support](#editors-with-sbgn-ml-support)
-    -  [Editors without SBGN-ML support](#editors-without-sbgn-ml-support)
-*  [Visualisers](#visualisers)
-    -  [Visualisers with SBGN-ML support](#visualisers-with-sbgn-ml-support)
-    -  [Visualisers without SBGN-ML support](#visualisers-without-sbgn-ml-support)
-*  [Databases](#databases)
+*  [Format Converters](#format-converters)
+*  [Tools using SBGN](#tools-using-SBGN)
+*  [Databases using SBGN](#databases)
 *  [File formats](#file-formats)
 *  [Archive of old tools](#archive-of-old-tools)
 
@@ -21,8 +18,6 @@ This page summarises what we know about software support for SBGN languages. Thi
 The following are lists of software packages known to provide support for editing and visualising in SBGN Process Description (PD), Entity Relationships (ER) and Activity Flow (AF) with and without SBGN-ML file format support. 
 
 ## Editors
-
-### SBGN Editors
 
 The following editors allow import and/or export files in SBGN-ML format.
 
@@ -87,8 +82,17 @@ The following editors allow import and/or export files in SBGN-ML format.
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
+<td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td> 
+<td style="text-align:center"> </td>
+</tr>
+<tr>
 <td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">Free</td>
@@ -103,14 +107,8 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tr>
 </tbody>
 </table>
-</tbody>
-</table>
 
-## Visualisers
-
-### Visualisers with SBGN-ML support
-
-The following visualisers enable viewing in SBGN and can import and/or export files in SBGN-ML format.
+## Format Converters
 
 <table style="width:560px">
 <thead>
@@ -119,21 +117,18 @@ The following visualisers enable viewing in SBGN and can import and/or export fi
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
+<th style="width:80px; text-align:center">Formats visualized</th>
+<th style="width:80px; text-align:center">SBGN-ML support</th>  
 <th style="width:120px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">SBML</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
@@ -142,6 +137,8 @@ The following visualisers enable viewing in SBGN and can import and/or export fi
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">Esher JSON</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
@@ -149,13 +146,8 @@ The following visualisers enable viewing in SBGN and can import and/or export fi
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
+<td style="text-align:center"><font size="5">KEGG-ML</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
@@ -180,13 +172,6 @@ The following visualisers enable viewing in SBGN and can import and/or export fi
 <td style="text-align:center"> </td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -196,9 +181,7 @@ The following visualisers enable viewing in SBGN and can import and/or export fi
 </tbody>
 </table>
 
-### Visualisers without SBGN-ML support
-
-The visualisers that enable viewing in SBGN but do not support SBGN-ML file format.
+## Tools using SBGN
 
 <table style="width:560px">
 <thead>
@@ -207,10 +190,18 @@ The visualisers that enable viewing in SBGN but do not support SBGN-ML file form
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
+    
 <th style="width:120px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
 <tr>
 <td style="text-align:left"><a href="http://www.biouml.org/">BioUML</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -227,6 +218,13 @@ The visualisers that enable viewing in SBGN but do not support SBGN-ML file form
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
