@@ -22,7 +22,7 @@ The following are lists of software packages known to provide support for editin
 
 ## Editors
 
-### Editors with SBGN-ML support
+### SBGN Editors
 
 The following editors allow import and/or export files in SBGN-ML format.
 
@@ -33,6 +33,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
+<th style="width:80px; text-align:center">SBGN-ML support</th>    
 <th style="width:120px; text-align:center">Availability</th>
 </tr>
 </thead>
@@ -42,6 +43,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
@@ -49,12 +51,14 @@ The following editors allow import and/or export files in SBGN-ML format.
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://newteditor.org/">Newt Editor</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">Open source</td>
 </tr>
@@ -63,6 +67,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
@@ -70,6 +75,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>    
 <td style="text-align:center">Open source</td>
 </tr>
 <tr>
@@ -77,67 +83,8 @@ The following editors allow import and/or export files in SBGN-ML format.
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>    
 <td style="text-align:center">Free</td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Free</td>
-</tr>
-</tbody>
-</table>
-
-### Editors without SBGN-ML support
-
-The editors that enable drawing in SBGN but do not support SBGN-ML file format.
-
-<table style="width:560px">
-<thead>
-<tr style="height:40px">
-<th style="width:200px; text-align:left">Software</th>
-<th style="width:80px; text-align:center">PD</th>
-<th style="width:80px; text-align:center">ER</th>
-<th style="width:80px; text-align:center">AF</th>
-<th style="width:120px; text-align:center">Availability</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left"><a href="http://bioinformatics.cs.vt.edu/beacon/">Beacon Pathway Editor</a></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a></td>
@@ -146,6 +93,16 @@ The editors that enable drawing in SBGN but do not support SBGN-ML file format.
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">Free</td>
 </tr>
+<tr>
+<td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd</a> <a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>    
+<td style="text-align:center">Free</td>
+</tr>
+</tbody>
+</table>
 </tbody>
 </table>
 
@@ -166,6 +123,13 @@ The following visualisers enable viewing in SBGN and can import and/or export fi
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
 <tr>
 <td style="text-align:left"><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -206,6 +170,27 @@ The following visualisers enable viewing in SBGN and can import and/or export fi
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 </tbody>
@@ -385,10 +370,24 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 </thead>
 <tbody>
 <tr>
+<td style="text-align:left"><a href="http://arcadiapathways.sourceforge.net/">Arcadia</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
 <td style="text-align:left"><a href="http://www.codeplex.com/athena/">Athena</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://bioinformatics.cs.vt.edu/beacon/">Beacon Pathway Editor</a></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
@@ -414,13 +413,6 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://arcadiapathways.sourceforge.net/">Arcadia</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
