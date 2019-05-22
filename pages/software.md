@@ -194,7 +194,7 @@ The following are lists of software packages known to provide support for editin
 
 <br />
 
-<table style="width:660px">
+<table style="width:670px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software </th>
@@ -203,8 +203,8 @@ The following are lists of software packages known to provide support for editin
 <th style="width:60px; text-align:center">AF</th>
 <th style="width:70px; text-align:center">SBGN-ML import</th>
 <th style="width:70px; text-align:center">SBGN-ML export</th>
-<th style="width:80px; text-align:center">Formats visualised</th>
-<th style="width:80px; text-align:center">Availability</th>
+<th style="width:90px; text-align:center">Formats visualised</th>
+<th style="width:90px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
