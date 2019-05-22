@@ -186,53 +186,53 @@ The following are lists of software packages known to provide support for editin
 <table style="width:580px">
 <thead>
 <tr style="height:40px">
-<th style="width:170px; text-align:left">Software</th>
-<th style="width:100px; text-align:center">Type</th>    
+<th style="width:170px; text-align:left">Software</th>    
 <th style="width:70px; text-align:center">PD</th>
 <th style="width:70px; text-align:center">ER</th>
 <th style="width:70px; text-align:center">AF</th> 
+<th style="width:100px; text-align:center">Type</th>
 <th style="width:100px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
-<td style="text-align:center">Modeling</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">Modeling</td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.biouml.org/">BioUML</a></td>
-<td style="text-align:center">Modeling & Bioinformatics</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">Modeling & Bioinformatics</td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://copasi.org/">COPASI</a></td>
-<td style="text-align:center">Modeling</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">Modeling</td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
-<td style="text-align:center">Modeling</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">Modeling</td>
 <td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
-<td style="text-align:center">Modeling & Bioinformatics</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">Modeling & Bioinformatics</td>
 <td style="text-align:center"> </td>
 </tr>
 </tbody>
