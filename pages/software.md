@@ -21,10 +21,10 @@ The following are lists of software packages known to provide support for editin
 
 <!-- Max table width is 680px -->
 
-<table style="width:530px">
+<table style="width:540px">
 <thead>
 <tr style="height:40px">
-<th style="width:160px; text-align:left">Software</th>
+<th style="width:170px; text-align:left">Software</th>
 <th style="width:70px; text-align:center">PD</th>
 <th style="width:70px; text-align:center">ER</th>
 <th style="width:70px; text-align:center">AF</th>
@@ -110,10 +110,10 @@ The following are lists of software packages known to provide support for editin
 
 ## Format Converters
 
-<table style="width:620px">
+<table style="width:630px">
 <thead>
 <tr style="height:40px">
-<th style="width:160px; text-align:left">Software </th>
+<th style="width:170px; text-align:left">Software </th>
 <th style="width:70px; text-align:center">PD</th>
 <th style="width:70px; text-align:center">ER</th>
 <th style="width:70px; text-align:center">AF</th>
@@ -183,10 +183,10 @@ The following are lists of software packages known to provide support for editin
 
 ## Tools using SBGN
 
-<table style="width:570px">
+<table style="width:580px">
 <thead>
 <tr style="height:40px">
-<th style="width:160px; text-align:left">Software</th>
+<th style="width:170px; text-align:left">Software</th>
 <th style="width:100px; text-align:center">Type</th>    
 <th style="width:70px; text-align:center">PD</th>
 <th style="width:70px; text-align:center">ER</th>
@@ -244,10 +244,10 @@ The following is a list of databases known to provide SBGN maps.
 
 ### Databases with SBGN-ML support
 
-<table style="width:370px">
+<table style="width:380px">
 <thead>
 <tr style="height:40px">
-<th style="width:160px; text-align:left">Database</th>
+<th style="width:170px; text-align:left">Database</th>
 <th style="width:70px; text-align:center">PD</th>
 <th style="width:70px; text-align:center">ER</th>
 <th style="width:70px; text-align:center">AF</th>
@@ -291,10 +291,10 @@ The following is a list of databases known to provide SBGN maps.
 
 ### Databases without SBGN-ML support
 
-<table style="width:370px">
+<table style="width:380px">
 <thead>
 <tr style="height:40px">
-<th style="width:160px; text-align:left">Database</th>
+<th style="width:170px; text-align:left">Database</th>
 <th style="width:70px; text-align:center">PD</th>
 <th style="width:70px; text-align:center">ER</th>
 <th style="width:70px; text-align:center">AF</th>
@@ -361,14 +361,14 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 
 ## Archive of old tools
 
-<table style="width:560px">
+<table style="width:470px">
 <thead>
 <tr style="height:40px">
-<th style="width:200px; text-align:left">Software</th>
-<th style="width:80px; text-align:center">PD</th>
-<th style="width:80px; text-align:center">ER</th>
-<th style="width:80px; text-align:center">AF</th>
-<th style="width:120px; text-align:center">Active</th>
+<th style="width:170px; text-align:left">Software</th>
+<th style="width:70px; text-align:center">PD</th>
+<th style="width:70px; text-align:center">ER</th>
+<th style="width:70px; text-align:center">AF</th>
+<th style="width:90px; text-align:center">Active</th>
 </tr>
 </thead>
 <tbody>
