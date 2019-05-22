@@ -194,7 +194,7 @@ The following are lists of software packages known to provide support for editin
 
 <br />
 
-<table style="width:650px">
+<table style="width:660px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software </th>
