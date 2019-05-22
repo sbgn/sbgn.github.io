@@ -247,6 +247,7 @@ The visualisers that enable viewing in SBGN but do not support SBGN-ML file form
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
 </tr>
+</tbody>
 </table>
 
 ## Databases
@@ -302,7 +303,54 @@ The following is a list of databases known to provide SBGN maps.
 
 ### Databases without SBGN-ML support
 
-
+<table style="width:440px">
+<thead>
+<tr style="height:40px">
+<th style="width:200px; text-align:left">Database</th>
+<th style="width:80px; text-align:center">PD</th>
+<th style="width:80px; text-align:center">ER</th>
+<th style="width:80px; text-align:center">AF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="http://www.alzpathway.org/">AlzPathway</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.ebi.ac.uk/biomodels/">BioModels Database</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://rimas.ipk-gatersleben.de">RIMAS</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://subtiwiki.uni-goettingen.de/apps/pathway.php?pathway=11">SubtiPathways</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+</tbody>
+</table>
 
 
 ## File formats
