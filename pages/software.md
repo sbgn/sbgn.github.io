@@ -128,7 +128,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="2">SBML</font></td>
+<td style="text-align:center">SBML</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
@@ -137,7 +137,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="2">Esher JSON</font></td>
+<td style="text-align:center">Esher JSON</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
@@ -146,7 +146,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="2">KEGG-ML</font></td>
+<td style="text-align:center">KEGG-ML</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
 </tr>
@@ -197,7 +197,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 <tbody>
 <tr>
 <td style="text-align:left"><a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a></td>
-<td style="text-align:center"><font size="2">Modeling</font></td>
+<td style="text-align:center">Modeling</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -205,7 +205,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.biouml.org/">BioUML</a></td>
-<td style="text-align:center"><font size="2">Modeling & Bioinformatics</font></td>
+<td style="text-align:center">Modeling & Bioinformatics</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -213,7 +213,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://copasi.org/">COPASI</a></td>
-<td style="text-align:center"><font size="2">Modeling</font></td>
+<td style="text-align:center">Modeling</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -221,7 +221,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
-<td style="text-align:center"><font size="2">Modeling</font></td>
+<td style="text-align:center">Modeling</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -229,7 +229,7 @@ The following editors allow import and/or export files in SBGN-ML format.
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
-<td style="text-align:center"><font size="2">Modeling & Bioinformatics</font></td>
+<td style="text-align:center">Modeling & Bioinformatics</td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
