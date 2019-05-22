@@ -19,10 +19,10 @@ The following are lists of software packages known to provide support for editin
 
 ## Editors
 
-<table style="width:560px">
+<table style="width:540px">
 <thead>
 <tr style="height:40px">
-<th style="width:200px; text-align:left">Software</th>
+<th style="width:180px; text-align:left">Software</th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
@@ -111,7 +111,7 @@ The following are lists of software packages known to provide support for editin
 <table style="width:600px">
 <thead>
 <tr style="height:40px">
-<th style="width:200px; text-align:left">Software </th>
+<th style="width:180px; text-align:left">Software </th>
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th>
@@ -181,11 +181,11 @@ The following are lists of software packages known to provide support for editin
 
 ## Tools using SBGN
 
-<table style="width:560px">
+<table style="width:600px">
 <thead>
 <tr style="height:40px">
-<th style="width:200px; text-align:left">Software</th>
-<th style="width:200px; text-align:left">Type</th>    
+<th style="width:180px; text-align:left">Software</th>
+<th style="width:120px; text-align:center">Type</th>    
 <th style="width:80px; text-align:center">PD</th>
 <th style="width:80px; text-align:center">ER</th>
 <th style="width:80px; text-align:center">AF</th> 
