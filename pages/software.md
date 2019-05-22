@@ -108,7 +108,7 @@ The following are lists of software packages known to provide support for editin
 
 ## Format Converters
 
-<table style="width:560px">
+<table style="width:600px">
 <thead>
 <tr style="height:40px">
 <th style="width:200px; text-align:left">Software </th>
