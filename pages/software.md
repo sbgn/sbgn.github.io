@@ -14,6 +14,7 @@ permalink: software
     -  [Visualisers without SBGN-ML support](#visualisers-without-sbgn-ml-support)
 *  [Databases](#databases)
 *  [File formats](#file-formats)
+*  [Archive of old tools (not maintained)](#archive-of-old-tools-(not-maintained))
 
 This page summarises what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to [sbgn-discuss](mailto:sbgn-discuss@googlegroups.com).
 
@@ -452,3 +453,95 @@ One can compare the rendering of SBGN-ML by different software packages on the [
 ### Biological Connection Markup Language (BCML)
 
 The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordjournals.org/content/27/15/2127) is a format to describe, annotate and visualize pathways. BCML can be automatically converted into a SBGN-compliant graphical representation. More information regarding BCML software can be found [here](https://github.com/dc-atlas/bcml).
+
+### Archive of old tools (not maintained)
+
+<table style="width:560px">
+<thead>
+<tr style="height:40px">
+<th style="width:200px; text-align:left">Software</th>
+<th style="width:80px; text-align:center">PD</th>
+<th style="width:80px; text-align:center">ER</th>
+<th style="width:80px; text-align:center">AF</th>
+<th style="width:120px; text-align:center">Active</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="http://biographer.biologie.hu-berlin.de/">Biographer</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.codeplex.com/athena/">Athena</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.dunnart.org/">Dunnart</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://epe.sourceforge.net/">Edinburgh Pathway Editor</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"> 2007-2011 </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://arcadiapathways.sourceforge.net/">Arcadia</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.ipathways.org/">iPathways</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> 2011-2017 </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://it.inf.uni-tuebingen.de/?page_id=248">Mayday MGV</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://mimoza.bordeaux.inria.fr/">Mimoza</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.sbmm.uma.es/SPA/">SBMM assistant</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://ipavs.cidms.org/">iPAVS</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+</tr>
+</tbody>
+</table>
