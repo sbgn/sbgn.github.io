@@ -14,7 +14,7 @@ permalink: software
     -  [Visualisers without SBGN-ML support](#visualisers-without-sbgn-ml-support)
 *  [Databases](#databases)
 *  [File formats](#file-formats)
-*  [Archive of old tools (not maintained)](#archive-of-old-tools-(not-maintained))
+*  [Archive of old tools](#archive-of-old-tools)
 
 This page summarises what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to [sbgn-discuss](mailto:sbgn-discuss@googlegroups.com).
 
@@ -454,7 +454,7 @@ One can compare the rendering of SBGN-ML by different software packages on the [
 
 The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordjournals.org/content/27/15/2127) is a format to describe, annotate and visualize pathways. BCML can be automatically converted into a SBGN-compliant graphical representation. More information regarding BCML software can be found [here](https://github.com/dc-atlas/bcml).
 
-### Archive of old tools (not maintained)
+### Archive of old tools
 
 <table style="width:560px">
 <thead>
