@@ -183,15 +183,15 @@ The following are lists of software packages known to provide support for editin
 
 ## Tools using SBGN
 
-<table style="width:600px">
+<table style="width:570px">
 <thead>
 <tr style="height:40px">
 <th style="width:160px; text-align:left">Software</th>
-<th style="width:120px; text-align:center">Type</th>    
-<th style="width:80px; text-align:center">PD</th>
-<th style="width:80px; text-align:center">ER</th>
-<th style="width:80px; text-align:center">AF</th> 
-<th style="width:120px; text-align:center">Availability</th>
+<th style="width:100px; text-align:center">Type</th>    
+<th style="width:70px; text-align:center">PD</th>
+<th style="width:70px; text-align:center">ER</th>
+<th style="width:70px; text-align:center">AF</th> 
+<th style="width:100px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
