@@ -110,16 +110,16 @@ The following are lists of software packages known to provide support for editin
 
 ## Format Converters
 
-<table style="width:540px">
+<table style="width:620px">
 <thead>
 <tr style="height:40px">
-<th style="width:140px; text-align:left">Software </th>
-<th style="width:60px; text-align:center">PD</th>
-<th style="width:60px; text-align:center">ER</th>
-<th style="width:60px; text-align:center">AF</th>
-<th style="width:80px; text-align:center">Formats visualized</th>
-<th style="width:60px; text-align:center">SBGN-ML support</th>  
-<th style="width:80px; text-align:center">Availability</th>
+<th style="width:160px; text-align:left">Software </th>
+<th style="width:70px; text-align:center">PD</th>
+<th style="width:70px; text-align:center">ER</th>
+<th style="width:70px; text-align:center">AF</th>
+<th style="width:90px; text-align:center">Formats visualized</th>
+<th style="width:70px; text-align:center">SBGN-ML support</th>  
+<th style="width:90px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
