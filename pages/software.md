@@ -412,7 +412,7 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"> 2007-2011 </td>
+<td style="text-align:center"> 2007 - 2011 </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://sourceforge.net/projects/apostrophe/">Netbuilder&#39;</a></td>
@@ -426,7 +426,7 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> 2011-2017 </td>
+<td style="text-align:center"> 2011 - 2017 </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://it.inf.uni-tuebingen.de/?page_id=248">Mayday MGV</a></td>
