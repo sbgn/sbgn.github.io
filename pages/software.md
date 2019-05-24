@@ -163,7 +163,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font> </td>
 <td style="text-align:center"> BioPAX &rarr; SBGN </td>
-<td style="text-align:center"> Istaller for Win/Mac/Linux</td>
+<td style="text-align:center"> Istallers for Win/Mac/Linux</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
@@ -172,7 +172,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font> </td>
 <td style="text-align:center"> LaTex &rarr; SBGN </td>
-<td style="text-align:center"> TikZ installed w/TeX</td>
+<td style="text-align:center"> TeX package</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://sourceforge.net/projects/ston/">STON</a></td>
@@ -215,8 +215,7 @@ The following are lists of software packages known to provide support for editin
 <th style="width:50px; text-align:center">PD</th>
 <th style="width:50px; text-align:center">ER</th>
 <th style="width:50px; text-align:center">AF</th> 
-<th style="width:100px; text-align:center">Type</th>
-<th style="width:100px; text-align:center">Availability</th>
+<th style="width:170px; text-align:center">Type</th>
 </tr>
 </thead>
 <tbody>
@@ -226,7 +225,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">Modeling</td>
-<td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.biouml.org/">BioUML</a></td>
@@ -234,7 +232,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">Modeling & Bioinformatics</td>
-<td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://copasi.org/">COPASI</a></td>
@@ -242,7 +239,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">Modeling</td>
-<td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://jjj.bio.vu.nl/">JWS Online</a></td>
@@ -250,7 +246,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">Modeling</td>
-<td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
@@ -258,14 +253,12 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">Modeling & Bioinformatics</td>
-<td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://minerva.pages.uni.lu/doc/">MINERVA</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">Server supporting SBGN maps</td>
 </tr>  
 </tbody>
