@@ -98,15 +98,15 @@ The following are lists of software packages known to provide support for editin
 
 ## Visualizers & Format Converters
 
-<table style="width:670px">
+<table style="width:680px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software </th>
-<th style="width:50px; text-align:center">PD</th>
-<th style="width:50px; text-align:center">ER</th>
-<th style="width:50px; text-align:center">AF</th>
+<th style="width:40px; text-align:center">PD</th>
+<th style="width:40px; text-align:center">ER</th>
+<th style="width:40px; text-align:center">AF</th>
 <th style="width:70px; text-align:center">SBGN-ML support</th>
-<th style="width:90px; text-align:center">Formats</th>
+<th style="width:120px; text-align:center">Formats</th>
 <th style="width:90px; text-align:center">Availability</th>
 </tr>
 </thead>
@@ -117,7 +117,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">SBML -> SBGN</td>
+<td style="text-align:center">SBML &rarr; SBGN</td>
 <td style="text-align:center">Cytoscape plugin</td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Esher JSON -> SBGN</td>
+<td style="text-align:center">Esher JSON &rarr; SBGN</td>
 <td style="text-align:center">JAR file </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">BioPAX &rarr;SBGN </td>
+<td style="text-align:center">BioPAX &rarr; SBGN </td>
 <td style="text-align:center"> In-browser</td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font> </td>
-<td style="text-align:center"> BioPAX -> SBGN </td>
+<td style="text-align:center"> BioPAX &rarr; SBGN </td>
 <td style="text-align:center"> Istaller for Win/Mac/Linux</td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font> </td>
-<td style="text-align:center"> LaTex -> SBGN </td>
+<td style="text-align:center"> LaTex &rarr; SBGN </td>
 <td style="text-align:center"> TikZ installed w/TeX</td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td> 
- <td style="text-align:center">SBGN-ML<a href="https://neo4j.com/Neo4j">Neo4j</a></td>
+ <td style="text-align:center">SBGN-ML &rarr; <a href="https://neo4j.com/Neo4j">Neo4j</a></td>
 <td style="text-align:center">Library for Neo4j</td>
 </tr>
  <tr>
@@ -189,7 +189,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td> 
-<td style="text-align:center">SBGN-ML -> image</td>
+<td style="text-align:center">SBGN-ML &rarr; image</td>
 <td style="text-align:center">In-browser</td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">GraphML <-> SBGN-ML</td>
+<td style="text-align:center">GraphML &harr; SBGN-ML</td>
 <td style="text-align:center">Maven install</td>
 </tr>
 </tbody>
