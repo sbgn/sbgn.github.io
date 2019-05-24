@@ -175,6 +175,15 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"> TikZ installed w/TeX</td>
 </tr>
 <tr>
+<td style="text-align:left"><a href="https://sourceforge.net/projects/ston/">STON</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td> 
+<td style="text-align:center">SBGN-ML -> <a href="https://neo4j.com/Neo4j">Neo4j</td>
+<td style="text-align:center">Library for Neo4j</td>
+</tr>
+ <tr>
 <td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -196,8 +205,6 @@ The following are lists of software packages known to provide support for editin
 </table>
 
 <br />
-
-
 
 ## Tools using SBGN
 
@@ -253,8 +260,18 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">Modeling & Bioinformatics</td>
 <td style="text-align:center"> </td>
 </tr>
+<tr>
+<td style="text-align:left"><a href="https://minerva.pages.uni.lu/doc/">MINERVA</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">Server supporting SBGN maps</td>
+</tr>  
 </tbody>
 </table>
+
+<br />
 
 ## Databases and collections of SBGN maps
 
@@ -279,6 +296,14 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">CellDesigner generated</td>
 </tr>
 <tr>
+<td style="text-align:left"><a href="https://asthma-map.org/downloads/">Asthma Maps</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">yED generated</td>
+</tr>
+<tr>
 <td style="text-align:left"><a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -291,14 +316,24 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">JWS generated</td>
 </tr>   
+<tr>
+<td style="text-align:left"><a href="http://metabolismregulation.org">Metabolism Regulation maps</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">yED generated</td>
+</tr>
 <tr>
 <td style="text-align:left"><a href="http://metacrop.ipk-gatersleben.de/">MetaCrop</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">CellDesigner generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
@@ -317,11 +352,28 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">CellDesigner generated</td>
 </tr>
 <tr>
+<td style="text-align:left"><a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">CellDesigner generated</td>
+</tr>
+<tr>
 <td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">JWS generated</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://smpdb.ca/pathwhiz">PathWhiz</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">SBGN-ML export</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.reactome.org">Reactome</a></td>
@@ -330,14 +382,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">CellDesigner generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://rimas.ipk-gatersleben.de">RIMAS</a></td>
@@ -354,6 +398,15 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">CellDesigner generated</td>
 </tr>
+<tr>
+<td style="text-align:left"><a href="https://www.vmh.life/">Virtual Metabolic Human</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">CellDesigner generated</td>
+</tr>
+   
 </tbody>
 </table>
 
