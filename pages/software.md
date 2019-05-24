@@ -59,7 +59,7 @@ The following are lists of software packages known to provide support for editin
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.omix-visualization.com/">Omix</a></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -135,7 +135,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">KEGG-ML -> SBGN</td>
+<td style="text-align:center">KEGG-ML &rarr; SBGN</td>
 <td style="text-align:center">JAR file </td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> SBML -> SBGN</td>
+<td style="text-align:center"> SBML &rarr; SBGN</td>
 <td style="text-align:center"> NET library </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">BioPAX -> SBGN </td>
+<td style="text-align:center">BioPAX &rarr; SBGN </td>
 <td style="text-align:center"> In-browser</td>
 </tr>
 <tr>
