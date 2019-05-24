@@ -82,14 +82,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">Free</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td> 
-<td style="text-align:center">Free</td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd**</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -160,7 +152,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">&#9745; </td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">BioPAX -> SBGN </td>
 <td style="text-align:center"> Web interface</td>
 </tr>
@@ -183,7 +175,16 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"> TikZ installed w/TeX</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://github.com/sbgn/ySBGN/releases">ySBGN</a></td>
+<td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td> 
+<td style="text-align:center">SBGN-ML -> image</td>
+<td style="text-align:center">Web interface</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://github.com/sbgn/ySBGN">ySBGN</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
