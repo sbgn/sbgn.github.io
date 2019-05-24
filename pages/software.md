@@ -374,7 +374,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"> </td>
+ <td style="text-align:center"> <a href="https://reactome.org/dev/diagram/js">Diagram JS</a> or <a href="http://www.gwtproject.org/">GWT</a> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://rimas.ipk-gatersleben.de">RIMAS</a></td>
@@ -382,6 +382,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">VANTED generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://subtiwiki.uni-goettingen.de/">SubtiPathways</a></td>
