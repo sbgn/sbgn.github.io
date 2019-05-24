@@ -7,7 +7,7 @@ permalink: software
 # Software support
 
 *  [Editors](#editors)
-*  [Format Converters](#visualizers-&-format-converters)
+*  [Visualizers & Format Converters](#visualizers-&-format-converters)
 *  [Tools using SBGN](#tools-using-sbgn)
 *  [Databases and collections of SBGN maps](#databases-and-collections-of-sbgn-maps)
 *  [File formats](#file-formats)
@@ -39,7 +39,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Installers for Win/Mac/Linux</td>
+<td style="text-align:center">Installers for Win/Mac/Lin</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/draeger-lab/krayon4sbgn">Krayon for SBGN</a></td>
@@ -105,15 +105,13 @@ The following are lists of software packages known to provide support for editin
 <th style="width:20px; text-align:center">PD</th>
 <th style="width:20px; text-align:center">ER</th>
 <th style="width:20px; text-align:center">AF</th>
-<th style="width:70px; text-align:center">SBGN-ML support</th>
 <th style="width:180px; text-align:center">Formats</th>
-<th style="width:90px; text-align:center">Availability</th>
+<th style="width:180px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left"><a href="https://saezlab.github.io/cysbgn/">CySBGN</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -125,7 +123,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">Esher JSON &rarr; SBGN</td>
 <td style="text-align:center">JAR file </td>
 </tr>
@@ -134,14 +131,12 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">KEGG-ML &rarr; SBGN</td>
 <td style="text-align:center">JAR file </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://sysbioapps.spdns.org/Layout">SBML Layout Viewer</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> SBML &rarr; SBGN</td>
@@ -152,7 +147,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">BioPAX &rarr; SBGN </td>
 <td style="text-align:center"> In-browser</td>
 </tr>
@@ -161,7 +155,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font> </td>
 <td style="text-align:center"> BioPAX &rarr; SBGN </td>
 <td style="text-align:center"> Istallers for Win/Mac/Linux</td>
 </tr>
@@ -170,7 +163,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font> </td>
 <td style="text-align:center"> LaTex &rarr; SBGN </td>
 <td style="text-align:center"> TeX package</td>
 </tr>
@@ -179,7 +171,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td> 
  <td style="text-align:center">SBGN-ML &rarr; <a href="https://neo4j.com">Neo4j</a></td>
 <td style="text-align:center">Library for Neo4j</td>
 </tr>
@@ -188,7 +179,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td> 
 <td style="text-align:center">SBGN-ML &rarr; image</td>
 <td style="text-align:center">In-browser</td>
 </tr>
@@ -196,7 +186,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:left"><a href="https://github.com/sbgn/ySBGN">ySBGN</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">GraphML &harr; SBGN-ML</td>
 <td style="text-align:center">Maven install</td>
