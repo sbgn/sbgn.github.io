@@ -256,66 +256,17 @@ The following are lists of software packages known to provide support for editin
 </tbody>
 </table>
 
-## Databases
+## Databases and collections of SBGN maps
 
-The following is a list of databases known to provide SBGN maps.
-
-### Databases with SBGN-ML support
-
-<table style="width:320px">
+<table style="width:480px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Database</th>
 <th style="width:50px; text-align:center">PD</th>
 <th style="width:50px; text-align:center">ER</th>
 <th style="width:50px; text-align:center">AF</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left"><a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://metacrop.ipk-gatersleben.de/">MetaCrop</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://www.pantherdb.org/pathway/">PANTHER Pathway</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="http://www.reactome.org">Reactome</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-</tr>
-</tbody>
-</table>
-
-&#42; Path2Models is part of the BioModels Database.
-
-### Databases without SBGN-ML support
-
-<table style="width:320px">
-<thead>
-<tr style="height:40px">
-<th style="width:170px; text-align:left">Database</th>
-<th style="width:50px; text-align:center">PD</th>
-<th style="width:50px; text-align:center">ER</th>
-<th style="width:50px; text-align:center">AF</th>
+<th style="width:70px; text-align:center">Export SBGN-ML?</th>
+<th style="width:70px; text-align:center">Type of maps</th>   
 </tr>
 </thead>
 <tbody>
@@ -324,40 +275,89 @@ The following is a list of databases known to provide SBGN maps.
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">CellDesigner generated</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">CellDesigner generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.ebi.ac.uk/biomodels/">BioModels Database</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">JWS generated</td>
+</tr>   
+<tr>
+<td style="text-align:left"><a href="http://metacrop.ipk-gatersleben.de/">MetaCrop</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">CellDesigner generated</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.pantherdb.org/pathway/">PANTHER Pathway</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">CellDesigner generated</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://www.reactome.org">Reactome</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"> </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://pdmap.uni.lu/">Parkinson&#39;s disease map</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">CellDesigner generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://rimas.ipk-gatersleben.de">RIMAS</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://subtiwiki.uni-goettingen.de/apps/pathway.php?pathway=11">SubtiPathways</a></td>
+<td style="text-align:left"><a href="http://subtiwiki.uni-goettingen.de/">SubtiPathways</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">CellDesigner generated</td>
 </tr>
 </tbody>
 </table>
 
+&#42; Path2Models is part of the BioModels Database.
 
 ## File formats
 
