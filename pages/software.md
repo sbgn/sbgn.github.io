@@ -104,7 +104,7 @@ The following are lists of software packages known to provide support for editin
 <br />
 &#42;&#42; In combination with the ySBGN converter, yEd can be seen as an editor with SBGN-ML import and export enabled.
 
-## Format Converters
+## Visualizers & Format Converters
 
 <table style="width:570px">
 <thead>
@@ -114,19 +114,19 @@ The following are lists of software packages known to provide support for editin
 <th style="width:50px; text-align:center">ER</th>
 <th style="width:50px; text-align:center">AF</th>
 <th style="width:70px; text-align:center">SBGN-ML support</th>
-<th style="width:90px; text-align:center">Formats visualised</th>
+<th style="width:90px; text-align:center">Formats</th>
 <th style="width:90px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a></td>
+<td style="text-align:left"><a href="https://saezlab.github.io/cysbgn/">CySBGN</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">SBML</td>
-<td style="text-align:center"> </td>
+<td style="text-align:center">SBML -> SBGN</td>
+<td style="text-align:center">Cytoscape plugin</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
@@ -134,8 +134,8 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Esher JSON</td>
-<td style="text-align:center"> </td>
+<td style="text-align:center">Esher JSON -> SBGN</td>
+<td style="text-align:center">Jar file </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
@@ -143,35 +143,35 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">KEGG-ML</td>
-<td style="text-align:center"> </td>
+<td style="text-align:center">KEGG-ML -> SBGN</td>
+<td style="text-align:center">Jar file </td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://sysbioapps.dyndns.org/Layout/">SBML Layout Viewer</a></td>
+<td style="text-align:left"><a href="http://sysbioapps.spdns.org/Layout">SBML Layout Viewer</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"> </td>
-<td style="text-align:center"> </td>
-<td style="text-align:center"> </td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> &#9744;</td>
+<td style="text-align:center"> SBML -> SBGN</td>
+<td style="text-align:center"> NET library </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
-<td style="text-align:center"> </td>
-<td style="text-align:center"> </td>
+<td style="text-align:center">&#9745; </td>
+<td style="text-align:center">BioPAX -> SBGN </td>
+<td style="text-align:center"> Web interface</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://code.google.com/archive/p/chibe/">ChiBE</a></td>
+<td style="text-align:left"><a href="https://github.com/PathwayCommons/chibe">ChiBE</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> </td>
-<td style="text-align:center"> </td>
-<td style="text-align:center"> </td>
+<td style="text-align:center"> BioPAX -> SBGN </td>
+<td style="text-align:center"> Istaller for Win/Mac/Linux</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a></td>
@@ -179,8 +179,8 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"> </td>
-<td style="text-align:center"> </td>
-<td style="text-align:center"> </td>
+<td style="text-align:center"> LaTex -> SBGN </td>
+<td style="text-align:center"> TikZ installed w/TeX</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/sbgn/ySBGN/releases">ySBGN</a></td>
@@ -188,8 +188,8 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">None</td>
-<td style="text-align:center">Open source</td>
+<td style="text-align:center">GraphML <-> SBGN-ML</td>
+<td style="text-align:center">Maven install</td>
 </tr>
 </tbody>
 </table>
