@@ -102,11 +102,11 @@ The following are lists of software packages known to provide support for editin
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software </th>
-<th style="width:40px; text-align:center">PD</th>
-<th style="width:40px; text-align:center">ER</th>
-<th style="width:40px; text-align:center">AF</th>
+<th style="width:30px; text-align:center">PD</th>
+<th style="width:30px; text-align:center">ER</th>
+<th style="width:30px; text-align:center">AF</th>
 <th style="width:70px; text-align:center">SBGN-ML support</th>
-<th style="width:120px; text-align:center">Formats</th>
+<th style="width:150px; text-align:center">Formats</th>
 <th style="width:90px; text-align:center">Availability</th>
 </tr>
 </thead>
