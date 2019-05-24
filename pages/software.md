@@ -7,9 +7,9 @@ permalink: software
 # Software support
 
 *  [Editors](#editors)
-*  [Format Converters](#Visualizers-&-Format-Converters)
-*  [Tools using SBGN](#Tools-using-SBGN)
-*  [Databases and collections of SBGN maps](#Databases-and-collections-of-SBGN-maps)
+*  [Format Converters](#visualizers-&-format-converters)
+*  [Tools using SBGN](#tools-using-sbgn)
+*  [Databases and collections of SBGN maps](#databases-and-collections-of-sbgn-maps)
 *  [File formats](#file-formats)
 *  [Archive of old tools](#archive-of-old-tools)
 
@@ -25,11 +25,11 @@ The following are lists of software packages known to provide support for editin
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software</th>
-<th style="width:50px; text-align:center">PD</th>
-<th style="width:50px; text-align:center">ER</th>
-<th style="width:50px; text-align:center">AF</th>
-<th style="width:70px; text-align:center">SBGN-ML support</th>    
-<th style="width:90px; text-align:center">Availability</th>
+<th style="width:30px; text-align:center">PD</th>
+<th style="width:30px; text-align:center">ER</th>
+<th style="width:30px; text-align:center">AF</th>
+<th style="width:60px; text-align:center">SBGN-ML support</th>    
+<th style="width:130px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
