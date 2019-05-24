@@ -7,9 +7,9 @@ permalink: software
 # Software support
 
 *  [Editors](#editors)
-*  [Format Converters](#format-converters)
-*  [Tools using SBGN](#tools-using-SBGN)
-*  [Databases using SBGN](#databases)
+*  [Format Converters](#Visualizers-&-Format-Converters)
+*  [Tools using SBGN](#Tools-using-SBGN)
+*  [Databases and collections of SBGN maps](#Databases-and-collections-of-SBGN-maps)
 *  [File formats](#file-formats)
 *  [Archive of old tools](#archive-of-old-tools)
 
@@ -180,7 +180,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td> 
- <td style="text-align:center">SBGN-ML &rarr; <a href="https://neo4j.com/Neo4j">Neo4j</a></td>
+ <td style="text-align:center">SBGN-ML &rarr; <a href="https://neo4j.com">Neo4j</a></td>
 <td style="text-align:center">Library for Neo4j</td>
 </tr>
  <tr>
