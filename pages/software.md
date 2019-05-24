@@ -21,7 +21,7 @@ The following are lists of software packages known to provide support for editin
 
 <!-- Max table width is 680px -->
 
-<table style="width:480px">
+<table style="width:670px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software</th>
@@ -39,7 +39,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Free</td>
+<td style="text-align:center">Installers for Win/Mac/Linux</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/draeger-lab/krayon4sbgn">Krayon for SBGN</a></td>
@@ -47,7 +47,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Free</td>
+<td style="text-align:center">IDE or Win installer</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://newteditor.org/">Newt Editor</a></td>
@@ -55,7 +55,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Open source</td>
+<td style="text-align:center">In-browser</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.omix-visualization.com/">Omix</a></td>
@@ -63,7 +63,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Free</td>
+<td style="text-align:center">Commercial/free trial</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a></td>
@@ -71,7 +71,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>    
-<td style="text-align:center">Open source</td>
+<td style="text-align:center">Web start/binary</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.sbgn-ed.org/">SBGN-ED</a></td>
@@ -79,7 +79,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>    
-<td style="text-align:center">Free</td>
+<td style="text-align:center">VANTED plugin</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://www.yworks.com/products/yed">yEd**</a></td>
@@ -87,7 +87,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">Free</td>
+<td style="text-align:center">Installers for Win/Mac/Lin</td>
 </tr>
 </tbody>
 </table>
@@ -127,7 +127,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">Esher JSON -> SBGN</td>
-<td style="text-align:center">Jar file </td>
+<td style="text-align:center">JAR file </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
@@ -136,7 +136,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">KEGG-ML -> SBGN</td>
-<td style="text-align:center">Jar file </td>
+<td style="text-align:center">JAR file </td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://sysbioapps.spdns.org/Layout">SBML Layout Viewer</a></td>
@@ -154,7 +154,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">BioPAX -> SBGN </td>
-<td style="text-align:center"> Web interface</td>
+<td style="text-align:center"> In-browser</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/PathwayCommons/chibe">ChiBE</a></td>
@@ -181,7 +181,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td> 
 <td style="text-align:center">SBGN-ML -> image</td>
-<td style="text-align:center">Web interface</td>
+<td style="text-align:center">In-browser</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://github.com/sbgn/ySBGN">ySBGN</a></td>
