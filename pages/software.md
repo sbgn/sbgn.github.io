@@ -153,7 +153,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">BioPAX &rarr; SBGN </td>
+<td style="text-align:center">BioPAX &rarr;SBGN </td>
 <td style="text-align:center"> In-browser</td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td> 
-<td style="text-align:center">SBGN-ML -> <a href="https://neo4j.com/Neo4j">Neo4j</td>
+ <td style="text-align:center">SBGN-ML<a href="https://neo4j.com/Neo4j">Neo4j</a></td>
 <td style="text-align:center">Library for Neo4j</td>
 </tr>
  <tr>
