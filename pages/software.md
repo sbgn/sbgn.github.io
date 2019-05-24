@@ -106,7 +106,7 @@ The following are lists of software packages known to provide support for editin
 
 ## Visualizers & Format Converters
 
-<table style="width:570px">
+<table style="width:670px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software </th>
@@ -151,7 +151,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> &#9744;</td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"> SBML -> SBGN</td>
 <td style="text-align:center"> NET library </td>
 </tr>
@@ -169,7 +169,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"> </td>
+<td style="text-align:center"><font size="5">&#9744;</font> </td>
 <td style="text-align:center"> BioPAX -> SBGN </td>
 <td style="text-align:center"> Istaller for Win/Mac/Linux</td>
 </tr>
@@ -178,7 +178,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"> </td>
+<td style="text-align:center"><font size="5">&#9744;</font> </td>
 <td style="text-align:center"> LaTex -> SBGN </td>
 <td style="text-align:center"> TikZ installed w/TeX</td>
 </tr>
