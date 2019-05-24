@@ -208,14 +208,14 @@ The following are lists of software packages known to provide support for editin
 
 ## Tools using SBGN
 
-<table style="width:520px">
+<table style="width:620px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software</th>    
 <th style="width:50px; text-align:center">PD</th>
 <th style="width:50px; text-align:center">ER</th>
 <th style="width:50px; text-align:center">AF</th> 
-<th style="width:170px; text-align:center">Type</th>
+<th style="width:240px; text-align:center">Type of a tool</th>
 </tr>
 </thead>
 <tbody>
@@ -268,7 +268,7 @@ The following are lists of software packages known to provide support for editin
 
 ## Databases and collections of SBGN maps
 
-<table style="width:480px">
+<table style="width:680px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Database</th>
@@ -276,7 +276,7 @@ The following are lists of software packages known to provide support for editin
 <th style="width:50px; text-align:center">ER</th>
 <th style="width:50px; text-align:center">AF</th>
 <th style="width:70px; text-align:center">Export SBGN-ML?</th>
-<th style="width:70px; text-align:center">Type of maps</th>   
+<th style="width:200px; text-align:center">Type of maps</th>   
 </tr>
 </thead>
 <tbody>
