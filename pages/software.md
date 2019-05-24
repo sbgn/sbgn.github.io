@@ -7,7 +7,7 @@ permalink: software
 # Software support
 
 *  [Editors](#editors)
-*  [Visualizers & Format Converters](#visualizers-&-format-converters)
+*  [Visualizers and Formats Converters](#visualizers-and-formats-converters)
 *  [Tools using SBGN](#tools-using-sbgn)
 *  [Databases and collections of SBGN maps](#databases-and-collections-of-sbgn-maps)
 *  [File formats](#file-formats)
@@ -96,7 +96,7 @@ The following are lists of software packages known to provide support for editin
 <br />
 &#42;&#42; In combination with the ySBGN converter, yEd can be seen as an editor with SBGN-ML import and export enabled.
 
-## Visualizers & Format Converters
+## Visualizers and Formats Converters
 
 <table style="width:680px">
 <thead>
