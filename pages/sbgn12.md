@@ -7,7 +7,7 @@ permalink: sbgn12
 SBGN 12 will take place on Wednesday July 17th as a part of [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) July 15-19 in Los Angeles, USA. As many SBGN developers are also involved in other projects and standards the premeeting will allow people to participate in the SBGN discussion without distraction and develop the specifications to be discussed at COMBINE 2019.
 
 ## Goals
-The following topics should be discussed at the workshop:
+The following topics will be discussed at the workshop:
 <ul>
   <li> Tools and databases supporting SBGN</li>
   <li> Features that SBGN need</li>
