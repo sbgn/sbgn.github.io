@@ -98,13 +98,13 @@ The following are lists of software packages known to provide support for editin
 
 ## Visualisers and Formats Converters
 
-<table style="width:680px">
+<table style="width:650px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software </th>
-<th style="width:50px; text-align:center">PD</th>
-<th style="width:50px; text-align:center">ER</th>
-<th style="width:50px; text-align:center">AF</th>
+<th style="width:40px; text-align:center">PD</th>
+<th style="width:40px; text-align:center">ER</th>
+<th style="width:40px; text-align:center">AF</th>
 <th style="width:170px; text-align:center">Formats</th>
 <th style="width:190px; text-align:center">Availability</th>
 </tr>
@@ -197,13 +197,13 @@ The following are lists of software packages known to provide support for editin
 
 ## Tools using SBGN
 
-<table style="width:510px">
+<table style="width:480px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software</th>    
-<th style="width:50px; text-align:center">PD</th>
-<th style="width:50px; text-align:center">ER</th>
-<th style="width:50px; text-align:center">AF</th> 
+<th style="width:40px; text-align:center">PD</th>
+<th style="width:40px; text-align:center">ER</th>
+<th style="width:40px; text-align:center">AF</th> 
 <th style="width:190px; text-align:center">Type of a tool</th>
 </tr>
 </thead>
@@ -257,13 +257,13 @@ The following are lists of software packages known to provide support for editin
 
 ## Databases and collections of SBGN maps
 
-<table style="width:620px">
+<table style="width:590px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Database</th>
-<th style="width:50px; text-align:center">PD</th>
-<th style="width:50px; text-align:center">ER</th>
-<th style="width:50px; text-align:center">AF</th>
+<th style="width:40px; text-align:center">PD</th>
+<th style="width:40px; text-align:center">ER</th>
+<th style="width:40px; text-align:center">AF</th>
 <th style="width:110px; text-align:center">SBGN-ML export</th>
 <th style="width:190px; text-align:center">Type of maps</th>   
 </tr>
@@ -415,13 +415,13 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 
 ## Archive of old tools
 
-<table style="width:490px">
+<table style="width:460px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software</th>
-<th style="width:50px; text-align:center">PD</th>
-<th style="width:50px; text-align:center">ER</th>
-<th style="width:50px; text-align:center">AF</th>
+<th style="width:40px; text-align:center">PD</th>
+<th style="width:40px; text-align:center">ER</th>
+<th style="width:40px; text-align:center">AF</th>
 <th style="width:170px; text-align:center">Active</th>
 </tr>
 </thead>
