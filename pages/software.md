@@ -197,14 +197,14 @@ The following are lists of software packages known to provide support for editin
 
 ## Tools using SBGN
 
-<table style="width:620px">
+<table style="width:510px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software</th>    
 <th style="width:50px; text-align:center">PD</th>
 <th style="width:50px; text-align:center">ER</th>
 <th style="width:50px; text-align:center">AF</th> 
-<th style="width:240px; text-align:center">Type of a tool</th>
+<th style="width:190px; text-align:center">Type of a tool</th>
 </tr>
 </thead>
 <tbody>
