@@ -70,7 +70,7 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
   <a href="https://www.yworks.com/products/yed">yEd</a>/<a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a> (PD, AF), and 
   <a href="https://sbgn.github.io/software#editors">more</a>. 
                                            
-<p><b>Tools that convert different formats to SBGN and export SBGN-ML</b>:                                              
+<p><b>Tools that convert different formats to SBGN</b>:                                              
 <a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a> (BioPAX &rarr; SBGN), 
   <a href="https://github.com/PathwayCommons/chibe">ChiBE</a> (BioPAX &rarr; SBGN),
 <a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a>  (KEGG-ML &rarr; SBGN), 
