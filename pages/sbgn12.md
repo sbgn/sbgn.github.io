@@ -27,12 +27,13 @@ If you plan to attend COMBINE 2019, please register at [the COMBINE 2019 registr
 
 | Time              | Topic                                                 | Speaker                         |
 |-------------------|-------------------------------------------------------|---------------------------------|
-| 14:00 - 14:05     | **SBGN Overview and Status**                          | Falk Schreiber                |
-| 14:05 - 14:30     | **Introduction to SBGN specs**                        | Andreas Dräger              |
-| 14:30 - 14:45     | **Issues to discuss**                                 | Michael Blinov              |
-| 14:45 - 15:15     | **Update on PD specs**                                | Adrien Rougny                |   
+| 14:00 - 14:10     | **SBGN Overview and Status**                          | Falk Schreiber                |
+| 14:10 - 14:20     | **Issues to discuss**                                 | Michael Blinov              |
+| 14:20 - 14:40     | **Introduction to SBGN specs**                        | Andreas Dräger              |
+| 14:40 - 15:00     | **Update on PD specs**                                | Adrien Rougny                |  
+| 15:00 - 15:30     | **Software talks**                                     |                              |      
 | 15:30 - 16:00     | **Poster Session & Coffee break**                     |                              |
-| 16:00 - 16:30     | **Software talks**                                                                   |                 
+| 16:00 - 16:30     | **Software talks**                                     |                              |                 
 | 16:30 - 17:00     | **Discussion: features required**                     | Moderator: Michael Blinov     |
 | 17:00 - 17:30     | **Discussion: funding & outreach**                    | Moderator: Falk Schreiber     |
 ||
