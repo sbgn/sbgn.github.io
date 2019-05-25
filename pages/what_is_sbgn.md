@@ -26,7 +26,7 @@ SBGN 12 workshop will be colocated with [COMBINE 2019](http://co.mbine.org/event
       <a href="/sbgn/images/published_maps/lloretVillas_precursorprocessing.png" data-lightbox="image-gallery" data-title="The impact of mathematical modeling in understanding the mechanisms underlying neurodegeneration: evolving dimensions and future directions. Lloret-Villas et al., 2017, <a href='https://dx.doi.org/10.1002/psp4.12155'>doi:10.1002/psp4.12155</a>"><img class="gallery_thumbnail" src="/sbgn/images/published_maps/lloretVillas_precursorprocessing-cropped.png" title="AF map of protein precursor processing"/></a>
       </th>
       <th class="gallery_column">
-      <p class="gallery_image_title">ER map of CaMKII regulation by calmodulin, <a href="https://dx.doi.org/10.1371/journal.pone.0029406">doi:10.1371/journal.pone.0029406</a></p>
+      <p class="gallery_image_title">ER map of CaMKII regulation by calmodulin,  <a href="https://dx.doi.org/10.1371/journal.pone.0029406">doi:10.1371/journal.pone.0029406</a></p>
       <a href="/sbgn/images/published_maps/stefan_calmodulin.png" data-lightbox="image-gallery" data-title="Structural analysis and stochastic modelling suggest a mechanism for calmodulin trapping by CaMKII. Stefan et al., 2012, <a href='https://dx.doi.org/10.1371/journal.pone.0029406'>doi:10.1371/journal.pone.0029406</a>"><img class="gallery_thumbnail" src="/sbgn/images/published_maps/stefan_calmodulin-cropped.png" title="ER map of CaMKII regulation by calmodulin"/></a>
       </th>
     </tr>
