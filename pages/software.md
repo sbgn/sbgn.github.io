@@ -407,7 +407,7 @@ One can compare the rendering of SBGN-ML by different software packages on the [
 
 ### BioPAX-SBGN Mapping
 
-[Biological Pathways Exchange (BioPAX)](https://biopax.github.io/) is a standard that aims to provide integration, exchange, visualization and analysis of biological pathway data. A substantial amount of BioPAX Level 3 concepts can be represented in SBGN PD via [BioPAX-SBGN Mapping](http://www.biopax.org/mediawiki/index.php/BioPAX-SBGN_Mapping). More information regarding BioPAX-SBGN Mapping software can be found [here](https://biopax.github.io/Paxtools/4.3.1/sbgn-converter/index.html).  
+[Biological Pathways Exchange (BioPAX)](https://biopax.github.io/) is a standard that aims to provide integration, exchange, visualization and analysis of biological pathway data. A substantial amount of BioPAX Level 3 concepts can be represented in SBGN PD via [BioPAX-SBGN Mapping](http://www.biopax.org/mediawiki/index.php/BioPAX-SBGN_Mapping). 
    
 ### Biological Connection Markup Language (BCML)
 
