@@ -37,6 +37,7 @@ See [Accommodation for COMBINE 2019](http://co.mbine.org/events/COMBINE_2019/COM
 | 16:00 - 16:30     | **Software talks**                                                                   |                 
 | 16:30 - 17:00     | **Discussion: features required**                     | Moderator: Michael Blinov     |
 | 17:00 - 17:30     | **Discussion: funding & outreach**                    | Moderator: Falk Schreiber     |
+||
 
 # Meeting Minutes
 
