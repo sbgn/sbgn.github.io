@@ -4,31 +4,32 @@ layout: default
 permalink: sbgn12
 ---
 
-SBGN 12 will be part of [COMBINE 2014](http://co.mbine.org/events/COMBINE_2014) from August 18th to 22nd in Los Angeles, USA. As many SBGN developers are also involved in other projects and standards the premeeting will allow people to participate in the SBGN discussion without distraction and develop the specifications to be discussed at [COMBINE 2014](http://co.mbine.org/events/COMBINE_2014).
+SBGN 12 will take place on Wednesday July 17th as a part of [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) July 15-19 in Los Angeles, USA. As many SBGN developers are also involved in other projects and standards the premeeting will allow people to participate in the SBGN discussion without distraction and develop the specifications to be discussed at COMBINE 2019.
 
-# Registration
+## Goals
+The following topics should be discussed at the workshop:
+<ul>
+  <li> Tools and databases supporting SBGN
+  <li> Features that SBGN need
+  <li> Specs
+  <li> Outreach and funding
+</ul>
 
-If you plan to participate in the **SBGN pre-meeting on Aug.16-17**, please click [here](https://www.surveymonkey.com/s/SBGN10registration) to register. The registration is free.
 
-If you plan to attend the rest of the SBGN 10 and COMBINE 2014, please register at [the COMBINE 2014 registration page](http://co.mbine.org/events/COMBINE_2014#Registration).
+## Registration
 
-# Accommodation
+If you plan to attend COMBINE 2019, please register at [the COMBINE 2019 registration page](http://co.mbine.org/events/COMBINE_2019#Registration). Please e-mail <a href=mailto:blinov@uchc.edu>Michael Blinov</a> if you want to attend SBGN workshop only.
 
-See [Accommodation for COMBINE 2014](http://co.mbine.org/events/COMBINE_2014#Accommodation) for details.
+## Accommodation, Venue and Travel Information
 
-# Venue
+See [Accommodation for COMBINE 2019](http://co.mbine.org/events/COMBINE_2019/COMBINE2019_Travel) for details.
 
-[Radisson Hotel](http://www.radisson.com/los-angeles-hotel-ca-90007/cafiguer?gclid=CIj59Y_48bsCFU9afgode18Aig&s_cid=se.ggl.rad_cmp58/), Room 201.
-
-# Travel Information
-
-See [Travel Information for COMBINE 2014](http://co.mbine.org/events/COMBINE_2014#Travel_Information) for details.
 
 # Agenda Wednesday July 17
 
 | Time                        | Topic                                                                                            | Speaker          |
-|-----------------------------|--------------------------------------------------------------------------------------------------|------------------|
-| 08:00                       | **Breakfast**                                                                                    |                  |
+|-----------------------------|------------------------------------|------------------|
+| 14:00                       | **Welcome/Introduction**                                                                                    |                  |
 | 08:30                       | **Welcome/Introduction**                                                                         | Huaiyu Mi        |
 | 08:45                       | **SBGN Overview and Status** ([pdf](https://github.com/sbgn/wiki-files/raw/master/sbgn-10/SBGN_overview.pdf))                   | Falk Schreiber   |
 | 09:15                       | **Issues to discuss**                                                                            |                  |
