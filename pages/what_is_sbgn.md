@@ -55,14 +55,14 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks*</a>, 
 <a href="http://www.pantherdb.org/pathway/">PANTHER Pathway*</a>, 
 <a href="http://www.reactome.org">Reactome*</a>, 
-<a href="https://www.ebi.ac.uk/biomodels-main">BioModels database</a>
+<a href="https://www.ebi.ac.uk/biomodels/">BioModels database</a>,
 <a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a>, and <a href="https://sbgn.github.io/software#databases-and-collections-of-sbgn-maps">more</a>. 
 
 <p><b>Modeling software that draw PD diagrams</b>: 
 <a href="http://www.celldesigner.org/">CellDesigner</a>, 
 <a href="http://www.biouml.org/">BioUML</a>.
 
-<p><b>Editors that draw PD diagrams and export/import SBGN-ML</b>: 
+<p><b>Editors that draw SBGN diagrams and export/import SBGN-ML</b>: 
 <a href="https://github.com/wiese42/krayon4sbgn">KrayonForSbgn</a> (PD), 
 <a href="http://newteditor.org/">Newt Editor</a> (PD, AF), 
 <a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a>(PD, AF, ER), 
