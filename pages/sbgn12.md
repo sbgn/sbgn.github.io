@@ -25,7 +25,7 @@ If you plan to attend COMBINE 2019, please register at [the COMBINE 2019 registr
 See [Accommodation for COMBINE 2019](http://co.mbine.org/events/COMBINE_2019/COMBINE2019_Travel) for details.
 
 
-# Agenda Wednesday July 17
+## Agenda Wednesday July 17
 
 | Time              | Topic                                                 | Speaker                         |
 |-------------------|-------------------------------------------------------|---------------------------------|
@@ -39,33 +39,19 @@ See [Accommodation for COMBINE 2019](http://co.mbine.org/events/COMBINE_2019/COM
 | 17:00 - 17:30     | **Discussion: funding & outreach**                    | Moderator: Falk Schreiber     |
 ||
 
-# Meeting Minutes
+## Meeting Minutes
 
 Will be presented on a Google Drive.
 
+## Participants
 
-<table style="width:670px">
-<thead>
-<tr style="height:40px">
-<th style="width:170px; text-align:left">Name</th>
-<th style="width:30px; text-align:center">Affiliation</th>
-<th style="width:30px; text-align:center">Project</th>
-<th style="width:60px; text-align:center">E-mail</th>    
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left"><a href="https://health.uconn.edu/blinov-lab/">Michael Blinov</a></td>
-<td style="text-align:center"><a href="https://health.uconn.edu">UConn Health</a></td>
-<td style="text-align:center"><a href="http://vcell.org">VCellv</a></td>
-<td style="text-align:center">blinov@uchc.edu</td>
-</tr>
-<tr>
-<td style="text-align:left">Falk Schreiber</td>
-  <td style="text-align:center"><a href="https://www.cls.uni-konstanz.de/">University of Konstanz</a></td>
-<td style="text-align:center"></font></td>
-<td style="text-align:center"></td>
-<td style="text-align:center"></td>
-</tr>
-</tbody>
-</table>
+| Name               | Affiliation                               | Project                         |
+|--------------------|-------------------------------------------|---------------------------------|
+| <a href="https://health.uconn.edu/blinov-lab/">Michael Blinov</a>     | <a href="https://health.uconn.edu">University of Connecticut</a>, USA                       
+| <a href="http://vcell.org">VCellv</a>                |
+
+| Falk Schreiber     |   <a href="https://www.cls.uni-konstanz.de/">University of Konstanz</a>                      |               |
+
+
+
+
