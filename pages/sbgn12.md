@@ -27,26 +27,16 @@ See [Accommodation for COMBINE 2019](http://co.mbine.org/events/COMBINE_2019/COM
 
 # Agenda Wednesday July 17
 
-| Time                        | Topic                                                                                            | Speaker          |
-|-----------------------------|------------------------------------|------------------|
-| 14:00                       | **Welcome/Introduction**                                                                                    |                  |
-| 08:30                       | **Welcome/Introduction**                                                                         | Huaiyu Mi        |
-| 08:45                       | **SBGN Overview and Status** ([pdf](https://github.com/sbgn/wiki-files/raw/master/sbgn-10/SBGN_overview.pdf))                   | Falk Schreiber   |
-| 09:15                       | **Issues to discuss**                                                                            |                  |
-| 09:30 - 10:00               | **Update on PD Specification L1V2** ([pdf](https://github.com/sbgn/wiki-files/raw/master/sbgn-10/PD_update.pdf))         | Stuart Moodie    |
-| 10:00 - 10:30               | **Coffee break**                                                                                 |                  |
-| 10:30 - 12:30               | **PD Specification L1V2 discussion**                                                             |                  |
-| 12:30 - 14:00               | **Lunch**                                                                                        |                  |
-| 14:00 - 14:30               | **Introduction of DiseaseMap Project** ([pdf](https://github.com/sbgn/wiki-files/raw/master/sbgn-10/DiseaseMap.pdf)) | Alexander Mazein |
-| 14:30 - 15:00               | **Visualization of Rule-Base Modeling** ([pdf](https://github.com/sbgn/wiki-files/raw/master/sbgn-10/Visualization_of_Rule-Base_Modeling.pdf))             | Michale Blinov   |
-| 15:00 - 15:50               | **PD Specification L2**                                                                          |                  |
-| | -generic / protein families |                                                                                                  |
-| | -style sheets               |                                                                                                  |
-| 15:50 - 16:20               | **Coffee break**                                                                                 |                  |
-| 16:20 - 18:15               | **PD L2 Discussion** (cont.)                                                                     |                  |
-||
-
-
+| Time              | Topic                                                 | Speaker                         |
+|-------------------|-------------------------------------------------------|---------------------------------|
+| 14:00 - 14:05     | **SBGN Overview and Status**                          | Falk Schreiber                |
+| 14:05 - 14:30     | **Introduction to SBGN specs**                        | Andreas Dräger              |
+| 14:30 - 14:45     | **Issues to discuss**                                 | Michael Blinov              |
+| 14:45 - 15:15     | **Update on PD specs**                                | Adrien Rougny                |   
+| 15:30 - 16:00     | **Poster Session & Coffee break**                     |                              |
+| 16:00 - 16:30     | **Software talks**                                                                   |                 
+| 16:30 - 17:00     | **Discussion: features required**                     | Moderator: Michael Blinov     |
+| 17:00 - 17:30     | **Discussion: funding & outreach**                    | Moderator: Falk Schreiber     |
 
 # Meeting Minutes
 
