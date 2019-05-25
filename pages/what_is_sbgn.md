@@ -82,7 +82,7 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 
 <a href="http://contraintes.inria.fr/BIOCHAM/">BIOCHAM</a>, 
 <a href="http://copasi.org/">COPASI</a>, 
-<a href="http://jjj.bio.vu.nl/">JWS Online</a>.
+<a href="http://jjj.bio.vu.nl/">JWS Online</a> and <a href="https://sbgn.github.io/software#tools-using-sbgn">more</a>.
 
 
 
