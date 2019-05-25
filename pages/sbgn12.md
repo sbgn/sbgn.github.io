@@ -48,7 +48,7 @@ Will be presented on a Google Drive.
 | Name               | Affiliation                               | Project                         |
 |--------------------|-------------------------------------------|---------------------------------|
 | <a href="https://health.uconn.edu/blinov-lab/">Michael Blinov</a>     | <a href="https://health.uconn.edu">University of Connecticut</a>, USA              | <a href="http://vcell.org">VCell</a>                |
-| Falk Schreiber     |   <a href="https://www.cls.uni-konstanz.de/">University of Konstanz</a>                |               |
+| Falk Schreiber     |   <a href="https://www.cls.uni-konstanz.de/">University of Konstanz</a>, Germany         |               |
 
 
 
