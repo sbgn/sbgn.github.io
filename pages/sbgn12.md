@@ -9,10 +9,10 @@ SBGN 12 will take place on Wednesday July 17th as a part of [COMBINE 2019](http:
 ## Goals
 The following topics should be discussed at the workshop:
 <ul>
-  <li> Tools and databases supporting SBGN
-  <li> Features that SBGN need
-  <li> Specs
-  <li> Outreach and funding
+  <li> Tools and databases supporting SBGN</li>
+  <li> Features that SBGN need</li>
+  <li> Specs</li>
+  <li> Outreach and funding</li>
 </ul>
 
 
