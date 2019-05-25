@@ -96,17 +96,17 @@ The following are lists of software packages known to provide support for editin
 <br />
 &#42;&#42; In combination with the ySBGN converter, yEd can be seen as an editor with SBGN-ML import and export enabled.
 
-## Visualizers and Formats Converters
+## Visualisers and Formats Converters
 
 <table style="width:680px">
 <thead>
 <tr style="height:40px">
 <th style="width:170px; text-align:left">Software </th>
-<th style="width:20px; text-align:center">PD</th>
-<th style="width:20px; text-align:center">ER</th>
-<th style="width:20px; text-align:center">AF</th>
-<th style="width:180px; text-align:center">Formats</th>
-<th style="width:180px; text-align:center">Availability</th>
+<th style="width:50px; text-align:center">PD</th>
+<th style="width:50px; text-align:center">ER</th>
+<th style="width:50px; text-align:center">AF</th>
+<th style="width:170px; text-align:center">Formats</th>
+<th style="width:190px; text-align:center">Availability</th>
 </tr>
 </thead>
 <tbody>
