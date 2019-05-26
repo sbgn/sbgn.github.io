@@ -143,14 +143,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"> NET library </td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">BioPAX &rarr; SBGN </td>
-<td style="text-align:center"> In-browser</td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="https://github.com/PathwayCommons/chibe">ChiBE</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -515,6 +507,14 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+ <tr>
+<td style="text-align:left"><a href="http://bcbi.bilkent.edu.tr/pvs.html">VISIBIOweb</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"> 2002 </td>
 </tr>
 </tbody>
 </table>
