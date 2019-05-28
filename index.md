@@ -81,7 +81,7 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="http://copasi.org/">COPASI</a>, 
 <a href="http://jjj.bio.vu.nl/">JWS Online</a> 
 and <a href="https://sbgn.github.io/software_support#tools-using-sbgn">more</a>.
-
+</p>
 -----
 
 SBGN is the work of many people. It would not have been possible without the generous [support of multiple organizations](/sbgn/about#funding) over the years, for which we are very thankful.
