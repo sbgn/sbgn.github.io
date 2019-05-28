@@ -16,7 +16,7 @@ As part of our efforts to develop and establish SBGN, in 2006 we initiated a wor
 This page provides access to meeting pages, agendas, and other information about upcoming as well as past events.
 
 | - | - |
-| ![SBGN 12](images/events/SBGN12-100x100.jpg) | **[SBGN 12](https://sbgn.github.io/sbgn12)**<br> 17 July 2019<br>*Heidelberg, GermanyK*<br><br>This workshop is part of the tenth [COMBINE forum](http://co.mbine.org/events/COMBINE_2019). |
+| ![SBGN 12](images/events/SBGN12-100x100.jpg) | **[SBGN 12](https://sbgn.github.io/sbgn12)**<br> 17 July 2019<br>*Heidelberg, Germany*<br><br>This workshop is part of the tenth [COMBINE forum](http://co.mbine.org/events/COMBINE_2019). |
 | ![SBGN 11](images/events/SBGN11-100x100.jpg) | **SBGN 11**<br> 24 September 2016<br>*Newcastle, UK*<br><br>This workshop was part of the seventh [COMBINE forum](http://co.mbine.org/events/COMBINE_2016). |
 | ![SBGN 10](images/events/SBGN10-100x100.jpg) | **[SBGN 10](https://github.com/sbgn/sbgn/wiki/SBGN-10)**<br>16 - 22 August 2014<br>*Los Angeles, USA*<br><br>SBGN 10 was part of the fifth [COMBINE forum](http://co.mbine.org/events/COMBINE_2014). |
 | ![SBGN 9](images/events/SBGN9-100x100.png) | **[SBGN 9](https://github.com/sbgn/sbgn/wiki/SBGN-9)**<br>29 Apr - 2 May 2013<br>*Edinburgh, UK*<br><br>This workshop was dedicated to SBGN and it focused on the current SBGN  <br>specifications and SBGN's future development. |
