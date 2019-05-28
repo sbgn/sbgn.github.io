@@ -1,5 +1,4 @@
 ---
-title: What is SBGN?
 layout: default
 ---
 
