@@ -11,7 +11,7 @@ The following topics will be discussed at the workshop:
 <ul>
   <li> Tools and databases supporting SBGN</li>
   <li> Features that SBGN need</li>
-  <li> Specs</li>
+  <li> Specifications</li>
   <li> Outreach and funding</li>
 </ul>
 
@@ -40,7 +40,7 @@ If you plan to attend COMBINE 2019, please register at [the COMBINE 2019 registr
 
 ## Meeting Minutes
 
-Will be presented on a Google Drive.
+Meeting minutes will be presented on a Google Drive.
 
 ## Participants
 
@@ -48,6 +48,7 @@ Will be presented on a Google Drive.
 |--------------------|-------------------------------------------|---------------------------------|
 | <a href="https://health.uconn.edu/blinov-lab/">Michael Blinov</a>     | <a href="https://health.uconn.edu">University of Connecticut</a>, USA              | <a href="http://vcell.org">VCell</a>                |
 | Falk Schreiber     |   <a href="https://www.cls.uni-konstanz.de/">University of Konstanz</a>, Germany         |               |
+| Adrien Rougny      |   <a href="https://www.aist.go.jp/index_en.html">AIST</a>, Japan |
 
 
 
