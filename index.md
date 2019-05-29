@@ -83,5 +83,5 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 and <a href="https://sbgn.github.io/software#tools-using-sbgn">more</a>.
 </p>
 
-SBGN is the work of many people. It would not have been possible without the generous [support of multiple organizations](/sbgn/about#funding) over the years, for which we are very thankful.
+SBGN is the work of many people. It would not have been possible without the generous <a href="/sbgn/about#funding">support of multiple organizations</a> over the years, for which we are very thankful.
 
