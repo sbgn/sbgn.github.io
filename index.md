@@ -50,10 +50,10 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 ## [Tools and Databases](https://sbgn.github.io/software) 
 
 <p><b>Databases visualizing pathways as SBGN (* - exporting SBGN-ML)</b>: 
-<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks*</a>, 
-<a href="http://www.pantherdb.org/pathway/">PANTHER Pathway*</a>, 
 <a href="http://www.reactome.org">Reactome*</a>, 
+<a href="http://www.pantherdb.org/pathway/">PANTHER Pathway*</a>, 
 <a href="https://www.ebi.ac.uk/biomodels/">BioModels database</a>,
+<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks*</a>, 
 <a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a>, and <a href="https://sbgn.github.io/software#databases-and-collections-of-sbgn-maps">more</a>. 
 
 <p><b>Modeling software that draw PD diagrams</b>: 
