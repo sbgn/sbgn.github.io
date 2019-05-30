@@ -49,12 +49,13 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 
 ## [Tools and Databases](https://sbgn.github.io/software) 
 
-<p><b>Databases visualizing pathways as SBGN (* - exporting SBGN-ML)</b>: 
-<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks*</a>, 
-<a href="http://www.pantherdb.org/pathway/">PANTHER Pathway*</a>, 
+<p><b>Databases visualizing pathways as SBGN</b>: 
 <a href="http://www.reactome.org">Reactome*</a>, 
+<a href="http://www.pantherdb.org/pathway/">PANTHER Pathway*</a>, 
 <a href="https://www.ebi.ac.uk/biomodels/">BioModels database</a>,
-<a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a>, and <a href="https://sbgn.github.io/software#databases-and-collections-of-sbgn-maps">more</a>. 
+<a href="https://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Freactome%2FR-HSA-6804760">Pathway Commons*</a>, 
+<a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks*</a>, 
+<a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a>, and <a href="https://sbgn.github.io/software#databases-and-collections-of-sbgn-maps">more</a> (*exporting SBGN-ML). 
 
 <p><b>Modeling software that draw PD diagrams</b>: 
 <a href="http://www.celldesigner.org/">CellDesigner</a>, 
@@ -63,7 +64,7 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <p><b>Editors that draw SBGN diagrams and export/import SBGN-ML</b>: 
 <a href="https://github.com/wiese42/krayon4sbgn">KrayonForSbgn</a> (PD), 
 <a href="http://newteditor.org/">Newt Editor</a> (PD, AF), 
-<a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a>(PD, AF, ER), 
+<a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a> (PD, AF, ER), 
   <a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a> (PD, AF, ER), 
   <a href="https://www.yworks.com/products/yed">yEd</a>/<a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a> (PD, AF), and 
   <a href="https://sbgn.github.io/software#editors">more</a>. 
@@ -83,5 +84,5 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 and <a href="https://sbgn.github.io/software#tools-using-sbgn">more</a>.
 </p>
 
-<p> SBGN is the work of many people. It would not have been possible without the generous [support of multiple organizations](/sbgn/about#funding) over the years, for which we are very thankful.
+SBGN is the work of many people. It would not have been possible without the generous <a href="/sbgn/about#funding">support of multiple organizations</a> over the years, for which we are very thankful.
 

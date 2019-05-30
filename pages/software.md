@@ -119,7 +119,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">Cytoscape plugin</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
+<td style="text-align:left"><a href="https://github.com/draeger-lab/EscherConverter/">EscherConverter</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -127,7 +127,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">JAR file </td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
+<td style="text-align:left"><a href="https://github.com/draeger-lab/KEGGtranslator/">KEGGtranslator</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -342,6 +342,14 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">JWS generated</td>
 </tr>
 <tr>
+<td style="text-align:left"><a href="https://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Freactome%2FR-HSA-6804760">Pathway Commons</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"></td>
+</tr> 
+<tr>
 <td style="text-align:left"><a href="http://smpdb.ca/pathwhiz">PathWhiz</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -374,7 +382,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">CellDesigner generated</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://www.vmh.life/">Virtual Metabolic Human</a></td>
+<td style="text-align:left"><a href="https://www.vmh.life/#reconmaps">Virtual Metabolic Human ReconMaps</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
