@@ -64,7 +64,7 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <p><b>Editors that draw SBGN diagrams and export/import SBGN-ML</b>: 
 <a href="https://github.com/wiese42/krayon4sbgn">KrayonForSbgn</a> (PD), 
 <a href="http://newteditor.org/">Newt Editor</a> (PD, AF), 
-<a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a>(PD, AF, ER), 
+<a href="http://www.sbgn-ed.org/">Vanted/SBGN-ED</a> (PD, AF, ER), 
   <a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a> (PD, AF, ER), 
   <a href="https://www.yworks.com/products/yed">yEd</a>/<a href="https://github.com/sbgn/ySBGN/releases"> & ySBGN</a> (PD, AF), and 
   <a href="https://sbgn.github.io/software#editors">more</a>. 
