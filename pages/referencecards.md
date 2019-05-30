@@ -32,7 +32,7 @@ Formats used:
 <!--|-|-|-|-|-|
 | [SVG](downloads/referencecards/PD_L1V1.3.svg) | [EPS](downloads/referencecards/PD_L1V1.3.eps) | [PDF](downloads/referencecards/PD_L1V1.3.pdf) | [PNG](downloads/referencecards/PD_L1V1.3.png) | [Inkscape](downloads/referencecards/PD_L1V1.3-Inkscape.svg) | -->
 
-<img src="downloads/referencecards/PD_L1V1.3_web.png" width="600">
+<img src="downloads/referencecards/PD_L1V2.0.png" width="600">
 
 ### Activity Flow L1 V1.2
 
