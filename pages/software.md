@@ -119,7 +119,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">Cytoscape plugin</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://escher.readthedocs.org/en/latest/escherconverter.html">EscherConverter</a></td>
+<td style="text-align:left"><a href="https://github.com/draeger-lab/EscherConverter/">EscherConverter</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -127,7 +127,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">JAR file </td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a></td>
+<td style="text-align:left"><a href="https://github.com/draeger-lab/KEGGtranslator/">KEGGtranslator</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
