@@ -126,7 +126,7 @@ The example bricks are developed using the <a href="https://immersive-analytics.
 
 ## SBGN PD Reference Card
 
-![SBGN PD Reference Card](images/learning/PD_L1V1.3.png){: .center-image width="660px"}
+![SBGN PD Reference Card](images/learning/PD_L1V2.0.png){: .center-image width="660px"}
 
 ## Reading list
 
