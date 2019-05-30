@@ -53,7 +53,7 @@ the [LibSBGN Render Comparison](http://libsbgn.sourceforge.net/render_comparison
 <a href="http://www.reactome.org">Reactome*</a>, 
 <a href="http://www.pantherdb.org/pathway/">PANTHER Pathway*</a>, 
 <a href="https://www.ebi.ac.uk/biomodels/">BioModels database</a>,
-<a href="https://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Freactome%2FR-HSA-6804760">Pathway Commons</a>, 
+<a href="https://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Freactome%2FR-HSA-6804760">Pathway Commons*</a>, 
 <a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks*</a>, 
 <a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a>, and <a href="https://sbgn.github.io/software#databases-and-collections-of-sbgn-maps">more</a> (*exporting SBGN-ML). 
 
