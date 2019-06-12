@@ -18,7 +18,7 @@ permalink: /abstract
 Vasundra Touré<sup>1</sup>, Alexander Mazein<sup>2</sup>, Adrien Rougny<sup>3</sup>, Andreas Dräger<sup>4,5</sup>, Ugur Dogrusoz<sup>6</sup>, Augustin Luna<sup>7</sup>
 
 <sup>1</sup>Department of Biology, Norwegian University of Science and Technology, Trondheim, Norway  
-<sup>2</sup>European Institute for Systems Biology and Medicine, CIRI UMR5308, CNRS-ENS-UCBL-INSERM, Université de Lyon, 50 Avenue Tony Garnier, 69007 Lyon, France  
+<sup>2</sup>Luxembourg Centre for Systems Biomedicine, University of Luxembourg, 6 Avenue du Swing, L-4367 Belvaux, Luxembourg  
 <sup>3</sup>Biotechnology Research Institute for Drug Discovery, National Institute of Advanced Industrial Science and Technology, Aomi, Tokyo 135-0064, Japan  
 <sup>4</sup>Computational Systems Biology of Infection and Antimicrobial-Resistant Pathogens, Center for Bioinformatics Tübingen (ZBIT), 72076 Tübingen, Germany  
 <sup>5</sup> Department for Computer Science, University of Tübingen, 72076 Tübingen, Germany  
