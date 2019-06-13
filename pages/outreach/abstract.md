@@ -15,15 +15,17 @@ permalink: /abstract
 **The Systems Biology Graphical Notation: a standardised representation of biological maps**
 
 ## Authors
-Vasundra Touré<sup>1</sup>, Alexander Mazein<sup>2</sup>, Adrien Rougny<sup>3</sup>, Andreas Dräger<sup>4,5</sup>, Ugur Dogrusoz<sup>6</sup>, Augustin Luna<sup>7</sup>
+Vasundra Touré<sup>1</sup>, Alexander Mazein<sup>2</sup>, Adrien Rougny<sup>3,4</sup>, Andreas Dräger<sup>5,6</sup>, Ugur Dogrusoz<sup>7</sup>, Michael Blinov<sup>8</sup>, Augustin Luna<sup>9</sup>
 
-<sup>1</sup>Department of Biology, Norwegian University of Science and Technology, Trondheim, Norway  
-<sup>2</sup>Luxembourg Centre for Systems Biomedicine, University of Luxembourg, 6 Avenue du Swing, L-4367 Belvaux, Luxembourg  
-<sup>3</sup>Biotechnology Research Institute for Drug Discovery, National Institute of Advanced Industrial Science and Technology, Aomi, Tokyo 135-0064, Japan  
-<sup>4</sup>Computational Systems Biology of Infection and Antimicrobial-Resistant Pathogens, Center for Bioinformatics Tübingen (ZBIT), 72076 Tübingen, Germany  
-<sup>5</sup> Department for Computer Science, University of Tübingen, 72076 Tübingen, Germany  
-<sup>6</sup>Computer Engineering Department, Bilkent University, Ankara 06800, Turkey  
-<sup>7</sup>cBio Center, Dana-Farber Cancer Institute, Boston, MA; Department of Cell Biology, Harvard Medical School, Boston, MA 02215, USA    
+<sup>1</sup> Department of Biology, Norwegian University of Science and Technology, Trondheim, Norway  
+<sup>2</sup> Luxembourg Centre for Systems Biomedicine, University of Luxembourg, 6 Avenue du Swing, L-4367 Belvaux, Luxembourg  
+<sup>3</sup> Biotechnology Research Institute for Drug Discovery, National Institute of Advanced Industrial Science and Technology, Aomi, Tokyo 135-0064, Japan  
+<sup>4</sup> Computational Bio Big-Data Open Innovative Laboratory (CBBD-OIL), AIST, Tokyo 169-8555, Japan    
+<sup>5</sup> Computational Systems Biology of Infection and Antimicrobial-Resistant Pathogens, Center for Bioinformatics Tübingen (ZBIT), 72076 Tübingen, Germany  
+<sup>6</sup> Department for Computer Science, University of Tübingen, 72076 Tübingen, Germany  
+<sup>7</sup> Computer Engineering Department, Bilkent University, Ankara 06800, Turkey   
+<sup>8</sup> R. D. Berlin Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, Farmington, CT 06030, USA   
+<sup>9</sup> cBio Center, Dana-Farber Cancer Institute, Boston, MA; Department of Cell Biology, Harvard Medical School, Boston, MA 02215, USA    
 
 
 ## Long abstract
