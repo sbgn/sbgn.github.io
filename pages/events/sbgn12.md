@@ -44,13 +44,13 @@ Meeting minutes will be presented on a Google Drive.
 
 ## Participants
 
-| Name               | Affiliation                               | Project                         |
-|--------------------|-------------------------------------------|---------------------------------|
-| <a href="https://health.uconn.edu/blinov-lab/">Michael Blinov</a>     | <a href="https://health.uconn.edu">University of Connecticut</a>, USA              | <a href="http://vcell.org">VCell</a>                |
-| Andreas Draeger     |   <a href="http://systems-biology.info">University of Tübingen</a>, Germany       |               |
-| Falk Schreiber     |   <a href="https://www.cls.uni-konstanz.de/">University of Konstanz</a>, Germany   |               |
-| Adrien Rougny      |   <a href="https://www.aist.go.jp/index_en.html">AIST</a>, Japan |        |
-| Augustin Luna      |   <a href="https://www.dana-farber.org/">DFCI</a>, USA |        |
+| Name              | Affiliation                               | Project                         |
+|-------------------|-------------------------------------------|---------------------------------|
+| Michael Blinov    | <a href="https://health.uconn.edu/blinov-lab/">University of Connecticut</a>, USA    | <a href="http://vcell.org">VCell</a>                |
+| Andreas Draeger   |   <a href="http://systems-biology.info">University of Tübingen</a>, Germany       |               |
+| Falk Schreiber    |   <a href="https://www.cls.uni-konstanz.de/">University of Konstanz</a>, Germany   |               |
+| Adrien Rougny     |   <a href="https://www.aist.go.jp/index_en.html">AIST</a>, Japan |        |
+| Augustin Luna     |   <a href="https://www.dana-farber.org/">DFCI</a>, USA           |        |
 
 
 
