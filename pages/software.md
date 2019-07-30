@@ -307,7 +307,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">CellDesigner generated</td>
+<td style="text-align:center">SBGN-ED generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
@@ -339,7 +339,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">JWS generated</td>
+<td style="text-align:center">PathVisio and SBGN-ED generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Freactome%2FR-HSA-6804760">Pathway Commons</a></td>
@@ -371,7 +371,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">VANTED generated</td>
+<td style="text-align:center">SBGN-ED generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://subtiwiki.uni-goettingen.de/">SubtiPathways</a></td>
