@@ -86,6 +86,7 @@ The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effor
 
 ## Former SBGN Editors
 
+Ugur Dogrusoz (Dec 2016 - Dec 2019), 
 Alexander Mazein (Dec 2015 - Dec 2018), 
 Augustin Luna (Dec 2014 - Dec 2017), 
 Robin Haw (Dec 2014 - Dec 2017), 
