@@ -6,9 +6,10 @@ layout: default
 
 ## Upcoming events
 
-[COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) will take place 15-19 July 2019 in Heidelberg, Germany, hosted by the Heidelberg Institute for Theoretical Studies.
+[HARMONY 2020] (http://co.mbine.org/events/HARMONY_2020) will take place 9 - 13 March 2020 in Cambridgeshire, UK, hosted by EMBL-EBI.
 
-[SBGN 12](http://sbgn.github.io/sbgn12) workshop will be colocated with [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) and take place on Wednesday 17 July 2019. 
+[COMBINE 2020](http://co.mbine.org/events/COMBINE_2020) will take place 6-9 October 2020 in Farmington, Connecticut, USA, hosted by the [Center for Cell Analysis and Modeling] (https://health.uconn.edu/cell-analysis-modeling) at [University of Conecticut School of Medicine] (https://medicine.uconn.edu/research/).
+
 
 ## Cool visualization  
 
