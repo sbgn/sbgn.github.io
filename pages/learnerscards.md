@@ -6,7 +6,7 @@ permalink: learnerscards
 
 # Learner's reference cards
 
-To provide an easier entry to the SBGN languages, we offer a set of learner's reference cards. In contrast to the compact SBGN reference cards, the learner's cards show how the elements of the language are applied.
+The learner's reference cards are designed to provide an easy entry point to the SBGN languages. In contrast to the compact [SBGN reference cards](/referencecards), the learner's cards show how the elements of the language are applied. The learner's card do not offer all possible ways to apply the languages but can be used as a helpful material for learning the standard.
   
 ## PD Learner's Reference Card
 
