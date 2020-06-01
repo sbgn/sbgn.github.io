@@ -6,6 +6,8 @@ permalink: learnerscards
 
 # Learner's Reference Cards
 
-This page offers a brief introduction to the SBGN, and, in particular, to the Process Description language as the currently most used language of the SBGN standard. Redrawing a small example diagram will help with a quick start, and examples of the SBGN Bricks will help to align biological concepts with their graphical expressions.
+To provide an easier entry to the SBGN languages, we offer a set of learner's reference cards. In contrast to the compact SBGN reference cards, the learner's cards show how the elements of the language are applied.
   
 ## Process Description Learner's Reference Card
+
+![Representations](images/learning/LearnersRefCardPD.png)
