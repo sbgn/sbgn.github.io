@@ -17,4 +17,4 @@ The learner's reference cards are designed to provide an easy entry point to the
 
 ## Acknowledgement
 
-The SBGN learner's reference cards have been developed following the example of the [CellDesigner graphical notation card (ver4.2)](http://celldesigner.org/help/images/components42.png).
+The SBGN learner's reference cards have been developed following the example of the [CellDesigner notation card 4.2](http://celldesigner.org/help/images/components42.png).
