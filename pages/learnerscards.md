@@ -10,4 +10,7 @@ The learner's reference cards are designed to provide an easy entry point to the
   
 ## PD Learner's Reference Card
 
-![Representations](images/learning/LearnersRefCardPD.png)
+[GraphML](images/learnerscards/PD-learners-card.graphml) &emsp;
+[PNG](images/learnerscards/PD-learners-card.png) &emsp;
+
+![PD](images/learnerscards/PD-learners-card.png)
