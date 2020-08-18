@@ -27,7 +27,7 @@ The learner's reference cards are designed to provide an easy entry point to the
 [NWT 0.3](images/learnerscards/aflearnerscard.nwt) &emsp;
 [Open in Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/images/learnerscards/aflearnerscard.nwt) &emsp;
 
-<img src="../images/learnerscards/aflearnerscard.png" width="500"/>
+<img src="../images/learnerscards/aflearnerscard.png" width="475"/>
 
 ## Acknowledgement
 
