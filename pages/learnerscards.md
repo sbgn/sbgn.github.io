@@ -18,7 +18,7 @@ The learner's reference cards are designed to provide an easy entry point to the
 [SBGN 0.3 Plain](images/learnerscards/pdlearnerscard03plain.sbgn) &emsp;
 [Open in Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/images/learnerscards/pdlearnerscard.nwt) &emsp;
 
-![PD](images/learnerscards/PD-learners-card.png)
+![PD](images/learnerscards/pdlearnerscard.png)
 
 ## Acknowledgement
 
