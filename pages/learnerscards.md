@@ -19,6 +19,8 @@ The learner's reference cards are designed to provide an easy entry point to the
 
 ![PD](images/learnerscards/pdlearnerscard.png)
 
+<br />
+
 ## Activity Flow Learner's Reference Card
 
 [PNG](images/learnerscards/aflearnerscard.png) &emsp;
