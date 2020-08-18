@@ -13,8 +13,8 @@ The learner's reference cards are designed to provide an easy entry point to the
 [GraphML](images/learnerscards/pdlearnerscard.graphml) &emsp;
 [PDF](images/learnerscards/pdlearnerscard.pdf) &emsp;
 [NWT 0.3](images/learnerscards/pdlearnerscard.nwt) &emsp;
-[SBGN 0.2 Plain](images/learnerscards/pdlearnerscard02plain.sbgn) &emsp;
 [SBGN 0.3 Plain](images/learnerscards/pdlearnerscard03plain.sbgn) &emsp;
+[SBGN 0.2 Plain](images/learnerscards/pdlearnerscard02plain.sbgn) &emsp;
 [Open in Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/images/learnerscards/pdlearnerscard.nwt) &emsp;
 
 ![PD](images/learnerscards/pdlearnerscard.png)
