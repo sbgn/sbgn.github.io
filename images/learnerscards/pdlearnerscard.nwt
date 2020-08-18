@@ -88,10 +88,10 @@
           <h>111.996315</h>
           <minW>90</minW>
           <minH>111.996315</minH>
-          <WLBias>0.00005</WLBias>
-          <WRBias>0.00005</WRBias>
-          <HTBias>0.00004066115702479339</HTBias>
-          <HBBias>0.000059338842975206606</HBBias>
+          <WLBias>5e-7</WLBias>
+          <WRBias>5e-7</WRBias>
+          <HTBias>4.066115702479339e-7</HTBias>
+          <HBBias>5.933884297520661e-7</HBBias>
         </extraInfo>
       </extension>
       <bbox x="256.96626661586726" y="280.58223817223126" w="100" h="121.996315"/>
@@ -111,10 +111,10 @@
           <h>111.996315</h>
           <minW>90</minW>
           <minH>111.996315</minH>
-          <WLBias>0.00005</WLBias>
-          <WRBias>0.00005</WRBias>
-          <HTBias>0.00003814943097476496</HTBias>
-          <HBBias>0.00006185056902523504</HBBias>
+          <WLBias>5e-7</WLBias>
+          <WRBias>5e-7</WRBias>
+          <HTBias>3.814943097476496e-7</HTBias>
+          <HBBias>6.185056902523504e-7</HBBias>
         </extraInfo>
       </extension>
       <bbox x="778.4152" y="770.7361295769421" w="100" h="121.996315"/>
@@ -134,10 +134,10 @@
           <h>111.996315</h>
           <minW>90</minW>
           <minH>111.996315</minH>
-          <WLBias>0.00005</WLBias>
-          <WRBias>0.00005</WRBias>
-          <HTBias>0.0000478328173374613</HTBias>
-          <HBBias>0.000052167182662538704</HBBias>
+          <WLBias>5e-7</WLBias>
+          <WRBias>5e-7</WRBias>
+          <HTBias>4.78328173374613e-7</HTBias>
+          <HBBias>5.216718266253871e-7</HBBias>
         </extraInfo>
       </extension>
       <bbox x="532.4152" y="910.7105022678019" w="100" h="121.996315"/>
@@ -716,7 +716,7 @@
       </glyph>
     </glyph>
     <glyph id="n112" class="macromolecule">
-      <label text="LOGIC OPERATORS"/>
+      <label text="LOGICAL OPERATORS"/>
       <bbox x="538.2820399999999" y="1125.7067" w="1004.85114" h="40"/>
     </glyph>
     <glyph id="n113" class="macromolecule">
@@ -1132,7 +1132,7 @@
     </arc>
     <arc id="e29" class="consumption" source="n94" target="n55.1">
       <start x="622.6582037318917" y="852.6323292671358"/>
-      <next x="682.4913" y="831.7066700000004"/>
+      <next x="682.4913" y="831.7066700000005"/>
       <end x="686.9152" y="831.70667"/>
     </arc>
     <arc id="nwtE_fb1035e2-38f3-4b5d-a7ef-1d5bee2c869a" class="production" source="n100.2" target="n95">

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <sbgn xmlns="http://sbgn.org/libsbgn/0.3">
-  <map id="learnerscardpd17.sbgn" language="process description">
+  <map id="pdlearnerscard03plain.sbgn" language="process description">
     <glyph id="n22" class="complex">
       <bbox x="256.96626661586726" y="280.58223817223126" w="100" h="121.996315"/>
       <glyph id="n22::n0" class="macromolecule">
@@ -588,7 +588,7 @@
       </glyph>
     </glyph>
     <glyph id="n112" class="macromolecule">
-      <label text="LOGIC OPERATORS"/>
+      <label text="LOGICAL OPERATORS"/>
       <bbox x="538.2820399999999" y="1125.7067" w="1004.85114" h="40"/>
     </glyph>
     <glyph id="n113" class="macromolecule">
