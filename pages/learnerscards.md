@@ -19,6 +19,16 @@ The learner's reference cards are designed to provide an easy entry point to the
 
 ![PD](images/learnerscards/pdlearnerscard.png)
 
+## PD Learner's Reference Card
+
+[PNG](images/learnerscards/aflearnerscard.png) &emsp;
+[SBGN 0.2 Plain](images/learnerscards/aflearnerscard02plain.sbgn) &emsp;
+[SBGN 0.3 Plain](images/learnerscards/aflearnerscard03plain.sbgn) &emsp;
+[NWT 0.3](images/learnerscards/aflearnerscard.nwt) &emsp;
+[Open in Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/images/learnerscards/aflearnerscard.nwt) &emsp;
+
+![PD](images/learnerscards/aflearnerscard.png)
+
 ## Acknowledgement
 
 The SBGN learner's reference cards have been developed following the example of the [CellDesigner's notation card](http://celldesigner.org/features.html).
