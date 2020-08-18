@@ -31,6 +31,8 @@ The learner's reference cards are designed to provide an easy entry point to the
 
 <img src="../images/learnerscards/aflearnerscard.png" width="460"/>
 
+<br />
+
 ## Acknowledgement
 
 The SBGN learner's reference cards have been developed following the example of the [CellDesigner's notation card](http://celldesigner.org/features.html).
