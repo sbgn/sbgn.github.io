@@ -11,7 +11,7 @@ The learner's reference cards are designed to provide an easy entry point to the
 ## PD Learner's Reference Card
 
 [GraphML](images/learnerscards/pdlearnerscard.graphml) &emsp;
-[PNG](images/learnerscards/pdlearnerscard.png) &emsp;
+[PDF](images/learnerscards/pdlearnerscard.pdf) &emsp;
 [NWT 0.3](images/learnerscards/pdlearnerscard.nwt) &emsp;
 [SBGN 0.3](images/learnerscards/pdlearnerscard03.sbgn) &emsp;
 [SBGN 0.2 Plain](images/learnerscards/pdlearnerscard02plain.sbgn) &emsp;
