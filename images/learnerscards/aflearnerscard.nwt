@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
-  <map language="hybrid sbgn">
+<sbgn xmlns="http://sbgn.org/libsbgn/0.3">
+  <map id="aflearnerscard.nwt" language="hybrid sbgn">
     <extension>
       <renderInformation 
         xmlns="http://www.sbml.org/sbml/level3/version1/render/version1" id="renderInformation" program-name="sbgnviz" program-version="6.0.1" background-color="#00000000">
@@ -362,7 +362,7 @@
       <bbox x="-420" y="395" w="150" h="40"/>
     </glyph>
     <glyph id="ccf17d86-59ff-126f-f410-53abb484399f" class="biological activity">
-      <label text="Simple chemical&#xA;(metabolite)"/>
+      <label text="Simple chemical"/>
       <bbox x="-420" y="465" w="150" h="40"/>
     </glyph>
     <glyph id="c4430d77-4310-5f9c-0300-b0cbff6f8972" class="biological activity">
@@ -374,7 +374,7 @@
       <bbox x="-180" y="535" w="150" h="40"/>
     </glyph>
     <glyph id="97fcdd80-932d-e443-ae49-41efaa166dce" class="biological activity">
-      <label text="Biological activity"/>
+      <label text="Nucleic acid feature"/>
       <bbox x="-180" y="465" w="150" h="40"/>
     </glyph>
     <glyph id="9f43d001-98b1-2e40-139b-310c818b4ab9" class="biological activity">
