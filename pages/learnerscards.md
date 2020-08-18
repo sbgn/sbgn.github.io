@@ -8,7 +8,7 @@ permalink: learnerscards
 
 The learner's reference cards are designed to provide an easy entry point to the SBGN languages. In contrast to the compact [reference cards](/referencecards), the learner's cards show how the elements of the language are applied. Please note that the learner's cards do not describe all possible ways to apply the languages but can be used as a helpful reference material for learning the standard.
   
-## Process Description Learner's Reference Card
+## PD Learner's Reference Card
 
 [GraphML](images/learnerscards/pdlearnerscard.graphml) &emsp;
 [PDF](images/learnerscards/pdlearnerscard.pdf) &emsp;
@@ -21,7 +21,7 @@ The learner's reference cards are designed to provide an easy entry point to the
 
 <br />
 
-## Activity Flow Learner's Reference Card
+## AF Learner's Reference Card
 
 [PNG](images/learnerscards/aflearnerscard.png) &emsp;
 [SBGN 0.2 Plain](images/learnerscards/aflearnerscard02plain.sbgn) &emsp;
