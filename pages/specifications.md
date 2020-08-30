@@ -19,7 +19,7 @@ The [SBGN PD language Level 1 Version 2.0](https://sbgn.github.io/downloads/spec
 #### Former Specification:
 The [SBGN PD language Level 1 Version 1.3](https://identifiers.org/combine.specifications/sbgn.pd.level-1.version-1.3) -- Available at ***Journal of Integrative Bioinformatics***, 2015 Sep 4;12(2):263. doi: 10.2390/biecoll-jib-2015-263.
 
-For end-users more than software developers [a user manual is also available](downloads/usermanual/sbgn_PD-level1-user-public.pdf).
+For end-users more than software developers [SBGN PD Level 1 User Manual](downloads/usermanual/sbgn_PD-level1-user-public.pdf) is also available.
 
 ## Entity Relationship language
 
