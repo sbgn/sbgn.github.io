@@ -4,4 +4,5 @@ title: Challenge
 permalink: challenge
 ---
 
-# RAS-RAF-MEK-ERK Pathway Challenge
+# Open Challenge
+## The RAS-RAF-MEK-ERK Pathway Module
