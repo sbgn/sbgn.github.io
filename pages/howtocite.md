@@ -34,7 +34,7 @@ doi: [10.1515/jib-2019-0022](https://doi.org/10.1515/jib-2019-0022). PMID: [3119
 
 ## Activity Flow language
 
-**Systems Biology Graphical Notation: Activity Flow language Level 1 Version 1.2.** 
+**Systems Biology Graphical Notation: Activity Flow language Level 1 Version 1.2.**  
 Mi H, Schreiber F, Moodie S, Czauderna T, Demir E, Haw R, Luna A, Le Novère N, Sorokin A, Villéger A.  
 J Integr Bioinform. 2015 Sep 4;12(2):265.  
 doi: [10.2390/biecoll-jib-2015-265](https://doi.org/10.2390/biecoll-jib-2015-265). PMID: [26528563](https://www.ncbi.nlm.nih.gov/pubmed/26528563).  
