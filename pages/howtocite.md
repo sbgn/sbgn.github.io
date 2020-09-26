@@ -20,6 +20,11 @@ Bergmann FT, Czauderna T, Dogrusoz U, Rougny A, Dräger A, Touré V, Mazein A, B
 J Integr Bioinform. 2020 Jun 22;17(2-3):/j/jib.2020.17.issue-2-3/jib-2020-0016/jib-2020-0016.xml.  
 doi: [10.1515/jib-2020-0016](https://doi.org/10.1515/jib-2020-0016). PMID: [32568733](https://www.ncbi.nlm.nih.gov/pubmed/32568733)  
 
+**Software support for SBGN maps: SBGN-ML and LibSBGN.**
+van Iersel MP, Villéger AC, Czauderna T, Boyd SE, Bergmann FT, Luna A, Demir E, Sorokin A, Dogrusoz U, Matsuoka Y, Funahashi A, Aladjem MI, Mi H, Moodie SL, Kitano H, Le Novère N, Schreiber F.  
+Bioinformatics. 2012 Aug 1;28(15):2016-21.  
+doi: [10.1093/bioinformatics/bts270](https://doi.org/10.1093/bioinformatics/bts270). PMID: [22581176](https://www.ncbi.nlm.nih.gov/pubmed/22581176)
+
 ## Process Description language
 
 **Systems Biology Graphical Notation: Process Description language Level 1 Version 2.0.**  
