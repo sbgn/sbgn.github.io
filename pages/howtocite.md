@@ -13,8 +13,6 @@ Le Novère N, Hucka M, Mi H, Moodie S, Schreiber F, Sorokin A, Demir E, Wegner K
 Nat Biotechnol. 2009 Aug;27(8):735-41.  
 doi: [10.1038/nbt.1558](https://doi.org/10.1038/nbt.1558). PMID: [19668183](https://www.ncbi.nlm.nih.gov/pubmed/19668183).  
 [BibTeX](downloads/bibtex/lenovere2009.bib)
-<a href="http://sbgn.github.io/downloads/bibtex/lenovere2009.bib">SBGN-ML</a>
-<a href="downloads/bibtex/lenovere2009.bib">SBGN-ML</a>
 
 ## SBGNML file format
 
