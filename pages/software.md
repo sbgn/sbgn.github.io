@@ -273,7 +273,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:left"><a href="https://asthma-map.org">AsthmaMap</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">yEd/CellDesigner generated</td>
 </tr>
