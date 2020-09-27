@@ -25,7 +25,6 @@ doi: [10.1515/jib-2020-0016](https://doi.org/10.1515/jib-2020-0016). PMID: [3256
 van Iersel MP, Villéger AC, Czauderna T, Boyd SE, Bergmann FT, Luna A, Demir E, Sorokin A, Dogrusoz U, Matsuoka Y, Funahashi A, Aladjem MI, Mi H, Moodie SL, Kitano H, Le Novère N, Schreiber F.  
 Bioinformatics. 2012 Aug 1;28(15):2016-21.  
 doi: [10.1093/bioinformatics/bts270](https://doi.org/10.1093/bioinformatics/bts270). PMID: [22581176](https://www.ncbi.nlm.nih.gov/pubmed/22581176).  
-
 [BibTeX](downloads/bibtex/vaniersel2012.bib)
 
 ## Process Description language
