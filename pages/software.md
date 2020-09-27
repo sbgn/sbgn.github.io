@@ -257,7 +257,7 @@ The following are lists of software packages known to provide support for editin
 <th style="width:40px; text-align:center">ER</th>
 <th style="width:40px; text-align:center">AF</th>
 <th style="width:100px; text-align:center">SBGN-ML export</th>
-<th style="width:200px; text-align:center">Type of maps</th>   
+<th style="width:220px; text-align:center">Type of maps</th>   
 </tr>
 </thead>
 <tbody>
