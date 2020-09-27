@@ -270,12 +270,12 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">CellDesigner generated</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://asthma-map.org/downloads/">Asthma Maps</a></td>
+<td style="text-align:left"><a href="https://asthma-map.org">AsthmaMap</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">yED generated</td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">yEd/CellDesigner generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a></td>
@@ -294,12 +294,12 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">JWS generated</td>
 </tr>   
 <tr>
-<td style="text-align:left"><a href="http://metabolismregulation.org">Metabolism Regulation maps</a></td>
+<td style="text-align:left"><a href="http://metabolismregulation.org">Metabolism Regulation Maps</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">yED generated</td>
+<td style="text-align:center">yEd generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://metacrop.ipk-gatersleben.de/">MetaCrop</a></td>
