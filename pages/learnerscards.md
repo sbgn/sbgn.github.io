@@ -37,6 +37,7 @@ The learner's reference cards are designed to provide an easy entry point to the
 
 The learner's reference card for the Entity Relationship language is in preparation.
 
+<br />
 
 ## Acknowledgement
 
