@@ -17,7 +17,7 @@ The learner's reference cards are designed to provide an easy entry point to the
 [NWT 0.3](images/learnerscards/pdlearnerscard.nwt) &emsp;
 [Open in Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/images/learnerscards/pdlearnerscard.nwt) &emsp;
 
-![PD](images/learnerscards/pdlearnerscard.png)
+![PD](images/learnerscards/pdlearnerscard-small.png)
 
 <br />
 
@@ -29,7 +29,7 @@ The learner's reference cards are designed to provide an easy entry point to the
 [NWT 0.3](images/learnerscards/aflearnerscard.nwt) &emsp;
 [Open in Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/images/learnerscards/aflearnerscard.nwt) &emsp;
 
-<img src="../images/learnerscards/aflearnerscard.png" width="460"/>
+<img src="../images/learnerscards/aflearnerscard-small.png" width="460"/>
 
 <br />
 
