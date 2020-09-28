@@ -33,6 +33,11 @@ The learner's reference cards are designed to provide an easy entry point to the
 
 <br />
 
+## ER Learner's Reference Card
+
+The learner's reference card for the Entity Relationship language is in preparation.
+
+
 ## Acknowledgement
 
 The SBGN learner's reference cards have been developed following the example of the [CellDesigner's notation card](http://celldesigner.org/features.html).
