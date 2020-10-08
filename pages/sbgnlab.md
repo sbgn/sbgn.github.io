@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Challenge
+title: SBGN Lab
 permalink: sbgnlab
 ---
 
