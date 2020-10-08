@@ -6,4 +6,20 @@ permalink: sbgnlab
 
 # SBGN Lab
 
-Description
+Text  
+
+## Proposal title
+
+Image  
+
+Description  
+
+Download PDF file  
+
+## Proposal title
+
+Image  
+
+Description  
+
+Download PDF file  
