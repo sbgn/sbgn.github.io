@@ -76,7 +76,7 @@ The example bricks are developed using the <a href="https://immersive-analytics.
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_phosphorylation_simple.png"/> <br /> 
           <a href="downloads/bricks/PD_phosphorylation_simple.sbgn">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=https://sbgn.github.io/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">Newt</a></td>
-      <td style="text-align:left;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecules</i>.</td>
+      <td style="text-align:left;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and produces phosphorylated protein X. All proteins involved are represented by <i>macromolecules</i>.</td>
     </tr>
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../downloads/bricks/PD_phosphorylation.png"/> <br /> 
