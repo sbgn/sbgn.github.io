@@ -182,6 +182,14 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">GraphML &harr; SBGN-ML</td>
 <td style="text-align:center">Maven install</td>
 </tr>
+ <tr>
+<td style="text-align:left"><a href="https://lifeware.inria.fr/∼soliman/post/casq/">CaSQ</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">SBGN (CellDesigner) &rarr; SBML-qual</td>
+<td style="text-align:center">Python package</td>
+</tr>
 </tbody>
 </table>
 
@@ -389,7 +397,15 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">CellDesigner generated</td>
 </tr>
-   
+<tr>
+<td style="text-align:left"><a href="https://ramap.elixir-luxembourg.org/minerva/">Rheumatoid arthritis Map</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">Based on MINERVA platform</td>
+</tr>
+
 </tbody>
 </table>
 
