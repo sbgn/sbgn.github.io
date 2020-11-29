@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Challenge
-permalink: pathwaychallenge
+permalink: /pathwaychallenge/
 ---
 
 # Open Challenge
