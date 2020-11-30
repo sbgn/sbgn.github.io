@@ -15,3 +15,5 @@ Specific objectives are:
 1. Develop a minimal set of RAS-RAF-MEK-ERK pathway variants that can be then reused in a composable manner for developing new maps.  
 1. Describe potential issues that prevent reusability and composability.  
 1. Offer clear guidelines and specific solutions for creating composable components and modularised maps that would consist of such components.  
+
+In preparation for this challenge, the RAS-RAF-MEK-ERK components in the following resources have been analised: the Atlas of Cancer Signalling Network, the Ractome databases and PANTHER database [REF].
