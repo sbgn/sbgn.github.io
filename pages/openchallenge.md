@@ -10,7 +10,7 @@ permalink: /openchallenge/
 ### Description
 The RAS-RAF-MEK-ERK Pathway Challenge is an open project that aims at employing reusability and composability as design principles for assembling extensive Process Description maps and for enabling efficient large-scale collaborative efforts. We would like to progress through working with a specific example, the RAS-RAF-MEK-ERK signalling, and develop clear guidelines for creating and managing map components.  
 
-### Get involved
+### How to participate
 We invite experts on the topic of RAS-RAF-MEK-ERK signalling and curators that are interested in working with the related literature and developing the most up-to-date version of this signalling cascade.  
 
 ### Objectives 
