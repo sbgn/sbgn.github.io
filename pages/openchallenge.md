@@ -19,4 +19,4 @@ We invite experts on the topic of RAS-RAF-MEK-ERK signalling and curators that a
 1. Offer clear guidelines and specific solutions for creating composable components and modularised maps that would consist of such components.  
 
 ### Analysis of the existing reconstructions of the pathway
-In preparation for this challenge, the RAS-RAF-MEK-ERK components in the following resources have been analised: the Atlas of Cancer Signalling Network, the Ractome databases and PANTHER database [REF].
+In preparation for this challenge, the RAS-RAF-MEK-ERK components in the following resources have been analysed: the Atlas of Cancer Signalling Network, the Ractome databases and PANTHER database [REF].
