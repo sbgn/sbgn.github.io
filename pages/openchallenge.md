@@ -16,7 +16,9 @@ In preparation for this challenge, the RAS-RAF-MEK-ERK components in the followi
 
 ### How to participate
 
-We invite experts on the topic of RAS-RAF-MEK-ERK signalling and curators who are interested in working with the related literature and in representing the corresponding mechanisms of this signalling cascade.  
+All researchers interested in this topic are invited to contribute. We encourage students and young researchers to participate. There are many interesting tasks including reviewing pathway databases, reviewing the literature and developing pathway diagrams.  
+
+We would be grateful for help from experts on the topic of RAS-RAF-MEK-ERK signalling and experienced curators who are interested in working with students and young researchers to develop maps of this signalling cascade.  
 
 ### Motivation
 
