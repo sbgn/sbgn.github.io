@@ -29,8 +29,17 @@ The RAS-RAF-MEK-ERK signalling cascade is part of many pathway maps, and when de
 <!--1. Wile assimilating available versions of the RAS-RAF-MEK-ERK pathway, design a minimal set of pathway variants that can be then applied in a composable manner for developing new maps.  
 1. Using the experience of developing this example, offer clear guidelines and specific solutions for creating composable components and modularised maps that would consist of such components.  -->
 1. Design a minimal set of pathway variants of the RAS-RAF-MEK-ERK cascade that can be applied in a composable manner for developing larger maps.   
-1. Using the experience of developing this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.   
+1. Using the experience of developing this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.  
 
-### Contact
+### Anticipated sub-modules
 
-To participate, with questions and suggestions, please contact organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com).
+Specific mechanisms will be identified and reviewed during this project. We anticipate that sub-modules will be designed according to different RAF proteins such as RAF1, BRAF and ARAF, and scaffold and adaptor proteins such as KSR1, SEF-1, CNK1, IQGAP1, PHB, SEF-1, MORG1 and others as regulators of ERK activity or spatial regulators of the pathway.
+
+### Timeline
+
+We will form working groups and distribute tasks in **March 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
+
+### How to join the challenge 
+
+To participate, with questions and suggestions, please contact the organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com) by **28 February 2021**.
+
