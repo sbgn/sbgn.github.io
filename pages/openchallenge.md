@@ -14,7 +14,7 @@ In preparation for this challenge, the RAS-RAF-MEK-ERK components in the followi
 
 
 ### How to participate
-We invite experts on the topic of RAS-RAF-MEK-ERK signalling and curators that are interested in working with the related literature and in representing the corresponding mechanisms of this signalling cascade.  
+We invite experts on the topic of RAS-RAF-MEK-ERK signalling and curators who are interested in working with the related literature and in representing the corresponding mechanisms of this signalling cascade.  
 
 ### Objectives 
 1. Develop a minimal set of RAS-RAF-MEK-ERK pathway variants that can be then reused in a composable manner for developing new maps.  
