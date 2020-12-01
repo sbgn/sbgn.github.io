@@ -17,8 +17,11 @@ In preparation for this challenge, the RAS-RAF-MEK-ERK components in the followi
 We invite experts on the topic of RAS-RAF-MEK-ERK signalling and curators who are interested in working with the related literature and in representing the corresponding mechanisms of this signalling cascade.  
 
 ### Objectives 
-1. Wile assimilating available versions of the RAS-RAF-MEK-ERK pathway, design a minimal set of pathway variants that can be then applied in a composable manner for developing new maps.  
-1. Using the experience of developing this example, offer clear guidelines and specific solutions for creating composable components and modularised maps that would consist of such components.    
+<!--1. Wile assimilating available versions of the RAS-RAF-MEK-ERK pathway, design a minimal set of pathway variants that can be then applied in a composable manner for developing new maps.  
+1. Using the experience of developing this example, offer clear guidelines and specific solutions for creating composable components and modularised maps that would consist of such components.  -->
+1. Design a minimal set of pathway variants of the RAS-RAF-MEK-ERK cascade that can be applied in a composable manner for developing larger maps.   
+1. Using the experience of developing this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.   
+
 
 ### Contact
 To participate, with questions and suggestions, please contact organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com).
