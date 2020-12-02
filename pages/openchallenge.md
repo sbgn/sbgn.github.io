@@ -14,7 +14,7 @@ The RAS-RAF-MEK-ERK Pathway Challenge is an open project that aims at employing 
 In preparation for this challenge, the RAS-RAF-MEK-ERK components in the following resources have been analysed: the Atlas of Cancer Signalling Network, the Ractome databases and PANTHER database [REF].  
 
 
-### How to participate
+### Get involved
 
 All researchers interested in this topic are invited to contribute. We encourage students and young researchers to participate. There are many interesting tasks including reviewing pathway databases, reviewing the literature and developing pathway diagrams.  
 
