@@ -4,9 +4,8 @@ layout: default
 
 <p style="font-size:110%;">Welcome to the global portal for documentation, news, and other information about the <strong>Systems Biology Graphical Notation</strong> (SBGN) project, an effort to standardise the graphical notation used in maps of biological processes.</p>
 
-## Upcoming events
-
-[COMBINE 2020](http://co.mbine.org/events/COMBINE_2020) will take place 6-9 October 2020 in Farmington, Connecticut, USA, hosted by the [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling) at [University of Conecticut School of Medicine](https://medicine.uconn.edu/research/).
+<!--## Upcoming events
+[COMBINE 2020](http://co.mbine.org/events/COMBINE_2020) will take place 6-9 October 2020 in Farmington, Connecticut, USA, hosted by the [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling) at [University of Conecticut School of Medicine](https://medicine.uconn.edu/research/).-->
 
 
 ## Cool visualization  
