@@ -8,7 +8,7 @@ layout: default
 [COMBINE 2020](http://co.mbine.org/events/COMBINE_2020) will take place 6-9 October 2020 in Farmington, Connecticut, USA, hosted by the [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling) at [University of Conecticut School of Medicine](https://medicine.uconn.edu/research/).-->
 
 
-## Cool visualization  
+## Cool visualisation  
 
 <div id="published_maps_gallery">
   <table class="gallery_table">
