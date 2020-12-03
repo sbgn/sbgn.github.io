@@ -45,7 +45,7 @@ We will form working groups and distribute tasks in **March 2021**. Work on the 
 
 ### Contact
 
-With questions and suggestions, please contact the organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com).
+With questions and suggestions, please contact organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com).
 
 ### Organisers
 
