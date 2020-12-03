@@ -20,7 +20,7 @@ All researchers interested in this topic are invited to contribute. We encourage
 
 We would be grateful for help from experts on the topic of RAS-RAF-MEK-ERK signalling and experienced curators who are interested in working with students and young researchers to develop maps of this signalling cascade.  
 
-Please use this self-organised [Google Sheets form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **28 February 2021** to express your interest. With questions and suggestions, please contact the organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com).
+Please use this self-organised [Google Sheets form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **28 February 2021** to express your interest. 
 
 ### Motivation
 
@@ -43,6 +43,10 @@ Specific mechanisms will be identified and reviewed during this project. We anti
 
 We will form working groups and distribute tasks in **March 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
 
+### Contact
+
+With questions and suggestions, please contact the organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com).
+
 ### Organisers
 
 Alexander Mazein, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
@@ -51,7 +55,6 @@ Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, USA
 Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany  
 Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
 Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
-
 
 <!--### How to join the challenge 
 To participate, with questions and suggestions, please contact the organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com) by **28 February 2021**.-->
