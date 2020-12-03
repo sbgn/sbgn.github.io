@@ -45,12 +45,12 @@ We will form working groups and distribute tasks in **March 2021**. Work on the 
 
 ### Organisers
 
-Alexander Mazein, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
-Adrien Rougny, National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan  
-Jonathan Karr, Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, USA  
-Julio Saez Rodriguez, Institute for Computational Biomedicine, Heidelberg University Hospital and Heidelberg University, Heidelberg, Germany  
-Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
-Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
+Alexander Mazein, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
+Adrien Rougny, National Institute of Advanced Industrial Science and Technology, Tokyo, Japan  
+Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, USA  
+Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany  
+Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
+Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
 
 
 <!--### How to join the challenge 
