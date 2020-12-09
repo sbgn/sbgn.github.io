@@ -9,7 +9,7 @@ layout: default
 
 ## [Open challenge](/openchallenge/)
 
-We announce the [RAS-RAF-MEK-ERK Pathway Challenge](/openchallenge/) that focuses on a specific use case and aims at employing such design principles as modularity, reusability and composability. We invite students, young and experienced researchers to contribute. Please express your interests by **28 Feburary 2020**. [More information...](/openchallenge/) 
+We announce the **RAS-RAF-MEK-ERK Pathway Challenge** that focuses on a specific use case and aims at employing such design principles as modularity, reusability and composability. We invite students, young and experienced researchers to contribute. Please express your interests by **28 Feburary 2020**. [More information...](/openchallenge/) 
 
 
 ## Cool visualisation  
