@@ -7,6 +7,10 @@ layout: default
 <!--## Upcoming events
 [COMBINE 2020](http://co.mbine.org/events/COMBINE_2020) will take place 6-9 October 2020 in Farmington, Connecticut, USA, hosted by the [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling) at [University of Conecticut School of Medicine](https://medicine.uconn.edu/research/).-->
 
+## [Open challenge](/openchallenge/)
+
+We announce the RAS-RAF-MEK-ERK Pathway Challenge that aims at employing reusability and composability as design principles for assembling extensive Process Description maps through working with the RAS-RAF-MEK-ERK signalling pathway. We invite students, young and experienced researchers to contribute. Please express your interests by **28 Feburary 2020** via the [challange page](/openchallenge/).
+
 
 ## Cool visualisation  
 
