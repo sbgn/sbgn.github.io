@@ -15,9 +15,6 @@ In preparation for this challenge, the RAS-RAF-MEK-ERK components in the followi
 
 In preparation for this challenge, the RAS-RAF-MEK-ERK components have been analysed in the Atlas of Cancer Signalling Network, Reactome and PANTHER databases (Mazein A, Rougny A, Karr JR, Saez Rodriguez J, Ostaszewski M, Schneider R. Reusability and composability in process description maps: RAS-RAF-MEK-ERK signalling. bioRxiv. 2020 Dec 8. [doi: 10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)).  
 
-<!--In preparation for this challenge, the RAS-RAF-MEK-ERK components in the following resources have been analysed: the Atlas of Cancer Signalling Network, the Ractome databases and PANTHER database (Mazein et al., 2020, [doi: 10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)).-->
-
-
 ### Get involved
 
 All researchers interested in this topic are invited to contribute. We encourage students and young researchers to participate. There are many interesting tasks including reviewing pathway databases, reviewing the literature and developing pathway diagrams.  
