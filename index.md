@@ -9,7 +9,7 @@ layout: default
 
 ## [Open challenge](/openchallenge/)
 
-We announce the [RAS-RAF-MEK-ERK Pathway Challenge](/openchallenge/) that aims at employing reusability and composability as design principles for assembling extensive Process Description maps through working with the RAS-RAF-MEK-ERK signalling pathway. We invite students, young and experienced researchers to contribute. Please express your interests by **28 Feburary 2020** via the [challange page](/openchallenge/).
+We announce the [RAS-RAF-MEK-ERK Pathway Challenge](/openchallenge/) that aims at employing reusability and composability as design principles for assembling extensive Process Description maps through working with the RAS-RAF-MEK-ERK signalling pathway. We invite students, young and experienced researchers to contribute. Please express your interests by **28 Feburary 2020**.
 
 
 ## Cool visualisation  
