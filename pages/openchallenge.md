@@ -11,7 +11,7 @@ permalink: /openchallenge/
 
 The RAS-RAF-MEK-ERK Pathway Challenge is an open project that aims at employing reusability and composability as design principles for assembling extensive Process Description maps and for enabling efficient large-scale collaborative efforts. We would like to progress through working with a specific example, the RAS-RAF-MEK-ERK signalling, and develop the most up-to-date version of this signalling cascade so it can be used as a reference resource.  
 
-In preparation for this challenge, the RAS-RAF-MEK-ERK components have been analysed in the Atlas of Cancer Signalling Network, Reactome and PANTHER databases: (Mazein A, Rougny A, Karr JR, Saez Rodriguez J. Ostaszewski M, Schneider R. Reusability and composability in process description maps: RAS-RAF-MEK-ERK signalling. bioRxiv. 2020 Dec 8. [doi: 10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)).  
+In preparation for this challenge, the RAS-RAF-MEK-ERK components have been analysed in the Atlas of Cancer Signalling Network, Reactome and PANTHER databases: (Mazein A, Rougny A, Karr JR, Saez Rodriguez J, Ostaszewski M, Schneider R. Reusability and composability in process description maps: RAS-RAF-MEK-ERK signalling. bioRxiv. 2020 Dec 8. [doi: 10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)).  
 
 In preparation for this challenge, the RAS-RAF-MEK-ERK components in the following resources have been analysed: the Atlas of Cancer Signalling Network, the Ractome databases and PANTHER database (Mazein et al., 2020, [doi: 10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)).
 
