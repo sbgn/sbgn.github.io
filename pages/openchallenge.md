@@ -55,8 +55,8 @@ Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, USA
 Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany  
 Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
 Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
-Inna Kuperstein, Institut Curie, Paris, France
-Andrei Zinoviev, Institut Curie, Paris, France
+Inna Kuperstein, Institut Curie, Paris, France  
+Andrei Zinoviev, Institut Curie, Paris, France  
 
 <!--### How to join the challenge 
 To participate, with questions and suggestions, please contact the organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com) by **28 February 2021**.-->
