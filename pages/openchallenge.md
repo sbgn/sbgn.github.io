@@ -54,9 +54,9 @@ Adrien Rougny, National Institute of Advanced Industrial Science and Technology,
 Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, USA  
 Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany  
 Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
-Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
 Inna Kuperstein, Institut Curie, Paris, France  
 Andrei Zinoviev, Institut Curie, Paris, France  
+Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
 
 <!--### How to join the challenge 
 To participate, with questions and suggestions, please contact the organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com) by **28 February 2021**.-->
