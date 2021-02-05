@@ -55,6 +55,14 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="width:105px; text-align:left;"><img src="images/about/photo-demir.jpg" alt="Emek Demir" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Emek Demir</strong>, elected for 2020 - 2022, PhD in Computer Engineering, Assistant Professor at the Oregon Health & Science University, Portland, USA; a member of the Pathway Commons team and is responsible for the <a href="http://www.biopax.org/" target="_blank">BioPAX</a> development and integration; an editor of the BioPAX standard; interested in the SBGN-BioPAX conversion.</td>
     </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="images/about/photo-balaur.jpg" alt="Irina Balaur" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Irina Balaur</strong>, elected for 2021 - 2023, PhD in Computational Biology, Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; the developer of the ySBGN tool, contributed to the cd2sbgnml converters; works with Neo4j Graph Database for SBGN maps.</td>
+    </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="images/about/photo-mazein.jpg" alt="Alexander Mazein" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2021 - 2023, PhD in Bioinformatics; Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; co-leader of the Disease Maps effort.</td>
+    </tr>
 </table>
 
 ## SBGN Acting Editors
@@ -62,10 +70,6 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 Acting Editors are selected among active contributors and are appointed by the elected SBGN Editors. Acting Editors work on particular tasks for intensifying the development of the standard.
 
 <table>
-    <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-balaur.jpg" alt="Irina Balaur" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Irina Balaur</strong>, PhD in Computational Biology; invited as an Acting Editor in January 2019; a member of the SBGN Team; contributes to the work on the Process Description specification.</td>
-    </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-borlinghaus.jpg" alt="Hanna Borlinghaus" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Hanna Borlinghaus</strong>, PhD Student, Research Assistant at the University of Konstanz, Germany; invited as an Acting Editor in January 2019; a member of the SBGN Team; contributes to the work on the Process Description specification.</td>
@@ -126,7 +130,7 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Frank Bergmann</strong>, <font size="2">PhD in Mathematics / Computational Systems Biology, Member of Scientific Staff at the University of Heidelberg, Germany; a member of the SBML Team and a contributor to several SBML projects; a developer of <a href="https://github.com/sbgn/libsbgn" target="_blank">LibSBGN</a>.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Irina Balaur</strong>, <font size="2">PhD in Computational Biology, Researcher at the European Institute for Systems Biology and Medicine, France; lead developer of <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a>, a bidirectional converter between yEd GraphML and SBGN-ML.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Irina Balaur</strong>, <font size="2">PhD in Computational Biology, Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; lead developer of <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a>, a bidirectional converter between yEd GraphML and SBGN-ML.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Hanna Borlinghaus</strong>, <font size="2">PhD Student, Research Assistant at the University of Konstanz, Germany; a member of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> development team.</font></p></td>
 </tr>
 
