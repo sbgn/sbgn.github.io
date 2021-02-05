@@ -60,7 +60,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Irina Balaur</strong>, elected for 2021 - 2023, PhD in Computational Biology, Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; the developer of the ySBGN tool, contributed to the cd2sbgnml converters; works with Neo4j Graph Database for SBGN maps.</td>
     </tr>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-mazein.jpg" alt="Alexander Mazein" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="images/about/photo-mazein.png" alt="Alexander Mazein" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2021 - 2023, PhD in Bioinformatics; Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; co-leader of the Disease Maps effort.</td>
     </tr>
 </table>
