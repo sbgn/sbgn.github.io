@@ -82,20 +82,20 @@ The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effor
 
 ## Former SBGN Editors
 
-Adrien Rougny (Dec 2018 - Feb 2021)
-Vasundra Touré (Dec 2018 - Feb 2021)
-Ugur Dogrusoz (Dec 2016 - Dec 2019), 
-Alexander Mazein (Dec 2015 - Dec 2018), 
-Augustin Luna (Dec 2014 - Dec 2017), 
-Robin Haw (Dec 2014 - Dec 2017), 
-Tobias Czauderna (Jan 2012 - Dec 2015, Dec 2016 - Dec 2017), 
-Huaiyu Mi (Jan 2009 - Dec 2011, Dec 2013 - Dec 2016), 
-Alice Villéger (Jan 2011 - Dec 2013), 
-Emek Demir  (Jan 2010 - Dec 2012), 
-Nicolas Le Novère (Sep 2008 - Dec 2012, Dec 2015 - Dec 2016), 
-Stuart Moodie (Sep 2008 - Dec 2011, Sep 2012 - Dec 2015), 
-Anatoly Sorokin (Sep 2008 - Dec 2009, Jan 2012 - Dec 2014), 
-Falk Schreiber (Sep 2008 - Dec 2010, Jan 2012 - Dec 2014).
+Adrien Rougny (Dec 2018 - Feb 2021),  
+Vasundra Touré (Dec 2018 - Feb 2021),  
+Ugur Dogrusoz (Dec 2016 - Dec 2019),  
+Alexander Mazein (Dec 2015 - Dec 2018),  
+Augustin Luna (Dec 2014 - Dec 2017),  
+Robin Haw (Dec 2014 - Dec 2017),  
+Tobias Czauderna (Jan 2012 - Dec 2015, Dec 2016 - Dec 2017),  
+Huaiyu Mi (Jan 2009 - Dec 2011, Dec 2013 - Dec 2016),  
+Alice Villéger (Jan 2011 - Dec 2013),  
+Emek Demir  (Jan 2010 - Dec 2012),  
+Nicolas Le Novère (Sep 2008 - Dec 2012, Dec 2015 - Dec 2016),  
+Stuart Moodie (Sep 2008 - Dec 2011, Sep 2012 - Dec 2015),  
+Anatoly Sorokin (Sep 2008 - Dec 2009, Jan 2012 - Dec 2014),  
+Falk Schreiber (Sep 2008 - Dec 2010, Jan 2012 - Dec 2014). 
 
 ## SBGN Scientific Committee
 
