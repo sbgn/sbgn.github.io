@@ -35,13 +35,6 @@ The editors do not decide what to put in the specifications — they are the voi
 The SBGN editors are elected by the community for 3-year terms as volunteers. There is no limit on the number of terms one can serve as an editor. A serving editor, however, cannot stand for election thereby forcing a gap year between two successive terms.
 
 <table>
-    <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-rougny.jpg" alt="Adrien Rougny" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2018 - 2020, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX. Interested in a direct formalization of SBGN maps into qualitative dynamical models. Leading editor of the upcoming SBGN Process Description specification.</td>
-    </tr>
-    <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-toure.jpg" alt="Vasundra Touré" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Vasundra Touré</strong>, elected for 2018 - 2020, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway. Lead developer of the <a href="https://doi.org/10.1186/s12859-016-1394-x" target="_blank">STON</a> tool for the conversion of the SBGN Process Description and Activity Flow to the Neo4j Graph Database environment.</td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-draeger.png" alt="Andreas Dräger" width="100"/></td>
@@ -90,6 +83,8 @@ The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effor
 
 ## Former SBGN Editors
 
+Adrien Rougny (Dec 2018 - Feb 2021)
+Vasundra Touré (Dec 2018 - Feb 2021)
 Ugur Dogrusoz (Dec 2016 - Dec 2019), 
 Alexander Mazein (Dec 2015 - Dec 2018), 
 Augustin Luna (Dec 2014 - Dec 2017), 
@@ -142,8 +137,8 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Emek Demir</strong>, <font size="2">PhD in Computer Engineering, Assistant Professor at the Oregon Health & Science University, Portland, USA; a member of the Pathway Commons team and is responsible for the <a href="http://www.biopax.org/" target="_blank">BioPAX</a> development and integration; an editor of the BioPAX standard; interested in the SBGN-BioPAX conversion.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway; lead developer of the <a href="https://doi.org/10.1186/s12859-016-1394-x" target="_blank">STON</a> tool for the conversion of the SBGN Process Description and Activity Flow to the Neo4j Graph Database environment.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Adrien Rougny</strong>, <font size="2">PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan; the developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Vasundra Touré</strong>, <font size="2">PhD in Bioinformatics, Scientific Coordinator at the Swiss Institute of Bioinformatics; interested in data management and data standardisation in biomedicine and systems biology.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Adrien Rougny</strong>, <font size="2">PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan; the developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX; lead developer of the <a href="http://sbgnbricks.org/" target="_blank">SBGN Bricks Ontology</a>; interested in a direct formalization of SBGN maps into qualitative dynamical models.</font></p></td>
 </tr>
 
 
