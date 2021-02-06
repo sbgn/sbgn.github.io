@@ -53,7 +53,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-mazein.png" alt="Alexander Mazein" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2021 - 2023, PhD in Bioinformatics; Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; co-leader of the Disease Maps effort, interested in the communication between conceptually different languages and reusability of pathway resources.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2021 - 2023, PhD in Bioinformatics; Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; co-leader of the Disease Maps effort; interested in communication between conceptually different SBGN languages and reusability of pathway resources.</td>
     </tr>
 </table>
 
