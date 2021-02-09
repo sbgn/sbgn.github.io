@@ -16,7 +16,7 @@ permalink: about
 *  [Funding](#funding)
 *  [Ownership](#ownership)
 
-The mission of SBGN project is to develop high quality, standard graphical languages for representing biological processes and interactions.
+The mission of the SBGN project is to develop high quality, standard graphical languages for representing biological processes and interactions.
 Each SBGN language is based on the consensus of the broad international SBGN community of biologists, curators and software developers.
 Over the course of its development many individuals, organizations and companies made invaluable contributions to the SBGN through participating in discussions and meetings, providing feedback on the documentation and worked examples, adopting the standard and spreading the word.
 
