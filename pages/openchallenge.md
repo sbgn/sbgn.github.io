@@ -11,7 +11,7 @@ permalink: /openchallenge/
 [Get involved](#get-involved)  
 [Motivation](#motivation)  
 [Objectives](#objectives)  
-[Anticipated distribution of curation work](#anticipated-distribution-of-curation-work)  
+[Expected distribution of curation work](#expected-distribution-of-curation-work)  
 [Timeline](#timeline)  
 [Organisers](#organisers)  
 
@@ -44,7 +44,7 @@ The RAS-RAF-MEK-ERK signalling cascade is part of many pathway maps, and when de
 1. Design a minimal set of pathway variants of the RAS-RAF-MEK-ERK cascade that can be applied in a composable manner for developing larger maps.   
 1. Using the experience of developing this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.  
 
-### Anticipated distribution of curation work
+### Expected distribution of curation work
 
 Specific mechanisms will be identified and reviewed during this project. We anticipate that sub-modules will be designed according to different RAF proteins such as RAF1, BRAF and ARAF, and scaffold and adaptor proteins such as KSR1, SEF-1, CNK1, IQGAP1, PHB, MORG1 and others as regulators of ERK activity or spatial regulators of the pathway.
 
