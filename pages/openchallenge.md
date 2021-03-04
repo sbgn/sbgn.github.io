@@ -61,6 +61,7 @@ Alexander Mazein, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg
 Adrien Rougny, National Institute of Advanced Industrial Science and Technology, Tokyo, Japan  
 Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, USA  
 Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany  
+Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France
 Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
 Inna Kuperstein, Institut Curie, Paris, France  
 Andrei Zinoviev, Institut Curie, Paris, France  
