@@ -244,6 +244,13 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">Modeling & Bioinformatics</td>
 </tr>
 <tr>
+<td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">Server supporting CellDesigner maps</td>
+</tr>  
+<tr>
 <td style="text-align:left"><a href="https://minerva.pages.uni.lu/doc/">MINERVA</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -316,14 +323,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">SBGN-ED generated</td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://navicell.curie.fr/">NaviCell</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">CellDesigner generated</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="http://www.pantherdb.org/pathway/">PANTHER Pathway</a></td>
