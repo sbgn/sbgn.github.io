@@ -42,7 +42,7 @@ The RAS-RAF-MEK-ERK signalling cascade is part of many pathway maps, and when de
 <!--1. Wile assimilating available versions of the RAS-RAF-MEK-ERK pathway, design a minimal set of pathway variants that can be then applied in a composable manner for developing new maps.  
 1. Using the experience of developing this example, offer clear guidelines and specific solutions for creating composable components and modularised maps that would consist of such components.  -->
 1. Design a minimal set of pathway variants of the RAS-RAF-MEK-ERK cascade that can be applied in a composable manner for developing larger maps.   
-1. Using the experience of developing this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.  
+1. Using the experience of working with this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.  
 
 ### Anticipated sub-modules
 
