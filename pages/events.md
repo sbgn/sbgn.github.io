@@ -6,14 +6,15 @@ permalink: events
 
 # Events
 
-*  [SBGN Events](#sbgn-events)
+<!--*  [SBGN Events](#sbgn-events)
 *  [COMBINE Events](#combine-events)
+## SBGN events-->
 
-## SBGN events
+As part of our efforts to develop and establish SBGN, in 2006 we initiated a workshop series to bring together individuals from around the world who are interested in discussing SBGN, its implementation and its evolution.  
 
-As part of our efforts to develop and establish SBGN, in 2006 we initiated a workshop series to bring together individuals from around the world who are interested in discussing SBGN, its implementation and its evolution.
+This page provides access to meeting pages, agendas, and other information about upcoming as well as past events.  
 
-This page provides access to meeting pages, agendas, and other information about upcoming as well as past events.
+See also [COMBINE events](http://co.mbine.org/events). The 'COmputational Modeling in BIology' NEtwork ([COMBINE](http://co.mbine.org/)) is an initiative to coordinate the development of the various community standards and formats for computational models, initially in Systems Biology and related fields.  
 
 | - | - |
 | ![SBGN 12](images/events/SBGN12-100x100.jpg) | **[SBGN 12](https://sbgn.github.io/sbgn12)**<br> 17 July 2019<br>*Heidelberg, Germany*<br><br>This workshop is part of the tenth [COMBINE forum](http://co.mbine.org/events/COMBINE_2019). |
@@ -36,10 +37,8 @@ This page provides access to meeting pages, agendas, and other information about
 | ![SBGN 1](images/events/SBGN1-100x100.jpg) | **[SBGN 1](https://github.com/sbgn/sbgn/wiki/SBGN-1)**<br>11 - 12 February 2006<br>*Tokyo, Japan* |
 
 
-## COMBINE events
-
+<!--## COMBINE events
 The 'COmputational Modeling in BIology' NEtwork ([COMBINE](http://co.mbine.org/)) is an initiative to coordinate the development of the various community standards and formats for computational models, initially in Systems Biology and related fields.
-
 | - | - |
 | ![COMBINE 2018](images/events/COMBINE2018-100x100.jpg) | **[COMBINE 2018](http://co.mbine.org/events/COMBINE_2018)**<br>8 - 12 October 2018<br>*Boston, USA*<br><br>SBGN was part of the ninth [COMBINE forum](http://co.mbine.org/events/COMBINE_2018). |
 | ![HARMONY 2018](images/events/HARMONY2018-100x100.jpg) | **[HARMONY 2018](http://co.mbine.org/events/HARMONY_2018)**<br>18 - 22 June 2018<br>*Oxford, UK*<br><br>SBGN was part of the eight [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2018). |
@@ -52,4 +51,4 @@ The 'COmputational Modeling in BIology' NEtwork ([COMBINE](http://co.mbine.org/)
 | ![COMBINE 2014](images/events/COMBINE2014-100x100.jpg) | **[COMBINE 2014](http://co.mbine.org/events/COMBINE_2014)**<br>18 - 22 August 2014<br>*Los Angeles, USA*<br><br>SBGN was part of the fifth [COMBINE forum](http://co.mbine.org/events/COMBINE_2014). |
 | ![HARMONY 2014](images/events/HARMONY2014-100x100.jpg) | **[HARMONY 2014](http://co.mbine.org/events/HARMONY_2014)**<br>22 - 25 April 2014<br>*Manchester, UK*<br><br>SBGN was part of the fourth [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2014). |
 | ![COMBINE 2013](images/events/COMBINE2013-100x100.jpg) | **[COMBINE 2013](http://co.mbine.org/events/COMBINE_2013)**<br>16 - 20 September 2013<br>*Paris, France*<br><br>SBGN was part of the fourth [COMBINE forum](http://co.mbine.org/events/COMBINE_2013). |
-| ![HARMONY 2013](images/events/HARMONY2013-100x100.jpg) | **[HARMONY 2013](http://co.mbine.org/events/HARMONY_2013)**<br>20 - 23 May 2013<br>*Farmington, USA*<br><br>SBGN was part of the third [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2013). |
+| ![HARMONY 2013](images/events/HARMONY2013-100x100.jpg) | **[HARMONY 2013](http://co.mbine.org/events/HARMONY_2013)**<br>20 - 23 May 2013<br>*Farmington, USA*<br><br>SBGN was part of the third [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2013). |-->
