@@ -11,7 +11,7 @@ As part of our efforts to develop and establish SBGN, in 2006 we initiated a wor
 See also [COMBINE events](http://co.mbine.org/events): annual COMBINE forums and HARMONY hackathons. The 'COmputational Modeling in BIology' NEtwork (COMBINE) is an initiative to coordinate the development of the various community standards and formats for computational models, initially in Systems Biology and related fields.  
 
 | - | - |
-| ![SBGN 13](images/events/virtual.jpg) | **SBGN 13**<br> 23 - 25 March 2021<br>*Online (virtual) meeting*<br>This workshop is part of [HARMONY 2021](http://co.mbine.org/events/HARMONY_2021). |
+| ![SBGN 13](images/events/virtual2.jpg) | **SBGN 13**<br> 23 - 25 March 2021<br>*Online (virtual) meeting*<br>This workshop is part of [HARMONY 2021](http://co.mbine.org/events/HARMONY_2021). |
 | ![SBGN 12](images/events/SBGN12-100x100.jpg) | **[SBGN 12](https://sbgn.github.io/sbgn12)**<br> 17 July 2019<br>*Heidelberg, Germany*<br>This workshop is part of [COMBINE 2019](http://co.mbine.org/events/COMBINE_2019). |
 | ![SBGN 11](images/events/SBGN11-100x100.jpg) | **SBGN 11**<br> 24 September 2016<br>*Newcastle, UK*<br>This workshop was part of [COMBINE 2016](http://co.mbine.org/events/COMBINE_2016). |
 | ![SBGN 10](images/events/SBGN10-100x100.jpg) | **[SBGN 10](https://github.com/sbgn/sbgn/wiki/SBGN-10)**<br>16 - 22 August 2014<br>*Los Angeles, USA*<br>SBGN 10 was part of [COMBINE 2014](http://co.mbine.org/events/COMBINE_2014). |
