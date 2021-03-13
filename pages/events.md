@@ -12,7 +12,7 @@ permalink: events
 
 As part of our efforts to develop and establish SBGN, in 2006 we initiated a workshop series to bring together individuals from around the world who are interested in discussing SBGN, its implementation and its evolution.  
 
-See also [COMBINE events](http://co.mbine.org/events). The 'COmputational Modeling in BIology' NEtwork ([COMBINE](http://co.mbine.org/)) is an initiative to coordinate the development of the various community standards and formats for computational models, initially in Systems Biology and related fields.  
+See also [COMBINE events](http://co.mbine.org/events): annual COMBINE forums and HARMONY hackathons. The 'COmputational Modeling in BIology' NEtwork (COMBINE) is an initiative to coordinate the development of the various community standards and formats for computational models, initially in Systems Biology and related fields.  
 
 | - | - |
 | ![SBGN 12](images/events/SBGN12-100x100.jpg) | **[SBGN 12](https://sbgn.github.io/sbgn12)**<br> 17 July 2019<br>*Heidelberg, Germany*<br>This workshop is part of the tenth [COMBINE forum](http://co.mbine.org/events/COMBINE_2019). |
