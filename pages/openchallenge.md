@@ -19,17 +19,9 @@ permalink: /openchallenge/
 
 The RAS-RAF-MEK-ERK Pathway Challenge is an open project that aims at employing reusability and composability as design principles for assembling extensive Process Description maps and for enabling efficient large-scale collaborative efforts. We would like to progress through working with a specific example, the RAS-RAF-MEK-ERK signalling, and develop the most up-to-date version of this signalling cascade so it can be used as a reference resource.  
 
-The RAS-RAF-MEK-ERK components in the following resources have been analysed: the Atlas of Cancer Signalling Network, the Reactome databases and PANTHER database (preprint available at [https://doi.org/10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)).  
+The RAS-RAF-MEK-ERK components in the following resources have been analysed: the Atlas of Cancer Signalling Network, the Reactome databases and PANTHER database (preprint available at [https://doi.org/10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)). 
 
-<!--In preparation for this challenge, the RAS-RAF-MEK-ERK components have been analysed in the Atlas of Cancer Signalling Network, Reactome and PANTHER databases (Mazein A, Rougny A, Karr JR, Saez Rodriguez J, Ostaszewski M, Schneider R. Reusability and composability in process description maps: RAS-RAF-MEK-ERK signalling. bioRxiv. 2020 Dec 8. [doi: 10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)).-->  
-
-### Get involved
-
-All researchers interested in this topic are invited to contribute. We encourage students and young researchers to participate. There are many interesting tasks including reviewing pathway databases, reviewing the literature and developing pathway diagrams.  
-
-We would be grateful for help from experts on the topic of RAS-RAF-MEK-ERK signalling and experienced curators who are interested in working with students and young researchers to develop maps of this signalling cascade.  
-
-Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **31 March 2021** to express your interest. With questions and suggestions, please contact organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com).
+Specific mechanisms will be identified and reviewed during this project. We anticipate that sub-modules will be designed according to different RAF proteins such as RAF1, BRAF and ARAF, and scaffold and adaptor proteins such as KSR1, SEF-1, CNK1, IQGAP1, PHB, MORG1 and others as regulators of ERK activity or spatial regulators of the pathway.
 
 ### Motivation
 
@@ -39,21 +31,20 @@ The RAS-RAF-MEK-ERK signalling cascade is part of many pathway maps, and when de
 
 ### Objectives 
 
-<!--1. Wile assimilating available versions of the RAS-RAF-MEK-ERK pathway, design a minimal set of pathway variants that can be then applied in a composable manner for developing new maps.  
-1. Using the experience of developing this example, offer clear guidelines and specific solutions for creating composable components and modularised maps that would consist of such components.  -->
 1. Design a minimal set of pathway variants of the RAS-RAF-MEK-ERK cascade that can be applied in a composable manner for developing larger maps.   
 1. Using the experience of working with this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.  
 
-### Anticipated sub-modules
+### Get involved
 
-Specific mechanisms will be identified and reviewed during this project. We anticipate that sub-modules will be designed according to different RAF proteins such as RAF1, BRAF and ARAF, and scaffold and adaptor proteins such as KSR1, SEF-1, CNK1, IQGAP1, PHB, MORG1 and others as regulators of ERK activity or spatial regulators of the pathway.
+All researchers interested in this topic are invited to contribute. We encourage students and young researchers to participate. There are many interesting tasks including reviewing pathway databases, reviewing the literature and developing pathway diagrams.  
+
+We would be grateful for help from experts on the topic of RAS-RAF-MEK-ERK signalling and experienced curators who are interested in working with students and young researchers to develop maps of this signalling cascade.  
+
+Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **10 April 2021** to express your interest. With questions and suggestions, please contact organisers at [openchallenge-coord@googlegroups.com](mailto:openchallenge-coord@googlegroups.com).
 
 ### Timeline
 
 We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
-
-<!--### Contact
-With questions and suggestions, please contact organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com).-->
 
 ### Organisers
 
