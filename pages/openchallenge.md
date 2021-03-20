@@ -8,10 +8,9 @@ permalink: /openchallenge/
 ## The RAS-RAF-MEK-ERK Pathway Challenge
 
 [Description](#description)  
-[Get involved](#get-involved)  
 [Motivation](#motivation)  
 [Objectives](#objectives)  
-[Anticipated sub-modules](#anticipated-sub-modules)  
+[Get involved](#get-involved)  
 [Timeline](#timeline)  
 [Organisers](#organisers)  
 
