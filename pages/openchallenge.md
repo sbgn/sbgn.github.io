@@ -8,7 +8,7 @@ permalink: /openchallenge/
 ## The RAS-RAF-MEK-ERK Pathway Challenge
 
 [Description](#description)  
-[Motivation](#motivation)  
+<!--[Motivation](#motivation)  -->
 [Objectives](#objectives)  
 [Get involved](#get-involved)  
 [Timeline](#timeline)  
@@ -22,11 +22,9 @@ The RAS-RAF-MEK-ERK components in the following resources have been analysed: th
 
 Specific mechanisms will be identified and reviewed during this project. We anticipate that sub-modules will be designed according to different RAF proteins such as RAF1, BRAF and ARAF, and scaffold and adaptor proteins such as KSR1, SEF-1, CNK1, IQGAP1, PHB, MORG1 and others as regulators of ERK activity or spatial regulators of the pathway.
 
-### Motivation
-
+<!--### Motivation
 Modularity and composability are desired features of network components that we believe would simplify the construction and composition of biochemical maps. Focusing on a specific example that is feasible to review, analyse and maintain, we would like to employ advanced design principles that could enable large collaborative efforts to build comprehensive biochemical maps.  
-
-The RAS-RAF-MEK-ERK signalling cascade is part of many pathway maps, and when developing a new map it is not always clear whether the RAS-RAF-MEK-ERK cascade should be developed from scratch based on recent literature or it is possible to reuse available reconstructions of the cascade. For the already existing representations, it takes time and resources to find and extract relevant fragments from pathway databases, and it is often not clear which one is the best version to reuse.  
+The RAS-RAF-MEK-ERK signalling cascade is part of many pathway maps, and when developing a new map it is not always clear whether the RAS-RAF-MEK-ERK cascade should be developed from scratch based on recent literature or it is possible to reuse available reconstructions of the cascade. For the already existing representations, it takes time and resources to find and extract relevant fragments from pathway databases, and it is often not clear which one is the best version to reuse.  -->
 
 ### Objectives 
 
