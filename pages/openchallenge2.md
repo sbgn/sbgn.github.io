@@ -32,7 +32,7 @@ All researchers interested in this topic are invited to contribute. We encourage
 
 We would be grateful for help from experts on the topic of RAS-RAF-MEK-ERK signalling and experienced curators who are interested in working with students and young researchers to develop maps of this signalling cascade.  
 
-Please express your interest via this [self-organised form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **10 April 2021**. Join the [mailing list](https://groups.google.com/g/openchallenge) to participate in discussions and to keep updated. With questions and suggestions, please contact organisers at [openchallenge-coord@googlegroups.com](mailto:openchallenge-coord@googlegroups.com).
+Please express your interest via this [self-organised form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **10 April 2021**. Join the project [mailing list](https://groups.google.com/g/openchallenge) to participate in discussions and to keep updated. With questions and suggestions, please contact organisers at [openchallenge-coord@googlegroups.com](mailto:openchallenge-coord@googlegroups.com).
 
 ### Timeline
 
