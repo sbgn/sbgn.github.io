@@ -25,6 +25,11 @@ In preparation for this challenge, the RAS-RAF-MEK-ERK components in the followi
  
 Specific mechanisms will be identified and reviewed during this project. We anticipate that sub-modules will be designed according to different RAF proteins such as RAF1, BRAF and ARAF, and scaffold and adaptor proteins such as KSR1, SEF-1, CNK1, IQGAP1, PHB, MORG1 and others as regulators of ERK activity or spatial regulators of the pathway.
 
+### Objectives 
+
+1. Design a minimal set of pathway variants of the RAS-RAF-MEK-ERK cascade that can be applied in a composable manner for developing larger maps.   
+1. Using the experience of working with this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.  
+
 ### Get involved
 
 All researchers interested in this topic are invited to contribute. We encourage students and young researchers to participate. There are many interesting tasks including reviewing pathway databases, reviewing the literature and developing pathway diagrams.  
@@ -32,11 +37,6 @@ All researchers interested in this topic are invited to contribute. We encourage
 We would be grateful for help from experts on the topic of RAS-RAF-MEK-ERK signalling and experienced curators who are interested in working with students and young researchers to develop maps of this signalling cascade.  
 
 Please express your interest via this [self-organised form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **10 April 2021**. Join the [mailing list](https://groups.google.com/g/openchallenge) to participate in discussions and to keep updated. With questions and suggestions, please contact organisers at [openchallenge-coord@googlegroups.com](mailto:openchallenge-coord@googlegroups.com).
-
-### Objectives 
-
-1. Design a minimal set of pathway variants of the RAS-RAF-MEK-ERK cascade that can be applied in a composable manner for developing larger maps.   
-1. Using the experience of working with this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.  
 
 ### Timeline
 
