@@ -8,20 +8,22 @@ permalink: /openchallenge2/
 ## The RAS-RAF-MEK-ERK Pathway Challenge
 
 [Description](#description)  
-[Get involved](#get-involved)  
-[Motivation](#motivation)  
 [Objectives](#objectives)  
-[Anticipated sub-modules](#anticipated-sub-modules)  
+[Get involved](#get-involved)  
 [Timeline](#timeline)  
 [Organisers](#organisers)  
 
 ### Description
 
-The RAS-RAF-MEK-ERK Pathway Challenge is an open project that aims at employing reusability and composability as design principles for assembling extensive Process Description maps and for enabling efficient large-scale collaborative efforts. We would like to progress through working with a specific example, the RAS-RAF-MEK-ERK signalling, and develop the most up-to-date version of this signalling cascade so it can be used as a reference resource.  
-
-The RAS-RAF-MEK-ERK components in the following resources have been analysed: the Atlas of Cancer Signalling Network, the Reactome databases and PANTHER database (preprint available at [https://doi.org/10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)).  
-
-<!--In preparation for this challenge, the RAS-RAF-MEK-ERK components have been analysed in the Atlas of Cancer Signalling Network, Reactome and PANTHER databases (Mazein A, Rougny A, Karr JR, Saez Rodriguez J, Ostaszewski M, Schneider R. Reusability and composability in process description maps: RAS-RAF-MEK-ERK signalling. bioRxiv. 2020 Dec 8. [doi: 10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)).-->  
+The RAS-RAF-MEK-ERK Pathway Challenge is an open project that aims at employing reusability and composability as design principles for assembling extensive Process Description maps and for enabling efficient large-scale collaborative efforts. Modularity and composability are desired features of network components that we believe would simplify the construction and composition of biochemical maps. 
+ 
+We would like to progress through working with a specific example, the RAS-RAF-MEK-ERK signalling, and develop the most up-to-date version of this signalling cascade so it can be used as a reference resource. 
+ 
+The RAS-RAF-MEK-ERK signalling cascade is part of many pathway maps, and when we develop a new map it is not always clear whether the RAS-RAF-MEK-ERK cascade part should be developed from scratch based on recent literature or it is possible to reuse available reconstructions of the cascade. For the already existing representations, it takes time and resources to find and extract relevant fragments from pathway databases, and it is often not clear which one is the best version to reuse.
+ 
+In preparation for this challenge, the RAS-RAF-MEK-ERK components in the following resources have been analysed: the Atlas of Cancer Signalling Network, the Reactome databases and PANTHER database (preprint available at [https://doi.org/10.1101/2020.12.08.416719](https://www.biorxiv.org/content/10.1101/2020.12.08.416719v1)). We plan to further explore the existing versions of the pathway, develop missing pieces from scratch and build an integrated consensus map, with multiple variants for different conditions and cell types if needed. 
+ 
+Specific mechanisms will be identified and reviewed during this project. We anticipate that sub-modules will be designed according to different RAF proteins such as RAF1, BRAF and ARAF, and scaffold and adaptor proteins such as KSR1, SEF-1, CNK1, IQGAP1, PHB, MORG1 and others as regulators of ERK activity or spatial regulators of the pathway.
 
 ### Get involved
 
@@ -33,17 +35,12 @@ Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cG
 
 ### Objectives 
 
-<!--1. Wile assimilating available versions of the RAS-RAF-MEK-ERK pathway, design a minimal set of pathway variants that can be then applied in a composable manner for developing new maps.  
-1. Using the experience of developing this example, offer clear guidelines and specific solutions for creating composable components and modularised maps that would consist of such components.  -->
 1. Design a minimal set of pathway variants of the RAS-RAF-MEK-ERK cascade that can be applied in a composable manner for developing larger maps.   
 1. Using the experience of working with this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.  
 
 ### Timeline
 
 We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
-
-<!--### Contact
-With questions and suggestions, please contact organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com).-->
 
 ### Organisers
 
@@ -56,7 +53,3 @@ Inna Kuperstein, Institut Curie, Paris, France
 Andrei Zinoviev, Institut Curie, Paris, France  
 Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France  
 Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
-
-<!--### How to join the challenge 
-To participate, with questions and suggestions, please contact the organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com) by **28 February 2021**.-->
-
