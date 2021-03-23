@@ -64,7 +64,7 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
     </tr>
 </table>
 
-![Alt text](images/about/photo-schreiber.jpg?raw=true "Title")
+![Alt text](..images/about/photo-schreiber.jpg)
 
 <p align="center">
   <img src="images/about/photo-schreiber.jpg" width="350" title="hover text">
