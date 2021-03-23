@@ -43,15 +43,15 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 <table>
     <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/google-sheets.png" width="26"/></td>
+        <td style="width:32px; text-align:center;"><img src="images/icons/google-sheets.png" width="24"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
     </tr>
     <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/google-groups.png" width="32"/></td>
+        <td style="width:32px; text-align:center;"><img src="images/icons/google-groups.png" width="30"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Mailing list (sign-up)</td>
     </tr>
     <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/slack.jpg" width="32"/></td>
+        <td style="width:32px; text-align:center;"><img src="images/icons/slack.jpg" width="30"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Slack channel</td>
     </tr>
 </table>
@@ -60,15 +60,15 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 <table>
     <tr>
-        <td style="width:36px; text-align:center;"><img src="images/icons/google-sheets.png" width="30"/></td>
+        <td style="width:32px; text-align:center;"><img src="images/icons/google-sheets.png" width="24"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
     </tr>
     <tr>
-        <td style="width:36px; text-align:center;"><img src="images/icons/google-groups.png" width="36"/></td>
+        <td style="width:32px; text-align:center;"><img src="images/icons/google-groups.png" width="30"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Mailing list (sign-up)</td>
     </tr>
     <tr>
-        <td style="width:36px; text-align:center;"><img src="images/icons/slack.jpg" width="36"/></td>
+        <td style="width:32px; text-align:center;"><img src="images/icons/slack.jpg" width="30"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Slack channel</td>
     </tr>
 </table>
