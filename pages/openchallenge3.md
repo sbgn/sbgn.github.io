@@ -69,10 +69,10 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
         <td style="width:32px; text-align:center;"><img src="images/icons/google-folder.jpg" width="31"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Shared Google Drive folder</td>
     </tr>
-    <tr>
+    <!--<tr>
         <td style="width:32px; text-align:center;"><img src="images/icons/google-drive.png" width="31"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Shared Google Drive folder</td>
-    </tr>
+    </tr>-->
     <tr>
         <td style="width:32px; text-align:center;"><img src="images/icons/google-sheets.png" width="24"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">List of proteins with HGNC gene names and UniProt IDs</td>
