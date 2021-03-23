@@ -55,6 +55,36 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Slack channel</td>
     </tr>
 </table>
+
+
+
+
+<table>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0">
+            <img src="images/icons/google-sheets.png" width="24"/>
+            </a>
+        </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://www.w3schools.com">
+                <img src="images/icons/google-groups.png" width="30"/>
+            </a>
+        </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">Mailing list (sign-up)</td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://www.w3schools.com">
+                <img src="images/icons/slack.jpg" width="30"/>
+            </a>
+        </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">Slack channel</td>
+    </tr>
+</table>
     
 #### Curation environment
 
