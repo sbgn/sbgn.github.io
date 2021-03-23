@@ -54,10 +54,6 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
         <td style="width:24px; text-align:center;"><img src="images/icons/slack.jpg" width="24"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Slack channel</td>
     </tr>
-    <tr>
-        <td style="width:24px; text-align:center;"><img src="images/icons/google-sheets.svg" width="24"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Slack channel</td>
-    </tr>
 </table>
     
 #### Curation environment
