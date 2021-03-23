@@ -53,7 +53,11 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
         <td style="text-align:left; vertical-align:top; padding-left:1em;">Slack channel</td>
     </tr>
     <tr>
-        <td style="width:105px; text-align:center;"><img src="images/icons/zotero.jpg" width="50"/></td>
+        <td style="width:105px; text-align:center;"><img src="images/icons/zotero.jpg" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;">Slack channel</td>
+    </tr>
+    <tr>
+        <td style="width:105px; text-align:center;"><img src="images/icons/google-docs.png" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;">Slack channel</td>
     </tr>
 </table>
