@@ -43,7 +43,15 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 <table>
     <tr>
-        <td style="width:55px; text-align:center;"><img src="images/icons/google-sheets.jpg" width="50"/></td>
+        <td style="width:24px; text-align:left;"><img src="images/icons/google-sheets.png" width="24"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
+    </tr>
+    <tr>
+        <td style="width:24px; text-align:left;"><img src="images/icons/google-sheets.png" width="24"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
+    </tr>
+    <tr>
+        <td style="width:24px; text-align:left;"><img src="images/icons/google-sheets.png" width="24"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
     </tr>
 </table>
@@ -77,6 +85,4 @@ Andrei Zinoviev, Institut Curie, Paris, France
 Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France  
 Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
 
-<!--### How to join the challenge 
-To participate, with questions and suggestions, please contact the organisers at [openchallenge@googlegroups.com](mailto:openchallenge@googlegroups.com) by **28 February 2021**.-->
 
