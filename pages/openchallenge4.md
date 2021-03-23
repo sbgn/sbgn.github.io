@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: about4
+title: Open Challenge
+permalink: openchallenge4
 ---
 
 # About
