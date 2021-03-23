@@ -60,16 +60,24 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 <table>
     <tr>
+        <td style="width:32px; text-align:center;"><img src="images/icons/google-folder.jpg" width="32"/></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">List of proteins with HGNC gene names and UniProt IDs</td>
+    </tr>
+    <tr>
         <td style="width:32px; text-align:center;"><img src="images/icons/google-sheets.png" width="24"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">List of proteins with HGNC gene names and UniProt IDs</td>
     </tr>
     <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/google-groups.png" width="30"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Mailing list (sign-up)</td>
+        <td style="width:32px; text-align:center;"><img src="images/icons/google-docs.png" width="24"/></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">Curation guidelines</td>
     </tr>
     <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/slack.jpg" width="30"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Slack channel</td>
+        <td style="width:32px; text-align:center;"><img src="images/icons/zotero.jpg" width="30"/></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">Zotero library for sharing references</td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;"><img src="images/icons/github.png" width="30"/></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">GitHub repository for sharing diagrams</td>
     </tr>
 </table>
 
