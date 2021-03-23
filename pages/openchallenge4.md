@@ -14,7 +14,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 
 <table>
     <tr>
-        <td style="width:55px; text-align:left;"><img src="images/icons/slack.jpg" width="50"/></td>
+        <td style="width:25px; text-align:left;"><img src="images/icons/slack.jpg" width="20"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;">Text</td>
     </tr>
 </table>
