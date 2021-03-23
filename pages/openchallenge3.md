@@ -45,7 +45,7 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 ### Quick access
 
-## Join the project
+#### Join the project
 
 <table>
     <tr>
@@ -73,7 +73,7 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 
 
-## Curation environment
+#### Curation environment
 
 <table>
     <tr>
