@@ -43,7 +43,7 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 <table>
     <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/google-sheets.png" width="28"/></td>
+        <td style="width:32px; text-align:center;"><img src="images/icons/google-sheets.png" width="26"/></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
     </tr>
     <tr>
