@@ -47,7 +47,16 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 ## Join the project
 
-
+<table>
+    <tr>
+        <td style="width:55px; text-align:left;"><img src="images/icons/slack.jpg" width="50"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;">Slack channel</td>
+    </tr>
+    <tr>
+        <td style="width:55px; text-align:left;"><img src="images/icons/slack.png" width="50"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;">Slack channel</td>
+    </tr>
+</table>
 
 
 ## Curation environment
