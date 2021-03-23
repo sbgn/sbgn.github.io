@@ -70,7 +70,7 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
-            <a href="https://www.w3schools.com" target="_blank">
+            <a href="https://groups.google.com/g/openchallenge" target="_blank">
                 <img src="images/icons/google-groups.png" width="30"/>
             </a>
         </td>
