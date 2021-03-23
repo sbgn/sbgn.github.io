@@ -62,7 +62,7 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 <table>
     <tr>
         <td style="width:32px; text-align:center;">
-            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
             <img src="images/icons/google-sheets.png" width="24"/>
             </a>
         </td>
@@ -70,7 +70,7 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
-            <a href="https://www.w3schools.com">
+            <a href="https://www.w3schools.com" target="_blank">
                 <img src="images/icons/google-groups.png" width="30"/>
             </a>
         </td>
@@ -78,7 +78,7 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
-            <a href="https://www.w3schools.com">
+            <a href="https://www.w3schools.com" target="_blank">
                 <img src="images/icons/slack.jpg" width="30"/>
             </a>
         </td>
