@@ -9,9 +9,9 @@ permalink: openchallenge
 
 [Description](#description)  
 [Objectives](#objectives)  
-[Get involved](#get-involved)  
-[Kickoff meetings](#kickoff-meetings)
-[Quick access](#quick-access)
+[Get involved](#get-involved)    
+[Kickoff meetings](#kickoff-meetings)  
+[Quick access](#quick-access)  
 [Timeline](#timeline)  
 [Organisers](#organisers)  
 
