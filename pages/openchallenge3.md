@@ -128,10 +128,10 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 </tr>
 <tr>
     <td style="text-align:center; vertical-align:top; padding-left:1em;">Shared folder</td>
-    <td style="text-align:center; vertical-align:top; padding-left:1em;">Shared folder</td>
-    <td style="text-align:center; vertical-align:top; padding-left:1em;">Shared folder</td>
-    <td style="text-align:center; vertical-align:top; padding-left:1em;">Shared folder</td>
-    <td style="text-align:center; vertical-align:top; padding-left:1em;">Shared folder</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">List of proteins</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">Guidelines</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">References</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">Shared repository</td>
 </tr>
 </table>
 
