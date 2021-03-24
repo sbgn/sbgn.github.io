@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Challenge
-permalink: /openchallenge/
+permalink: openchallenge
 ---
 
 # Open Challenge
