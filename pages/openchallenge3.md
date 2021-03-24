@@ -122,7 +122,7 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 <table>
 <tr>
-    <td style="width:200px; text-align:center;"><img src="images/icons/google-drive.png" width="31"/></td>
+    <td style="width:200px; text-align:center;"><img src="images/icons/google-folder.jpg" width="31"/></td>
     <td style="width:200px; text-align:center;"><img src="images/icons/google-sheets.png" width="24"/></td>
     <td style="width:200px; text-align:center;"><img src="images/icons/google-docs.svg" width="24"/></td>
     <td style="width:200px; text-align:center;"><img src="images/icons/zotero.jpg" width="32"/></td>
