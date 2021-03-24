@@ -93,8 +93,6 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 
 ### Quick access
 
-#### Join the project
-
 <table>
 <tr>
     <td style="width:136px; text-align:center;">
@@ -111,14 +109,13 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 </tr>
 <tr>
     <td style="text-align:center; vertical-align:top; padding-left:1em;">Self-organised form</td>
-    <td style="text-align:center; vertical-align:top; padding-left:1em;">Mailing list</td>
-    <td style="text-align:center; vertical-align:top; padding-left:1em;">Slack channel</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">Join the mailing list</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">Join the Slack channel</td>
     <td style="text-align:center; vertical-align:top; padding-left:1em;"> </td>
     <td style="text-align:center; vertical-align:top; padding-left:1em;"> </td>
 </tr>
 </table>
-    
-#### Curation environment
+
 
 <table>
 <tr>
