@@ -52,13 +52,13 @@ Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cG
         <td style="width:32px; text-align:center;">
             <a href="https://groups.google.com/g/openchallenge" target="_blank">
                 <img src="images/icons/google-groups.png" width="29"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Mailing list (sign-up)</td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">Join the project mailing list (sign-up)</td>
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
                 <img src="images/icons/slack.jpg" width="30"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Slack channel</td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">Join the project Slack channel</td>
     </tr>
 </table>
 
