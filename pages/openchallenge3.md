@@ -37,6 +37,10 @@ Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cG
 
 We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
 
+### Kick-off meeting
+
+Virtual kickoff meetings are scheduled on Thursday 15th April at 11 AM UTC ([check your local time here](https://www.thetimezoneconverter.com/?t=12:00&tz=UTC&)) and at 5 PM UTC ([check your local time here](https://www.thetimezoneconverter.com/?t=17:00&tz=UTC&)) to accomodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
+
 ### Quick access
 
 #### Join the project
