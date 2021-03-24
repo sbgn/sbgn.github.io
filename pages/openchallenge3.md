@@ -35,7 +35,7 @@ Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cG
 
 ### Kick-off meeting
 
-Virtual kickoff events are scheduled on Thursday 15th April at 11 AM UTC ([check your local time here](https://www.thetimezoneconverter.com/?t=12:00&tz=UTC&)) and at 5 PM UTC ([check your local time here](https://www.thetimezoneconverter.com/?t=17:00&tz=UTC&)) to accomodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
+Virtual kickoff events are scheduled on Thursday 15th April at ([11 AM UTC](https://www.thetimezoneconverter.com/?t=12:00&tz=UTC&)) and at ([5 PM UTC](https://www.thetimezoneconverter.com/?t=17:00&tz=UTC&)) to accomodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
 
 ### Quick access
 
