@@ -96,24 +96,26 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 #### Join the project
 
 <table>
-    <tr>
-        <td style="width:32px; text-align:center;">
+<tr>
+    <td style="width:200px; text-align:center;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
             <img src="images/icons/google-sheets.png" width="24"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
+    <td style="width:200px; text-align:center;">
             <a href="https://groups.google.com/g/openchallenge" target="_blank">
                 <img src="images/icons/google-groups.png" width="29"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Mailing list (sign-up)</td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
+    <td style="width:200px; text-align:center;">
             <a href="https://sbgncommunity.slack.com/" target="_blank">
                 <img src="images/icons/slack.jpg" width="30"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Slack channel</td>
-    </tr>
+    <td style="width:200px; text-align:center;"> </td>
+    <td style="width:200px; text-align:center;"> </td>
+</tr>
+<tr>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">Self-organised form</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">Mailing list</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">Slack channel</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;"> </td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;"> </td>
+</tr>
 </table>
     
 #### Curation environment
@@ -128,41 +130,12 @@ We will form working groups and distribute tasks in **April 2021**. Work on the 
 </tr>
 <tr>
     <td style="text-align:center; vertical-align:top; padding-left:1em;">Shared folder</td>
-    <td style="text-align:center; vertical-align:top; padding-left:1em;">List of proteins</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">List of proteins with UniProt IDs</td>
     <td style="text-align:center; vertical-align:top; padding-left:1em;">Guidelines</td>
     <td style="text-align:center; vertical-align:top; padding-left:1em;">References</td>
-    <td style="text-align:center; vertical-align:top; padding-left:1em;">Shared repository</td>
+    <td style="text-align:center; vertical-align:top; padding-left:1em;">Repository for sharing diagrams</td>
 </tr>
 </table>
-
-
-<table>
-    <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/google-folder.jpg" width="31"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Shared Google Drive folder</td>
-    </tr>
-    <!--<tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/google-drive.png" width="31"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Shared Google Drive folder</td>
-    </tr>-->
-    <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/google-sheets.png" width="24"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">List of proteins with HGNC gene names and UniProt IDs</td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/google-docs.svg" width="24"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Curation guidelines</td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/zotero.jpg" width="32"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Zotero library for sharing references</td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;"><img src="images/icons/github.png" width="30"/></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">GitHub repository for sharing diagrams</td>
-    </tr>
-</table>
-
 
 ### Organisers
 
