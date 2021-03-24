@@ -100,7 +100,7 @@ Virtual kickoff events are preliminarily scheduled for **15th April 2021** at [1
         <td style="width:32px; text-align:center;">
             <a href="https://github.com/sbgn/openchallenge" target="_blank">
                 <img src="images/icons/github.png" width="30"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">GitHub repository for sharing diagrams</td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">GitHub repository for sharing and versioning diagrams</td>
     </tr>
 </table>
 
