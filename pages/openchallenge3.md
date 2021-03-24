@@ -33,10 +33,6 @@ All researchers interested in this topic are invited to contribute. We encourage
 
 Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **10 April 2021** to express your interest. With questions and suggestions, please contact organisers at [openchallenge-coord@googlegroups.com](mailto:openchallenge-coord@googlegroups.com). 
 
-### Timeline
-
-We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
-
 ### Kick-off meeting
 
 Virtual kickoff events are scheduled on Thursday 15th April at 11 AM UTC ([check your local time here](https://www.thetimezoneconverter.com/?t=12:00&tz=UTC&)) and at 5 PM UTC ([check your local time here](https://www.thetimezoneconverter.com/?t=17:00&tz=UTC&)) to accomodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
@@ -105,6 +101,9 @@ Virtual kickoff events are scheduled on Thursday 15th April at 11 AM UTC ([check
     </tr>
 </table>
 
+### Timeline
+
+We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
 
 ### Organisers
 
