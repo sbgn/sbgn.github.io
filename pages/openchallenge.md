@@ -42,7 +42,7 @@ Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cG
 
 ### Kickoff meetings
 
-Virtual kickoff events are preliminarily scheduled for **15th April 2021** at [11:00 UTC](https://www.thetimezoneconverter.com/?t=11:00&tz=UTC&) and at [17:00 UTC](https://www.thetimezoneconverter.com/?t=17:00&tz=UTC&) to accommodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
+Virtual kickoff events are preliminarily scheduled for **15th April 2021** at [10:00 UTC](https://www.thetimezoneconverter.com/?t=10:00&tz=UTC&) and at [16:00 UTC](https://www.thetimezoneconverter.com/?t=16:00&tz=UTC&) to accommodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
 
 
 ### Quick access
