@@ -73,12 +73,12 @@ Virtual kickoff events are preliminarily scheduled for **15th April 2021** at [1
 #### Curation environment
 
 <table>
-    <tr>
+    <!--<tr>
         <td style="width:32px; text-align:center;">
             <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
                 <img src="images/icons/google-folder.jpg" width="31"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">Shared Google Drive folder</td>
-    </tr>
+    </tr>-->
     <tr>
         <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
