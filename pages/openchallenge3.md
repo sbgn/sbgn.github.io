@@ -195,19 +195,8 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
     </tr>
 </table>
 
-### Quick access 3
+### Quick access
 
-
-<table>
-    <tr>
-        <td style="width:332px; text-align:left;">
-            <strong>Curation environment</strong></td>
-        <td style="width:332px; text-align:left;">
-            <strong>Join the project</strong></td>
-    </tr>
-</table>
-
-    
 <table>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -221,7 +210,7 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
             <img src="images/icons/google-sheets.png" width="24"/></a></td>
         <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
-            Self-organised form</a></td>
+            Suggest your contribution</a></td>
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -267,7 +256,7 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
                 <img src="images/icons/zotero.jpg" width="32"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
-                Zotero library for sharing references</a></td>
+                Zotero library</a></td>
         <td style="width:32px; text-align:center;"> </td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
     </tr>
@@ -277,7 +266,7 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
                 <img src="images/icons/github.png" width="30"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://github.com/sbgn/openchallenge" target="_blank">
-                GitHub repository for sharing diagrams</a></td>
+                GitHub repository</a></td>
         <td style="width:32px; text-align:center;"> </td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
     </tr>
