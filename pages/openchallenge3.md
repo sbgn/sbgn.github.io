@@ -117,6 +117,84 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
     </tr>
 </table>
 
+### Quick access
+
+
+<table>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <strong>Join the project</strong></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <strong>Curation environment</strong></td>
+    </tr>
+</table>
+
+    
+<table>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
+            <img src="images/icons/google-sheets.png" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
+            Self-organised form: express your interest and suggest your contribution</a></td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
+                <img src="images/icons/google-folder.jpg" width="31"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
+                Shared Google Drive folder</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://groups.google.com/g/openchallenge" target="_blank">
+                <img src="images/icons/google-groups.png" width="29"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://groups.google.com/g/openchallenge" target="_blank">
+                Mailing list (sign-up)</a></td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
+                <img src="images/icons/google-sheets.png" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
+                List of proteins with HGNC gene names and UniProt IDs</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
+                <img src="images/icons/slack.jpg" width="30"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
+            Slack channel</a></td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
+                <img src="images/icons/google-docs.svg" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
+                Curation guidelines</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;"> </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
+                <img src="images/icons/zotero.jpg" width="32"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
+                Zotero library for sharing references</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;"> </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://github.com/sbgn/openchallenge" target="_blank">
+                <img src="images/icons/github.png" width="30"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://github.com/sbgn/openchallenge" target="_blank">
+                GitHub repository for sharing diagrams</a></td>
+    </tr>
+</table>
+
 ### Timeline
 
 We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
