@@ -153,7 +153,7 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
                 <img src="images/icons/google-sheets.png" width="24"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
-                List of proteins with HGNC gene names and UniProt IDs</a></td>
+                List of proteins</a></td>
     </tr>
     <!--<tr>
         <td style="width:32px; text-align:center;">
@@ -185,7 +185,7 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
                 <img src="images/icons/github.png" width="30"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://github.com/sbgn/openchallenge" target="_blank">
-                GitHub repository for sharing diagrams</a></td>
+                GitHub repository for sharing and versioning diagrams</a></td>
     </tr>
 </table>
 
