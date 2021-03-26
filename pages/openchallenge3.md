@@ -37,6 +37,101 @@ Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cG
 
 Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 UTC](https://www.thetimezoneconverter.com/?t=11:00&tz=UTC&) and at [17:00 UTC](https://www.thetimezoneconverter.com/?t=17:00&tz=UTC&) to accommodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
 
+
+
+### Quick access
+
+<table>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
+                <img src="images/icons/google-drive.png" width="31"/></a></td>
+        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
+                Google Drive folder</a></td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
+            <img src="images/icons/google-sheets.png" width="24"/></a></td>
+        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
+            Suggest your contribution</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
+                <img src="images/icons/google-sheets.png" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
+                List of proteins</a></td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://groups.google.com/g/openchallenge" target="_blank">
+                <img src="images/icons/google-groups.png" width="29"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://groups.google.com/g/openchallenge" target="_blank">
+                Join the project mailing list</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
+                <img src="images/icons/google-docs.svg" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
+                Curation guidelines</a></td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
+                <img src="images/icons/slack.jpg" width="30"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
+            Join the project Slack channel</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/document/d/1w6VryVEz47jAawvBsauM9T_zrYuvIgJX_M5nI4V0uCw/edit" target="_blank">
+                <img src="images/icons/google-docs.svg" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/document/d/1w6VryVEz47jAawvBsauM9T_zrYuvIgJX_M5nI4V0uCw/edit" target="_blank">
+                Definitions</a></td>
+        <td style="width:32px; text-align:center;"> </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
+                <img src="images/icons/zotero.jpg" width="32"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
+                Zotero library</a></td>
+        <td style="width:32px; text-align:center;"> </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://github.com/sbgn/openchallenge" target="_blank">
+                <img src="images/icons/github.png" width="30"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://github.com/sbgn/openchallenge" target="_blank">
+                GitHub repository</a></td>
+        <td style="width:32px; text-align:center;"> </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
+    </tr>
+</table>
+
+### Timeline
+
+We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
+
+### Organisers
+
+Alexander Mazein, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
+Adrien Rougny, National Institute of Advanced Industrial Science and Technology, Tokyo, Japan  
+Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, USA  
+Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany  
+Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
+Inna Kuperstein, Institut Curie, Paris, France  
+Andrei Zinoviev, Institut Curie, Paris, France  
+Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France  
+Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
+
 ### Quick access
 
 #### Join the project
@@ -194,98 +289,5 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
                 GitHub repository for sharing diagrams</a></td>
     </tr>
 </table>
-
-### Quick access
-
-<table>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
-                <img src="images/icons/google-drive.png" width="31"/></a></td>
-        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
-                Google Drive folder</a></td>
-        <td style="width:32px; text-align:center;">
-            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
-            <img src="images/icons/google-sheets.png" width="24"/></a></td>
-        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
-            Suggest your contribution</a></td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
-                <img src="images/icons/google-sheets.png" width="24"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
-                List of proteins</a></td>
-        <td style="width:32px; text-align:center;">
-            <a href="https://groups.google.com/g/openchallenge" target="_blank">
-                <img src="images/icons/google-groups.png" width="29"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://groups.google.com/g/openchallenge" target="_blank">
-                Join the project mailing list</a></td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
-                <img src="images/icons/google-docs.svg" width="24"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
-                Curation guidelines</a></td>
-        <td style="width:32px; text-align:center;">
-            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
-                <img src="images/icons/slack.jpg" width="30"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
-            Join the project Slack channel</a></td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://docs.google.com/document/d/1w6VryVEz47jAawvBsauM9T_zrYuvIgJX_M5nI4V0uCw/edit" target="_blank">
-                <img src="images/icons/google-docs.svg" width="24"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://docs.google.com/document/d/1w6VryVEz47jAawvBsauM9T_zrYuvIgJX_M5nI4V0uCw/edit" target="_blank">
-                Definitions</a></td>
-        <td style="width:32px; text-align:center;"> </td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
-                <img src="images/icons/zotero.jpg" width="32"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
-                Zotero library</a></td>
-        <td style="width:32px; text-align:center;"> </td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://github.com/sbgn/openchallenge" target="_blank">
-                <img src="images/icons/github.png" width="30"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://github.com/sbgn/openchallenge" target="_blank">
-                GitHub repository</a></td>
-        <td style="width:32px; text-align:center;"> </td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
-    </tr>
-</table>
-
-### Timeline
-
-We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
-
-### Organisers
-
-Alexander Mazein, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
-Adrien Rougny, National Institute of Advanced Industrial Science and Technology, Tokyo, Japan  
-Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, USA  
-Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany  
-Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
-Inna Kuperstein, Institut Curie, Paris, France  
-Andrei Zinoviev, Institut Curie, Paris, France  
-Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France  
-Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg  
 
 
