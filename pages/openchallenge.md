@@ -54,13 +54,13 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
         <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
             <img src="images/icons/google-sheets.png" width="24"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Self-organised form: express your interest and suggest your contribution</td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">Self-organised form</td>
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
             <a href="https://groups.google.com/g/openchallenge" target="_blank">
                 <img src="images/icons/google-groups.png" width="29"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">Join the project mailing list (sign-up)</td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">Join the project mailing list</td>
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -116,7 +116,7 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
             <img src="images/icons/google-sheets.png" width="24"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
-            Self-organised form: express your interest and suggest your contribution</a></td>
+            Self-organised form</a></td>
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -124,7 +124,7 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
                 <img src="images/icons/google-groups.png" width="29"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://groups.google.com/g/openchallenge" target="_blank">
-                Mailing list (sign-up)</a></td>
+                Join the project mailing list</a></td>
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -132,7 +132,7 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
                 <img src="images/icons/slack.jpg" width="30"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
-            Slack channel</a></td>
+            Join the project Slack channel</a></td>
     </tr>
 </table>
     
