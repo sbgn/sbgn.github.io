@@ -151,7 +151,7 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
                 <img src="images/icons/google-groups.png" width="29"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://groups.google.com/g/openchallenge" target="_blank">
-                Mailing list (sign-up)</a></td>
+                Join the project mailing list</a></td>
         <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
                 <img src="images/icons/google-sheets.png" width="24"/></a></td>
@@ -165,7 +165,7 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
                 <img src="images/icons/slack.jpg" width="30"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
-            Slack channel</a></td>
+            Join the project Slack channel</a></td>
         <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
                 <img src="images/icons/google-docs.svg" width="24"/></a></td>
