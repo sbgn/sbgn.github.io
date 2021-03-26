@@ -122,9 +122,9 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
 
 <table>
     <tr>
-        <td style="width:32px; text-align:center;">
+        <td style="width:332px; text-align:center;">
             <strong>Join the project</strong></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+        <td style="width:332px; text-align:center;">
             <strong>Curation environment</strong></td>
     </tr>
 </table>
@@ -135,13 +135,13 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
         <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
             <img src="images/icons/google-sheets.png" width="24"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
             Self-organised form: express your interest and suggest your contribution</a></td>
         <td style="width:32px; text-align:center;">
             <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
                 <img src="images/icons/google-folder.jpg" width="31"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
                 Shared Google Drive folder</a></td>
     </tr>
