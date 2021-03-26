@@ -122,9 +122,9 @@ Virtual kickoff events are preliminary scheduled **15th April 2021** at [11:00 U
 
 <table>
     <tr>
-        <td style="width:332px; text-align:center;">
+        <td style="width:332px; text-align:left;">
             <strong>Join the project</strong></td>
-        <td style="width:332px; text-align:center;">
+        <td style="width:332px; text-align:left;">
             <strong>Curation environment</strong></td>
     </tr>
 </table>
