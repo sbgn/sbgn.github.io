@@ -177,14 +177,14 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
             <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
                 List of proteins</a></td>
     </tr>
-    <!--<tr>
+    <tr>
         <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
                 <img src="images/icons/google-docs.svg" width="24"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
-                Curation guidelines</a></td>
-    </tr>-->
+                Curation guidelines (draft)</a></td>
+    </tr>
     <!--<tr>
         <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/document/d/1w6VryVEz47jAawvBsauM9T_zrYuvIgJX_M5nI4V0uCw/edit" target="_blank">
