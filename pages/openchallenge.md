@@ -7,11 +7,11 @@ permalink: openchallenge
 # Open Challenge
 ## The RAS-RAF-MEK-ERK Pathway Challenge
 
-<!--[Description](#description)  
+<!--[Project description](#project-description)  
 [Objectives](#objectives)  
 [Get involved](#get-involved)    
 [Kickoff events](#kickoff-events)  
-[Quick access](#quick-access)  
+[Curation environment](#curation-environment)  
 [Timeline](#timeline)  
 [Organisers](#organisers)-->
 
