@@ -9,8 +9,6 @@ permalink: openchallenge4
 
 ### Quick access
 
-#### Join the project
-
 <table>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -132,38 +130,7 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
     </tr>
 </table>-->
 
-### Quick access
-
-#### Join the project
-
-<table>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
-            <img src="images/icons/google-sheets.png" width="24"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
-            Self-organised form</a></td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://groups.google.com/g/openchallenge" target="_blank">
-                <img src="images/icons/google-groups.png" width="29"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://groups.google.com/g/openchallenge" target="_blank">
-                Join the project mailing list</a></td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
-                <img src="images/icons/slack.jpg" width="30"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
-            Join the project Slack channel</a></td>
-    </tr>
-</table>
-    
-#### Curation environment
+### Curation environment
 
 <table>
     <tr>
