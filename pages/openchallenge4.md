@@ -12,6 +12,14 @@ permalink: openchallenge4
 <table>
     <tr>
         <td style="width:32px; text-align:center;">
+            <a href="https://doi.org/10.1101/2020.12.08.416719" target="_blank">
+            <img src="images/icons/biorxiv.png" width="32"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://doi.org/10.1101/2020.12.08.416719" target="_blank">
+            Preprint </a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
             <img src="images/icons/google-sheets.png" width="24"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
