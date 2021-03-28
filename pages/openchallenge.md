@@ -7,13 +7,42 @@ permalink: openchallenge
 # Open Challenge
 ## The RAS-RAF-MEK-ERK Pathway Challenge
 
-[Description](#description)  
+<!--[Description](#description)  
 [Objectives](#objectives)  
 [Get involved](#get-involved)    
 [Kickoff events](#kickoff-events)  
 [Quick access](#quick-access)  
 [Timeline](#timeline)  
-[Organisers](#organisers)  
+[Organisers](#organisers)-->
+
+### Quick access
+
+<table>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
+            <img src="images/icons/google-sheets.png" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
+            Self-organised form: express your interest and suggest your contribution</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://groups.google.com/g/openchallenge" target="_blank">
+                <img src="images/icons/google-groups.png" width="29"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://groups.google.com/g/openchallenge" target="_blank">
+                Join the project mailing list</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
+                <img src="images/icons/slack.jpg" width="30"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
+            Join the project Slack channel</a></td>
+    </tr>
+</table>
 
 ### Description
 
@@ -101,11 +130,8 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
     </tr>
 </table>-->
 
-### Quick access
 
-#### Join the project
-
-<table>
+<!--<table>
     <tr>
         <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
@@ -130,9 +156,9 @@ Virtual kickoff meetings are preliminarily scheduled for **15th April 2021** at 
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
             Join the project Slack channel</a></td>
     </tr>
-</table>
+</table>-->
     
-#### Curation environment
+### Curation environment
 
 <table>
     <tr>
