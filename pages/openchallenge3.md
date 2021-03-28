@@ -22,13 +22,13 @@ permalink: openchallenge3
                 <img src="images/icons/google-groups.png" width="29"/></a></td>
         <td style="width:170px;text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://groups.google.com/g/openchallenge" target="_blank">
-                Join the project mailing list</a></td>
+                Join mailing list</a></td>
         <td style="width:32px; text-align:center;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
                 <img src="images/icons/slack.jpg" width="30"/></a></td>
         <td style="width:170px;text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
-            Join the project Slack channel</a></td>
+            Join Slack channel</a></td>
     </tr>
 </table>
 
