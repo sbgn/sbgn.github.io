@@ -32,7 +32,7 @@ permalink: openchallenge4
                 <img src="images/icons/slack.jpg" width="30"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
-            Join the project Slack channel (invite link to SBGN #openchallenge channel)</a></td>
+            Join the project Slack channel (invite link)</a></td>
     </tr>
 </table>
 
