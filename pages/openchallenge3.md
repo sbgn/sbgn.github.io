@@ -12,23 +12,75 @@ permalink: openchallenge3
 <table>
     <tr>
         <td style="width:32px; text-align:center;">
+            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
+                <img src="images/icons/google-drive.png" width="31"/></a></td>
+        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
+                Google Drive folder</a></td>
+        <td style="width:32px; text-align:center;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
             <img src="images/icons/google-sheets.png" width="24"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
-            Self-organised form</a></td>
+            Suggest your contribution</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
+                <img src="images/icons/google-sheets.png" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
+                List of proteins</a></td>
         <td style="width:32px; text-align:center;">
             <a href="https://groups.google.com/g/openchallenge" target="_blank">
                 <img src="images/icons/google-groups.png" width="29"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://groups.google.com/g/openchallenge" target="_blank">
-                Join mailing list</a></td>
+                Join the project mailing list</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
+                <img src="images/icons/google-docs.svg" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/document/d/1a-7s5nzkNtJZZ0tmbdZuT5JAMGz9d-Ognbx9_lDqMOU/edit" target="_blank">
+                Curation guidelines</a></td>
         <td style="width:32px; text-align:center;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
                 <img src="images/icons/slack.jpg" width="30"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
-            Join Slack channel</a></td>
+            Join the project Slack channel</a></td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/document/d/1w6VryVEz47jAawvBsauM9T_zrYuvIgJX_M5nI4V0uCw/edit" target="_blank">
+                <img src="images/icons/google-docs.svg" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/document/d/1w6VryVEz47jAawvBsauM9T_zrYuvIgJX_M5nI4V0uCw/edit" target="_blank">
+                Definitions</a></td>
+        <td style="width:32px; text-align:center;"> </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
+                <img src="images/icons/zotero.jpg" width="32"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
+                Zotero library</a></td>
+        <td style="width:32px; text-align:center;"> </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
+    </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://github.com/sbgn/openchallenge" target="_blank">
+                <img src="images/icons/github.png" width="30"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://github.com/sbgn/openchallenge" target="_blank">
+                GitHub repository</a></td>
+        <td style="width:32px; text-align:center;"> </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
     </tr>
 </table>
 
@@ -390,6 +442,31 @@ Reinhard Schneider, Luxembourg Centre for Systems Biomedicine, Belval, Luxembour
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://github.com/sbgn/openchallenge" target="_blank">
                 GitHub repository for sharing diagrams</a></td>
+    </tr>
+</table>
+
+### Quick access
+
+<table>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
+            <img src="images/icons/google-sheets.png" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0" target="_blank">
+            Self-organised form</a></td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://groups.google.com/g/openchallenge" target="_blank">
+                <img src="images/icons/google-groups.png" width="29"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://groups.google.com/g/openchallenge" target="_blank">
+                Join mailing list</a></td>
+        <td style="width:32px; text-align:center;">
+            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
+                <img src="images/icons/slack.jpg" width="30"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
+            Join Slack channel</a></td>
     </tr>
 </table>
 
