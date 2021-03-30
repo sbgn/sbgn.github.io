@@ -9,7 +9,6 @@ permalink: openchallenge4
 
 ### Quick access
 
-Hi Masha:)
 
 <table>
     <tr>
