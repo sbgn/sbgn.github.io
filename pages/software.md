@@ -92,7 +92,7 @@ The following are lists of software packages known to provide support for editin
 </tbody>
 </table>
 
-&#42; The <a href="https://github.com/sbgn/cd2sbgnml">cd2sbgnml</a></td> converter enables bidirectional convertsion to/from SBGN-ML.<br />
+&#42; The <a href="https://github.com/sbgn/cd2sbgnml">cd2sbgnml</a> converter enables bidirectional convertsion to/from SBGN-ML.<br />
 <br />
 &#42;&#42; The [ySBGN](https://github.com/sbgn/ySBGN) converter enables bidirectional convertsion to/from SBGN-ML.
 
