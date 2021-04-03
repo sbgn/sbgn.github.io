@@ -70,7 +70,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>    
+<td style="text-align:center"><font size="5">&#9744;</font></td>    
 <td style="text-align:center">Web start/binary</td>
 </tr>
 <tr>
