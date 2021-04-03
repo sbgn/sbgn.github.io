@@ -550,6 +550,13 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 <td style="text-align:center"> </td>
 </tr>
 <tr>
+<td style="text-align:left"><a href="https://sourceforge.net/projects/ston/">STON</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"> </td>
+</tr>
+<tr>
 <td style="text-align:left"><a href="http://ipavs.cidms.org/">iPAVS</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
