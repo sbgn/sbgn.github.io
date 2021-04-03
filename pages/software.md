@@ -94,7 +94,7 @@ The following are lists of software packages known to provide support for editin
 
 &#42; The cd2sbgnml converter enables bidirectional convertsion to/from SBGN-ML.<br />
 <br />
-&#42;&#42; In combination with the ySBGN converter, yEd can be seen as an editor with SBGN-ML import and export enabled.
+&#42;&#42; The [ySBGN](https://github.com/sbgn/ySBGN) converter enables bidirectional convertsion to/from SBGN-ML.
 
 ## Visualisers and Formats Converters
 
