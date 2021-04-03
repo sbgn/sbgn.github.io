@@ -158,15 +158,23 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"> LaTex &rarr; SBGN </td>
 <td style="text-align:center"> TeX package</td>
 </tr>
-<tr>
+<!--<tr>
 <td style="text-align:left"><a href="https://sourceforge.net/projects/ston/">STON</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
  <td style="text-align:center">SBGN-ML &rarr; <a href="https://neo4j.com">Neo4j</a></td>
 <td style="text-align:center">Library for Neo4j</td>
+</tr>-->
+<tr>
+<td style="text-align:left"><a href="https://github.com/adrienrougny/stonpy">stonpy</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+ <td style="text-align:center">SBGN-ML &rarr; <a href="https://neo4j.com">Neo4j</a></td>
+<td style="text-align:center">Library for Neo4j</td>
 </tr>
- <tr>
+<tr>
 <td style="text-align:left"><a href="http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/">SBGNViz</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -182,8 +190,16 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">GraphML &harr; SBGN-ML</td>
 <td style="text-align:center">Maven install</td>
 </tr>
- <tr>
-<td style="text-align:left"><a href=" https://gitlab.inria.fr/soliman/casq">CaSQ</a></td>
+<tr>
+<td style="text-align:left"><a href="https://github.com/sbgn/cd2sbgnml">cd2sbgnml</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">CellDesigner &harr; SBGN-ML</td>
+<td style="text-align:center">Maven install</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://gitlab.inria.fr/soliman/casq">CaSQ</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
