@@ -306,7 +306,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">yEd/CellDesigner generated</td>
+<td style="text-align:center">yEd/CellDesigner generated, based on MINERVA platform</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a></td>
@@ -324,6 +324,14 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">JWS generated</td>
 </tr>   
+<tr>
+<td style="text-align:left"><a href="https://covid19map.elixir-luxembourg.org/minerva/">COVID-19 Disease Map</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center">Based on MINERVA platform</td>
+</tr>
 <tr>
 <td style="text-align:left"><a href="http://metabolismregulation.org">Metabolism Regulation Maps</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -354,7 +362,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">CellDesigner generated</td>
+<td style="text-align:center">CellDesigner generated, based on MINERVA platform</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://www.ebi.ac.uk/biomodels-main/path2models">Path2Models*</a></td>
@@ -389,6 +397,14 @@ The following are lists of software packages known to provide support for editin
  <td style="text-align:center"> <a href="https://reactome.org/dev/diagram/js">Diagram JS</a> or <a href="http://www.gwtproject.org/">GWT</a> </td>
 </tr>
 <tr>
+<td style="text-align:left"><a href="https://ramap.elixir-luxembourg.org/minerva/">Rheumatoid Arthritis Map</a></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9744;</font></td>
+<td style="text-align:center"><font size="5">&#9745;</font></td>
+<td style="text-align:center">CellDesigner generated, based on MINERVA platform</td>
+</tr>
+<tr>
 <td style="text-align:left"><a href="http://rimas.ipk-gatersleben.de">RIMAS</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -412,23 +428,6 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">CellDesigner generated</td>
 </tr>
- <tr>
-<td style="text-align:left"><a href="https://covid19map.elixir-luxembourg.org/minerva/">COVID-19 Map</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center">Based on MINERVA platform</td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://ramap.elixir-luxembourg.org/minerva/">Rheumatoid arthritis Map</a></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center">Based on MINERVA platform</td>
-</tr>
-
 </tbody>
 </table>
 
