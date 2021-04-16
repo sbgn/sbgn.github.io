@@ -126,7 +126,7 @@ Virtual kickoff meetings are scheduled for **15th April 2021** at [10:00 UTC](ht
 
 We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **30 September 2021**.
 
-### Licence
+### License
 
 The results of this work will be distributed under the [Creative Commons Public Domain (CC0) License](https://creativecommons.org/publicdomain/zero/1.0/): all pathway diagrams and pathway files with the corresponding annotation information.  
 
