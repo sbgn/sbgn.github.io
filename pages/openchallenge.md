@@ -65,13 +65,8 @@ The RAS-RAF-MEK-ERK signalling cascade is part of many pathway maps, and when de
 
 All researchers interested in this topic are invited to contribute. We encourage students and young researchers to participate. There are many interesting tasks including reviewing pathway databases, reviewing the literature and developing pathway diagrams.  
 
-<!--We would be grateful for help from experts on the topic of RAS-RAF-MEK-ERK signalling and experienced curators who are interested in working with students and young researchers to develop maps of this signalling cascade.  -->
-
-Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **10 April 2021** to express your interest. <!--With questions and suggestions, please contact organisers at [openchallenge-coord@googlegroups.com](mailto:openchallenge-coord@googlegroups.com).-->
-
-### Kickoff events
-
-Virtual kickoff meetings are scheduled for **15th April 2021** at [10:00 UTC](https://www.thetimezoneconverter.com/?t=10:00&tz=UTC&) and at [16:00 UTC](https://www.thetimezoneconverter.com/?t=16:00&tz=UTC&) to accommodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
+<!--### Kickoff events
+Virtual kickoff meetings are scheduled for **15th April 2021** at [10:00 UTC](https://www.thetimezoneconverter.com/?t=10:00&tz=UTC&) and at [16:00 UTC](https://www.thetimezoneconverter.com/?t=16:00&tz=UTC&) to accommodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).-->
     
 ### Curation environment
 
