@@ -124,7 +124,7 @@ Virtual kickoff meetings are scheduled for **15th April 2021** at [10:00 UTC](ht
 
 ### Timeline
 
-We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **31 August 2021**.
+We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **30 September 2021**.
 
 ### Organisers
 
