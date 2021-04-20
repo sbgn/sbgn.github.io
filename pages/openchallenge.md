@@ -93,8 +93,7 @@ permalink: openchallenge
 </table>
 
 
-### Quick access
-
+<!--### Quick access
 <table>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -120,7 +119,7 @@ permalink: openchallenge
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
             Join the project Slack channel (invite link)</a></td>
     </tr>
-</table>
+</table>-->
 
 ### Project description
 
@@ -149,8 +148,7 @@ Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cG
 
 Virtual kickoff meetings are scheduled for **15th April 2021** at [10:00 UTC](https://www.thetimezoneconverter.com/?t=10:00&tz=UTC&) and at [16:00 UTC](https://www.thetimezoneconverter.com/?t=16:00&tz=UTC&) to accommodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
     
-### Curation environment
-
+<!--### Curation environment
 <table>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -200,7 +198,7 @@ Virtual kickoff meetings are scheduled for **15th April 2021** at [10:00 UTC](ht
             <a href="https://github.com/sbgn/openchallenge" target="_blank">
                 GitHub repository for sharing and versioning diagrams</a></td>
     </tr>
-</table>
+</table>-->
 
 ### Timeline
 
