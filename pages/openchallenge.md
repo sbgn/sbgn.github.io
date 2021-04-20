@@ -77,7 +77,6 @@ permalink: openchallenge
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://docs.google.com/document/d/1w6VryVEz47jAawvBsauM9T_zrYuvIgJX_M5nI4V0uCw/edit" target="_blank">
                 Definitions (draft)</a></td>
-        <td style="width:32px; text-align:center;">
         <td style="width:32px; text-align:center;"> </td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
     </tr>
