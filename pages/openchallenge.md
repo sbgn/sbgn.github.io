@@ -34,11 +34,11 @@ permalink: openchallenge
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
-            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
-                <img src="images/icons/zotero.jpg" width="32"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
-                Zotero library</a></td>
+            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
+                <img src="images/icons/google-drive.png" width="31"/></a></td>
+        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
+                Google Drive folder</a></td>
         <td style="width:32px; text-align:center;">
             <a href="https://groups.google.com/g/openchallenge" target="_blank">
                 <img src="images/icons/google-groups.png" width="29"/></a></td>
@@ -48,27 +48,17 @@ permalink: openchallenge
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
-            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
-                <img src="images/icons/google-drive.png" width="31"/></a></td>
-        <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
-                Google Drive folder</a></td>
+            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
+                <img src="images/icons/google-sheets.png" width="24"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
+                List of proteins</a></td>
         <td style="width:32px; text-align:center;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
                 <img src="images/icons/slack.jpg" width="30"/></a></td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://join.slack.com/t/sbgncommunity/shared_invite/zt-n5z6el36-oNcWB~xmYcvHdFUePFj_~A" target="_blank">
             Join the project Slack channel<br />(invite link)</a></td>
-    </tr>
-    <tr>
-        <td style="width:32px; text-align:center;">
-            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
-                <img src="images/icons/google-sheets.png" width="24"/></a></td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;">
-            <a href="https://docs.google.com/spreadsheets/d/1sBZdoSy02fcXPQa4cWWN0qp7RvlCMrsSYmOAjZOWG3E/edit#gid=0" target="_blank">
-                List of proteins</a></td>
-        <td style="width:32px; text-align:center;"> </td>
-        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
     </tr>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -90,7 +80,19 @@ permalink: openchallenge
         <td style="width:32px; text-align:center;"> </td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
     </tr>
+    <tr>
+        <td style="width:32px; text-align:center;">
+            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
+                <img src="images/icons/zotero.jpg" width="32"/></a></td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;">
+            <a href="https://www.zotero.org/groups/2854069/open_challenge" target="_blank">
+                Zotero library</a></td>
+        <td style="width:32px; text-align:center;"> </td>
+        <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
+    </tr>
 </table>
+
+
 
 <!--### Quick access
 <table>
