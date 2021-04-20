@@ -49,7 +49,7 @@ permalink: openchallenge
     <tr>
         <td style="width:32px; text-align:center;">
             <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
-                <img src="images/icons/google-folder.jpg" width="31"/></a></td>
+                <img src="images/icons/google-drive.png" width="31"/></a></td>
         <td style="width:300px; text-align:left; vertical-align:center; padding-left:1em;">
             <a href="https://drive.google.com/drive/folders/1Ctlk4ziE-TFBnRwo8ioIDgKOtV2AkRWl" target="_blank">
                 Google Drive folder</a></td>
