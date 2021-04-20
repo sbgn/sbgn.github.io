@@ -92,8 +92,7 @@ permalink: openchallenge
     </tr>
 </table>
 
-### Quick access
-
+<!--### Quick access
 <table>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -167,7 +166,7 @@ permalink: openchallenge
         <td style="width:32px; text-align:center;"> </td>
         <td style="text-align:left; vertical-align:center; padding-left:1em;"> </td>
     </tr>
-</table>
+</table>-->
 
 
 <!--### Quick access
