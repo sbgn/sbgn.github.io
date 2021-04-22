@@ -333,7 +333,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">Based on MINERVA platform</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://metabolismregulation.org">Metabolism Regulation Maps</a></td>
+<td style="text-align:left"><a href="http://metabolismregulation.github.io">Metabolism Regulation Maps</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
