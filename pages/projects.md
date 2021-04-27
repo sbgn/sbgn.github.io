@@ -21,6 +21,33 @@ Text.
         <td style="width:400px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>Publications: </strong>Text.<br />
+            <strong>Category: </strong>Text.<br />
+            <strong>Status: </strong>Text.<br />
+            <strong>Connected projects: </strong>Text.</td>
+    </tr>
+</table> 
+
+## ModelBricks
+
+<table>
+    <tr>
+        <td style="width:400px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>Publications: </strong>Text.<br />
+            <strong>Category: </strong>Text.<br />
+            <strong>Status: </strong>Text.<br />
+            <strong>Connected projects: </strong>Text.</td>
+    </tr>
+</table> 
+
+## PD2AF
+
+<table>
+    <tr>
+        <td style="width:400px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>Publications: </strong>Text.<br />
+            <strong>Category: </strong>Text.<br />
             <strong>Status: </strong>Text.<br />
             <strong>Connected projects: </strong>Text.</td>
     </tr>
