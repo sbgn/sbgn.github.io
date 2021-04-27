@@ -81,13 +81,13 @@ Text.
 <table>
     <tr>
         <td style="width:400px; vertical-align:top;  text-align:left;">
-            Interesting features: 1) ability to draw in all three SBGN languages includign Entity Relationships. 2) validation of the syntactical and semantical correctness of maps.
+            Interesting features: 1) ability to draw in all three SBGN languages includign Entity Relationships; 2) validation of the syntactical and semantical correctness of maps; 3) PD to AF conversion.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>Publications: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
+            <strong>Category: </strong>Software<br />
+            <strong>Status: </strong>Complete, actively maintained<br />
+            <strong>Connected projects: </strong>SBGN Bricks</td>
     </tr>
 </table>
 
@@ -96,7 +96,7 @@ Text.
 <table>
     <tr>
         <td style="width:400px; vertical-align:top;  text-align:left;">
-            Interesting features: web-based, atuomatic layout, converts to and from CellDesigner format.
+            Interesting features: 1) no installation needed; 2) files can be opend from a link; 3) automatic layout; 4) converts to and from CellDesigner format.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>Publications: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33010165/" target="_blank">PMID:33010165</a><br />
@@ -150,6 +150,10 @@ Text.
     </tr>
 </table>
 
+## cd2sbgnml converter
+
+## ySBGN converter
+
 ## SBGN-BioPAX converter
 
 <table>
@@ -157,9 +161,9 @@ Text.
         <td style="width:400px; vertical-align:top;  text-align:left;">
             <strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
+            <strong>Publications: </strong>Not available<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Status: </strong>On hold<br />
+            <strong>Connected projects: </strong>Not available</td>
     </tr>
 </table>
