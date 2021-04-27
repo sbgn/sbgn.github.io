@@ -62,7 +62,7 @@ Text.
     </tr>
 </table> 
 
-## SBGN-to-Neo4j: stonpy
+## SBGN to Neo4j: stonpy
 
 <table>
     <tr>
