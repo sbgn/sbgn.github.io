@@ -10,12 +10,6 @@ Text.
 
 ## SBGN Bricks
 
-**Description:** Text.  
-**Applications:** Text.  
-**Related projects:** Text.  
-
-## SBGN Bricks
-
 <table>
     <tr>
         <td style="width:400px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
@@ -53,7 +47,7 @@ Text.
     </tr>
 </table> 
 
-## stonpy
+## SBGN-to-Neo4j: stonpy
 
 <table>
     <tr>
