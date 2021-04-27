@@ -1,5 +1,5 @@
 ---
-title: Learning SBGN
+title: Projects
 layout: default
 permalink: projects
 ---
