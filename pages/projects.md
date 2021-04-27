@@ -6,6 +6,8 @@ permalink: projects
 
 # Projects
 
+Text.
+
 ## SBGN Bricks
 
 **Description:** Text.  
