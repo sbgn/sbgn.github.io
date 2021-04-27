@@ -6,13 +6,13 @@ permalink: projects
 
 # Projects
 
-### SBGN Bricks
+## SBGN Bricks
 
 **Description:** Text.  
 **Applications:** Text.  
 **Related projects:** Text.  
 
-### SBGN Bricks
+## SBGN Bricks
 
 <table>
     <tr>
@@ -21,7 +21,7 @@ permalink: projects
     </tr>
 </table> 
 
-### stonpy
+## stonpy
 
 ### Metabolism Regulation
 
