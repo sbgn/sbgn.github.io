@@ -12,6 +12,21 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <a href="URL" target="_blank">TEXT</a>
 -->
 
+<!--
+<table>
+    <tr>
+        <td style="width:350px; vertical-align:top;  text-align:left;">
+            Text.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong>Text<br />
+            <strong>Category: </strong>Text<br />
+            <strong>Status: </strong>Text<br />
+            <strong>Connected projects: </strong>Text</td>
+    </tr>
+</table> 
+-->
+
 ### Disease Maps
 
 <table>
