@@ -45,7 +45,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <!--
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
@@ -61,7 +61,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:450px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             The <a href="https://disease-maps.org/" target="_blank">Disease Maps</a> community focuses on describing disease mechanism in the form of Process Description and Activity Flow diagrams. Interesting ongoing development: the <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> community project.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left;">
