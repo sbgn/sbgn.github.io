@@ -69,6 +69,21 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
+### Composability challenge
+
+<table> 
+    <tr>
+        <td style="width:350px; vertical-align:top;  text-align:left;">
+            Text.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong></strong><a href="https://pubmed.ncbi.nlm.nih.gov/33834185/" target="_blank">33834185</a><br />
+            <strong>Category: </strong>Design principle, Maps<br />
+            <strong>Status: </strong>Ongoing<br />
+            <strong>Connected projects: </strong>Disease Maps, SBGN Bricks</td>
+    </tr>
+</table> 
+
 ### PD2AF
 
 <table>
