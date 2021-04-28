@@ -20,7 +20,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             The <a href="https://disease-maps.org/" target="_blank">Disease Maps</a> community project focuses on describing disease mechanism in the form of Process Description and Activity Flow diagrams. Interesting ongoing development: the <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> community project.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PMIDs: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/29872544" target="_blank">29872544</a>; <a href="https://www.ncbi.nlm.nih.gov/pubmed/29688273" target="_blank">29688273</a><br />
+            <strong>PubMed: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/29872544" target="_blank">29872544</a>; <a href="https://www.ncbi.nlm.nih.gov/pubmed/29688273" target="_blank">29688273</a><br />
             <strong>Category: </strong>Community, Software, Maps<br />
             <strong>Status: </strong>Ongoing<br />
             <strong>Connected projects: </strong>MINERVA, CaSQ, stonpy</td>
@@ -33,7 +33,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PMIDs: </strong>Text.<br />
+            <strong>PubMed: </strong>Text.<br />
             <strong>Category: </strong>Text.<br />
             <strong>Status: </strong>Text.<br />
             <strong>Connected projects: </strong>Text.</td>
