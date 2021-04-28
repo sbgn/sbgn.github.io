@@ -120,7 +120,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             Interesting features: 1) no installation needed; 2) files can be opend from a link; 3) automatic layout; 4) converts to and from CellDesigner format.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33010165/" target="_blank">PMID:33010165</a><br />
+            <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33010165/" target="_blank">33010165</a><br />
             <strong>Category: </strong>Software<br />
             <strong>Status: </strong>Complete, actively evolving<br />
             <strong>Connected projects: </strong>SBGN Bricks, cd2sbgnml, PD2AF, stonpy</td>
