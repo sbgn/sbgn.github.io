@@ -18,7 +18,6 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 [CellDesigner-SBGN](#celldesigner-sbgn)  
 
 <a href="#celldesigner-sbgn"><font color="#ce4c47">CellDesigner-SBGN</font></a>  
-<a id="celldesigner-sbgn"><font color="#ce4c47">CellDesigner-SBGN</font></a>  
 
 <!--
 <a href="URL" target="_blank">TEXT</a>
