@@ -171,9 +171,20 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table>
 
-### SBGN export in Reactome
+### Reactome SBGN export
 
-
+<table>
+    <tr>
+        <td style="width:350px; vertical-align:top;  text-align:left;">
+            Text.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong>Text<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Status: </strong>Supported<br />
+            <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
+    </tr>
+</table> 
 
 ### cd2sbgnml converter
 
