@@ -33,8 +33,8 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 [Disease Maps](#disease-maps)  
 SBGN Bricks  
-[ModelBricks](#modelbricks)
-[Composability](#composability)
+[ModelBricks](#modelbricks)  
+[Composability](#composability)  
 PD2AF  
 SBGN to Neo4j: stonpy  
 SBGN-ED  
@@ -43,7 +43,7 @@ Krayon
 Reactome SBGN export  
 MINERVA SBGN support  
 cd2sbgnml converter  
-ySBGN & yEd SBGN palette  
+ySBGN  
 Metabolism Regulation  
 Layout algorithms  
 SBGN-BioPAX converter  
@@ -193,7 +193,7 @@ CellDesigner SBGN support
 <table>
     <tr>
         <td style="width:400px; vertical-align:top;  text-align:left;">
-            Interesting features: template-based drawing via drag&drop of SBGN Brick.
+            Interesting features: template-based drawing via drag&drop of SBGN bricks.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>Publications: </strong>Not available<br />
