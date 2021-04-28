@@ -17,7 +17,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 [SBGN-BioPAX](#sbgn-biopax)  
 [CellDesigner-SBGN](#celldesigner-sbgn)  
 
-<a href="#celldesigner-sbgn"><font color="#DD493E">CellDesigner-SBGN</font></a>  
+<a href="#celldesigner-sbgn"><font color="#ce4c47">CellDesigner-SBGN</font></a>  
 <a id="celldesigner-sbgn">CellDesigner-SBGN</a>  
 
 <!--
