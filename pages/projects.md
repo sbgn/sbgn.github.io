@@ -62,8 +62,8 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left;">
             <strong>PubMed: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/29872544" target="_blank">29872544</a>; <a href="https://www.ncbi.nlm.nih.gov/pubmed/29688273" target="_blank">29688273</a><br />
-            <strong>Category: </strong>Community, Maps, Software<br />
             <strong>Status: </strong>Active<br />
+            <strong>Category: </strong>Community, Maps, Software<br />
             <strong>Connected projects: </strong>MINERVA, CaSQ, stonpy</td>
     </tr>
 </table> 
@@ -72,11 +72,11 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
+        <td style="width:400px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
             <strong>Status: </strong>Text.<br />
+            <strong>Category: </strong>Text.<br />
             <strong>Connected projects: </strong>Text.</td>
     </tr>
 </table> 
@@ -85,7 +85,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             <strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>Publications: </strong>Text.<br />
@@ -99,7 +99,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table> 
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
@@ -114,7 +114,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             <strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>Publications: </strong>Text.<br />
@@ -128,7 +128,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             <strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>Publications: </strong>Text.<br />
@@ -142,7 +142,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             Interesting features: 1) ability to draw in all three SBGN languages including Entity Relationships; 2) validation of the syntactical and semantical correctness of maps; 3) PD to AF conversion.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
@@ -157,7 +157,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             <a href="http://newteditor.org/" target="_blank">Newt</a> is a tool for drawing and exploring SBGN maps, one of the most active projects that supports multiple efforts. Interesting features: 1) web-based - no installation needed; 2) files can be opened from a link; 3) supports SBGN 0.3 with colours and annotation; 4) automatic layout; 5) converts to/from CellDesigner XML; 6) used for visualising SBML in BioModels.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
@@ -172,7 +172,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             Interesting features: template-based drawing via drag&drop of SBGN Brick.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
@@ -187,7 +187,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
@@ -202,7 +202,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
@@ -217,7 +217,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
+        <td style="width:400px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PMIDs: </strong>Text.<br />
             <strong>Category: </strong>Text.<br />
@@ -230,7 +230,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
+        <td style="width:400px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PMIDs: </strong>Text.<br />
             <strong>Category: </strong>Text.<br />
@@ -243,7 +243,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             <strong>Description: </strong>Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
@@ -258,7 +258,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             <strong>Description: </strong>Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
@@ -273,7 +273,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             <strong>Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>Publications: </strong>Text.<br />
