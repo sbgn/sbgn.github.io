@@ -157,36 +157,22 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table>
 
-### Metabolism Regulation
+### Reactome SBGN export
 
 <table>
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
-            <strong>Description: </strong>Text.
+            Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Not available<br />
-            <strong>Category: </strong>Database, example diagrams<br />
-            <strong>Status: </strong>Ongoing<br />
-            <strong>Connected projects: </strong>ySBGN, cd2sbgnml</td>
+            <strong>PubMed: </strong>Text<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Status: </strong>Supported<br />
+            <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
     </tr>
-</table>
+</table> 
 
-### Layout algorithms
-
-<table>
-    <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
-            <strong>Description: </strong>Text.</td>
-        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
-    </tr>
-</table>
-
-### Reactome SBGN export
+### MINERVA SBGN support
 
 <table>
     <tr>
@@ -227,16 +213,60 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-<h3 style="color:#ce4c47;">SBGN-BioPAX converter</h3>
+### Metabolism Regulation
 
+<table>
+    <tr>
+        <td style="width:350px; vertical-align:top;  text-align:left;">
+            <strong>Description: </strong>Text.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>Publications: </strong>Not available<br />
+            <strong>Category: </strong>Database, example diagrams<br />
+            <strong>Status: </strong>Ongoing<br />
+            <strong>Connected projects: </strong>ySBGN, cd2sbgnml</td>
+    </tr>
+</table>
+
+### Metabolism Regulation
+
+<table>
+    <tr>
+        <td style="width:350px; vertical-align:top;  text-align:left;">
+            <strong>Description: </strong>Text.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>Publications: </strong>Not available<br />
+            <strong>Category: </strong>Database, example diagrams<br />
+            <strong>Status: </strong>Ongoing<br />
+            <strong>Connected projects: </strong>ySBGN, cd2sbgnml</td>
+    </tr>
+</table>
+
+### Layout algorithms
+
+<table>
+    <tr>
+        <td style="width:350px; vertical-align:top;  text-align:left;">
+            <strong>Description: </strong>Text.</td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>Publications: </strong>Text.<br />
+            <strong>Category: </strong>Text.<br />
+            <strong>Status: </strong>Text.<br />
+            <strong>Connected projects: </strong>Text.</td>
+    </tr>
+</table>
+
+
+
+
+<h3 style="color:#ce4c47;">SBGN-BioPAX converter</h3>
 <!-- works too
 <h3><font color="#ce4c47">SBGN-BioPAX converter</font></h3>
 -->
-
 <!--
 <font color="#ce4c47">
 -->
-
 <table style="color:#ce4c47;">
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
