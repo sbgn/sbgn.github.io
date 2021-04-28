@@ -186,7 +186,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-### SBGN-BioPAX converter
+### <font color="#ce4c47">SBGN-BioPAX converter</font>
 
 <table>
     <tr>
