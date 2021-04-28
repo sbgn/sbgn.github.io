@@ -6,7 +6,7 @@ permalink: projects
 
 # Projects
 
-This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting featues and provide references for quick access.
+This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting features and provide references for quick access.
 
 <!--
 <a href="URL" target="_blank">TEXT</a>
