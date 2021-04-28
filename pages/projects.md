@@ -9,11 +9,11 @@ permalink: projects
 This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting features and provide references for quick access. Anticipated and needed tools are marked in red: please contact us if you would like to contribute.
 
 
+[Composability](#composability) &#8226;
 [Disease Maps](#disease-maps) &#8226; 
-[Newt Editor](#newt-editor) &#8226; 
-[Composability](#composability) &#8226; 
-[SBGN-BioPAX](#sbgn-biopax-converter) &#8226; 
 [ModelBricks](#modelbricks) &#8226; 
+[Newt Editor](#newt-editor) &#8226; 
+[SBGN-BioPAX](#sbgn-biopax-converter) &#8226; 
 
 <!--
 <a href="URL" target="_blank">TEXT</a>
