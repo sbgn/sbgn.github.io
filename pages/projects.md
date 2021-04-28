@@ -62,7 +62,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <!-- template --
 <table>
     <tr>
-        <td style="width:400px; vertical-align:top;  text-align:left;">
+        <td style="width:380px; vertical-align:top;  text-align:left;">
             Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
