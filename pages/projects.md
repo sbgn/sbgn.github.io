@@ -141,7 +141,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <table>
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
-            <a href="http://newteditor.org/" target="_blank">Newt Editor</a> is one of the most active projects that supports multiple SBGN-related efforts. Interesting features include: 1) no installation needed; 2) files can be opend from a link; 3) supports SBGN 0.3 with colours and annotation; 4) automatic layout; 5) converts to and from CellDesigner format; 6) used for visualising SBML in BioModels.
+            <a href="http://newteditor.org/" target="_blank">Newt Editor</a> is an editor for drawing SBGN diagrams and one of the most active projects that supports multiple SBGN-related efforts. Interesting features include: 1) web-based - no installation needed; 2) files can be opend from a link; 3) supports SBGN 0.3 with colours and annotation; 4) automatic layout; 5) converts to and from CellDesigner format; 6) used for visualising SBML in BioModels.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33010165/" target="_blank">33010165</a><br />
