@@ -34,6 +34,7 @@ Text &#183; Text
 -->
 
 ### Disease Maps
+{: .text-center}
 
 <table>
     <tr>
