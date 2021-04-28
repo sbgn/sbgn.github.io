@@ -35,7 +35,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 -->
 
 ### Disease Maps
-{: .text-center}
+{: .githab-orange}
 
 <table>
     <tr>
