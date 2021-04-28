@@ -7,15 +7,17 @@ permalink: projects
 # Projects
 
 This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting features and provide references for quick access. Anticipated and needed tools are marked in red: please contact us if you would like to contribute.
+<!-- dot symbol -- &#8226; -->
 
 
+[Composability](#composability)  
+[Disease Maps](#disease-maps)  
+[ModelBricks](#modelbricks)  
+[Newt Editor](#newt-editor)  
+[SBGN-BioPAX](#sbgn-biopax)  
+[CellDesigner-SBGN](#celldesigner-sbgn)  
 
-[Composability](#composability) &#8226;
-[Disease Maps](#disease-maps) &#8226; 
-[ModelBricks](#modelbricks) &#8226; 
-[Newt Editor](#newt-editor) &#8226; 
-[SBGN-BioPAX](#sbgn-biopax) &#8226; 
-[CellDesigner-SBGN](#celldesigner-sbgn) &#8226; 
+<a href="#celldesigner-sbgn" target="_blank"><font color="#DD493E">CellDesigner-SBGN</font></a>  
 
 <!--
 <a href="URL" target="_blank">TEXT</a>
@@ -40,7 +42,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;">
+        <td style="width:400px; vertical-align:top;  text-align:left;">
             The <a href="https://disease-maps.org/" target="_blank">Disease Maps</a> community focuses on describing disease mechanism in the form of Process Description and Activity Flow diagrams. Interesting ongoing development: the <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> community project.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left;">
@@ -284,17 +286,17 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 
 
-<h3 id="celldesigner-sbgn" style="color:#ce4c47;">CellDesigner SBGN support</h3>
+<h3 id="celldesigner-sbgn" style="color:#DD493E;">CellDesigner SBGN support</h3>
 
 
-<table style="color:#ce4c47;">
+<table style="color:#DD493E;">
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
-            <strong style="color:#ce4c47;">Description: </strong>Text.</td>
+            <strong style="color:#DD493E;">Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong style="color:#ce4c47;">Publications: </strong>Not available<br />
-            <strong style="color:#ce4c47;">Category: </strong>Software<br />
-            <strong style="color:#ce4c47;">Status: </strong>Requested feature<br />
-            <strong style="color:#ce4c47;">Connected projects: </strong>cd2sbgnml</td>
+            <strong style="color:#DD493E;">Publications: </strong>Not available<br />
+            <strong style="color:#DD493E;">Category: </strong>Software<br />
+            <strong style="color:#DD493E;">Status: </strong>Requested feature<br />
+            <strong style="color:#DD493E;">Connected projects: </strong>cd2sbgnml</td>
     </tr>
 </table>
