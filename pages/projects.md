@@ -97,10 +97,10 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             Text
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
+            <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33758926/" target="_blank">33758926</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/22979995/" target="_blank">22979995</a><br />
+            <strong>Status: </strong>Complete, Actively maintained<br />
             <strong>Category: </strong>Methods, Library, Ontology<br />
-            <strong>Connected projects: </strong>Text.</td>
+            <strong>Connected projects: </strong>ModelBricks, Newt, SBGN-ED, Krayon, stonpy</td>
     </tr>
 </table> 
 
