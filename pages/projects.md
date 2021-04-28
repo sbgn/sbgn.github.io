@@ -266,7 +266,8 @@ Text &#183; Text &#8226; Text
 
 
 
-
+### SBGN-BioPAX converter
+<!--
 <h3 style="color:#ce4c47;">SBGN-BioPAX converter</h3>
 <!-- works too
 <h3><font color="#ce4c47">SBGN-BioPAX converter</font></h3>
@@ -286,8 +287,12 @@ Text &#183; Text &#8226; Text
     </tr>
 </table>
 
+### CellDesigner SBGN support
 
+<!--
 <h3 style="color:#ce4c47;">CellDesigner SBGN support</h3>
+-->
+
 <table style="color:#ce4c47;">
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
