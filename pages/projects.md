@@ -278,3 +278,17 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             <strong style="color:#ce4c47;">Connected projects: </strong>Not available</td>
     </tr>
 </table>
+
+
+<h3 style="color:#ce4c47;">CellDesigner SBGN support</h3>
+<table style="color:#ce4c47;">
+    <tr>
+        <td style="width:350px; vertical-align:top;  text-align:left;">
+            <strong style="color:#ce4c47;">Description: </strong>Text.</td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong style="color:#ce4c47;">Publications: </strong>Not available<br />
+            <strong style="color:#ce4c47;">Category: </strong>Software<br />
+            <strong style="color:#ce4c47;">Status: </strong>Requested feature<br />
+            <strong style="color:#ce4c47;">Connected projects: </strong>cd2sbgnml</td>
+    </tr>
+</table>
