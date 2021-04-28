@@ -12,7 +12,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <a href="URL" target="_blank">TEXT</a>
 -->
 
-## Disease Maps
+### Disease Maps
 
 <table>
     <tr>
@@ -27,7 +27,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-## SBGN Bricks
+### SBGN Bricks
 
 <table>
     <tr>
@@ -40,7 +40,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-## ModelBricks
+### ModelBricks
 
 <table>
     <tr>
@@ -54,7 +54,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-## PD2AF
+### PD2AF
 
 <table>
     <tr>
@@ -68,7 +68,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-## SBGN to Neo4j: stonpy
+### SBGN to Neo4j: stonpy
 
 <table>
     <tr>
@@ -82,7 +82,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-## SBGN-ED
+### SBGN-ED
 
 <table>
     <tr>
@@ -97,7 +97,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table>
 
-## Newt Editor
+### Newt Editor
 
 <table>
     <tr>
@@ -112,7 +112,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table>
 
-## Krayon
+### Krayon
 
 <table>
     <tr>
@@ -127,7 +127,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table>
 
-## Metabolism Regulation
+### Metabolism Regulation
 
 <table>
     <tr>
@@ -142,7 +142,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table>
 
-## Layout algorithms
+### Layout algorithms
 
 <table>
     <tr>
@@ -156,24 +156,11 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table>
 
-## SBGN export in Reactome
+### SBGN export in Reactome
 
 
 
-## cd2sbgnml converter
-
-<table>
-    <tr>
-        <td style="width:350px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
-        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PMIDs: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
-    </tr>
-</table> 
-
-## yEd Graph Editor SBGN support: ySBGN converter
+### cd2sbgnml converter
 
 <table>
     <tr>
@@ -186,7 +173,20 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-## SBGN-BioPAX converter
+### yEd Graph Editor SBGN support: ySBGN converter
+
+<table>
+    <tr>
+        <td style="width:350px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PMIDs: </strong>Text.<br />
+            <strong>Category: </strong>Text.<br />
+            <strong>Status: </strong>Text.<br />
+            <strong>Connected projects: </strong>Text.</td>
+    </tr>
+</table> 
+
+### SBGN-BioPAX converter
 
 <table>
     <tr>
