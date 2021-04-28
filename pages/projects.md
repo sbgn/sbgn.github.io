@@ -9,14 +9,29 @@ permalink: projects
 This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting features and provide references for quick access. Anticipated and needed tools are marked in red: please contact us if you would like to contribute.
 <!-- dot symbol -- &#8226; -->
 
+<table>
+    <tr>
+        <td style="width:200px; vertical-align:top;  text-align:left;">
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a>
+        </td>
+        <td style="width:200px; vertical-align:top;  text-align:left;">
+            <a href="#disease-maps">Disease Maps</a><br />
+            <a href="#composability">Composability</a>
+        </td>
+        <td style="width:200px; vertical-align:top;  text-align:left;">
+            <a href="#sbgn-biopax"><font color="#ce4c47">SBGN-BioPAX</font></a><br />
+            <a href="#composability">Composability</a>
+        </td>
+    </tr>
+</table> 
 
 [Composability](#composability)  
 [Disease Maps](#disease-maps)  
 [ModelBricks](#modelbricks)  
 [Newt Editor](#newt-editor)  
-[SBGN-BioPAX](#sbgn-biopax)  
-[CellDesigner-SBGN](#celldesigner-sbgn)  
 
+<a href="#sbgn-biopax"><font color="#ce4c47">SBGN-BioPAX</font></a>  
 <a href="#celldesigner-sbgn"><font color="#ce4c47">CellDesigner-SBGN</font></a>  
 
 <!--
