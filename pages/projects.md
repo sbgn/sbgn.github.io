@@ -173,7 +173,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-### yEd Graph Editor SBGN support: ySBGN converter
+### ySBGN & yEd SBGN palette 
 
 <table>
     <tr>
