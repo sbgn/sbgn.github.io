@@ -194,7 +194,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <font color="#ce4c47">
 -->
 
-<table>
+<table style="color:#ce4c47;">
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
             <strong>Description: </strong>Text.</td>
