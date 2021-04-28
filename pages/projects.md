@@ -44,7 +44,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 [Krayon](#krayon)  
 [Reactome SBGN export](#reactome-sbgn-export)  
 [MINERVA SBGN support](#minerva-sbgn-support)  
-[cd2sbgnml converter](#cd2sbgnml-converter)
+[cd2sbgnml converter](#cd2sbgnml-converter)  
 [ySBGN converter](#ysbgn-converter)  
 [Metabolism Regulation](#metabolism-regulation)  
 [Layout algorithms](#layout-algorithms) 
