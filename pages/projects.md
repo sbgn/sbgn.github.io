@@ -23,7 +23,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             <strong>Publications: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/29872544" target="_blank">PMID:29872544</a>; <a href="https://www.ncbi.nlm.nih.gov/pubmed/29688273" target="_blank">PMID:29688273</a><br />
             <strong>Category: </strong>Community, Software, Maps<br />
             <strong>Status: </strong>Ongoing<br />
-            <strong>Connected projects: </strong>MINERVA, CaSQ, PD2AF, SBGN Bricks</td>
+            <strong>Connected projects: </strong>MINERVA, CaSQ, stonpy</td>
     </tr>
 </table> 
 
