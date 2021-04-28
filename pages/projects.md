@@ -8,6 +8,10 @@ permalink: projects
 
 This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting features and provide references for quick access. Anticipated and needed tools are marked in red: please contact us if you would like to contribute.
 
+[Disease Maps](#disease-maps)
+[Newt Editor](#newt-editor)
+[SBGN-BioPAX converter](#sbgn-biopax-converter)
+
 <!--
 <a href="URL" target="_blank">TEXT</a>
 -->
