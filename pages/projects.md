@@ -6,7 +6,9 @@ permalink: projects
 
 # Projects
 
-This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting features and provide references for quick access. Anticipated and needed tools are marked in red: please contact us if you would like to contribute.
+This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting features and provide references for quick access. 
+
+<!--Anticipated and needed tools are marked in red: please contact us if you would like to contribute.-->
 
 <!--
 <table>
@@ -46,8 +48,7 @@ cd2sbgnml converter
 ySBGN  
 Metabolism Regulation  
 Layout algorithms  
-SBGN-BioPAX converter  
-CellDesigner SBGN support  
+
 
 <!--
 <a href="#sbgn-biopax"><font color="#ce4c47">SBGN-BioPAX</font></a>  
@@ -289,9 +290,8 @@ CellDesigner SBGN support
 </table>
 
 
-
+<!--
 <h3 id="sbgn-biopax" style="color:#ce4c47;">SBGN-BioPAX converter</h3>
-
 <table style="color:#ce4c47;">
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
@@ -303,12 +303,10 @@ CellDesigner SBGN support
             <strong style="color:#ce4c47;">Connected projects: </strong>Not available</td>
     </tr>
 </table>
+-->
 
-
-
+<!--
 <h3 id="celldesigner-sbgn" style="color:#DD493E;">CellDesigner SBGN support</h3>
-
-
 <table style="color:#DD493E;">
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
@@ -320,3 +318,4 @@ CellDesigner SBGN support
             <strong style="color:#DD493E;">Connected projects: </strong>cd2sbgnml</td>
     </tr>
 </table>
+-->
