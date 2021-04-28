@@ -34,20 +34,20 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 -->
 
 [Disease Maps](#disease-maps)  
-SBGN Bricks  
+[SBGN Bricks](#sbgn-bricks)  
 [ModelBricks](#modelbricks)  
 [Composability](#composability)  
-PD2AF  
-SBGN to Neo4j: stonpy  
-SBGN-ED  
+[PD2AF](#pd2af)  
+[SBGN to Neo4j: stonpy](#sbgn-to-neo4j-stonpy)  
+[SBGN-ED](#sbgn-ed)  
 [Newt Editor](#newt-editor)  
-Krayon  
-Reactome SBGN export  
-MINERVA SBGN support  
-cd2sbgnml converter  
-ySBGN converter  
-Metabolism Regulation  
-Layout algorithms  
+[Krayon](#krayon)  
+[Reactome SBGN export](#reactome-sbgn-export)  
+[MINERVA SBGN support](#minerva-sbgn-support)  
+[cd2sbgnml converter](#cd2sbgnml-converter)
+[ySBGN converter](#ysbgn-converter)  
+[Metabolism Regulation](#metabolism-regulation)  
+[Layout algorithms](#layout-algorithms) 
 
 
 <!--
@@ -247,16 +247,18 @@ Layout algorithms
     </tr>
 </table> 
 
-### ySBGN & yEd SBGN palette 
+### ySBGN converter 
 
 <table>
     <tr>
-        <td style="width:400px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
+        <td style="width:400px; vertical-align:top;  text-align:left;">
+            Text
+        </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PMIDs: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
+            <strong>PubMed: </strong>Not available<br />
+            <strong>Status: </strong>Supported<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Connected projects: </strong>cd2sbgnml, MINERVA, Metabolism Regulation</td>
     </tr>
 </table> 
 
