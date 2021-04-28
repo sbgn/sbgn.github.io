@@ -11,6 +11,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 [Disease Maps](#disease-maps) &#8226; 
 [Newt Editor](#newt-editor) &#8226; 
+[Composability](#composability) &#8226; 
 [SBGN-BioPAX](#sbgn-biopax-converter) &#8226; 
 [ModelBricks](#modelbricks) &#8226; 
 
@@ -76,7 +77,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
-### Composability challenge
+### Composability
 
 <table> 
     <tr>
@@ -85,7 +86,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33834185/" target="_blank">33834185</a><br />
-            <strong>Category: </strong>Design principle, Maps<br />
+            <strong>Category: </strong>Methods, Maps<br />
             <strong>Status: </strong>Ongoing<br />
             <strong>Connected projects: </strong>Disease Maps, SBGN Bricks</td>
     </tr>
