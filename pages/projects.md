@@ -37,7 +37,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/29872544" target="_blank">29872544</a>; <a href="https://www.ncbi.nlm.nih.gov/pubmed/29688273" target="_blank">29688273</a><br />
             <strong>Category: </strong>Community, Software, Maps<br />
-            <strong>Status: </strong>Ongoing<br />
+            <strong>Status: </strong>Active<br />
             <strong>Connected projects: </strong>MINERVA, CaSQ, stonpy</td>
     </tr>
 </table> 
