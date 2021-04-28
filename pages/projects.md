@@ -199,11 +199,11 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <table style="color:#ce4c47;">
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
-            <strong>Description: </strong>Text.</td>
+            <strong style="color:#ce4c47;">Description: </strong>Text.</td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Not available<br />
-            <strong>Category: </strong>Software<br />
-            <strong>Status: </strong>On hold<br />
-            <strong>Connected projects: </strong>Not available</td>
+            <strong style="color:#ce4c47;">Publications: </strong>Not available<br />
+            <strong style="color:#ce4c47;">Category: </strong>Software<br />
+            <strong style="color:#ce4c47;">Status: </strong>On hold<br />
+            <strong style="color:#ce4c47;">Connected projects: </strong>Not available</td>
     </tr>
 </table>
