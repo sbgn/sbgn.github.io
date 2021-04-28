@@ -7,8 +7,8 @@ permalink: projects
 # Projects
 
 This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting features and provide references for quick access. Anticipated and needed tools are marked in red: please contact us if you would like to contribute.
-<!-- dot symbol -- &#8226; -->
 
+<!--
 <table>
     <tr>
         <td style="width:200px; vertical-align:top;  text-align:left;">
@@ -29,20 +29,36 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
         </td>
     </tr>
 </table> 
+-->
 
-[Composability](#composability)  
 [Disease Maps](#disease-maps)  
-[ModelBricks](#modelbricks)  
+SBGN Bricks  
+[ModelBricks](#modelbricks)
+[Composability](#composability)
+PD2AF  
+SBGN to Neo4j: stonpy  
+SBGN-ED  
 [Newt Editor](#newt-editor)  
-
-<a href="#sbgn-biopax"><font color="#ce4c47">SBGN-BioPAX</font></a>  
-<a href="#celldesigner-sbgn"><font color="#ce4c47">CellDesigner-SBGN</font></a>  
+Krayon  
+Reactome SBGN export  
+MINERVA SBGN support  
+cd2sbgnml converter  
+ySBGN & yEd SBGN palette  
+Metabolism Regulation  
+Layout algorithms  
+SBGN-BioPAX converter  
+CellDesigner SBGN support  
 
 <!--
+<a href="#sbgn-biopax"><font color="#ce4c47">SBGN-BioPAX</font></a>  
+<a href="#celldesigner-sbgn"><font color="#ce4c47">CellDesigner-SBGN</font></a>  
+-->
+
+<!-- template --
 <a href="URL" target="_blank">TEXT</a>
 -->
 
-<!--
+<!-- template --
 <table>
     <tr>
         <td style="width:400px; vertical-align:top;  text-align:left;">
@@ -242,21 +258,6 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             <strong>Connected projects: </strong>Text.</td>
     </tr>
 </table> 
-
-### Metabolism Regulation
-
-<table>
-    <tr>
-        <td style="width:400px; vertical-align:top;  text-align:left;">
-            <strong>Description: </strong>Text.
-        </td>
-        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Not available<br />
-            <strong>Category: </strong>Database, example diagrams<br />
-            <strong>Status: </strong>Ongoing<br />
-            <strong>Connected projects: </strong>ySBGN, cd2sbgnml</td>
-    </tr>
-</table>
 
 ### Metabolism Regulation
 
