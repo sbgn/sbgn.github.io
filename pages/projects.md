@@ -9,12 +9,13 @@ permalink: projects
 This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active projects and continuously maintained tools. We point out interesting features and provide references for quick access. Anticipated and needed tools are marked in red: please contact us if you would like to contribute.
 
 
-[CellDesigner-SBGN](#celldesigner-sbgn) &#8226; 
+
 [Composability](#composability) &#8226;
 [Disease Maps](#disease-maps) &#8226; 
 [ModelBricks](#modelbricks) &#8226; 
 [Newt Editor](#newt-editor) &#8226; 
-[SBGN-BioPAX](#sbgn-biopax-converter) &#8226; 
+[SBGN-BioPAX](#sbgn-biopax) &#8226; 
+[CellDesigner-SBGN](#celldesigner-sbgn) &#8226; 
 
 <!--
 <a href="URL" target="_blank">TEXT</a>
@@ -268,15 +269,8 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 
 
-### SBGN-BioPAX converter
-<!--
-<h3 style="color:#ce4c47;">SBGN-BioPAX converter</h3>
-<!-- works too
-<h3><font color="#ce4c47">SBGN-BioPAX converter</font></h3>
--->
-<!--
-<font color="#ce4c47">
--->
+<h3 id="sbgn-biopax" style="color:#ce4c47;">SBGN-BioPAX converter</h3>
+
 <table style="color:#ce4c47;">
     <tr>
         <td style="width:350px; vertical-align:top;  text-align:left;">
