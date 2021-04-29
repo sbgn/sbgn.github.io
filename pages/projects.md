@@ -141,7 +141,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            The <a href="https://www.pd2af.github.io/" target="_blank">PD2AF</a> project focuses on a transparent descripiton of the conversionn rules and provides a converter from the Process Description to the Activity Flow language. It is built on top of the corresponding functionality in <a href="http://newteditor.org/" target="_blank">SBGN-ED</a> and collaborates with the <a href="https://lifeware.inria.fr/~soliman/post/casq/" target="_blank">CaSQ</a> and <a href="http://newteditor.org/" target="_blank">Newt</a> projects.
+            The <a href="https://www.pd2af.github.io/" target="_blank">PD2AF</a> project focuses on a transparent description of the conversion rules and provides a converter from the Process Description to the Activity Flow language. It is built on top of the corresponding functionality in <a href="http://newteditor.org/" target="_blank">SBGN-ED</a> and collaborates with the <a href="https://lifeware.inria.fr/~soliman/post/casq/" target="_blank">CaSQ</a> and <a href="http://newteditor.org/" target="_blank">Newt</a> projects.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
