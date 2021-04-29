@@ -42,6 +42,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 [ModelBricks](#modelbricks)  
 [Composability](#composability)  
 [PD2AF](#pd2af)  
+[CaSQ](#casq)  
 [SBGN to Neo4j: stonpy](#sbgn-to-neo4j-stonpy)  
 [SBGN-ED](#sbgn-ed)  
 [Newt Editor](#newt-editor)  
