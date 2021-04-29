@@ -102,7 +102,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33758926/" target="_blank">33758926</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/22979995/" target="_blank">22979995</a><br />
             <strong>Status: </strong>Complete, actively maintained<br />
             <strong>Category: </strong>Methods, Library, Ontology<br />
-            <strong>Connected projects: </strong>ModelBricks, Newt, SBGN-ED, Krayon, stonpy</td>
+            <strong>Connected projects: </strong>ModelBricks, Newt, SBGN-ED, Krayon, stonpy, Composability</td>
     </tr>
 </table> 
 
