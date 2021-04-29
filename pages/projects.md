@@ -37,6 +37,31 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 -->
 
+<table>
+    <tr>
+        <td style="width:200px; vertical-align:top;  text-align:left;">
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a>
+        </td>
+        <td style="width:200px; vertical-align:top;  text-align:left;">
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a><br />
+            <a href="#composability">Composability</a>
+        </td>
+    </tr>
+</table> 
+
 [Disease Maps](#disease-maps)  
 [SBGN Bricks](#sbgn-bricks)  
 [ModelBricks](#modelbricks)  
