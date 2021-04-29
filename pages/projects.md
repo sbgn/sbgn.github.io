@@ -238,7 +238,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon</a> is a <a href="URL" target="_blank">yFiles</a>-based editor for SBGN diagrams. The <a href="https://github.com/wiese42/krayon4sbgn/releases" target="_blank">current version</a> supports the Process Description language. Interesting features: 1) mouse-driven diagram creation experience is similar to the yEd Graph Editor; 2) easy-to-apply predefined diagram styles; 3) template-based drawing via drag&drop of SBGN Bricks.
+            <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon</a> is a <a href="URL" target="_blank">yFiles</a>-based editor for SBGN diagrams. <a href="https://github.com/wiese42/krayon4sbgn/releases" target="_blank">Version 1.0.1</a> supports the Process Description language. Interesting features: 1) mouse-driven diagram creation experience similar to the yEd Graph Editor; 2) easy-to-apply predefined diagram styles; 3) template-based drawing via drag&drop of SBGN Bricks.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
