@@ -107,7 +107,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 
 ### ModelBricks
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -122,7 +124,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 
 ### Composability
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table> 
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -137,7 +141,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 
 ### PD2AF
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -152,7 +158,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 
 ### CaSQ
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -167,7 +175,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 
 ### SBGN to Neo4j: stonpy
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -182,7 +192,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 
 ### SBGN-ED
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -200,11 +212,10 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <!--
 https://pubmed.ncbi.nlm.nih.gov/29813080/
 -->
-
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="http://newteditor.org/" target="_blank">Newt</a> is a tool for drawing and exploring SBGN maps, one of the most active projects that supports multiple efforts. Interesting features: 1) web-based - no installation needed; 2) files can be opened from a link; 3) supports SBGN 0.3 with colours and annotation; 4) automatic layout; 5) converts to and from CellDesigner and SBML; 6) used for visualising SBML in BioModels.
+            <a href="http://newteditor.org/" target="_blank">Newt</a> is a tool for drawing and exploring SBGN maps, one of the most active projects that supports multiple efforts. Interesting features: 1) web-based - no installation needed; 2) files can be opened from a link; 3) supports SBGN 0.3 with colours and annotation; 4) automatic layout; 5) easy-to-apply colour styles; 6) converts to and from CellDesigner and SBML; 7) used for visualising SBML in BioModels.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33010165/" target="_blank">33010165</a><br />
@@ -215,22 +226,26 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 </table>
 
 ### Krayon
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Interesting features: template-based drawing via drag&drop of SBGN bricks.
+            <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon</a> is a <a href="URL" target="_blank">yFiles</a>-based editor for SBGN. The <a href="https://github.com/wiese42/krayon4sbgn/releases" target="_blank">current version</a> is supports the Process Description language. Interesting features: 1) mouse-driven diagram creation experience is similar to the yEd Graph Editor; 2) easy-to-apply predefined diagram styles; 3) template-based drawing via drag&drop of SBGN Bricks.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Not available<br />
+            <strong>PubMed: </strong>Not available<br />
+            <strong>Status: </strong>Complete, maintained<br />
             <strong>Category: </strong>Software<br />
-            <strong>Status: </strong>Complete, new version is expected<br />
             <strong>Connected projects: </strong>SBGN Bricks</td>
     </tr>
 </table>
 
 ### Reactome SBGN export
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -245,7 +260,9 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 </table> 
 
 ### MINERVA SBGN support
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -260,7 +277,9 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 </table> 
 
 ### cd2sbgnml converter
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -275,7 +294,9 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 </table> 
 
 ### ySBGN converter 
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -290,7 +311,9 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 </table> 
 
 ### Metabolism Regulation
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -305,6 +328,9 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 </table> 
 
 ### Layout algorithms
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <!--
 https://pubmed.ncbi.nlm.nih.gov/26363029/
 https://pubmed.ncbi.nlm.nih.gov/29813080/
