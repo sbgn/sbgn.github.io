@@ -150,6 +150,21 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
     </tr>
 </table> 
 
+### CaSQ
+
+<table>
+    <tr>
+        <td style="width:380px; vertical-align:top;  text-align:left;">
+            Text.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/32403123/" target="_blank">32403123</a><br />
+            <strong>Status: </strong>Complete, actively maintained<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Connected projects: </strong>PD2AF</td>
+    </tr>
+</table> 
+
 ### SBGN to Neo4j: stonpy
 
 <table>
