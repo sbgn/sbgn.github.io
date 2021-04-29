@@ -237,7 +237,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Text<br />
-            <strong>Status: </strong>Supported<br />
+            <strong>Status: </strong>Supported, actively maintained<br />
             <strong>Category: </strong>Software<br />
             <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
     </tr>
@@ -253,7 +253,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Text<br />
             <strong>Category: </strong>Software<br />
-            <strong>Status: </strong>Supported<br />
+            <strong>Status: </strong>Supported, actively maintained<br />
             <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
     </tr>
 </table> 
