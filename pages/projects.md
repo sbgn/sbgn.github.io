@@ -40,9 +40,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:200px; vertical-align:top;  text-align:left;">
-            <a href="#composability">Composability</a><br />
-            <a href="#composability">Composability</a><br />
-            <a href="#composability">Composability</a><br />
+            <a href="#disease-maps">Disease Maps</a><br />
+            <a href="#sbgn-bricks">SBGN Bricks</a><br />
+            <a href="#modelbricks">ModelBricks</a><br />
             <a href="#composability">Composability</a><br />
             <a href="#composability">Composability</a><br />
             <a href="#composability">Composability</a><br />
