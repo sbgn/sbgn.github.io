@@ -59,6 +59,8 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
             <a href="#composability">Composability</a><br />
             <a href="#composability">Composability</a>
         </td>
+        <td style="width:200px; vertical-align:top;  text-align:left;">
+        </td>
     </tr>
 </table> 
 
