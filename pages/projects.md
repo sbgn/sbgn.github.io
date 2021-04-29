@@ -44,10 +44,10 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
             <a href="#sbgn-bricks">SBGN Bricks</a><br />
             <a href="#modelbricks">ModelBricks</a><br />
             <a href="#composability">Composability</a><br />
-            <a href="#composability">Composability</a><br />
-            <a href="#composability">Composability</a><br />
-            <a href="#composability">Composability</a><br />
-            <a href="#composability">Composability</a>
+            <a href="#pd2af">PD2AF</a><br />
+            <a href="#casq">CaSQ</a><br />
+            <a href="#sbgn-to-neo4j-stonpy">SBGN to Neo4j: stonpy</a><br />
+            <a href="#sbgn-ed">SBGN-ED</a>
         </td>
         <td style="width:200px; vertical-align:top;  text-align:left;">
             <a href="#composability">Composability</a><br />
