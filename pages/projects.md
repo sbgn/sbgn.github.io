@@ -157,7 +157,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table> 
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            This project investigates modularity, reusability and composability as design principles in network biology. The <a href="https://sbgn.github.io/openchallenge" target="_blank">RAS-RAF-MEK-ERK Pathway Challenge</a> employs a specific use case to demonstrate the applicability and to advance curation guidelines.
+            This project investigates modularity, reusability and composability as design principles in network biology. The <a href="https://sbgn.github.io/openchallenge" target="_blank">RAS-RAF-MEK-ERK Pathway Challenge</a> employs a specific use case to demonstrate the applicability of such principles and to advance curation guidelines.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33834185/" target="_blank">33834185</a><br />
