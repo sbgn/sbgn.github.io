@@ -67,8 +67,8 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Text<br />
-            <strong>Category: </strong>Text<br />
             <strong>Status: </strong>Text<br />
+            <strong>Category: </strong>Text<br />
             <strong>Connected projects: </strong>Text</td>
     </tr>
 </table> 
@@ -109,12 +109,13 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <strong>Description: </strong>Text.</td>
+            Text.
+        </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
+            <strong>PubMed: </strong>Text<br />
+            <strong>Category: </strong>Text<br />
+            <strong>Status: </strong>Text<br />
+            <strong>Connected projects: </strong>Text</td>
     </tr>
 </table> 
 
@@ -138,12 +139,13 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <strong>Description: </strong>Text.</td>
+            Text.
+        </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
+            <strong>PubMed: </strong>Text<br />
+            <strong>Status: </strong>Text<br />
+            <strong>Category: </strong>Text<br />
+            <strong>Connected projects: </strong>Text</td>
     </tr>
 </table> 
 
@@ -152,12 +154,13 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <strong>Description: </strong>Text.</td>
+            Text.
+        </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
+            <strong>PubMed: </strong>Text<br />
+            <strong>Status: </strong>Text<br />
+            <strong>Category: </strong>Text<br />
+            <strong>Connected projects: </strong>Text</td>
     </tr>
 </table> 
 
@@ -215,8 +218,8 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Text<br />
-            <strong>Category: </strong>Software<br />
             <strong>Status: </strong>Supported<br />
+            <strong>Category: </strong>Software<br />
             <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
     </tr>
 </table> 
@@ -240,12 +243,14 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 
 <table>
     <tr>
-        <td style="width:380px; vertical-align:top;  text-align:left;"><strong>Description: </strong>Text.</td>
+        <td style="width:380px; vertical-align:top;  text-align:left;">
+            Text.
+        </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PMIDs: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
+            <strong>PubMed: </strong>Text<br />
+            <strong>Status: </strong>Text<br />
+            <strong>Category: </strong>Text<br />
+            <strong>Connected projects: </strong>Text</td>
     </tr>
 </table> 
 
@@ -254,10 +259,10 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text
+            Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Not available<br />
+            <strong>PubMed: </strong>Text<br />
             <strong>Status: </strong>Supported<br />
             <strong>Category: </strong>Software<br />
             <strong>Connected projects: </strong>cd2sbgnml, MINERVA, Metabolism Regulation</td>
@@ -269,29 +274,30 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <strong>Description: </strong>Text.
+            Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Not available<br />
-            <strong>Category: </strong>Database, example diagrams<br />
+            <strong>PubMed: </strong>Not available<br />
             <strong>Status: </strong>Ongoing<br />
-            <strong>Connected projects: </strong>ySBGN, cd2sbgnml</td>
+            <strong>Category: </strong>Maps, Methods<br />
+            <strong>Connected projects: </strong>ySBGN, cd2sbgnml, MINERVA</td>
     </tr>
-</table>
+</table> 
 
 ### Layout algorithms
 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <strong>Description: </strong>Text.</td>
+            Text.
+        </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Text.<br />
-            <strong>Category: </strong>Text.<br />
-            <strong>Status: </strong>Text.<br />
-            <strong>Connected projects: </strong>Text.</td>
+            <strong>PubMed: </strong>Text<br />
+            <strong>Status: </strong>Text<br />
+            <strong>Category: </strong>Text<br />
+            <strong>Connected projects: </strong>Text</td>
     </tr>
-</table>
+</table>  
 
 
 <!--
