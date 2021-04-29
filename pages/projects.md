@@ -115,9 +115,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/31602314/" target="_blank">31602314</a><br />
-            <strong>Category: </strong>Text<br />
-            <strong>Status: </strong>Text<br />
-            <strong>Connected projects: </strong>Text</td>
+            <strong>Category: </strong>Methods<br />
+            <strong>Status: </strong>Proposal<br />
+            <strong>Connected projects: </strong>SBGN Bricks</td>
     </tr>
 </table> 
 
