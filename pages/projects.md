@@ -141,13 +141,13 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            The <a href="https://www.pd2af.github.io/" target="_blank">PD2AF</a> project focuses on a transparent descripiton of the conversionn rules and provides a converter from the Process Description to the Activity Flow language. It is built on top of the corresponding functionality in <a href="http://newteditor.org/" target="_blank">SBGN-ED</a> and collaborates with the <a href="https://lifeware.inria.fr/~soliman/post/casq/" target="_blank">CaSQ</a> and <a href="http://newteditor.org/" target="_blank">Newt</a> projects.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Text<br />
-            <strong>Status: </strong>Text<br />
-            <strong>Category: </strong>Text<br />
-            <strong>Connected projects: </strong>CaSQ, SBGN-ED</td>
+            <strong>PubMed: </strong>Not available<br />
+            <strong>Status: </strong>Complete, actively maintained<br />
+            <strong>Category: </strong>Methods, Software<br />
+            <strong>Connected projects: </strong>CaSQ, SBGN-ED, Newt</td>
     </tr>
 </table> 
 
@@ -156,13 +156,13 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            <a href="https://lifeware.inria.fr/~soliman/post/casq/" target="_blank">CaSQ</a>
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/32403123/" target="_blank">32403123</a><br />
             <strong>Status: </strong>Complete, actively maintained<br />
             <strong>Category: </strong>Software<br />
-            <strong>Connected projects: </strong>PD2AF</td>
+            <strong>Connected projects: </strong>PD2AF, Disease Maps</td>
     </tr>
 </table> 
 
@@ -186,7 +186,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Interesting features: 1) ability to draw in all three SBGN languages including Entity Relationships; 2) validation of the syntactical and semantical correctness of maps; 3) PD to AF conversion.
+            <a href="http://newteditor.org/" target="_blank">SBGN-ED</a>. Interesting features: 1) ability to draw in all three SBGN languages including Entity Relationships; 2) validation of the syntactical and semantical correctness of maps; 3) PD to AF conversion.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/20628075/" target="_blank">20628075</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/22383037/" target="_blank">22383037</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/24176088/" target="_blank">24176088</a><br />
