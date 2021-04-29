@@ -96,7 +96,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text
+            The SBGN Bricks work with basic recurring patterns that are graphical expressions of biological concepts commonly found in molecular networks. Examples are: metabolic reaction, protein phosphorylation, homodimer formation, etc. Template bricks describe patterns and instance bricks are actual biological expressions we see in diagrams. Interesting recent application: the use of SBGN Bricks for assessing the quality of the maps.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33758926/" target="_blank">33758926</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/22979995/" target="_blank">22979995</a><br />
