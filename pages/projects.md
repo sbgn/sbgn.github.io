@@ -113,7 +113,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            A <a href="http://www.modelbricks.org/" target="_blank">ModelBrick</a> is a small model that adds a mathematical description and simulation context to an SBGN brick. A computable ModelBrick is thoroughly annotated and minted a DOI for a permanent reference.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/31602314/" target="_blank">31602314</a><br />
