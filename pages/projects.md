@@ -4,6 +4,10 @@ layout: default
 permalink: projects
 ---
 
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
+
 # Projects
 
 This page highlights ongoing developments relevant to the SBGN standard. The goal is to make the community aware of active ongoing projects and continuously maintained tools. We point out interesting features and provide references for quick access. 
@@ -55,9 +59,6 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 <a href="#celldesigner-sbgn"><font color="#ce4c47">CellDesigner-SBGN</font></a>  
 -->
 
-<!-- template --
-<a href="URL" target="_blank">TEXT</a>
--->
 
 <!-- template --
 <table>
@@ -112,7 +113,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Text<br />
+            <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/31602314/" target="_blank">31602314</a><br />
             <strong>Category: </strong>Text<br />
             <strong>Status: </strong>Text<br />
             <strong>Connected projects: </strong>Text</td>
@@ -145,7 +146,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             <strong>PubMed: </strong>Text<br />
             <strong>Status: </strong>Text<br />
             <strong>Category: </strong>Text<br />
-            <strong>Connected projects: </strong>Text</td>
+            <strong>Connected projects: </strong>CaSQ, SBGN-ED</td>
     </tr>
 </table> 
 
@@ -157,10 +158,10 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Text<br />
-            <strong>Status: </strong>Text<br />
-            <strong>Category: </strong>Text<br />
-            <strong>Connected projects: </strong>Text</td>
+            <strong>PubMed: </strong>Not available<br />
+            <strong>Status: </strong>Complete, actively maintained<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Connected projects: </strong>SBGN Bricks, Disease Maps, Composability</td>
     </tr>
 </table> 
 
@@ -172,7 +173,7 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
             Interesting features: 1) ability to draw in all three SBGN languages including Entity Relationships; 2) validation of the syntactical and semantical correctness of maps; 3) PD to AF conversion.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>Publications: </strong>Text.<br />
+            <strong>Publications: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/20628075/" target="_blank">20628075</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/22383037/" target="_blank">22383037</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/24176088/" target="_blank">24176088</a><br />
             <strong>Category: </strong>Software<br />
             <strong>Status: </strong>Complete, actively maintained<br />
             <strong>Connected projects: </strong>SBGN Bricks</td>
