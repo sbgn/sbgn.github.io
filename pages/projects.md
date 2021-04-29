@@ -181,6 +181,9 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 </table>
 
 ### Newt Editor
+<!--
+https://pubmed.ncbi.nlm.nih.gov/29813080/
+-->
 
 <table>
     <tr>
@@ -286,7 +289,10 @@ This page highlights ongoing developments relevant to the SBGN standard. The goa
 </table> 
 
 ### Layout algorithms
-
+<!--
+https://pubmed.ncbi.nlm.nih.gov/26363029/
+https://pubmed.ncbi.nlm.nih.gov/29813080/
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
