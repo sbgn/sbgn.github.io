@@ -192,7 +192,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="https://lifeware.inria.fr/~soliman/post/casq/" target="_blank">CaSQ</a> is a tool that infers Boolean rules based on the topology and semantics of process diagrams built in CellDesigner. It converts CellDesigner XML to SBML-Qual-encoded logical model. The converter is actively used in the <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> project.
+            <a href="https://lifeware.inria.fr/~soliman/post/casq/" target="_blank">CaSQ</a> is a tool that infers Boolean rules based on the topology and semantics of process diagrams built in CellDesigner. It converts CellDesigner XML to logical model in SBML-Qual. The converter is actively used in the <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> project.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/32403123/" target="_blank">32403123</a><br />
@@ -226,7 +226,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="http://newteditor.org/" target="_blank">SBGN-ED</a> enables creating SBGN diagrams in all three SBGN languages including Entity Relationships. Interesting features: 1) validation of the syntactical and semantical correctness of maps; 2) PD to AF conversion; 3) KEGG pathwas can be translated into SBGN PD maps.
+            <a href="http://newteditor.org/" target="_blank">SBGN-ED</a> enables creating SBGN diagrams in all three SBGN languages including Entity Relationships. Interesting features: 1) validation of the syntactical and semantical correctness of maps; 2) PD to AF conversion; 3) KEGG pathways can be translated into SBGN PD maps.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/20628075/" target="_blank">20628075</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/22383037/" target="_blank">22383037</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/24176088/" target="_blank">24176088</a><br />
