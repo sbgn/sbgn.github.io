@@ -43,6 +43,22 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 -->
 
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="110"/></p></td>
+</tr>
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;">Text</p></td>
+</tr>
+
+
+
 [Disease Maps](#disease-maps)  
 [COVID-19 Disease Map](#covid-19-disease-map)  
 [SBGN Bricks](#sbgn-bricks)  
