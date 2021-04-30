@@ -293,23 +293,6 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
     </tr>
 </table>
 
-### Reactome SBGN export
-<!-- template --
-<a href="URL" target="_blank">TEXT</a>
--->
-<table>
-    <tr>
-        <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
-        </td>
-        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Text<br />
-            <strong>Status: </strong>Supported, actively maintained<br />
-            <strong>Category: </strong>Software<br />
-            <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
-    </tr>
-</table> 
-
 ### MINERVA SBGN support
 <!-- template --
 <a href="URL" target="_blank">TEXT</a>
@@ -326,6 +309,42 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
     </tr>
 </table> 
+
+### Reactome SBGN export
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
+<table>
+    <tr>
+        <td style="width:380px; vertical-align:top;  text-align:left;">
+            Text.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong>Not available<br />
+            <strong>Status: </strong>Supported, actively maintained<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
+    </tr>
+</table> 
+
+### Reactome SBML export
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
+<table>
+    <tr>
+        <td style="width:380px; vertical-align:top;  text-align:left;">
+            The updated SBML-plus-layout export opens many new possiblilities and allows presenting maps, for example, in MINERVA, and then from MINERVA export in CellDesigner or SBGN formats. This way, the Reactome pathways becomes accessible for many communities and tools.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong>Not available<br />
+            <strong>Status: </strong>Supported, actively maintained<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Connected projects: </strong>MINERVA, Newt, CellDesigner, COVID-19 Disease Map</td>
+    </tr>
+</table> 
+
+
 
 ### cd2sbgnml converter
 <!-- template --
