@@ -56,7 +56,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 [Krayon](#krayon)  
 [MINERVA SBGN support](#minerva-sbgn-support)  
 [Reactome SBGN export](#reactome-sbgn-export)  
-[Reactome SBML export](#reactome-sbml-export)  
+<!--[Reactome SBML export](#reactome-sbml-export)  -->
 [cd2sbgnml converter](#cd2sbgnml-converter)  
 [ySBGN converter](#ysbgn-converter)  
 [Metabolism Regulation](#metabolism-regulation)  
@@ -82,7 +82,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 [Krayon](#krayon)  
 [MINERVA SBGN support](#minerva-sbgn-support)  
 [Reactome SBGN export](#reactome-sbgn-export)  
-[Reactome SBML export](#reactome-sbml-export)  
+<!--[Reactome SBML export](#reactome-sbml-export)  -->
 [cd2sbgnml converter](#cd2sbgnml-converter)  
 [ySBGN converter](#ysbgn-converter)  
 
@@ -328,10 +328,8 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
     </tr>
 </table> 
 
+<!--
 ### Reactome SBML export
-<!-- template --
-<a href="URL" target="_blank">TEXT</a>
--->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -344,6 +342,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             <strong>Connected projects: </strong>MINERVA, Newt, CellDesigner, COVID-19 Disease Map</td>
     </tr>
 </table> 
+-->
 
 
 
