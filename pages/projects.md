@@ -45,9 +45,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 
 <table>
 <tr>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/dm.png" width="65"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/c19dm.svg" width="55"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/sbgnbricks2.png" width="100"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/dm.png" width="75"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/c19dm.svg" width="65"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/sbgnbricks2.png" width="120"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
@@ -58,6 +58,8 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
+</table>
+<table>
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
@@ -72,6 +74,8 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
+</table>
+<table>
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
