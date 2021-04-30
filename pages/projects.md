@@ -58,8 +58,20 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
-</table>
-<table>
+<tr>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+</tr>
+<tr>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+</tr>
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
@@ -75,24 +87,6 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
 </table>
-<table>
-<tr>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
-</tr>
-<tr>
-<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
-</tr>
-</table>
-
-
 
 
 [Disease Maps](#disease-maps)  
@@ -113,6 +107,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 [ySBGN converter](#ysbgn-converter)  
 [Metabolism Regulation](#metabolism-regulation)  
 [Layout algorithms](#layout-algorithms) 
+
 
 <!--
 <a href="#sbgn-biopax"><font color="#ce4c47">SBGN-BioPAX</font></a>  
