@@ -97,6 +97,21 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
     </tr>
 </table> 
 
+### COVID-19 Disease Map
+
+<table>
+    <tr>
+        <td style="width:380px; vertical-align:top;  text-align:left;">
+            The <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> is a large-scale community project with more than 200 contributors. It integrates curation, text-minig, modelling and data analysis approaches and tools.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/32371892" target="_blank">32371892</a><br />
+            <strong>Status: </strong>Active<br />
+            <strong>Category: </strong>Community, Maps, Software<br />
+            <strong>Connected projects: </strong>MINERVA, CaSQ, stonpy</td>
+    </tr>
+</table> 
+
 ### SBGN Bricks
 
 <table>
