@@ -233,7 +233,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            The <a href="https://github.com/adrienrougny/stonpy" target="_blank">stonpy</a> tool is a converter from SBGN to Neo4j graph database environment witten in Python. It was used in the SBGN Bricks project for assessing the completeness of the SBGN Bricks Ontology and in the composability project for investigating the repeated patterns in the ACSN, PANTHER and Reactome.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
