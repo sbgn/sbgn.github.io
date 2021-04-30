@@ -62,30 +62,6 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 [Metabolism Regulation](#metabolism-regulation)  
 [Layout algorithms](#layout-algorithms) 
 
-**Maps**  
-[Disease Maps](#disease-maps)  
-[COVID-19 Disease Map](#covid-19-disease-map)  
-[Metabolism Regulation](#metabolism-regulation)  
-
-**Methods**  
-[SBGN Bricks](#sbgn-bricks)  
-[ModelBricks](#modelbricks)  
-[Composability](#composability)  
-[Layout algorithms](#layout-algorithms)  
-
-**Software**  
-[PD2AF](#pd2af)  
-[CaSQ](#casq)  
-[SBGN to Neo4j: stonpy](#sbgn-to-neo4j-stonpy)  
-[SBGN-ED](#sbgn-ed)  
-[Newt Editor](#newt-editor)  
-[Krayon](#krayon)  
-[MINERVA SBGN support](#minerva-sbgn-support)  
-[Reactome SBGN export](#reactome-sbgn-export)  
-<!--[Reactome SBML export](#reactome-sbml-export)  -->
-[cd2sbgnml converter](#cd2sbgnml-converter)  
-[ySBGN converter](#ysbgn-converter)  
-
 <!--
 <a href="#sbgn-biopax"><font color="#ce4c47">SBGN-BioPAX</font></a>  
 <a href="#celldesigner-sbgn"><font color="#ce4c47">CellDesigner-SBGN</font></a>  
