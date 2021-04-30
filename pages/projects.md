@@ -329,13 +329,13 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            The <a href="https://github.com/sbgn/cd2sbgnml" target="_blank">cd2sbgnml</a> converter enables translation between CellDesigner XML and SBGN format in both directions. The conversion from and to CellDesigner XML is supported by Newt.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Text<br />
-            <strong>Status: </strong>Text<br />
-            <strong>Category: </strong>Text<br />
-            <strong>Connected projects: </strong>Text</td>
+            <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/31904823/" target="_blank">31904823</a><br />
+            <strong>Status: </strong>Complete, Supported<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Connected projects: </strong>CellDesigner, Newt</td>
     </tr>
 </table> 
 
@@ -349,7 +349,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Text<br />
+            <strong>PubMed: </strong>Not available<br />
             <strong>Status: </strong>Supported<br />
             <strong>Category: </strong>Software<br />
             <strong>Connected projects: </strong>cd2sbgnml, MINERVA, Metabolism Regulation</td>
