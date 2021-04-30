@@ -329,7 +329,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            The <a href="https://github.com/sbgn/cd2sbgnml" target="_blank">cd2sbgnml</a> converter enables translation between CellDesigner XML and SBGN format in both directions. The conversion from and to CellDesigner XML is supported by Newt.
+            The <a href="https://github.com/sbgn/cd2sbgnml" target="_blank">cd2sbgnml</a> converter enables translation between CellDesigner XML and SBGN in both directions. The conversion from and to CellDesigner XML is supported by Newt.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/31904823/" target="_blank">31904823</a><br />
