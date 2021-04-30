@@ -56,6 +56,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 200px;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
+</table>
 
 
 
