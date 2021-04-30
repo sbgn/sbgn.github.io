@@ -45,15 +45,15 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 
 <table>
 <tr>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/dm.png" width="60"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/c19dm.svg" width="60"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/dm.png" width="65"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/c19dm.svg" width="55"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/sbgnbricks2.png" width="100"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 <tr>
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#disease-maps">Disease Maps</a></p></td>
-<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#covid-19-disease-map">COVID-19 Disease Map</a></p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#covid-19-disease-map">COVID-19<br />Disease Map</a></p></td>
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#sbgn-bricks">SBGN Bricks</a></p></td>
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
