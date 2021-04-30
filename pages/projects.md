@@ -58,6 +58,21 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </tr>
 </table>
 
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/><br /><a href="#disease-maps">Disease Maps</a></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/><br />Text</p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/><br />Text</p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/><br />Text</p></td>
+</tr>
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/><br /><a href="#disease-maps">Disease Maps</a></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/><br />Text</p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/><br />Text</p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/><br />Text</p></td>
+</tr>
+</table>
+
 
 
 [Disease Maps](#disease-maps)  
