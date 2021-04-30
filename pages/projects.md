@@ -233,7 +233,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            The <a href="https://github.com/adrienrougny/stonpy" target="_blank">stonpy</a> tool is a new Python 3.x version of <a href="https://pubmed.ncbi.nlm.nih.gov/27919219/" target="_blank">STON</a> for storing SBGN maps in Neo4j. It was applied in the <a href="https://pubmed.ncbi.nlm.nih.gov/33758926/" target="_blank">SBGN Bricks</a> project for assessing the completeness of the SBGN Bricks Ontology and in the <a href="https://pubmed.ncbi.nlm.nih.gov/33834185/" target="_blank">composability</a> project for investigating repeated sub-pathways in the ACSN and PANTHER.
+            The <a href="https://github.com/adrienrougny/stonpy" target="_blank">stonpy</a> tool is a new Python 3.x version of <a href="https://pubmed.ncbi.nlm.nih.gov/27919219/" target="_blank">STON</a> for storing SBGN maps in Neo4j. It was applied in the <a href="https://pubmed.ncbi.nlm.nih.gov/33758926/" target="_blank">SBGN Bricks</a> project for assessing the completeness of the SBGN Bricks Ontology and in the <a href="https://pubmed.ncbi.nlm.nih.gov/33834185/" target="_blank">composability</a> project for investigating repeated components in the ACSN and PANTHER.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
