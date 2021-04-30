@@ -103,7 +103,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            The <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> is a large-scale community project focused on SARS-CoV-2 virus-host interaction mechanisms, with more than 200 contributors. It integrates curation, text-minig, modelling and data analysis approaches and tools.
+            The <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> is a large-scale community project with more than 200 contributors. It is focused on SARS-CoV-2 virus-host interaction mechanisms and integrates curation, text-minig, modelling and data analysis approaches and tools.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/32371892" target="_blank">32371892</a><br />
