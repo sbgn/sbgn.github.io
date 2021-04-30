@@ -62,19 +62,18 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 [Metabolism Regulation](#metabolism-regulation)  
 [Layout algorithms](#layout-algorithms) 
 
-**Map Projects**
+**Maps**  
 [Disease Maps](#disease-maps)  
 [COVID-19 Disease Map](#covid-19-disease-map)  
 [Metabolism Regulation](#metabolism-regulation)  
 
-**Method Projects**
+**Methods**  
 [SBGN Bricks](#sbgn-bricks)  
 [ModelBricks](#modelbricks)  
 [Composability](#composability)  
 [Layout algorithms](#layout-algorithms)  
 
-
-**Software Projects**
+**Software**  
 [PD2AF](#pd2af)  
 [CaSQ](#casq)  
 [SBGN to Neo4j: stonpy](#sbgn-to-neo4j-stonpy)  
