@@ -43,7 +43,6 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 -->
 
-<!--
 [Disease Maps](#disease-maps)  
 [COVID-19 Disease Map](#covid-19-disease-map)  
 [SBGN Bricks](#sbgn-bricks)  
@@ -61,7 +60,6 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 [ySBGN converter](#ysbgn-converter)  
 [Metabolism Regulation](#metabolism-regulation)  
 [Layout algorithms](#layout-algorithms) 
--->
 
 <!--
 <a href="#sbgn-biopax"><font color="#ce4c47">SBGN-BioPAX</font></a>  
