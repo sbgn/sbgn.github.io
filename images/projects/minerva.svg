@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 67.44148 23.81832"
+   version="1.1"
+   id="svg102"
+   sodipodi:docname="minerva.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata106">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="723"
+     inkscape:window-height="480"
+     id="namedview104"
+     showgrid="false"
+     inkscape:zoom="4.8041649"
+     inkscape:cx="33.720741"
+     inkscape:cy="11.90916"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg102" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#333;}.cls-1,.cls-2,.cls-4{fill-rule:evenodd;}.cls-2,.cls-5{fill:#0ba3dd;}.cls-3,.cls-4{fill:#ee302f;}.cls-6{fill:#00aae5;}.cls-7{fill:#ee2e27;}.cls-8{fill:#575b5e;}</style>
+  </defs>
+  <title
+     id="title6">ul-header-with-lcsb-jekyll</title>
+  <g
+     id="minerva-2-lines_copy"
+     data-name="minerva-2-lines copy">
+    <path
+       class="cls-1"
+       d="M33.11707,3.62194l-.82435,1.41961a6.81366,6.81366,0,0,0-1.89608.78549L28.81,5.40594a7.98656,7.98656,0,0,0-1.28654,1.28653l.42111,1.58662a6.807,6.807,0,0,0-.78505,1.89609l-1.42.82434a7.99519,7.99519,0,0,0,0,1.81928l1.42.82434a6.81261,6.81261,0,0,0,.78505,1.89609l-.42111,1.58662A8.00441,8.00441,0,0,0,28.81,18.41238l1.58662-.4211a6.81285,6.81285,0,0,0,1.89608.78505l.82435,1.42a7.9951,7.9951,0,0,0,1.81927,0l.82435-1.42a6.80732,6.80732,0,0,0,1.89609-.78505l1.58662.4211a7.9861,7.9861,0,0,0,1.28653-1.28653l-.42111-1.58662a6.81375,6.81375,0,0,0,.7855-1.89609l1.41961-.82434a7.99633,7.99633,0,0,0,0-1.81928l-1.41961-.82434a6.80815,6.80815,0,0,0-.7855-1.89609l.42111-1.58662A7.96833,7.96833,0,0,0,39.2434,5.40594l-1.58662.4211a6.80813,6.80813,0,0,0-1.89609-.78549l-.82435-1.41961A7.9951,7.9951,0,0,0,33.11707,3.62194Zm-5.2091,8.3484a6.05667,6.05667,0,1,1,6.05667,6.05622A6.05675,6.05675,0,0,1,27.908,11.97034Z"
+       id="path8" />
+    <path
+       class="cls-2"
+       d="M37.296,9.01413A1.42175,1.42175,0,0,0,35.89109,10.419a1.38078,1.38078,0,0,0,.59392,1.11282q-.47627.71271-.94983,1.42586a1.41681,1.41681,0,0,0-.57383-.159,1.0689,1.0689,0,0,0-.72923.23847q-.54324-.60688-1.08737-1.21464a1.09541,1.09541,0,0,0,.109-.41485.9668.9668,0,1,0-1.93359,0,1.10012,1.10012,0,0,0,.10539.41128q-.44544.51711-.89357,1.03512a.88825.88825,0,0,0-.47469-.15942.83082.83082,0,1,0,.83194.83059.91491.91491,0,0,0-.12637-.41842l.681-.78952c.06162-.07189.12459-.14423.18621-.21658a1.01827,1.01827,0,0,0,.65689.2724.84353.84353,0,0,0,.65822-.26481q.52582.58879,1.0512,1.17579a1.42642,1.42642,0,0,0-.26927.74933,1.26271,1.26271,0,0,0,1.23428,1.23383,1.24807,1.24807,0,0,0,1.23384-1.23383,1.09022,1.09022,0,0,0-.38091-.88106q.487-.73281.97528-1.46561A1.39621,1.39621,0,0,0,38.69949,10.419,1.42059,1.42059,0,0,0,37.296,9.01413Z"
+       id="path10" />
+    <path
+       class="cls-2"
+       d="M35.76337,10.35871a1.55045,1.55045,0,1,1,1.55045,1.55045A1.55084,1.55084,0,0,1,35.76337,10.35871Z"
+       id="path12" />
+    <circle
+       class="cls-3"
+       cx="34.95689"
+       cy="13.95573"
+       r="1.39549"
+       id="circle14" />
+    <path
+       class="cls-4"
+       d="M29.1427,13.45961a.97685.97685,0,1,1,.97663.97707A.97654.97654,0,0,1,29.1427,13.45961Z"
+       id="path16" />
+    <circle
+       class="cls-5"
+       cx="32.22797"
+       cy="11.35096"
+       r="1.18204"
+       id="circle18" />
+  </g>
+</svg>
