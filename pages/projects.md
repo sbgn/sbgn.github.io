@@ -93,7 +93,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
             <strong>PubMed: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/29872544" target="_blank">29872544</a>; <a href="https://www.ncbi.nlm.nih.gov/pubmed/29688273" target="_blank">29688273</a><br />
             <strong>Status: </strong>Active<br />
             <strong>Category: </strong>Community, Maps, Software<br />
-            <strong>Connected projects: </strong>MINERVA, NaviCell, CaSQ, stonpy, CellDesigner</td>
+            <strong>Connected projects: </strong>MINERVA, NaviCell, CaSQ, stonpy</td>
     </tr>
 </table> 
 
