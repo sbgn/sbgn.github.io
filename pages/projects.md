@@ -113,7 +113,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
             <strong>PubMed: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/32371892" target="_blank">32371892</a><br />
             <strong>Status: </strong>Active<br />
             <strong>Category: </strong>Community, Maps, Software<br />
-            <strong>Connected projects: </strong>MINERVA, CaSQ, stonpy</td>
+            <strong>Connected projects: </strong>Reactome, WikiPathways, MINERVA, CaSQ, stonpy</td>
     </tr>
 </table> 
 
