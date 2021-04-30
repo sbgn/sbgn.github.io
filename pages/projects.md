@@ -45,10 +45,10 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="90"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="90"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="90"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="90"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:center;"><a href="#disease-maps">Disease Maps</a><br /></p></td>
