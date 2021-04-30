@@ -280,7 +280,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             Text.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Text<br />
+            <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/28725475/" target="_blank">28725475</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/31273380/" target="_blank">31273380</a><br />
             <strong>Category: </strong>Software<br />
             <strong>Status: </strong>Supported, actively maintained<br />
             <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
