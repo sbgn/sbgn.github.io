@@ -84,7 +84,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 -->
 
 ### Disease Maps
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -99,7 +101,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 
 ### COVID-19 Disease Map
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
@@ -114,11 +118,13 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 
 ### SBGN Bricks
-
+<!-- template --
+<a href="URL" target="_blank">TEXT</a>
+-->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            The SBGN Bricks are recurring network patterns that are expressions of biological concepts such as metabolic reaction, protein phosphorylation, homodimer formation, etc. Interesting recent application: the use of SBGN Bricks in combination with stonpy for assessing the quality of maps.
+            The <a href="http://sbgnbricks.org/" target="_blank">SBGN Bricks</a> are recurring network patterns that are expressions of biological concepts such as metabolic reaction, protein phosphorylation, homodimer formation, etc. Interesting recent application: the use of SBGN Bricks in combination with stonpy for assessing the quality of maps.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33758926/" target="_blank">33758926</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/22979995/" target="_blank">22979995</a><br />
