@@ -68,11 +68,11 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 <tr>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><a href="#disease-maps">Disease Maps</a></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
 </table>
 <table>
@@ -84,11 +84,11 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 <tr>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><a href="#disease-maps">Disease Maps</a></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
 </table>
 
