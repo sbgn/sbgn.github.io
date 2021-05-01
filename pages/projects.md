@@ -52,6 +52,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/sbgnbricks2.png" width="100"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+    <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 <tr>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#disease-maps" style="color:#ce4c47;">Disease Maps</a></p></td>
@@ -59,6 +60,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#sbgn-bricks">SBGN Bricks</a></p></td>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+    <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
 </table>
 <table>
@@ -68,6 +70,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+    <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 <tr>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
@@ -75,6 +78,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+    <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
 </table>
 <table>
@@ -84,6 +88,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+    <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 <tr>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
@@ -91,6 +96,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+    <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
 </table>
 
