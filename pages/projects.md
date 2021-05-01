@@ -67,7 +67,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/casq.png" width="80"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/stonpy.png" width="80"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/vanted.png" width="50"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/newt.png" width="80"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/krayon.png" width="45"/></p></td>
     <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/minerva.png" width="50"/></p></td>
