@@ -43,7 +43,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </table> 
 -->
 
-<!--
+
 <table>
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/dm.png" width="65"/></p></td>
@@ -92,7 +92,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 </tr>
 </table>
--->
+
 
 
 [Disease Maps](#disease-maps)  
