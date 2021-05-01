@@ -70,7 +70,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/krayon.png" width="45"/></p></td>
-    <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/minerva.svg" width="100"/></p></td>
+    <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/minerva.png" width="50"/></p></td>
 </tr>
 <tr>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">CaSQ</p></td>
