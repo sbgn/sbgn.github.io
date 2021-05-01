@@ -249,7 +249,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="https://minerva.pages.uni.lu/" target="_blank">MINERVA</a> supports SBGN view for CellDesigner maps, enables import and export of SBGN 0.2 and soon SBGN 0.3. Other interesting features of MINERVA include easy export and import of CellDesigner XML format, annotation of maps on upload, support of background images, import and export of SBML with layout information.
+            <a href="https://minerva.pages.uni.lu/" target="_blank">MINERVA</a> supports SBGN view for CellDesigner maps, enables import and export of SBGN 0.2 and soon SBGN 0.3. Other interesting features of MINERVA include easy export and import of CellDesigner XML format, annotation of maps on upload, support of background images, import and export of SBML with layout.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/28725475/" target="_blank">28725475</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/31273380/" target="_blank">31273380</a><br />
