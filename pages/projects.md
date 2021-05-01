@@ -341,7 +341,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             <strong>PubMed: </strong>Not available<br />
             <strong>Status: </strong>Ongoing<br />
             <strong>Category: </strong>Maps, Methods<br />
-            <strong>Connected projects: </strong>ySBGN, cd2sbgnml, MINERVA, Recon2Neo4j, Reactome Neo4j</td>
+            <strong>Connected projects: </strong>ySBGN, cd2sbgnml, MINERVA, Recon2Neo4j, Reactome Neo4j, Newt</td>
     </tr>
 </table> 
 
