@@ -266,7 +266,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="https://reactome.org/" target="_blank">Reactome</a> pathways are represented as diagrams laid out following the Systems Biology Graphical Notation (SBGN) Process Description language. The updated SBGN export, as well as SBML-plus-layout export makes the Reactome pathways accessible for many communities and tools.
+            <a href="https://reactome.org/" target="_blank">Reactome</a> pathway diagrams are laid out following the Systems Biology Graphical Notation (SBGN) Process Description language. The updated SBGN export, as well as SBML-plus-layout export makes the Reactome pathways accessible for many communities and tools.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/29186351/" target="_blank">29186351</a><br />
