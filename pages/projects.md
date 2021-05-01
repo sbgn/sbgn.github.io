@@ -187,7 +187,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
             <strong>PubMed: </strong>Not available<br />
             <strong>Status: </strong>Complete, actively maintained<br />
             <strong>Category: </strong>Software<br />
-            <strong>Connected projects: </strong>SBGN Bricks, Disease Maps, Composability</td>
+            <strong>Connected projects: </strong>SBGN Bricks, Disease Maps, Composability, Recon2Neo4j, C19DM-Neo4j</td>
     </tr>
 </table> 
 
@@ -335,13 +335,13 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="https://metabolismregulation.github.io/" target="_blank">Metabolism Regulation</a> is an open community project focused on the connections between signalling and metabolic networks, mainly on how metabolic enzymes are regulated via their posttranslational modifications. 
+            <a href="https://metabolismregulation.github.io/" target="_blank">Metabolism Regulation</a> is an open community project focused on the connections between signalling and metabolic networks, mainly on how metabolic enzymes are regulated via their posttranslational modifications. The connectivity is explored via the Reactome Neo4j and Recon2Neo4j databases.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
             <strong>Status: </strong>Ongoing<br />
             <strong>Category: </strong>Maps, Methods<br />
-            <strong>Connected projects: </strong>ySBGN, cd2sbgnml, MINERVA</td>
+            <strong>Connected projects: </strong>ySBGN, cd2sbgnml, MINERVA, Recon2Neo4j, Reactome Neo4j</td>
     </tr>
 </table> 
 
