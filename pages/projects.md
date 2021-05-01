@@ -66,7 +66,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/casq.png" width="80"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/stonpy.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/krayon.png" width="45"/></p></td>
@@ -74,9 +74,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 </tr>
 <tr>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">CaSQ</p></td>
-<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
-<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
+<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">SBGN to Neo4j: stonpy</p></td>
+<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">SBGN-ED</p></td>
+<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Newt Editor</p></td>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Krayon</p></td>
     <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">MINERVA SBGN support</p></td>
 </tr>
