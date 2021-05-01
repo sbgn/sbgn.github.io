@@ -244,12 +244,12 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 
 ### MINERVA SBGN support
 <!-- template --
-<a href="URL" target="_blank">TEXT</a>
+<a href="https://minerva.pages.uni.lu/" target="_blank">MINERVA</a>
 -->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            <a href="https://minerva.pages.uni.lu/" target="_blank">MINERVA</a>
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/28725475/" target="_blank">28725475</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/31273380/" target="_blank">31273380</a><br />
@@ -261,17 +261,17 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 
 ### Reactome SBGN export
 <!-- template --
-<a href="URL" target="_blank">TEXT</a>
+<a href="https://reactome.org/" target="_blank">Reactome</a>
 -->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            <a href="https://reactome.org/" target="_blank">Reactome</a>
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
             <strong>Status: </strong>Supported, actively maintained<br />
-            <strong>Category: </strong>Software<br />
+            <strong>Category: </strong>Maps, Software<br />
             <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
     </tr>
 </table> 
