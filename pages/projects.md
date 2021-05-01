@@ -357,13 +357,13 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Layout algorithms are very much needed for more efficient work with the. Recent advances include the open-source incremental ... and expand-collapse functionality implemented in Newt and free but proprietary SBGN layout in yEd demonstarting the applicability of the notion of the human-like layout algorithms.
+            Recent advances in layout algorithms for process diagrams include: 1) incremental; 2) expand-collapse functionality implemented in Newt; 3) the freely accessible proprietary SBGN layout in yEd proves the applicability of the notion of the human-like layout algorithms; 4) applying machine learning for emulated human choices in drawing pathway diagrams.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/26363029/" target="_blank">26363029</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/29813080/" target="_blank">29813080</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/30289443/" target="_blank">30289443</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/26390483/" target="_blank">26390483</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/31484128/" target="_blank">31484128</a><br />
-            <strong>Status: </strong>Text<br />
-            <strong>Category: </strong>Text<br />
-            <strong>Connected projects: </strong>Text</td>
+            <strong>Status: </strong>Multiple efforts<br />
+            <strong>Category: </strong>Methods, Software<br />
+            <strong>Connected projects: </strong>Newt, yEd</td>
     </tr>
 </table>  
 
