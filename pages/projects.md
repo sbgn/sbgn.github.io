@@ -49,11 +49,39 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/dm.png" width="75"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/c19dm.svg" width="55"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/sbgnbricks.png" width="95"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/pd2af.png" width="45"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/casq.png" width="80"/></p></td>
+</tr>
+</table>
+<table>
+<tr>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/stonpy.png" width="75"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/vanted.png" width="50"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/newt.png" width="75"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/krayon.png" width="45"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/minerva.png" width="55"/></p></td>
+</tr>
+</table>
+<table>
+<tr>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/reactome.png" width="50"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/mr.png" width="50"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"> </p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"> </p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"> </p></td>
+</tr>
+</table>
+
+<!--
+<table>
+<tr>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/dm.png" width="75"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/c19dm.svg" width="55"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/sbgnbricks.png" width="95"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/pd2af.png" width="45"/></p></td>
@@ -63,7 +91,6 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/newt.png" width="75"/></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/krayon.png" width="45"/></p></td>
@@ -73,7 +100,6 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/mr.png" width="50"/></p></td>
@@ -83,7 +109,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"> </p></td>
 </tr>
 </table>
-
+-->
 
 
 <!--
