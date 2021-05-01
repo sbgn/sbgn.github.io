@@ -249,7 +249,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="https://minerva.pages.uni.lu/" target="_blank">MINERVA</a>
+            The <a href="https://minerva.pages.uni.lu/" target="_blank">MINERVA</a> platform supports SBGN view for maps developed in CellDesigner, enables import and export of SBGN 0.2 and soon SBGN 0.3 formats.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/28725475/" target="_blank">28725475</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/31273380/" target="_blank">31273380</a><br />
