@@ -335,7 +335,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            <a href="https://metabolismregulation.github.io/" target="_blank">Metabolism Regulation</a> is an open community project focused on the connections between signalling and metabolic networks, mainly on how metabolic enzymes are regulated via their posttranslational modifications. 
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
