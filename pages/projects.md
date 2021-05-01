@@ -322,7 +322,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
-            <strong>Status: </strong>Supported<br />
+            <strong>Status: </strong>Complete, actively maintained<br />
             <strong>Category: </strong>Software<br />
             <strong>Connected projects: </strong>cd2sbgnml, MINERVA, Metabolism Regulation</td>
     </tr>
