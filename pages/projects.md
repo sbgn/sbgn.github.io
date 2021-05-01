@@ -221,7 +221,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/33010165/" target="_blank">33010165</a><br />
             <strong>Category: </strong>Software<br />
             <strong>Status: </strong>Complete, actively evolving<br />
-            <strong>Connected projects: </strong>SBGN Bricks, cd2sbgnml, PD2AF, stonpy</td>
+            <strong>Connected projects: </strong>SBGN Bricks, cd2sbgnml, PD2AF, stonpy, Disease Maps, Metabolism Regulation</td>
     </tr>
 </table>
 
@@ -324,7 +324,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             <strong>PubMed: </strong>Not available<br />
             <strong>Status: </strong>Complete, actively maintained<br />
             <strong>Category: </strong>Software<br />
-            <strong>Connected projects: </strong>cd2sbgnml, MINERVA, Metabolism Regulation</td>
+            <strong>Connected projects: </strong>cd2sbgnml, MINERVA, Metabolism Regulation, AsthmaMap, CyFi-MAP, Disease Maps</td>
     </tr>
 </table> 
 
