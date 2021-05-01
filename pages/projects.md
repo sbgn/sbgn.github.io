@@ -313,12 +313,12 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 
 ### ySBGN converter 
 <!-- template --
-<a href="URL" target="_blank">TEXT</a>
+<a href="https://github.com/sbgn/ySBGN" target="_blank">TEXT</a>
 -->
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            ySBGN converts to and from yEd GraphML and SBGN. It enables working with SBGN diagrams in the yEd Graph Editor, a general-purpose diagramming program. Interesting featuers in yEd: 1) a palette section for SBGN glyphs; 2) SBGN layout functionality for Process Description; 3) able to work with extensive diagrams such as the ReconMap and the ACSN maps. 
+            <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a> enables the convertion to and from yEd GraphML and SBGN. It makes it possible to work with SBGN diagrams in the <a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>, a free general-purpose diagramming tool developed by <a href="https://www.yworks.com/" target="_blank">yWorks</a>yWorks. Interesting featuers in yEd: 1) a palette section for SBGN glyphs; 2) SBGN layout functionality for Process Description; 3) able to work with extensive diagrams such as the ReconMap and the ACSN maps. yEd was used as the main editor in the Metabolism Regulation project.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
