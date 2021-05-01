@@ -318,7 +318,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            ySBGN converts to and from yEd GraphML and SBGN. It enables working with SBGN diagrams in the yEd Graph Editor, a general-purpose diagramming program. Interesting featuers in yEd: 1) a palette section for SBGN glyphs; 2) SBGN layout functionality for Process Description; 3) able to work with extensive diagrams such as the ReconMap and the ACSN maps. 
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
