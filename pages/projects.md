@@ -14,35 +14,6 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 
 <!--Anticipated and needed tools are marked in red: please contact us if you would like to contribute.-->
 
-<table>
-<tr>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/dm.png" width="75"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/c19dm.svg" width="55"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/sbgnbricks.png" width="95"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/pd2af.png" width="45"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/casq.png" width="80"/></p></td>
-</tr>
-</table>
-<table>
-<tr>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/stonpy.png" width="75"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/vanted.png" width="50"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/newt.png" width="75"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/krayon.png" width="45"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/minerva.png" width="55"/></p></td>
-</tr>
-</table>
-<table>
-<tr>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/reactome.png" width="50"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/mr.png" width="50"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"> </p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"> </p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"> </p></td>
-</tr>
-</table>
-
-
 [Disease Maps](#disease-maps)  
 [COVID-19 Disease Map](#covid-19-disease-map)  
 [SBGN Bricks](#sbgn-bricks)  
