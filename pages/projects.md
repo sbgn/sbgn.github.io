@@ -49,7 +49,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <tr>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/dm.png" width="75"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/c19dm.svg" width="55"/></p></td>
-<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/sbgnbricks.png" width="100"/></p></td>
+<td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/sbgnbricks.png" width="95"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
     <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/pd2af.png" width="45"/></p></td>
