@@ -272,7 +272,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/29186351/" target="_blank">29186351</a><br />
             <strong>Status: </strong>Supported, actively maintained<br />
             <strong>Category: </strong>Maps, Software<br />
-            <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA</td>
+            <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA, COVID-19 Disease Map</td>
     </tr>
 </table> 
 
