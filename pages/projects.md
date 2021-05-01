@@ -249,7 +249,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="https://minerva.pages.uni.lu/" target="_blank">MINERVA</a> supports SBGN view for CellDesigner maps, enables import and export of SBGN 0.2 and soon SBGN 0.3. Other interesting features of MINERVA include easy export and import of CellDesigner XML format, annotation of maps on upload, support of background images, import and export of SBML with layout.
+            <a href="https://minerva.pages.uni.lu/" target="_blank">MINERVA</a> supports SBGN view for CellDesigner maps, enables import and export of SBGN 0.2 and soon SBGN 0.3. Other interesting features of MINERVA include easy export and import of CellDesigner XML format, annotation of maps on upload, support of background images, import and export of SBML with the layout.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/28725475/" target="_blank">28725475</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/31273380/" target="_blank">31273380</a><br />
@@ -275,24 +275,6 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             <strong>Connected projects: </strong>Disease Maps, Newt, SBGN-ED, Krayon, MINERVA, COVID-19 Disease Map</td>
     </tr>
 </table> 
-
-<!--
-### Reactome SBML export
-<table>
-    <tr>
-        <td style="width:380px; vertical-align:top;  text-align:left;">
-            The updated SBML-plus-layout export opens many new possiblilities and allows presenting maps, for example, in MINERVA, and then from MINERVA export in CellDesigner or SBGN formats. This way, the Reactome pathways becomes accessible for many communities and tools.
-        </td>
-        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Not available<br />
-            <strong>Status: </strong>Supported, actively maintained<br />
-            <strong>Category: </strong>Software<br />
-            <strong>Connected projects: </strong>MINERVA, Newt, CellDesigner, COVID-19 Disease Map</td>
-    </tr>
-</table> 
--->
-
-
 
 ### cd2sbgnml converter
 <!-- template --
