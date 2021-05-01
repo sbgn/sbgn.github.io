@@ -360,7 +360,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             Layout algorithms are very much needed for more efficient work with the. Recent advances include the open-source incremental ... and expand-collapse functionality implemented in Newt and free but proprietary SBGN layout in yEd demonstarting the applicability of the notion of the human-like layout algorithms.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Text<br />
+            <strong>PubMed: </strong><a href="https://pubmed.ncbi.nlm.nih.gov/26363029/" target="_blank">26363029</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/29813080/" target="_blank">29813080</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/30289443/" target="_blank">30289443</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/26390483/" target="_blank">26390483</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/31484128/" target="_blank">31484128</a><br />
             <strong>Status: </strong>Text<br />
             <strong>Category: </strong>Text<br />
             <strong>Connected projects: </strong>Text</td>
