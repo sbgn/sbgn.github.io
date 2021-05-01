@@ -55,9 +55,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
     <td style="width: 100px;"><p style="margin:2px; text-align:center;"><img src="images/projects/project.png" width="60"/></p></td>
 </tr>
 <tr>
-<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#disease-maps" style="color:#ce4c47;">Disease Maps</a></p></td>
-<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#covid-19-disease-map">COVID-19<br />Disease Map</a></p></td>
-<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#sbgn-bricks">SBGN Bricks</a></p></td>
+<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#disease-maps" style="color:#595959;">Disease Maps</a></p></td>
+<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#covid-19-disease-map" style="color:#595959;">COVID-19<br />Disease Map</a></p></td>
+<td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;"><a href="#sbgn-bricks" style="color:#595959;">SBGN Bricks</a></p></td>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
 <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
     <td style="width: 100px; font-size:90%; vertical-align:top;"><p style="margin:2px; text-align:center;">Text</p></td>
