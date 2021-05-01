@@ -353,10 +353,11 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 https://pubmed.ncbi.nlm.nih.gov/26363029/
 https://pubmed.ncbi.nlm.nih.gov/29813080/
 -->
+
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            Text.
+            Layout algorithms are very much needed for more efficient work with the. Recent advances include the open-source incremental ... and expand-collapse functionality implemented in Newt and free but proprietary SBGN layout in yEd demonstarting the applicability of the notion of the human-like layout algorithms.
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Text<br />
