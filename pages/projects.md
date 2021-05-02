@@ -322,7 +322,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
             <strong>PubMed: </strong>Not available<br />
             <strong>Status: </strong>Ongoing<br />
             <strong>Category: </strong>Software<br />
-            <strong>Connected projects: </strong>Newt, MINERVA, Disease Maps, SBGN Bricks, Composability, SBFC</td>
+            <strong>Connected projects: </strong>SBFC <!--Newt, MINERVA, Disease Maps, SBGN Bricks, Composability--></td>
     </tr>
 </table> 
 
