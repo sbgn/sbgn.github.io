@@ -344,6 +344,40 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
     </tr>
 </table>  
 
+<!--
+### BioPAX-SBGN
+<a href="URL" target="_blank">TEXT</a>
+<table>
+    <tr>
+        <td style="width:380px; vertical-align:top;  text-align:left;">
+            Text. <a href="https://github.com/fdurupinar/PaxToolsAgent" target="_blank">PaxToolsAgent</a>
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong>Not available<br />
+            <strong>Status: </strong>Ongoing<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Connected projects: </strong>Potentially: Newt, MINERVA</td>
+    </tr>
+</table> 
+-->
+
+<!--
+### SBML-SBGN
+<a href="URL" target="_blank">TEXT</a>
+<table>
+    <tr>
+        <td style="width:380px; vertical-align:top;  text-align:left;">
+            SBML plus layout. SBML support in Newt.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong>Not available<br />
+            <strong>Status: </strong>Ongoing<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Connected projects: </strong>MINERVA, Newt</td>
+    </tr>
+</table> 
+-->
+
 
 <!--
 <h3 id="sbgn-biopax" style="color:#ce4c47;">SBGN-BioPAX converter</h3>
@@ -359,6 +393,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
     </tr>
 </table>
 -->
+
 
 <!--
 <h3 id="celldesigner-sbgn" style="color:#DD493E;">CellDesigner SBGN support</h3>
