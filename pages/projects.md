@@ -30,7 +30,7 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <!--[Reactome SBML export](#reactome-sbml-export)  -->
 [cd2sbgnml converter](#cd2sbgnml-converter)  
 [ySBGN converter](#ysbgn-converter)  
-[SBGN to BioPAX: PaxToolsAgent](#sbgn-to-biopax-paxtoolsagent)
+[SBGN to BioPAX: PaxToolsAgent](#sbgn-to-biopax-paxtoolsagent)  
 [Metabolism Regulation](#metabolism-regulation)  
 [Layout algorithms](#layout-algorithms) 
 
