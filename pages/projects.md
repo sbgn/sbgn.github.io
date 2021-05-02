@@ -30,9 +30,9 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <!--[Reactome SBML export](#reactome-sbml-export)  -->
 [cd2sbgnml converter](#cd2sbgnml-converter)  
 [ySBGN converter](#ysbgn-converter)  
-[SBGN to BioPAX: PaxToolsAgent](#sbgn-to-biopax-paxtoolsagent)  
 [Metabolism Regulation](#metabolism-regulation)  
-[Layout algorithms](#layout-algorithms) 
+[Layout algorithms](#layout-algorithms)  
+[SBGN to BioPAX: PaxToolsAgent](#sbgn-to-biopax-paxtoolsagent)  
 
 
 <!--
@@ -311,21 +311,6 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
     </tr>
 </table> 
 
-### SBGN to BioPAX: PaxToolsAgent
-
-<table>
-    <tr>
-        <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="https://github.com/fdurupinar/PaxToolsAgent" target="_blank">PaxToolsAgent</a> is a Java servlet for converting SBGN-ML files into BioPAX Level 3 format. The tool depends on <a href="https://biopax.github.io/Paxtools/" target="_blank">Paxtools</a> libraries.
-        </td>
-        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
-            <strong>PubMed: </strong>Not available<br />
-            <strong>Status: </strong>Ongoing<br />
-            <strong>Category: </strong>Software<br />
-            <strong>Connected projects: </strong>SBFC <!--Newt, MINERVA, Disease Maps, SBGN Bricks, Composability--></td>
-    </tr>
-</table> 
-
 ### Metabolism Regulation
 <!-- template --
 <a href="URL" target="_blank">TEXT</a>
@@ -360,7 +345,20 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
     </tr>
 </table>  
 
+### SBGN to BioPAX: PaxToolsAgent
 
+<table>
+    <tr>
+        <td style="width:380px; vertical-align:top;  text-align:left;">
+            <a href="https://github.com/fdurupinar/PaxToolsAgent" target="_blank">PaxToolsAgent</a> is a Java servlet for converting SBGN-ML files into BioPAX Level 3 format. The tool depends on <a href="https://biopax.github.io/Paxtools/" target="_blank">Paxtools</a> libraries.
+        </td>
+        <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
+            <strong>PubMed: </strong>Not available<br />
+            <strong>Status: </strong>Ongoing<br />
+            <strong>Category: </strong>Software<br />
+            <strong>Connected projects: </strong>SBFC <!--Newt, MINERVA, Disease Maps, SBGN Bricks, Composability--></td>
+    </tr>
+</table> 
 
 <!--
 ### SBML-SBGN
