@@ -301,7 +301,7 @@ https://pubmed.ncbi.nlm.nih.gov/29813080/
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a> is a bidirectional converter that makes it possible to work with the <a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>, a free general-purpose diagramming tool developed by <a href="https://www.yworks.com/" target="_blank">yWorks</a>. Interesting features in yEd: 1) SBGN palette; 2) SBGN layout functionality; 3) works with extensive diagrams such as the ReconMap and the ACSN maps. <!--yEd was used as the main editor in the Metabolism Regulation project.-->
+            <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a> is a bidirectional converter that makes it possible to work with Process Description and Activity Flow in the <a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a>, a free general-purpose diagramming tool developed by <a href="https://www.yworks.com/" target="_blank">yWorks</a>. ySBGN was used for the development of the AsthmaMap, the CyFi-MAP and the Metabolism Regulation pathways. Interesting features in yEd: 1) SBGN palette; 2) SBGN layout functionality; 3) works with extensive diagrams such as the ReconMap and the ACSN maps. <!--yEd was used as the main editor in the Metabolism Regulation project.-->
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong>Not available<br />
