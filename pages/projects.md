@@ -63,7 +63,16 @@ This page highlights developments relevant to the SBGN standard. The goal is to 
 <table>
     <tr>
         <td style="width:380px; vertical-align:top;  text-align:left;">
-            The <a href="https://disease-maps.org/" target="_blank">Disease Maps</a> community focuses on describing disease mechanism in the form of Process Description and Activity Flow diagrams. Interesting ongoing development: the <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> community project. Recent publications inlcude projects on [asthma](https://www.ncbi.nlm.nih.gov/pubmed/33309742), [rheumatoid arthritis](https://www.ncbi.nlm.nih.gov/pubmed/32311035), [cancer](https://www.ncbi.nlm.nih.gov/pubmed/32316560) and applications in [preclinical studies](https://pubmed.ncbi.nlm.nih.gov/29726961/) in cancer.
+            The <a href="https://disease-maps.org/" target="_blank">Disease Maps</a> community focuses on describing disease mechanism in the form of Process Description and Activity Flow diagrams. Interesting ongoing development: the <a href="https://covid.pages.uni.lu/" target="_blank">COVID-19 Disease Map</a> community project. 
+            <!--Recent publications inlcude projects on 
+[asthma](https://www.ncbi.nlm.nih.gov/pubmed/33309742)
+, 
+[rheumatoid arthritis](https://www.ncbi.nlm.nih.gov/pubmed/32311035)
+, 
+[cancer](https://www.ncbi.nlm.nih.gov/pubmed/32316560)
+ and applications in 
+[preclinical studies](https://pubmed.ncbi.nlm.nih.gov/29726961/)
+ in cancer.-->
         </td>
         <td style="text-align:left; vertical-align:top; text-align:left; padding-left:1em;">
             <strong>PubMed: </strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/29872544" target="_blank">29872544</a>; <a href="https://www.ncbi.nlm.nih.gov/pubmed/29688273" target="_blank">29688273</a><br />
