@@ -63,7 +63,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-rougny.jpg" alt="Adrien Rougny" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2022 - 2024, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the<a href="https://github.com/adrienrougny/stonpy" target="_blank">stonpy</a> tool for converting from SBGN to Neo4j. Developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX. Leading editor of the published SBGN Process Description specification.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2022 - 2024, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the <a href="https://github.com/adrienrougny/stonpy" target="_blank">stonpy</a> tool for converting from SBGN to Neo4j. Developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX. Leading editor of the published SBGN Process Description specification.</td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
@@ -78,11 +78,11 @@ Acting Editors are selected among active contributors and are appointed by the e
 <table>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-overall.jpg" alt="Rupert Overall" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Rupert Overall</strong>, PhD Student, Research Assistant at the University of Konstanz, Germany; invited as an Acting Editor in January 2019; a member of the SBGN Team; contributes to the work on the Process Description specification.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Rupert Overall</strong>, Senior Researcher at the Humboldt University of Berlin, Germany. Invited as an Acting Editor in January 2022. Developer of the Molecular Map of the Aging Neuron. Interested in contributing to preparing SBGN learning materials.</td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-borlinghaus.jpg" alt="Hanna Borlinghaus" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Hanna Borlinghaus</strong>, PhD Student, Research Assistant at the University of Konstanz, Germany; invited as an Acting Editor in January 2019; a member of the SBGN Team; contributes to the work on the Process Description specification.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Hanna Borlinghaus</strong>, PhD Student, Research Assistant at the University of Konstanz, Germany. Invited as an Acting Editor in January 2019. A member of the SBGN Team. Contributed to the work on the Process Description specification.</td>
     </tr>
 </table>
 
