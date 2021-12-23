@@ -216,17 +216,13 @@ The RAS-RAF-MEK-ERK signalling cascade is part of many pathway maps, and when de
 1. Design a minimal set of pathway variants of the RAS-RAF-MEK-ERK cascade that can be applied in a composable manner for developing larger maps.   
 1. Using the experience of working with this example, develop clear guidelines and specific solutions for creating composable components and assembling them into modular maps.  
 
+<!--
 ### Get involved
-
 All researchers interested in this topic are invited to contribute. We encourage students and young researchers to participate. There are many interesting tasks including reviewing pathway databases, reviewing the literature and developing pathway diagrams.  
-
 Please use this [self-organised form](https://docs.google.com/spreadsheets/d/1cGkK4YyGWYiBE11L8dzvKeHLmmyy_LD8XOS_SYYT0VE/edit#gid=0) by **10 April 2021** to express your interest.  
-
 ### Kickoff events
-
 Virtual kickoff meetings are scheduled for **15th April 2021** at [10:00 UTC](https://www.thetimezoneconverter.com/?t=10:00&tz=UTC&) and at [16:00 UTC](https://www.thetimezoneconverter.com/?t=16:00&tz=UTC&) to accommodate different time zones. Please join via Webex using [this link](https://unilu.webex.com/meet/alexander.mazein).
-    
-<!--### Curation environment
+### Curation environment
 <table>
     <tr>
         <td style="width:32px; text-align:center;">
@@ -276,11 +272,10 @@ Virtual kickoff meetings are scheduled for **15th April 2021** at [10:00 UTC](ht
             <a href="https://github.com/sbgn/openchallenge" target="_blank">
                 GitHub repository for sharing and versioning diagrams</a></td>
     </tr>
-</table>-->
-
+</table>
 ### Timeline
-
 We will form working groups and distribute tasks in **April 2021**. Work on the challenge will be conducted in the Spring and Summer of 2021. We plan to summarise and present the results of the challenge by **30 September 2021**.
+-->
 
 ### License
 
