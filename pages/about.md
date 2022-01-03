@@ -98,6 +98,8 @@ The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effor
 
 ## Former SBGN Editors
 
+Michael Blinov (Jan 2019 - Dec 2021),  
+Andreas Dräger (Jan 2018 - Dec 2021),  
 Adrien Rougny (Jan 2018 - Feb 2021),  
 Vasundra Touré (Jan 2018 - Feb 2021),  
 Ugur Dogrusoz (Dec 2016 - Dec 2019),  
