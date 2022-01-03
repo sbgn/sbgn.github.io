@@ -41,6 +41,7 @@ The editors do not decide what to put in the specifications — they are the voi
 The SBGN editors are elected by the community for 3-year terms as volunteers. There is no limit on the number of terms one can serve as an editor. A serving editor, however, cannot stand for election thereby forcing a gap year between two successive terms.
 
 <table>
+<!-- 
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-draeger.png" alt="Andreas Dräger" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Andreas Dräger</strong>, elected for 2018 - 2021, Ph.D. in Bioinformatics and Systems Biology, Junior Professor at the Institute for Bioinformatics and Medical Informatics Tübingen (IBMI), Tübingen, Germany. Co-developer of JSBML. Elected SBML editor for 2015 – 2017.</td>
@@ -49,6 +50,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="width:105px; text-align:left;"><img src="images/about/photo-blinov.jpg" alt="Michael Blinov" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Michael Blinov</strong>, elected for 2019 - 2021, PhD in Mathematics, Assistant Professor at UConn School of Medicine, Farmington, US; one of the developers of a rule-based approach for modeling of bimolecular interactions; working on SBGN-compliant rule-based visualization in <a href="http://vcell.org" target="_blank">VCell</a>; as an editor, interested in working toward compliance of SBGN with other COMBINE standards, such as various packages of SBML and BioPAX.</td>
     </tr>
+-->
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-demir.jpg" alt="Emek Demir" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Emek Demir</strong>, elected for 2020 - 2022, PhD in Computer Engineering, Assistant Professor at the Oregon Health & Science University, Portland, USA; a member of the Pathway Commons team and is responsible for the <a href="http://www.biopax.org/" target="_blank">BioPAX</a> development and integration; an editor of the BioPAX standard; interested in the SBGN-BioPAX conversion.</td>
