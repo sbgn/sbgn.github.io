@@ -190,14 +190,15 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-blinov.jpg" width="110"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-durupinar.jpg" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"> </p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-overall.jpg" width="110"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Michael Blinov</strong>, <font size="2">PhD in Mathematics, Assistant Professor at UConn School of Medicine, Farmington, US; developer of <a href="http://vcell.org/" target="_blank">VCell</a> modelling framework working on the integration of BioPAX and SBGN formats in the modelling; interested in the development of SBGN-compliant rule-based visualisation.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Funda Durupinar</strong>, <font size="2">PhD in Computer Engineering, Senior Research Associate at Oregon Health and Science University, Portland, Oregon; the lead developer of the web-based <a href="https://github.com/fdurupinar/Sbgnviz-Collaborative-Editor" target="_blank">SBGNViz Collaborative Editor</a>; the developer of the <a href="https://github.com/fdurupinar/PaxToolsAgent" target="_blank">PaxToolsAgent</a>, a converter from SBGN to BioPAX.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"> </p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Rupert Overall</strong>, <font size="2">Senior Researcher at the Humboldt University of Berlin, Germany. Invited as an Acting Editor in January 2022. Developer of the Molecular Map of the Aging Neuron. Interested in contributing to preparing SBGN learning materials.</font></p></td>
 </tr>
-</table>    
+</table>   
+
 
 ## Funding
 
