@@ -16,7 +16,7 @@ The following topics will be discussed at the workshop:
 </ul>
 
 ## Organizers
-<a href="https://health.uconn.edu/blinov-lab/">Michael Blinov</a> and  <a href="https://www.cls.uni-konstanz.de/">Falk Schreiber</a>.
+<a href="https://health.uconn.edu/blinov-lab/">Michael L Blinov</a> and  <a href="https://www.cls.uni-konstanz.de/">Falk Schreiber</a>.
 
 ## Registration, Accommodation, Venue and Travel Information
 
