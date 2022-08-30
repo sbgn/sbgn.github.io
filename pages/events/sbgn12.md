@@ -20,7 +20,7 @@ The following topics will be discussed at the workshop:
 
 ## Registration, Accommodation, Venue and Travel Information
 
-If you plan to attend COMBINE 2019, please register at [the COMBINE 2019 registration page](http://co.mbine.org/events/COMBINE_2019#Registration). Please e-mail <a href="mailto:blinov@uchc.edu">Michael Blinov</a> if you want to attend SBGN workshop only. See [Accommodation for COMBINE 2019](http://co.mbine.org/events/COMBINE_2019/COMBINE2019_Travel) for travel and accomodation details.
+If you plan to attend COMBINE 2019, please register at [the COMBINE 2019 registration page](http://co.mbine.org/events/COMBINE_2019#Registration). Please e-mail <a href="mailto:blinov@uchc.edu">Michael L Blinov</a> if you want to attend SBGN workshop only. See [Accommodation for COMBINE 2019](http://co.mbine.org/events/COMBINE_2019/COMBINE2019_Travel) for travel and accomodation details.
 
 
 ## Agenda Wednesday July 17
