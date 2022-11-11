@@ -49,6 +49,6 @@ The SBGN mailing lists are where questions are asked and the latest developments
    <tr>
     <td><strong>sbgn-team:</strong> a mailing list for contacting the SBGN Team</td>
     <td><a href="mailto:sbgn-team@googlegroups.com">sbgn-team@googlegroups.com</a></td> 
-    <td>Members are invited or volunteer</td>
+    <td>Members are invited or volunteer.</td>
    </tr>
 </table>
