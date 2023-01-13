@@ -56,10 +56,6 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     </tr>
 -->
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-czauderna.jpg" alt="Tobias Czauderna" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Tobias Czauderna</strong>, elected for 2023 - 2025, PhD in Bioinformatics, Research Fellow at the Monash University, Melbourne, Australia; lead developer of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a></td>
-    </tr>
-    <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-balaur.jpg" alt="Irina Balaur" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Irina Balaur</strong>, elected for 2021 - 2023, PhD in Computational Biology, Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; the developer of the <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a> bidirectional converter between yEd GraphML and SBGN-ML; interested in applying graph database approaches to managing biological networks.</td>
     </tr>
@@ -74,6 +70,10 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Ugur Dogrusoz</strong>, elected for 2022 - 2024, PhD in Computer Science, Professor at Bilkent University, Ankara, Turkey, and Head of i-Vis Research Lab. PI of the <a href="http://newteditor.org/" target="_blank">Newt Editor</a> project, an open-source online SBGN editor and visualiser.</td>
+    </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="images/about/photo-czauderna.jpg" alt="Tobias Czauderna" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Tobias Czauderna</strong>, elected for 2023 - 2025, PhD in Bioinformatics, Research Fellow at the Monash University, Melbourne, Australia; lead developer of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a></td>
     </tr>
 </table>
 
