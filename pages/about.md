@@ -50,10 +50,14 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="width:105px; text-align:left;"><img src="images/about/photo-blinov.jpg" alt="Michael Blinov" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Michael Blinov</strong>, elected for 2019 - 2021, PhD in Mathematics, Assistant Professor at UConn School of Medicine, Farmington, US; one of the developers of a rule-based approach for modeling of bimolecular interactions; working on SBGN-compliant rule-based visualization in <a href="http://vcell.org" target="_blank">VCell</a>; as an editor, interested in working toward compliance of SBGN with other COMBINE standards, such as various packages of SBML and BioPAX.</td>
     </tr>
--->
-    <tr>
+   <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-demir.jpg" alt="Emek Demir" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Emek Demir</strong>, elected for 2020 - 2022, PhD in Computer Engineering, Assistant Professor at the Oregon Health & Science University, Portland, USA; a member of the Pathway Commons team and is responsible for the <a href="http://www.biopax.org/" target="_blank">BioPAX</a> development and integration; an editor of the BioPAX standard; interested in the SBGN-BioPAX conversion.</td>
+    </tr>
+-->
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="images/about/photo-czauderna.jpg" alt="Tobias Czauderna" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Tobias Czauderna</strong>, elected for 2023 - 2025, PhD in Bioinformatics, Research Fellow at the Monash University, Melbourne, Australia; lead developer of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a></td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-balaur.jpg" alt="Irina Balaur" width="100"/></td>
@@ -102,6 +106,7 @@ The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effor
 
 ## Former SBGN Editors
 
+Emek Demir (Jan 2010 - Dec 2012, Dec 2020 - Dec 2022),  
 Michael Blinov (Jan 2019 - Dec 2021),  
 Andreas Dräger (Jan 2018 - Dec 2021),  
 Adrien Rougny (Jan 2018 - Feb 2021),  
@@ -113,7 +118,6 @@ Robin Haw (Dec 2014 - Dec 2017),
 Tobias Czauderna (Jan 2012 - Dec 2015, Dec 2016 - Dec 2017),  
 Huaiyu Mi (Jan 2009 - Dec 2011, Dec 2013 - Dec 2016),  
 Alice Villéger (Jan 2011 - Dec 2013),  
-Emek Demir  (Jan 2010 - Dec 2012),  
 Nicolas Le Novère (Sep 2008 - Dec 2012, Dec 2015 - Dec 2016),  
 Stuart Moodie (Sep 2008 - Dec 2011, Sep 2012 - Dec 2015),  
 Anatoly Sorokin (Sep 2008 - Dec 2009, Jan 2012 - Dec 2014),  
