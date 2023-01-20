@@ -66,7 +66,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">Commercial/free trial</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://www.pathvisio.org/plugin/sbgn-plugin/">PathVisio</a></td>
+<td style="text-align:left"><a href="https://pathvisio.org/plugins/sbgn.html">PathVisio</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
