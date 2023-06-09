@@ -100,28 +100,18 @@ The example bricks are developed using the <a href="https://immersive-analytics.
 
 <p>To build the diagram and generate an SBGN-ML file, a dedicated software should be used, for example <a href="http://newteditor.org/" target="_blank">Newt</a> (online editor) or <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> add-on for VANTED (desktop application). The SBGN Validation Tool can be used to verify the quality of your diagram in VANTED (Tools tab of the SBGN-ED add-on).</p>
 
+<!--
 ## Tips for creating diagrams in SBGN
-
 <p>This section is based on the educational paper by Touré and co-authors <i>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation</i> (Touré et al., 2018, <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>).</p>
-
 **Tip 1: Know the message your network should convey.** This will help you choose what to omit, what to represent, and how to represent it.  
-
 **Tip 2: Know your audience.** Different readers perceive different messages. Ask yourself: What do they know and what do they not know? What are they interested in?  
-
 **Tip 3. Choose the right SBGN language.** Design your map in a reasonable level of detail.  
-
 **Tip 4. Define components and interactions in the network.** Map the components to SBGN glyphs and build the connectivity of your network by selecting the appropriate arcs to link the components.  
-
 **Tip 5. Select the right level of granularity for your map.** Be as specific as you can without diluting your message: important parts of your network should stand out to the readers.  
-
 **Tip 6. Design your SBGN map.** Start by creating the components and their interactions then add necessary information in respect to Tip 5.  
-
 **Tip 7. Beautify your SBGN map.** Your map should be visually appealing to your audience if you expect them to look into the details.  
-
 **Tip 8. Manage your SBGN map and its content.** Save your map in different formats to facilitate the sharing and reusability of your work.  
-
 **Tip 9. Link the original data to your SBGN map.** When publishing your work, link the SBGN visualisation to your original data (i.e. model, data set).  
-
 **Tip 10. Seek help from the SBGN community.** Request feedback and ask questions using the [sbgn-discuss](contact "SBGN contact") mailing list. Don't be shy!  
 
 ## SBGN PD Reference Card
