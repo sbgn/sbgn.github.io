@@ -14,6 +14,9 @@ A popular software for drawing SBGN diagrams is [CellDesigner](https://www.celld
 
 *Skill level: no prior experience.*
 
-<video src="https://rupertoverall.net/videos/SBGN_PD_CellDesigner_1_Creating.mp4v" type="video/mp4" controls style="max-width:640px;">
+<video src="https://rupertoverall.net/videos/SBGN_PD_CellDesigner_1_Creating.mp4v" type="video/mp4" controls style="max-width:640px;"></video>
 
 CellDesigner can be downloaded from: [https://www.celldesigner.org/](https://www.celldesigner.org/)
+
+## Formatting diagrams in CellDesigner
+To make publication-quality diagrams, often some visual formatting is required. This video shows how to adjust the layout and edit colors to achieve a clear and attractive result.
