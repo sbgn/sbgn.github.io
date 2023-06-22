@@ -10,9 +10,10 @@ This page offers some video tutorials to help you get started creating your own 
 
 
 ## Creating your first SBGN-PD diagram in CellDesigner
-A popular software for drawing SBGN diagrams is [CellDesigner](https://www.celldesigner.org/). This Java-based application has a rich range of tools for building all sorts of systems biology diagrams and models. Here, we show how to use CellDesigner to create a basic SBGN Process Description diagram.
+A popular software for drawing SBGN diagrams is [CellDesigner](https://www.celldesigner.org/). This Java-based application has a rich range of tools for building all sorts of systems biology diagrams and models. Here, we show how to use CellDesigner to create a basic [SBGN Process Description](specifications.md#process-description-language) diagram.
 
 *Skill level: no prior experience.*
 
 <video src="https://rupertoverall.net/videos/SBGN_PD_CellDesigner_1_Creating.mp4v" type="video/mp4" controls style="max-width:640px;">
 
+CellDesigner can be downloaded from: [https://www.celldesigner.org/](https://www.celldesigner.org/)
