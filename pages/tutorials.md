@@ -14,5 +14,5 @@ A popular software for drawing SBGN diagrams is [CellDesigner](https://www.celld
 
 *Skill level: no prior experience.*
 
-<video src="https://rupertoverall.net/videos/Glycolysis.mp4v" type="video/mp4" controls style="max-width:640px;">
+<video src="https://rupertoverall.net/videos/SBGN_PD_CellDesigner_1_Creating.mp4v" type="video/mp4" controls style="max-width:640px;">
 
