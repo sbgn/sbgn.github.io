@@ -90,6 +90,10 @@ Acting Editors are selected among active contributors and are appointed by the e
         <td style="width:105px; text-align:left;"><img src="images/about/photo-borlinghaus.jpg" alt="Hanna Borlinghaus" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Hanna Borlinghaus</strong>, PhD Student, Research Assistant at the University of Konstanz, Germany. Invited as an Acting Editor in January 2019. A member of the SBGN Team. Contributed to the work on the Process Description specification.</td>
     </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="images/about/photo-ladeira.jpg" alt="Luiz Ladeira" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Luiz Ladeira</strong>, Postdoctoral Researcher GIGA In Silico Medicine, University of Liège, Liège, Belgium. Invited as an Acting Editor in October 2023. Contributed to the work on the SBGN Learning materials.</td>
+    </tr>
 </table>
 
 
