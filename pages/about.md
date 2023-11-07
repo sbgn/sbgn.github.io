@@ -65,7 +65,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-rougny.jpg" alt="Adrien Rougny" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2022 - 2024, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the <a href="https://github.com/adrienrougny/stonpy" target="_blank">stonpy</a> tool for converting from SBGN to Neo4j. Developer of the <a href="http://sbgnbricks.org/" target="_blank">SBGN Bricks Ontology</a>. Leading editor of the SBGN Process Description specification.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2022 - 2024, PhD in Computer Science, Independent researcher, Massy, France. Developer of the <a href="https://github.com/adrienrougny/stonpy" target="_blank">stonpy</a> tool for converting from SBGN to Neo4j. Developer of the <a href="http://sbgnbricks.org/" target="_blank">SBGN Bricks Ontology</a>. Leading editor of the SBGN Process Description specification.</td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
