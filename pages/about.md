@@ -137,9 +137,9 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-bergmann.jpg" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-balaur.jpg" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-borlinghaus.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-bergmann.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-balaur.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-borlinghaus.jpg" width="110"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Frank Bergmann</strong>, <font size="2">PhD in Mathematics / Computational Systems Biology, Member of Scientific Staff at the University of Heidelberg, Germany; a member of the SBML Team and a contributor to several SBML projects; a developer of <a href="https://github.com/sbgn/libsbgn" target="_blank">LibSBGN</a>.</font></p></td>
@@ -149,9 +149,9 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-demir.jpg" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-toure.jpg" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-rougny.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-demir.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-toure.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-rougny.jpg" width="110"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Emek Demir</strong>, <font size="2">PhD in Computer Engineering, Assistant Professor at the Oregon Health & Science University, Portland, USA; a member of the Pathway Commons team and is responsible for the <a href="http://www.biopax.org/" target="_blank">BioPAX</a> development and integration; an editor of the BioPAX standard; interested in the SBGN-BioPAX conversion.</font></p></td>
@@ -161,9 +161,9 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-mazein.png" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-draeger.png" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-dogrusoz.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-mazein.png" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-draeger.png" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-dogrusoz.jpg" width="110"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Alexander Mazein</strong>, <font size="2">PhD in Bioinformatics, Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg; the coordinator of the <a href="http://sbgnbricks.org/" target="_blank">SBGN Bricks</a> project.</font></p></td>
@@ -173,9 +173,9 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-luna.png" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-schreiber.jpg" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-czauderna.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-luna.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-schreiber.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-czauderna.jpg" width="110"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Augustin Luna</strong>, <font size="2">PhD in Bioinformatics; Research Fellow at the Dana-Farber Cancer Institute, Harvard Medical School, Boston, US; interested in the SBGN-BioPAX conversion.</font></p></td>
@@ -185,9 +185,9 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-blinov.jpg" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-durupinar.jpg" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="images/about/photo-overall.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-blinov.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-durupinar.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="/images/about/photo-overall.jpg" width="110"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Michael Blinov</strong>, <font size="2">PhD in Mathematics, Assistant Professor at UConn School of Medicine, Farmington, US; developer of <a href="http://vcell.org/" target="_blank">VCell</a> modelling framework working on the integration of BioPAX and SBGN formats in the modelling; interested in the development of SBGN-compliant rule-based visualisation.</font></p></td>
