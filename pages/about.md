@@ -75,6 +75,10 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="width:105px; text-align:left;"><img src="images/about/photo-czauderna.jpg" alt="Tobias Czauderna" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Tobias Czauderna</strong>, elected for 2023 - 2025, PhD in Bioinformatics, Professor at the University of Applied Sciences Mittweida, Mittweida, Germany; lead developer of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a>; involved in the development of LibSBGN, the software library supporting the exchange of SBGN maps.</td>
     </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="images/about/photo-luna.jpg" alt="Augustin Luna" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Augustin Luna</strong>, elected for 2024 - 2026, PhD in Bioinformatics; Research Fellow at the Dana-Farber Cancer Institute, Harvard Medical School, Boston, US.</td>
+    </tr>
 </table>
 
 ## SBGN Acting Editors
