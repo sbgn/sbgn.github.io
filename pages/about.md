@@ -43,40 +43,24 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 <table>
 <!-- 
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-draeger.png" alt="Andreas Dräger" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Andreas Dräger</strong>, elected for 2018 - 2021, Ph.D. in Bioinformatics and Systems Biology, Junior Professor at the Institute for Bioinformatics and Medical Informatics Tübingen (IBMI), Tübingen, Germany. Co-developer of JSBML. Elected SBML editor for 2015 – 2017.</td>
-    </tr>
-    <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-blinov.jpg" alt="Michael Blinov" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-blinov.jpg" alt="Michael Blinov" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Michael Blinov</strong>, elected for 2019 - 2021, PhD in Mathematics, Assistant Professor at UConn School of Medicine, Farmington, US; one of the developers of a rule-based approach for modeling of bimolecular interactions; working on SBGN-compliant rule-based visualization in <a href="http://vcell.org" target="_blank">VCell</a>; as an editor, interested in working toward compliance of SBGN with other COMBINE standards, such as various packages of SBML and BioPAX.</td>
-    </tr>
-   <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-demir.jpg" alt="Emek Demir" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Emek Demir</strong>, elected for 2020 - 2022, PhD in Computer Engineering, Assistant Professor at the Oregon Health & Science University, Portland, USA; a member of the Pathway Commons team and is responsible for the <a href="http://www.biopax.org/" target="_blank">BioPAX</a> development and integration; an editor of the BioPAX standard; interested in the SBGN-BioPAX conversion.</td>
     </tr>
 -->
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-balaur.jpg" alt="Irina Balaur" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Irina Balaur</strong>, elected for 2021 - 2023, PhD in Computational Biology, Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; the developer of the <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a> bidirectional converter between yEd GraphML and SBGN-ML; interested in applying graph database approaches to managing biological networks.</td>
-    </tr>
-    <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-mazein.png" alt="Alexander Mazein" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2021 - 2023, PhD in Bioinformatics; Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg; co-leader of the Disease Maps effort; interested in communication between conceptually different SBGN languages and reusability of pathway resources.</td>
-    </tr>
-    <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-rougny.jpg" alt="Adrien Rougny" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-rougny.jpg" alt="Adrien Rougny" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2022 - 2024, PhD in Computer Science, Independent researcher, Massy, France. Developer of the <a href="https://github.com/adrienrougny/stonpy" target="_blank">stonpy</a> tool for converting from SBGN to Neo4j. Developer of the <a href="http://sbgnbricks.org/" target="_blank">SBGN Bricks Ontology</a>. Leading editor of the SBGN Process Description specification.</td>
     </tr>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Ugur Dogrusoz</strong>, elected for 2022 - 2024, PhD in Computer Science, Professor at Bilkent University, Ankara, Turkey, and Head of i-Vis Research Lab. PI of the <a href="http://newteditor.org/" target="_blank">Newt Editor</a> project, an open-source online SBGN editor and visualiser.</td>
     </tr>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-czauderna.jpg" alt="Tobias Czauderna" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-czauderna.jpg" alt="Tobias Czauderna" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Tobias Czauderna</strong>, elected for 2023 - 2025, PhD in Bioinformatics, Professor at the University of Applied Sciences Mittweida, Mittweida, Germany; lead developer of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a>; involved in the development of LibSBGN, the software library supporting the exchange of SBGN maps.</td>
     </tr>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-luna.jpg" alt="Augustin Luna" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-luna.jpg" alt="Augustin Luna" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Augustin Luna</strong>, elected for 2024 - 2026, PhD in Bioinformatics; Research Fellow at the Dana-Farber Cancer Institute, Harvard Medical School, Boston, US.</td>
     </tr>
 </table>
@@ -87,15 +71,15 @@ Acting Editors are selected among active contributors and are appointed by the e
 
 <table>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-overall.jpg" alt="Rupert Overall" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-overall.jpg" alt="Rupert Overall" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Rupert Overall</strong>, Senior Researcher at the Humboldt University of Berlin, Germany. Invited as an Acting Editor in January 2022. Developer of the Molecular Map of the Aging Neuron. Interested in contributing to preparing SBGN learning materials.</td>
     </tr>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-borlinghaus.jpg" alt="Hanna Borlinghaus" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-borlinghaus.jpg" alt="Hanna Borlinghaus" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Hanna Borlinghaus</strong>, PhD Student, Research Assistant at the University of Konstanz, Germany. Invited as an Acting Editor in January 2019. A member of the SBGN Team. Contributed to the work on the Process Description specification.</td>
     </tr>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="images/about/photo-ladeira.jpg" alt="Luiz Ladeira" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-ladeira.jpg" alt="Luiz Ladeira" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Luiz Ladeira</strong>, Postdoctoral Researcher at the GIGA In Silico Medicine, University of Liège, Belgium. Invited as an Acting Editor in October 2023. Contributed to the work on the SBGN Learning materials.</td>
     </tr>
 </table>
@@ -114,13 +98,14 @@ The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effor
 
 ## Former SBGN Editors
 
+Irina Balaur (Jan 2021 - Dec 2023),  
+Alexander Mazein (Dec 2015 - Dec 2018, Jan 2021 - Dec 2023),  
 Emek Demir (Jan 2010 - Dec 2012, Dec 2020 - Dec 2022),  
 Michael Blinov (Jan 2019 - Dec 2021),  
 Andreas Dräger (Jan 2018 - Dec 2021),  
 Adrien Rougny (Jan 2018 - Feb 2021),  
 Vasundra Touré (Jan 2018 - Feb 2021),  
 Ugur Dogrusoz (Dec 2016 - Dec 2019),  
-Alexander Mazein (Dec 2015 - Dec 2018),  
 Augustin Luna (Dec 2014 - Dec 2017),  
 Robin Haw (Dec 2014 - Dec 2017),  
 Tobias Czauderna (Jan 2012 - Dec 2015, Dec 2016 - Dec 2017),  
