@@ -63,6 +63,10 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="width:105px; text-align:left;"><img src="/images/about/photo-luna.jpg" alt="Augustin Luna" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Augustin Luna</strong>, elected for 2024 - 2026, PhD in Bioinformatics; Research Fellow at the Dana-Farber Cancer Institute, Harvard Medical School, Boston, US.</td>
     </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-overall.jpg" alt="Rupert Overall" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Rupert Overall</strong>, elected for 2024 - 2026, Senior Researcher at the Humboldt University of Berlin, Germany. </td>
+    </tr>
 </table>
 
 ## SBGN Acting Editors
@@ -70,10 +74,6 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 Acting Editors are selected among active contributors and are appointed by the elected SBGN Editors. Acting Editors work on particular tasks for intensifying the development of the standard.
 
 <table>
-    <tr>
-        <td style="width:105px; text-align:left;"><img src="/images/about/photo-overall.jpg" alt="Rupert Overall" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Rupert Overall</strong>, Senior Researcher at the Humboldt University of Berlin, Germany. Invited as an Acting Editor in January 2022. Developer of the Molecular Map of the Aging Neuron. Interested in contributing to preparing SBGN learning materials.</td>
-    </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="/images/about/photo-borlinghaus.jpg" alt="Hanna Borlinghaus" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Hanna Borlinghaus</strong>, PhD Student, Research Assistant at the University of Konstanz, Germany. Invited as an Acting Editor in January 2019. A member of the SBGN Team. Contributed to the work on the Process Description specification.</td>
