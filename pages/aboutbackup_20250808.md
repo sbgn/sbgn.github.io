@@ -73,7 +73,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="/images/about/photo-ladeira.jpg" alt="Luiz Ladeira" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Luiz Ladeira</strong>, elected for 2025 - 2027, Postdoctoral Researcher at the GIGA Institute, University of Liège, Belgium. </td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Luiz Ladeira</strong>, elected for 2025 - 2027, Postdoctoral Researcher at the GIGA In Silico Medicine, University of Liège, Belgium. </td>
     </tr>
 </table>
 
@@ -109,13 +109,14 @@ The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effor
 ## Former SBGN Editors
 
 Adrien Rougny (Jan 2018 - Feb 2021, Jan 2022 - Dec 2024),  
-Ugur Dogrusoz (Dec 2016 - Dec 2019, Jan 2022 - Dec 2024),  
+Ugur Dogrusoz (Jan 2022 - Dec 2024),  
 Irina Balaur (Jan 2021 - Dec 2023),  
 Alexander Mazein (Dec 2015 - Dec 2018, Jan 2021 - Dec 2023),  
 Emek Demir (Jan 2010 - Dec 2012, Dec 2020 - Dec 2022),  
 Michael Blinov (Jan 2019 - Dec 2021),  
 Andreas Dräger (Jan 2018 - Dec 2021),  
 Vasundra Touré (Jan 2018 - Feb 2021),  
+Ugur Dogrusoz (Dec 2016 - Dec 2019),  
 Augustin Luna (Dec 2014 - Dec 2017),  
 Robin Haw (Dec 2014 - Dec 2017),  
 Tobias Czauderna (Jan 2012 - Dec 2015, Dec 2016 - Dec 2017),  
