@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: about
+permalink: aboutbackup_20250808
 ---
 
 # About
