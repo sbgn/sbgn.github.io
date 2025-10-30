@@ -1,12 +1,12 @@
 ---
-title: Reference cards and templates
+title: Reference cards
 layout: default
 permalink: referencecards
 ---
 
-# Reference cards and templates
+# Reference cards
 
-This page provides SBGN reference cards and templates.  
+This page provides SBGN reference cards.  
 
 Formats used:
 
@@ -14,10 +14,9 @@ Formats used:
 -   [Inkscape](http://www.inkscape.org): An extended SVG format
 -   [PDF](http://en.wikipedia.org/wiki/PDF): Portable Document Format
 -   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
--   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): OmniGraffle proprietary tool format
 -   [PPT](http://office.microsoft.com/powerpoint): MicroSoft PowerPoint
 -   [SVG](http://en.wikipedia.org/wiki/Scalar_Vector_Graphics): Scalar Vector Graphics
-
+-   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): OmniGraffle proprietary tool format
 
 ## Reference cards
 
@@ -70,8 +69,3 @@ Formats used:
 | ER L1 V1.2 | [SVG](downloads/referencecards/ER_L1V1.2.svg)  | [EPS](downloads/referencecards/ER_L1V1.2.eps) | [PDF](downloads/referencecards/ER_L1V1.2.pdf) | [PNG](downloads/referencecards/ER_L1V1.2.png) | [Inkscape](downloads/referencecards/ER_L1V1.2-Inkscape.svg) |   
 | ER L1 V1.1 | [SVG](downloads/referencecards/ER_L1V1.2.svg) | [EPS](downloads/referencecards/ER_L1V1.1.eps) | [PDF](downloads/referencecards/ER_L1V1.1.pdf) | [PNG](downloads/referencecards/ER_L1V1.1.png) | [Inkscape](downloads/referencecards/ER_L1V1.1-Inkscape.svg) |
 | ER L1 V1.0 | [SVG](downloads/referencecards/ER_L1V1.0.svg) | [EPS](downloads/referencecards/ER_L1V1.0.eps) | [PDF](downloads/referencecards/ER_L1V1.0.pdf) | [PNG](downloads/referencecards/ER_L1V1.0.png) | [Inkscape](downloads/referencecards/ER_L1V1.0-Inkscape.svg) |
-
-## Templates
-
-|-|-|-|-|-|-|-|-|
-| PD L1 V1.0 | [PPT](downloads/templates/PD_L1V1.0.ppt) | [OmniGraffle](downloads/templates/PD_L1V1.0-OmniGraffle.gstencil) |   |   |   |   |   |
