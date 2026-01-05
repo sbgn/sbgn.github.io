@@ -54,11 +54,11 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="width:105px; text-align:left;"><img src="/images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Ugur Dogrusoz</strong>, elected for 2022 - 2024, PhD in Computer Science, Professor at Bilkent University, Ankara, Turkey, and Head of i-Vis Research Lab. PI of the <a href="http://newteditor.org/" target="_blank">Newt Editor</a> project, an open-source online SBGN editor and visualiser.</td>
     </tr>
--->
     <tr>
         <td style="width:105px; text-align:left;"><img src="/images/about/photo-czauderna.jpg" alt="Tobias Czauderna" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Tobias Czauderna</strong>, elected for 2023 - 2025, PhD in Bioinformatics, Professor at the University of Applied Sciences Mittweida, Mittweida, Germany; lead developer of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a>; involved in the development of LibSBGN, the software library supporting the exchange of SBGN maps.</td>
     </tr>
+-->    
     <tr>
         <td style="width:105px; text-align:left;"><img src="/images/about/photo-luna.jpg" alt="Augustin Luna" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Augustin Luna</strong>, elected for 2024 - 2026, PhD in Bioinformatics; Investigator at the Computational Biology Branch, NLM & Developmental Therapeutics Branch, NCI, NIH, USA.</td>
@@ -74,6 +74,10 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     <tr>
         <td style="width:105px; text-align:left;"><img src="/images/about/photo-ladeira.jpg" alt="Luiz Ladeira" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Luiz Ladeira</strong>, elected for 2025 - 2027, Postdoctoral Researcher at the GIGA Institute, University of Liège, Belgium. </td>
+    </tr>
+        <tr>
+        <td style="width:105px; text-align:left;"><img src="" alt="Anna Niarakis" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Anna Niarakis</strong>, elected for 2026 - 2028, Professor of Bioinformatics and Quantitative Biology at University of Toulouse, France. </td>
     </tr>
 </table>
 
@@ -118,7 +122,7 @@ Andreas Dräger (Jan 2018 - Dec 2021),
 Vasundra Touré (Jan 2018 - Feb 2021),  
 Augustin Luna (Dec 2014 - Dec 2017),  
 Robin Haw (Dec 2014 - Dec 2017),  
-Tobias Czauderna (Jan 2012 - Dec 2015, Dec 2016 - Dec 2017),  
+Tobias Czauderna (Jan 2012 - Dec 2015, Dec 2016 - Dec 2017, Jan 2023 - Dec 2025),  
 Huaiyu Mi (Jan 2009 - Dec 2011, Dec 2013 - Dec 2016),  
 Alice Villéger (Jan 2011 - Dec 2013),  
 Nicolas Le Novère (Sep 2008 - Dec 2012, Dec 2015 - Dec 2016),  
@@ -189,8 +193,8 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Augustin Luna</strong>, <font size="2">PhD in Bioinformatics; Research Fellow at the Dana-Farber Cancer Institute, Harvard Medical School, Boston, US; interested in the SBGN-BioPAX conversion.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Falk Schreiber</strong>, <font size="2">PhD in Computer Science, Professor of Practical Computer Science and Computational Life Sciences in the Department of Computer and Information Science at the University of Konstanz, Germany; PI of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> tool development.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Tobias Czauderna</strong>, <font size="2">PhD in Bioinformatics, Research Fellow at the Monash University, Melbourne, Australia; lead developer of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a>.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Falk Schreiber</strong>, <font size="2">PhD in Computer Science, Professor of Practical Computer Science and Computational Life Sciences in the Department of Computer and Information Science at the University of Konstanz, Germany; PI of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> development.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Tobias Czauderna</strong>, <font size="2">PhD in Bioinformatics, Professor at the University of Applied Sciences Mittweida, Germany; lead developer of <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a>.</font></p></td>
 </tr>  
 
 
