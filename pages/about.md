@@ -76,7 +76,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Luiz Ladeira</strong>, elected for 2025 - 2027, Postdoctoral Researcher at the GIGA Institute, University of Liège, Belgium. </td>
     </tr>
         <tr>
-        <td style="width:105px; text-align:left;"><img src="" alt="Anna Niarakis" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="/images/about/photo-niarakis.jpg" alt="Anna Niarakis" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Anna Niarakis</strong>, elected for 2026 - 2028, Professor of Bioinformatics and Quantitative Biology at University of Toulouse, France. </td>
     </tr>
 </table>
