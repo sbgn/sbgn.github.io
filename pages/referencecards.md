@@ -11,7 +11,7 @@ This page provides SBGN reference cards.
 Formats used:
 
 -   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
--   [Inkscape](http://www.inkscape.org): An extended SVG format
+-   [Inkscape](https://www.inkscape.org): An extended SVG format
 -   [PDF](http://en.wikipedia.org/wiki/PDF): Portable Document Format
 -   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
 -   [PPT](http://office.microsoft.com/powerpoint): MicroSoft PowerPoint
