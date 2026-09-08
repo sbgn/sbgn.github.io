@@ -528,7 +528,7 @@ The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordj
 <td style="text-align:center"> </td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://mimoza.bordeaux.inria.fr/">Mimoza</a></td>
+<td style="text-align:left"><a href="https://allgo.inria.fr/app/mimoza">Mimoza</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
