@@ -6,16 +6,16 @@ permalink: software
 
 # Software support
 
-*  [Editors](#editors)
-*  [Visualizers and Formats Converters](#visualizers-and-formats-converters)
-*  [Tools using SBGN](#tools-using-sbgn)
-*  [Databases and collections of SBGN maps](#databases-and-collections-of-sbgn-maps)
-*  [File formats](#file-formats)
-*  [Archive of old tools](#archive-of-old-tools)
+* [Editors](#editors)
+* [Visualizers and Formats Converters](#visualizers-and-formats-converters)
+* [Tools using SBGN](#tools-using-sbgn)
+* [Databases and collections of SBGN maps](#databases-and-collections-of-sbgn-maps)
+* [File formats](#file-formats)
+* [Archive of old tools](#archive-of-old-tools)
 
 This page summarises what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to [sbgn-discuss](mailto:sbgn-discuss@googlegroups.com).
 
-The following are lists of software packages known to provide support for editing and visualising in SBGN Process Description (PD), Entity Relationship (ER) and Activity Flow (AF) with and without SBGN-ML file format support. 
+The following are lists of software packages known to provide support for editing and visualising in SBGN Process Description (PD), Entity Relationship (ER) and Activity Flow (AF) with and without SBGN-ML file format support.
 
 ## Editors
 
@@ -28,7 +28,7 @@ The following are lists of software packages known to provide support for editin
 <th style="width:40px; text-align:center">PD</th>
 <th style="width:40px; text-align:center">ER</th>
 <th style="width:40px; text-align:center">AF</th>
-<th style="width:110px; text-align:center">SBGN-ML support</th>    
+<th style="width:110px; text-align:center">SBGN-ML support</th>
 <th style="width:190px; text-align:center">Availability</th>
 </tr>
 </thead>
@@ -70,7 +70,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9744;</font></td>    
+<td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">Web start/binary</td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
-<td style="text-align:center"><font size="5">&#9745;</font></td>    
+<td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center">VANTED plugin</td>
 </tr>
 <tr>
@@ -216,10 +216,10 @@ The following are lists of software packages known to provide support for editin
 <table style="width:480px">
 <thead>
 <tr style="height:40px">
-<th style="width:170px; text-align:left">Software</th>    
+<th style="width:170px; text-align:left">Software</th>
 <th style="width:40px; text-align:center">PD</th>
 <th style="width:40px; text-align:center">ER</th>
-<th style="width:40px; text-align:center">AF</th> 
+<th style="width:40px; text-align:center">AF</th>
 <th style="width:190px; text-align:center">Type of a tool</th>
 </tr>
 </thead>
@@ -288,7 +288,7 @@ The following are lists of software packages known to provide support for editin
 <th style="width:40px; text-align:center">ER</th>
 <th style="width:40px; text-align:center">AF</th>
 <th style="width:100px; text-align:center">SBGN-ML export</th>
-<th style="width:220px; text-align:center">Type of maps</th>   
+<th style="width:220px; text-align:center">Type of maps</th>
 </tr>
 </thead>
 <tbody>
@@ -309,7 +309,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">yEd/CellDesigner generated, based on MINERVA platform</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://acsn.curie.fr/">Atlas of Cancer Signalling Networks</a></td>
+<td style="text-align:left"><a href="https://acsn-curie.lcsb.uni.lu/">Atlas of Cancer Signalling Networks</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
@@ -323,7 +323,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center">JWS generated</td>
-</tr>   
+</tr>
 <tr>
 <td style="text-align:left"><a href="https://covid19map.elixir-luxembourg.org/minerva/">COVID-19 Disease Map</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -379,7 +379,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"></td>
-</tr> 
+</tr>
 <tr>
 <td style="text-align:left"><a href="http://smpdb.ca/pathwhiz">PathWhiz</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
@@ -445,8 +445,8 @@ One can compare the rendering of SBGN-ML by different software packages on the [
 
 ### BioPAX-SBGN Mapping
 
-[Biological Pathways Exchange (BioPAX)](https://biopax.github.io/) is a standard that aims to provide integration, exchange, visualization and analysis of biological pathway data. A substantial amount of BioPAX Level 3 concepts can be represented in SBGN PD via [BioPAX-SBGN Mapping](http://www.biopax.org/mediawiki/index.php/BioPAX-SBGN_Mapping). 
-   
+[Biological Pathways Exchange (BioPAX)](https://biopax.github.io/) is a standard that aims to provide integration, exchange, visualization and analysis of biological pathway data. A substantial amount of BioPAX Level 3 concepts can be represented in SBGN PD via [BioPAX-SBGN Mapping](http://www.biopax.org/mediawiki/index.php/BioPAX-SBGN_Mapping).
+
 ### Biological Connection Markup Language (BCML)
 
 The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordjournals.org/content/27/15/2127) is a format to describe, annotate and visualize pathways. BCML can be automatically converted into a SBGN-compliant graphical representation. More information regarding BCML software can be found [here](https://github.com/dc-atlas/bcml).
