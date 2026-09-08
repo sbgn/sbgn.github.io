@@ -135,7 +135,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">JAR file </td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://sysbioapps.spdns.org/Layout">SBML Layout Viewer</a></td>
+<td style="text-align:left"><a href="http://sourceforge.net/projects/sbmllayout/files/">SBML Layout Viewer</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
