@@ -108,7 +108,7 @@ The repressilator is a circular system of three genes which products sequentiall
 
 ### EGFR signalling
 
-This is a representation in AF of the signalling pathways triggered by EGF binding on its receptor. The original information came from [STKE](http://stke.sciencemag.org/cgi/cm/stkecm;CMP_14987), and a first version of the image was published in [the initial SBGN publication](http://identifiers.org/pubmed/19668183).
+This is a representation in AF of the signalling pathways triggered by EGF binding on its receptor. The original information came from [STKE](https://www.science.org/cms/asset/f4162e43-7a65-4a22-8843-e69b02a6d110/stke.pdf), and a first version of the image was published in [the initial SBGN publication](http://identifiers.org/pubmed/19668183).
 
 
 ![EGFfromSTKEinAF2](images/examples/EGFfromSTKEinAF2.png){: .center-image width="500px"}
