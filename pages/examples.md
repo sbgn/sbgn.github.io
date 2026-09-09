@@ -31,7 +31,7 @@ permalink: examples
 File formats for downloading (where available):
 
 -   [SBGN-ML](https://github.com/sbgn/sbgn/wiki/SBGN_ML): SBGN-ML 0.2 format exported from the VANTED/SBGN-ED editor, colours are not saved in this format
--   [SBGN-ED](https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/): GraphML file exported from the VANTED/SBGN-ED editor, colours and modified fonts are saved in this format
+-   [SBGN-ED](https://kim25.wwwdns.kim.uni-konstanz.de/vanted/addons/sbgn-ed/): GraphML file exported from the VANTED/SBGN-ED editor, colours and modified fonts are saved in this format
 -   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
 -   [Newt](http://newteditor.org/): A link for opening SBGN-ML file in the Newt Editor
 
