@@ -253,7 +253,7 @@ The following are lists of software packages known to provide support for editin
 <td style="text-align:center">Modeling</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="http://genexplain.com/genexplain-platform-1">geneXplain platform</a></td>
+<td style="text-align:left"><a href="https://genexplain.com/genexplain-platform/">geneXplain platform</a></td>
 <td style="text-align:center"><font size="5">&#9745;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
 <td style="text-align:center"><font size="5">&#9744;</font></td>
