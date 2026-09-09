@@ -72,7 +72,7 @@ One can compare the rendering of SBGN-ML by different software packages on as pr
 <p><b>Tools that convert different formats to SBGN</b>:                                              
   <a href="https://github.com/PathwayCommons/chibe">ChiBE</a> (BioPAX &rarr; SBGN),
 <a href="http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/">KEGGtranslator</a>  (KEGG-ML &rarr; SBGN), 
-<a href="http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/">CySBGN</a> (SBML &rarr; SBGN), 
+<a href="https://saezlab.github.io/cysbgn/">CySBGN</a> (SBML &rarr; SBGN), 
  <a href="https://github.com/Adrienrougny/sbgntikz">SBGNTikZ</a> (LaTex &rarr; SBGN), 
  and  <a href="https://sbgn.github.io/software#visualizers-and-formats-converters">more</a>. 
   
