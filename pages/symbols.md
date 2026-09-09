@@ -415,7 +415,7 @@ The following example is an extract of the [LEC1/AFL-B3 factors and interactions
 
 ![Source and sink example 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink-example2.png){: .center-image }
 
-The following example shows "a minimal cascade model for the mitotic oscillator involving cyclin and cdc2 kinase" ([Goldbeter et al, 1991](http://rspb.royalsocietypublishing.org/content/261/1362/319.long)) taken from the [Biomodels database](http://www.ebi.ac.uk/biomodels-main/BIOMD0000000003). The symbols highlighted in blue are sink glyphs and the symbol in red is a source glyph.
+The following example shows "a minimal cascade model for the mitotic oscillator involving cyclin and cdc2 kinase" ([Goldbeter et al, 1991](https://doi.org/10.1073/pnas.88.20.9107)) taken from the [Biomodels database](https://www.biomodels.org/BIOMD0000000003). The symbols highlighted in blue are sink glyphs and the symbol in red is a source glyph.
 
 ![Source and sink example 3](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink-example3.png){: .center-image }
 
